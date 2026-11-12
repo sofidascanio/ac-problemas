@@ -1,0 +1,48 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "ap1",
+    "texto": "Si un peón avanza dos casillas desde su casilla inicial y queda justo al lado de un peón rival, ese peón rival puede capturarlo \"al paso\": como si el primero hubiera avanzado una sola casilla. Acá, si el peón negro de d7 avanza hasta d5, queda al lado del peón blanco de e5.",
+    "fen": "4k3/3p4/8/4P3/8/8/8/4K3 w - - 0 1",
+    "resaltar": [
+     "d7",
+     "d5"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "ap_cap",
+    "texto": "El peón negro acaba de avanzar de d7 a d5. Capturalo al paso con tu peón de e5.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "ap_cap",
+     "fen": "4k3/8/8/3pP3/8/8/8/4K3 w - d6 0 1",
+     "propiedad": "esAlPaso"
+    },
+    "comentario": "El peón blanco captura moviéndose en diagonal a d6, la casilla que el peón negro \"cruzó\".",
+    "exito": "¡Así se captura al paso! El peón negro de d5 desaparece, aunque tu peón no cayó sobre él.",
+    "sinMarca": [
+     "d7"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "ap_trivia",
+    "texto": "El peón negro llegó a d5 hace varias jugadas (no acaba de avanzar). ¿Puede el peón blanco capturarlo al paso ahora?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "ap_trivia",
+     "fen": "4k3/8/8/3pP3/8/8/8/4K3 w - - 0 1",
+     "opciones": [
+      "Sí, siempre se puede",
+      "No: solo se puede en el turno inmediatamente siguiente"
+     ],
+     "respuestaCorrecta": 1
+    },
+    "exito": "Exacto: la captura al paso solo se puede hacer en la jugada siguiente; si no la hacés enseguida, perdés la oportunidad."
+   }
+  ]
+ }
+}

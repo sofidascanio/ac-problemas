@@ -1,0 +1,43 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "ca1",
+    "fen": "8/8/8/8/3N4/8/8/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "El caballo se mueve en \"L\": dos casillas en una dirección y una al costado. Siempre cae en una casilla de color distinto al de salida. Tocalo para ver todas sus jugadas."
+   },
+   {
+    "tipo": "explorar",
+    "id": "ca2",
+    "fen": "8/8/8/2PPP3/2PNP3/2PPP3/8/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "Es la única pieza que puede saltar sobre otras. Aunque esté rodeado por todos lados, puede moverse."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "ca3",
+    "fen": "8/8/8/8/8/8/8/1N6 w - - 0 1",
+    "pieza": "b1",
+    "objetivos": [
+     "c3",
+     "e4",
+     "f6"
+    ],
+    "texto": "Llevá el caballo a las tres estrellas."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "ca4",
+    "fen": "8/8/3p4/8/4p3/2N5/8/8 w - - 0 1",
+    "pieza": "c3",
+    "objetivos": [
+     "e4",
+     "d6"
+    ],
+    "texto": "Capturá los dos peones negros. El caballo captura en la casilla donde aterriza."
+   }
+  ]
+ }
+}

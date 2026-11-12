@@ -1,0 +1,3566 @@
+{
+ "actividades": [
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0458",
+   "numero": 458,
+   "nombre": "Max Euwe vs Valentin Marin y Llovet, London 1927 (Olympiad)",
+   "fen": "2r5/qpBnrkpb/p2Qpp2/3p3p/6nN/1P1P2P1/P3PPBP/2R2RK1 w - - 0 25",
+   "solucionUci": [
+    "g2d5",
+    "e6d5",
+    "d6d5",
+    "f7f8",
+    "d5h5",
+    "g4h6",
+    "c7d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0459",
+   "numero": 459,
+   "nombre": "Edgard Colle vs Max Euwe, Amsterdam 1928",
+   "fen": "5rk1/ppQ2ppp/6q1/3rP3/3p1R2/P7/1P4PP/5RK1 w - - 0 26",
+   "solucionUci": [
+    "f4f7",
+    "f8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0460",
+   "numero": 460,
+   "nombre": "Milan Vidmar Sr. vs Max Euwe, Karlsbad 1929",
+   "fen": "6k1/5pb1/1p1N3p/p5p1/5q2/Q6P/PPr5/3RR2K w - - 0 34",
+   "solucionUci": [
+    "e1e8",
+    "g7f8",
+    "e8f8",
+    "g8f8",
+    "d6f5",
+    "f8g8",
+    "a3f8",
+    "g8f8",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0461",
+   "numero": 461,
+   "nombre": "Frederick Yates vs Max Euwe, Hastings 1930",
+   "fen": "1k6/1p5p/p2b4/3p1p2/P1pP1P1q/2PrB1rP/1P2RQP1/4R2K b - - 0 33",
+   "solucionUci": [
+    "d3e3",
+    "e2e3",
+    "g3h3",
+    "e3h3",
+    "h4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0462",
+   "numero": 462,
+   "nombre": "Max Euwe vs A.A. Abdul Satar, Indonesia 1930 (Simul)",
+   "fen": "3r2k1/1p2Qb1p/1q3pp1/pP1p4/P2N3P/2P5/5PP1/4R1K1 w - - 0 34",
+   "solucionUci": [
+    "e1e6",
+    "f7e6",
+    "d4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0463",
+   "numero": 463,
+   "nombre": "Max Euwe vs Salo Landau, Amsterdam 1931",
+   "fen": "r3qrk1/2R1b1pp/1p2p3/3b1p2/1P1Nn3/P3B1P1/5PBP/1Q1R2K1 w - - 0 26",
+   "solucionUci": [
+    "d4f5",
+    "e6f5",
+    "d1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0464",
+   "numero": 464,
+   "nombre": "Max Euwe vs Eduard Spanjaard, The Hague 1932",
+   "fen": "5rk1/1Q3pp1/1N1Bp2p/p2p4/3P4/2nqP3/P2b1PPP/5RK1 b - - 0 29",
+   "solucionUci": [
+    "c3e2",
+    "g1h1",
+    "e2g3",
+    "h2g3",
+    "d3f1",
+    "h1h2",
+    "f1f2",
+    "d6f8",
+    "d2e3",
+    "b7b8",
+    "f2g1",
+    "h2h3",
+    "g1h1",
+    "h3g4",
+    "h1d1",
+    "g4h4",
+    "g7g5",
+    "h4h3",
+    "d1h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0465",
+   "numero": 465,
+   "nombre": "Max Euwe vs G. Boersma, Rotterdam 1933 (Simul)",
+   "fen": "3r1rk1/pp3ppp/2p5/8/4qP2/2RBP2b/PP2Q1PP/5R1K b - - 0 18",
+   "solucionUci": [
+    "d8d3",
+    "c3d3",
+    "h3g2",
+    "h1g1",
+    "g2f1",
+    "e2f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0466",
+   "numero": 466,
+   "nombre": "William Felderhof vs Max Euwe, The Hague/Leiden/Scheveningen 1933",
+   "fen": "1r2kb1r/p2n1ppp/2Q1pn2/8/3R4/2B5/qPP1NPPP/2KR4 b k - 0 16",
+   "solucionUci": [
+    "f8a3",
+    "b2a3",
+    "e8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0467",
+   "numero": 467,
+   "nombre": "Max Euwe vs Alexander Alekhine, Zurich 1934",
+   "fen": "2nq2k1/2r3pp/p1p1rp2/PpQ1N3/1P1PR3/8/5PPP/2R3K1 w - - 0 31",
+   "solucionUci": [
+    "e5f7",
+    "d8e8",
+    "e4e6",
+    "e8e6",
+    "f7d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0468",
+   "numero": 468,
+   "nombre": "Max Euwe vs Alexander Alekhine, Netherlands 1935",
+   "fen": "rnbq1rk1/pp2p1bp/2p2pp1/3p4/2PP4/2NBP1P1/PP3PP1/R2QK1NR w KQ - 0 10",
+   "solucionUci": [
+    "h1h7",
+    "g8h7",
+    "d1h5",
+    "h7g8",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0469",
+   "numero": 469,
+   "nombre": "Efim Bogoljubov vs Max Euwe, Zandvoort 1936",
+   "fen": "3r2k1/q5pp/4bp2/prb1p3/8/3P2P1/n1RNPPBP/B2Q1RK1 w - - 0 37",
+   "solucionUci": [
+    "c2a2",
+    "e6a2",
+    "d1a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0470",
+   "numero": 470,
+   "nombre": "Max Euwe vs Theodore Tylor, Nottingham 1936",
+   "fen": "rn1r2k1/1b2bppp/p7/2pp2B1/4q3/1B2PN2/PP2QPPP/2RR2K1 w - - 0 17",
+   "solucionUci": [
+    "c1c5",
+    "e7g5",
+    "f3g5",
+    "e4e7",
+    "b3d5",
+    "b7d5",
+    "c5d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0471",
+   "numero": 471,
+   "nombre": "Fritz Sämisch vs Max Euwe, Bad Nauheim 1937",
+   "fen": "6k1/1p3p2/5Qp1/2q1p1p1/P3P1P1/1r5P/3R2K1/8 b - - 0 36",
+   "solucionUci": [
+    "b3g3",
+    "g2g3",
+    "c5e3",
+    "f6f3",
+    "e3d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0472",
+   "numero": 472,
+   "nombre": "Alexander Alekhine vs Max Euwe, Netherlands 1937",
+   "fen": "rnbqkbnr/p4ppp/2p5/1p6/2BpP3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 7",
+   "solucionUci": [
+    "c3b5",
+    "c8a6",
+    "d1b3",
+    "a6b5",
+    "c4f7",
+    "e8d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0473",
+   "numero": 473,
+   "nombre": "Max Euwe vs Siegfried van Mindeno, Amsterdam 1938",
+   "fen": "r4r2/n1q1k1pb/1p2P2p/p1p1P3/P4QP1/B1P5/B6P/2R2RK1 w - - 0 30",
+   "solucionUci": [
+    "f4f7",
+    "f8f7",
+    "f1f7",
+    "e7d8",
+    "c1d1",
+    "d8c8",
+    "f7c7",
+    "c8c7",
+    "d1d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0474",
+   "numero": 474,
+   "nombre": "Max Euwe vs Salo Flohr, Netherlands 1938",
+   "fen": "2r5/1p3Qpk/3q1n1p/2p1N3/1n6/6P1/5PBP/R5K1 w - - 0 30",
+   "solucionUci": [
+    "g2e4",
+    "h7h8",
+    "e5g6",
+    "h8h7",
+    "g6e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0475",
+   "numero": 475,
+   "nombre": "Max Euwe vs Nicolaas Cortlever, Beverwijk 1940",
+   "fen": "r1bq1rk1/ppp1b1pp/8/3nnp2/8/4P1PN/PP1N1PBP/R1BQ1RK1 w - - 0 11",
+   "solucionUci": [
+    "d2c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0476",
+   "numero": 476,
+   "nombre": "Max Euwe vs Haije Kramer, Netherlands 1941",
+   "fen": "4r1k1/2q2p1p/p5pB/1pb2PPn/3Q4/1B5P/PP3P2/R5K1 w - - 0 27",
+   "solucionUci": [
+    "b3f7",
+    "c7f7",
+    "d4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0477",
+   "numero": 477,
+   "nombre": "Efim Bogoljubov vs Max Euwe, Karlsbad 1941",
+   "fen": "r4rk1/6pp/p1p5/1p1pP3/3P2b1/1B2BPp1/PPR3Pq/3QRK2 b - - 0 23",
+   "solucionUci": [
+    "f8f3",
+    "d1f3",
+    "h2h1",
+    "f1e2",
+    "h1g2",
+    "e2d3",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0478",
+   "numero": 478,
+   "nombre": "Efim Bogoljubov vs Max Euwe, Karlsbad 1941",
+   "fen": "2kr4/ppbr1ppp/2p1p3/2P2nP1/3PBP2/P1P4P/4N3/2KR3R b - - 0 25",
+   "solucionUci": [
+    "f5g3",
+    "e2g3",
+    "c7f4",
+    "c1c2",
+    "f4g3",
+    "e4h7",
+    "g7g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0479",
+   "numero": 479,
+   "nombre": "Arnoldus van den Hoek vs Max Euwe, The Hague 1942",
+   "fen": "3r2k1/pp2qppp/2pb1n2/5PQ1/6P1/8/PB1r1PBP/1R3RK1 b - - 0 22",
+   "solucionUci": [
+    "d2b2",
+    "b1b2",
+    "e7e5",
+    "f1b1",
+    "e5h2",
+    "g1f1",
+    "d6f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0480",
+   "numero": 480,
+   "nombre": "Max Euwe vs George Thomas, Zaandam 1946",
+   "fen": "8/pb3k2/1p6/2ppqBQ1/8/2P5/P5PP/6K1 w - - 0 38",
+   "solucionUci": [
+    "f5g6",
+    "f7e6",
+    "g6f7",
+    "e6d6",
+    "g5d8",
+    "d6c6",
+    "f7e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0481",
+   "numero": 481,
+   "nombre": "Max Euwe vs Daniel Yanofsky, Groningen 1946",
+   "fen": "8/B4kpp/2pp4/P7/4P3/8/1Pb3PP/6K1 w - - 0 28",
+   "solucionUci": [
+    "a7c5",
+    "c2d3",
+    "c5d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0482",
+   "numero": 482,
+   "nombre": "Henry Grob vs Max Euwe, Zurich 1947",
+   "fen": "3r3k/pp3rp1/1bp4p/4Q3/4PqP1/2PP1N2/P4PP1/R3R1K1 b - - 0 21",
+   "solucionUci": [
+    "b6f2",
+    "g1f1",
+    "f2e1",
+    "e5f4",
+    "f7f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0483",
+   "numero": 483,
+   "nombre": "Max Euwe vs Paul Keres, The Hague/Moscow 1948",
+   "fen": "8/6pk/7p/2r2p2/5Pqn/1P6/P2Q2PP/2B2RK1 b - - 0 38",
+   "solucionUci": [
+    "c5c1",
+    "h2h3",
+    "h4f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0484",
+   "numero": 484,
+   "nombre": "Esteban Canal vs Max Euwe, Dubrovnik 1950 (Olympiad)",
+   "fen": "r2qkb1r/1p3ppp/p7/3npP2/3n4/2N1B3/PP3PPP/R2QKB1R w KQkq - 0 11",
+   "solucionUci": [
+    "e3d4",
+    "e5d4",
+    "d1a4",
+    "b7b5",
+    "f1b5",
+    "a6b5",
+    "a4b5",
+    "d8d7",
+    "c3d5",
+    "d7b5",
+    "d5c7",
+    "e8d7",
+    "c7b5",
+    "a8e8",
+    "e1d2",
+    "e8e5",
+    "b5d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0485",
+   "numero": 485,
+   "nombre": "Max Euwe vs Yuri Averbakh, Zurich 1953",
+   "fen": "6k1/6pp/3n4/1n1p1P2/p1pP1NP1/PpP1K3/1B5P/8 b - - 0 36",
+   "solucionUci": [
+    "b5a3",
+    "b2a3",
+    "d6b5",
+    "a3c1",
+    "b5c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0486",
+   "numero": 486,
+   "nombre": "Max Euwe vs Daniel Yanofsky, Munich 1958 (Olympiad)",
+   "fen": "1r4k1/q3pp2/3nb1p1/1pbN2p1/8/3Q2P1/P4PBP/3RR1K1 w - - 0 25",
+   "solucionUci": [
+    "e1e6",
+    "f7e6",
+    "d3g6",
+    "g8f8",
+    "d1d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0487",
+   "numero": 487,
+   "nombre": "Enrico Paoli vs Max Euwe, Chaumont Neuchatel 1958",
+   "fen": "r3k2r/pp2p1bp/2bpPpp1/q7/6Q1/P1PB4/1P4PP/R1B2R1K w kq - 0 17",
+   "solucionUci": [
+    "d3g6",
+    "h7g6",
+    "g4g6",
+    "e8d8",
+    "g6g7",
+    "a5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0488",
+   "numero": 488,
+   "nombre": "Mikhail Botvinnik vs Moisey Kagan, Leningrad 1926",
+   "fen": "r1b4k/4q1pp/p1r5/2Np1p2/Pp1Pp3/4P1P1/1PR1QP1P/2R3K1 w - - 0 27",
+   "solucionUci": [
+    "c5e4",
+    "c6c2",
+    "e2c2",
+    "f5e4",
+    "c2c8",
+    "a8c8",
+    "c1c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0489",
+   "numero": 489,
+   "nombre": "Ilya Rabinovich vs Mikhail Botvinnik, Moscow 1927",
+   "fen": "r4rk1/pp1b2pp/2p3q1/3pP3/1bP1pB1P/1PN2PP1/P1Q1P3/3R1K1R b - - 0 21",
+   "solucionUci": [
+    "f8f4",
+    "g3f4",
+    "g6g3",
+    "c3e4",
+    "d5e4",
+    "d1d7",
+    "b4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0490",
+   "numero": 490,
+   "nombre": "Nil Panchenko vs Mikhail Botvinnik, Leningrad 1927",
+   "fen": "r4rk1/2qbbp1p/p2p1np1/1pnPp1B1/2p1P2N/2P3NP/PPB1QPP1/R3R1K1 b - - 0 19",
+   "solucionUci": [
+    "f6d5",
+    "g5e7",
+    "d5e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0491",
+   "numero": 491,
+   "nombre": "Mikhail Botvinnik vs Nikolay Pavlov-Pianov, Moscow 1927",
+   "fen": "4qr1k/2Rr1npp/p3b3/1p2Pp2/1Q3B2/P4N2/5PPP/4R1K1 w - - 0 28",
+   "solucionUci": [
+    "c7d7",
+    "e6d7",
+    "e5e6",
+    "d7e6",
+    "e1e6",
+    "e8e6",
+    "b4f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0492",
+   "numero": 492,
+   "nombre": "Mikhail Botvinnik vs V. Breitman, Leningrad 1931",
+   "fen": "r4rk1/1n2qpbp/2bp1npB/1p2p2P/1P2P1P1/2N2PN1/P2Q2B1/2R1K2R w K - 0 23",
+   "solucionUci": [
+    "g3f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0493",
+   "numero": 493,
+   "nombre": "Mikhail Botvinnik vs Vladimir Alatortsev, Moscow 1931",
+   "fen": "r4rk1/p1pqn1b1/1p1p2p1/3Pp1Pn/2P1P1bR/1P2B1N1/P2QN1B1/2K4R w - - 0 24",
+   "solucionUci": [
+    "h4g4",
+    "d7g4",
+    "g2h3",
+    "g4f3",
+    "h1f1",
+    "h5g3",
+    "f1f3",
+    "f8f3",
+    "e2g3",
+    "f3g3",
+    "h3e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0494",
+   "numero": 494,
+   "nombre": "Mikhail Botvinnik vs Vladimir Alatortsev, Leningrad 1932",
+   "fen": "rn1qr3/1b1n2kp/ppp3p1/3pNp2/N2P4/1Q2P2B/PP3PPP/2RR2K1 w - - 0 21",
+   "solucionUci": [
+    "e3e4",
+    "d7e5",
+    "d4e5",
+    "f5e4",
+    "a4b6",
+    "a8a7",
+    "b3e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0495",
+   "numero": 495,
+   "nombre": "Mikhail Botvinnik vs Mikhail Yudovich, Leningrad 1933",
+   "fen": "r1b2r2/1p1nq1bk/1np1p1pp/p7/3PN2N/1P2B3/2Q1BPPP/2RR2K1 w - - 0 22",
+   "solucionUci": [
+    "h4g6",
+    "h7g6",
+    "e2h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0496",
+   "numero": 496,
+   "nombre": "Victor Goglidze vs Mikhail Botvinnik, Moscow 1935",
+   "fen": "r1r2bk1/5p1p/pn4p1/N2b4/3Pp3/B3P3/2q1BPPP/RQ3RK1 b - - 0 24",
+   "solucionUci": [
+    "f8a3",
+    "a1a3",
+    "c2e2",
+    "b1b6",
+    "a8b8",
+    "b6d6",
+    "e2f1",
+    "g1f1",
+    "b8b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0497",
+   "numero": 497,
+   "nombre": "Mikhail Botvinnik vs Vitaly Chekhover, Moscow 1935",
+   "fen": "1q1r1nk1/rb2b1p1/pp3nP1/5B2/2PP4/7Q/PB4PP/R4RK1 w - - 0 29",
+   "solucionUci": [
+    "f5e6",
+    "f8e6",
+    "h3e6",
+    "g8h8",
+    "e6h3",
+    "h8g8",
+    "f1f6",
+    "e7f6",
+    "h3h7",
+    "g8f8",
+    "a1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0498",
+   "numero": 498,
+   "nombre": "Viacheslav Ragozin vs Mikhail Botvinnik, Moscow 1938",
+   "fen": "5rk1/1b3pbp/1p2p1pq/8/PNB3QP/1P4P1/3r1P2/2R2RK1 b - - 0 25",
+   "solucionUci": [
+    "d2f2",
+    "f1f2",
+    "h6c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0499",
+   "numero": 499,
+   "nombre": "Alexander Kotov vs Mikhail Botvinnik, Leningrad 1939",
+   "fen": "4r3/1p4pk/2b2pq1/7p/3B1P2/7P/4RQP1/7K b - - 0 37",
+   "solucionUci": [
+    "g6g2",
+    "f2g2",
+    "e8e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0500",
+   "numero": 500,
+   "nombre": "Vladimir Makogonov vs Mikhail Botvinnik, Moscow 1940",
+   "fen": "3R1nk1/p4qpp/8/4QP2/2rB4/P7/3r3P/4R1K1 w - - 0 40",
+   "solucionUci": [
+    "d8f8",
+    "f7f8",
+    "e5d5",
+    "g8h8",
+    "d5c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0501",
+   "numero": 501,
+   "nombre": "Andor Lilienthal vs Mikhail Botvinnik, Leningrad/Moscow 1941",
+   "fen": "8/5pkp/4pbp1/3q4/3p1P2/1P1B2PK/4Q2P/3R2r1 b - - 0 39",
+   "solucionUci": [
+    "g1g2",
+    "e2e4",
+    "g2h2",
+    "h3h2",
+    "d5h5",
+    "h2g2",
+    "h5d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0502",
+   "numero": 502,
+   "nombre": "Mikhail Botvinnik vs Viacheslav Ragozin, Moscow 1945",
+   "fen": "2r2rk1/pQ2bppp/2n1pn2/1B1p4/q2P1B2/P3PP2/1P2KP1P/2R4R b - - 0 17",
+   "solucionUci": [
+    "c6d4",
+    "e3d4",
+    "c8c2",
+    "f4d2",
+    "c2b2",
+    "b5a4",
+    "b2b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0503",
+   "numero": 503,
+   "nombre": "Arnold Denker vs Mikhail Botvinnik, Radio Match 1945",
+   "fen": "2kr3r/pb1n1p2/3qpP2/2b3B1/PpB2Q2/3p1PN1/1P4PP/R4R1K b - - 0 22",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "d8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0504",
+   "numero": 504,
+   "nombre": "Mikhail Botvinnik vs Alexander Kotov, Groningen 1946",
+   "fen": "4r1k1/p2b1p2/1p1q1n1p/3p2p1/P1pP2P1/2P1rPNP/3Q1K2/R3RB2 b - - 0 23",
+   "solucionUci": [
+    "d6g3",
+    "f2g3",
+    "f6e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0505",
+   "numero": 505,
+   "nombre": "Mikhail Botvinnik vs Paul Keres, Moscow 1952",
+   "fen": "5rk1/pp1qrp1p/3Nn1p1/3pP3/3P3Q/2R5/PP4PP/5R1K w - - 0 30",
+   "solucionUci": [
+    "d6f5",
+    "e7e8",
+    "f5h6",
+    "g8h8",
+    "h4f6",
+    "e6g7",
+    "h6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0506",
+   "numero": 506,
+   "nombre": "Mikhail Botvinnik vs Vassily Smyslov, Moscow 1954",
+   "fen": "3r3k/r1pn1ppp/1n2p3/pB2P3/Pp2PP1q/1Q6/1P1B1P1P/2R1K2R b K - 0 24",
+   "solucionUci": [
+    "d7e5",
+    "f4e5",
+    "h4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0507",
+   "numero": 507,
+   "nombre": "Mikhail Botvinnik vs Vassily Smyslov, Moscow 1954",
+   "fen": "6k1/pp1r2p1/2q2P2/3p1PQ1/P3n3/8/BP5P/6RK w - - 0 31",
+   "solucionUci": [
+    "f6f7",
+    "d7f7",
+    "g5d8",
+    "g8h7",
+    "a2d5",
+    "e4f2",
+    "h1g2",
+    "c6f6",
+    "d8f6",
+    "f7f6",
+    "g2f2",
+    "f6f5",
+    "d5f3",
+    "f5f4",
+    "g1g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0508",
+   "numero": 508,
+   "nombre": "Paul Keres vs Mikhail Botvinnik, Moscow 1955",
+   "fen": "r3kbnr/ppp2ppp/8/n2qp3/2BP4/1QP2b2/PP1N1PPP/R1B1K2R w KQkq - 0 9",
+   "solucionUci": [
+    "b3a4",
+    "d5d7",
+    "c4f7",
+    "e8d8",
+    "a4d7",
+    "d8d7",
+    "d2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0509",
+   "numero": 509,
+   "nombre": "Mikhail Botvinnik vs Nikola Padevsky, Moscow 1956 (Olympiad)",
+   "fen": "3r4/p1n1q1kp/1p3pp1/2p5/4N2P/1P4P1/PQ2PPK1/3R4 w - - 0 23",
+   "solucionUci": [
+    "e4f6",
+    "g7f7",
+    "d1d8",
+    "e7d8",
+    "f6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0510",
+   "numero": 510,
+   "nombre": "Vassily Smyslov vs Mikhail Botvinnik, Moscow 1957",
+   "fen": "3r4/k2r4/pq4pp/3B2b1/8/1N1R1Q2/PP4PP/1K6 b - - 0 35",
+   "solucionUci": [
+    "d7d5",
+    "d3d5",
+    "b6g1",
+    "b1c2",
+    "d8c8",
+    "c2d3",
+    "g1b1",
+    "d3d4",
+    "b1b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0511",
+   "numero": 511,
+   "nombre": "Mikhail Tal vs Mikhail Botvinnik, Moscow 1960",
+   "fen": "2r5/kp1r1pp1/pR2pnp1/2Pq4/3P4/1Q6/4N1PP/1R4K1 w - - 0 40",
+   "solucionUci": [
+    "b6a6",
+    "b7a6",
+    "b3b6",
+    "a7a8",
+    "b6a6",
+    "d7a7",
+    "a6c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0512",
+   "numero": 512,
+   "nombre": "Anatoly Karpov vs Mikhail Botvinnik, Moscow 1964 (Simul)",
+   "fen": "2r5/1q2bpk1/r3p1p1/3pNn2/ppPP1P1p/3Q3P/PP2R1P1/2R1B1K1 b - - 0 32",
+   "solucionUci": [
+    "f5d4",
+    "d3d4",
+    "e7c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0513",
+   "numero": 513,
+   "nombre": "Yoel Aloni vs Mikhail Botvinnik, Tel Aviv 1964 (Olympiad)",
+   "fen": "5r1k/p3N1bp/6p1/pR6/2P1R3/3p2q1/8/4Q2K b - - 0 33",
+   "solucionUci": [
+    "g3h3",
+    "h1g1",
+    "d3d2",
+    "e7g6",
+    "h7g6",
+    "e1h4",
+    "h8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0514",
+   "numero": 514,
+   "nombre": "Mikhail Botvinnik vs Lajos Portisch, Monte Carlo 1968",
+   "fen": "rn1qrbk1/2R2ppp/2p5/p3p3/Q7/P2PBNP1/1P2PPBP/6K1 w - - 0 18",
+   "solucionUci": [
+    "c7f7",
+    "g8f7",
+    "a4c4",
+    "f7g6",
+    "c4g4",
+    "g6f7",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0515",
+   "numero": 515,
+   "nombre": "Vassily Smyslov vs Viacheslav Ragozin, Leningrad/Moscow 1939",
+   "fen": "b2r2k1/p4ppn/2qN2np/1p2P3/2p2PP1/1P2Q2P/PB5K/4RB2 b - - 0 31",
+   "solucionUci": [
+    "g6f4",
+    "e3f4",
+    "c6h1",
+    "h2g3",
+    "h1g1",
+    "g3h4",
+    "g7g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0516",
+   "numero": 516,
+   "nombre": "Vassily Smyslov vs Kirilov, Moscow 1940",
+   "fen": "r3kb1r/3n1ppp/p1ppq3/1p4B1/4P3/1PN5/1PQ2PPP/R4RK1 w kq - 0 16",
+   "solucionUci": [
+    "a1a6",
+    "a8a6",
+    "c3b5",
+    "c6b5",
+    "c2c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0517",
+   "numero": 517,
+   "nombre": "Georgy Lisitsin vs Vassily Smyslov, Moscow 1944",
+   "fen": "q4rk1/2r2ppp/1p2p3/3n4/2BP1b2/1Q4P1/PB3P1P/1R1R2K1 b - - 0 23",
+   "solucionUci": [
+    "c7c4",
+    "b3c4",
+    "d5e3",
+    "c4f1",
+    "e3f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0518",
+   "numero": 518,
+   "nombre": "Grigory Ravinsky vs Vassily Smyslov, Moscow 1944",
+   "fen": "2r3k1/p4pp1/1q2pn1p/1Pb5/4P3/PQ3NPP/3pRP2/5BK1 b - - 0 30",
+   "solucionUci": [
+    "c5f2",
+    "e2f2",
+    "f6e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0519",
+   "numero": 519,
+   "nombre": "Vassily Smyslov vs Vladimir Alatortsev, Moscow 1945",
+   "fen": "8/1p1b3p/4npp1/PPPk1p2/5P2/3BB1P1/7P/6K1 w - - 0 39",
+   "solucionUci": [
+    "c5c6",
+    "b7c6",
+    "b5b6",
+    "d7c8",
+    "a5a6",
+    "e6d8",
+    "d3f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0520",
+   "numero": 520,
+   "nombre": "Isaak Boleslavsky vs Vassily Smyslov, Groningen 1946",
+   "fen": "1r3rk1/1PQ3pp/p3pn2/1p2p3/4P3/5N1P/1b3PP1/q1B1RNK1 b - - 0 25",
+   "solucionUci": [
+    "b2c1",
+    "e1c1",
+    "b8b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0521",
+   "numero": 521,
+   "nombre": "Vassily Smyslov vs Cenek Kottnauer, Groningen 1946",
+   "fen": "1q2kb1r/1r1n1ppp/2Qpp3/8/N7/8/1PP2PPP/R1BR2K1 w k - 0 18",
+   "solucionUci": [
+    "a4c5",
+    "d6c5",
+    "c1f4",
+    "b8f4",
+    "c6b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0522",
+   "numero": 522,
+   "nombre": "Vassily Smyslov vs Kazimierz Plater, Moscow 1947",
+   "fen": "r1b1r1kb/1pqn1p1p/2pp1npB/8/2PNP3/1PN3PP/3Q1PB1/3RR1K1 w - - 0 18",
+   "solucionUci": [
+    "d4f5",
+    "g6f5",
+    "d2g5",
+    "h8g7",
+    "g5g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0523",
+   "numero": 523,
+   "nombre": "Vassily Smyslov vs Genrikh Kasparian, Leningrad 1947",
+   "fen": "R6r/4kpp1/1q1bp2p/3n4/1p5P/6Q1/PP1B1PP1/1K2R3 w - - 0 28",
+   "solucionUci": [
+    "e1e6",
+    "e7e6",
+    "g3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0524",
+   "numero": 524,
+   "nombre": "Gedeon Barcza vs Vassily Smyslov, Budapest 1949",
+   "fen": "r3r1k1/pp1n1pp1/2p4p/q2p1P2/3b2n1/1PNP2PP/PB1Q1PB1/3R1RK1 b - - 0 18",
+   "solucionUci": [
+    "g4e3",
+    "f2e3",
+    "d4e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0525",
+   "numero": 525,
+   "nombre": "Grigory Levenfish vs Vassily Smyslov, Moscow 1949",
+   "fen": "r5k1/p7/4Nnp1/3q4/8/4Q2R/PP2KP1P/8 w - - 0 32",
+   "solucionUci": [
+    "h3h8",
+    "g8f7",
+    "e6g5",
+    "f7g7",
+    "h8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0526",
+   "numero": 526,
+   "nombre": "Semen Furman vs Vassily Smyslov, Moscow 1949",
+   "fen": "4r2k/p5qp/bp2B1p1/3P1p2/2n2N2/2R5/PQ3PPP/6K1 w - - 0 30",
+   "solucionUci": [
+    "f4g6",
+    "g7g6",
+    "c3c4",
+    "g6g7",
+    "b2g7",
+    "h8g7",
+    "c4c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0527",
+   "numero": 527,
+   "nombre": "Enrico Paoli vs Vassily Smyslov, Venice 1950",
+   "fen": "2r2rk1/1p3pp1/4n3/1P1Rn1q1/4P2p/7P/2P2QN1/R4BK1 b - - 0 32",
+   "solucionUci": [
+    "c8c2",
+    "f2c2",
+    "e5f3",
+    "g1f2",
+    "g5g3",
+    "f2e2",
+    "f3d4",
+    "e2d1",
+    "d4c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0528",
+   "numero": 528,
+   "nombre": "Isaak Boleslavsky vs Vassily Smyslov, Moscow 1950",
+   "fen": "bq3rk1/2pnnppp/3p1b2/1p1Pp3/4P3/NBP2N1P/1P3PP1/2BQR1K1 w - - 0 16",
+   "solucionUci": [
+    "a3b5",
+    "b8b5",
+    "b3a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0529",
+   "numero": 529,
+   "nombre": "Vassily Smyslov vs Efim Geller, Moscow 1951",
+   "fen": "8/1q4kp/2np1p2/4p3/2PpP2P/6P1/r1PQ2BK/5R2 w - - 0 31",
+   "solucionUci": [
+    "f1f6",
+    "g7f6",
+    "d2h6",
+    "f6f7",
+    "h6h7",
+    "f7f6",
+    "h7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0530",
+   "numero": 530,
+   "nombre": "Gideon Stahlberg vs Vassily Smyslov, Stockholm 1954",
+   "fen": "8/pR6/4p1k1/2p1P1rn/P3R3/4N1P1/4r2P/6K1 b - - 0 36",
+   "solucionUci": [
+    "h5g3",
+    "h2g3",
+    "g5g3",
+    "g1f1",
+    "e2e3",
+    "e4e3",
+    "g3e3",
+    "b7a7",
+    "g6f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0531",
+   "numero": 531,
+   "nombre": "Vassily Smyslov vs Wolfgang Unzicker, Hastings 1954",
+   "fen": "2r3k1/pppqrpb1/3n1npp/3Pp3/P3P3/BP3NP1/2R1QPBP/2R3K1 w - - 0 25",
+   "solucionUci": [
+    "g2h3",
+    "d7h3",
+    "a3d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0532",
+   "numero": 532,
+   "nombre": "Vassily Smyslov vs Laszlo Szabo, Hastings 1954",
+   "fen": "3n4/pp3p2/4k2p/1PP1p3/4NP2/Pb2K3/6BP/8 w - - 0 35",
+   "solucionUci": [
+    "c5c6",
+    "e5f4",
+    "e3f4",
+    "b7c6",
+    "e4c5",
+    "e6d6",
+    "c5b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0533",
+   "numero": 533,
+   "nombre": "Paul Keres vs Vassily Smyslov, Moscow 1955",
+   "fen": "3r2k1/2R2pp1/7B/p3p3/qb4Q1/7P/1P3PPK/2r5 b - - 0 31",
+   "solucionUci": [
+    "c1h1",
+    "h2h1",
+    "a4d1",
+    "h1h2",
+    "d1g4",
+    "h3g4",
+    "g7h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0534",
+   "numero": 534,
+   "nombre": "Vassily Smyslov vs Miguel Najdorf, Moscow 1956",
+   "fen": "2r3k1/p1r1qp1p/1p3np1/nP2p1N1/7Q/3N2P1/P3PPKP/2RR4 w - - 0 27",
+   "solucionUci": [
+    "g5h7",
+    "f6h7",
+    "h4e7",
+    "c7e7",
+    "c1c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0535",
+   "numero": 535,
+   "nombre": "Mikhail Tal vs Vassily Smyslov, Bled/Zagreb/Belgrade 1959",
+   "fen": "r1bb1r1k/p4ppp/2p2n1N/7Q/2p5/2B2N2/qPP2PPP/2KR3R w - - 0 19",
+   "solucionUci": [
+    "h5f7",
+    "a2a1",
+    "c1d2",
+    "f8f7",
+    "h6f7",
+    "h8g8",
+    "d1a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0536",
+   "numero": 536,
+   "nombre": "Robert Fischer vs Vassily Smyslov, Bled/Zagreb/Belgrade 1959",
+   "fen": "1r4k1/3q1p2/p4P1p/2r1p1bQ/4p3/2P3R1/P5PP/5R1K b - - 0 32",
+   "solucionUci": [
+    "d7f5",
+    "h1g1",
+    "f5g6",
+    "h5e2",
+    "c5c6",
+    "h2h4",
+    "c6f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0537",
+   "numero": 537,
+   "nombre": "Nikolac Bakulin vs Vassily Smyslov, Moscow 1961",
+   "fen": "3r4/1q5k/p3p1pp/2p1Rp1n/2P2P2/P4b1P/1PB4K/2B3Q1 b - - 0 39",
+   "solucionUci": [
+    "b7b2",
+    "c1b2",
+    "d8d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0538",
+   "numero": 538,
+   "nombre": "Vassily Smyslov vs Ratmir Kholmov, Baku 1961",
+   "fen": "4b3/r4kp1/4Rn1p/p4p2/P4N2/6P1/P1r3BP/4R1K1 w - - 0 33",
+   "solucionUci": [
+    "e6f6",
+    "f7f6",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0539",
+   "numero": 539,
+   "nombre": "Vassily Smyslov vs Hector Rossetto, Mar del Plata 1962",
+   "fen": "7k/p6p/2P1nNp1/4rbP1/3p3P/P3P3/3KB3/7R w - - 0 37",
+   "solucionUci": [
+    "e3e4",
+    "f5e4",
+    "f6e4",
+    "e5e4",
+    "h1b1",
+    "e4e3",
+    "b1b8",
+    "h8g7",
+    "e2c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0540",
+   "numero": 540,
+   "nombre": "Georgi Tringov vs Vassily Smyslov, Havana 1965",
+   "fen": "2r5/5pk1/4pqp1/p4p2/5P2/QPr3PP/P2R3K/4R3 b - - 0 37",
+   "solucionUci": [
+    "c3g3",
+    "h2g3",
+    "f6c3",
+    "g3f2",
+    "c3d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0541",
+   "numero": 541,
+   "nombre": "Vassily Smyslov vs Eleazar Jimenez Zerquera, Havana 1965",
+   "fen": "3r1rk1/1p4p1/p1p1qpQ1/8/1P3Pp1/P2R2Pn/1B2P2P/3R1K2 b - - 0 37",
+   "solucionUci": [
+    "e6e3",
+    "f1e1",
+    "e3g1",
+    "e1d2",
+    "d8d3",
+    "e2d3",
+    "g1h2",
+    "d2c3",
+    "h2g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0542",
+   "numero": 542,
+   "nombre": "Efim Geller vs Vassily Smyslov, Moscow 1965",
+   "fen": "r3r1k1/p3q3/1pn1b1pB/2p1PpN1/5P1Q/7R/P1p3PP/4R1K1 w - - 0 32",
+   "solucionUci": [
+    "h6f8",
+    "g8f8",
+    "h4h8",
+    "e6g8",
+    "h3h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0543",
+   "numero": 543,
+   "nombre": "Vassily Smyslov vs Antonio Magrin, Lugano 1968 (Olympiad)",
+   "fen": "5n2/3bp1r1/1r1p3k/p1p2pNp/1nP2P1P/1PN1PB1K/P5R1/6R1 w - - 0 34",
+   "solucionUci": [
+    "g5f7",
+    "g7f7",
+    "g2g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0544",
+   "numero": 544,
+   "nombre": "Donald Byrne vs Vassily Smyslov, Lugano 1968 (Olympiad)",
+   "fen": "1br4k/pp4pp/8/2n1q2b/P7/6PP/1P1NnPBK/R1B1NQ2 b - - 0 24",
+   "solucionUci": [
+    "e2g3",
+    "f2g3",
+    "e5g3",
+    "h2g1",
+    "g3h2",
+    "g1f2",
+    "b8g3",
+    "f2e3",
+    "g3e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0545",
+   "numero": 545,
+   "nombre": "Mikhail Tal vs Vassily Smyslov, Herceg Novi 1970 (Blitz)",
+   "fen": "5rk1/R5pp/4p1q1/1p2Q3/2p2nN1/2Pr3P/1P3PP1/R5K1 b - - 0 33",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "d3h3",
+    "e5d4",
+    "h3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0546",
+   "numero": 546,
+   "nombre": "Leonid Stein vs Vassily Smyslov, Moscow 1972",
+   "fen": "4k1r1/pQ1n1p1R/1pq5/5P2/2r5/P7/5PB1/3R2K1 w - - 0 28",
+   "solucionUci": [
+    "h7h8",
+    "c6b7",
+    "h8g8",
+    "e8e7",
+    "g2b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0547",
+   "numero": 547,
+   "nombre": "Vassily Smyslov vs Roman Dzindzichashvili, Moscow 1972",
+   "fen": "rqr3k1/1b1nbppp/ppnpp3/8/N1PNP3/1P4P1/PB2QPBP/2RR2K1 w - - 0 17",
+   "solucionUci": [
+    "d4e6",
+    "f7e6",
+    "e2g4",
+    "d7f6",
+    "g4e6",
+    "g8h8",
+    "a4b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0548",
+   "numero": 548,
+   "nombre": "Vassily Smyslov vs Walter Browne, Hastings 1972",
+   "fen": "1rbq1rk1/4ppbp/3pn1p1/1p1Nn3/1P6/2N3P1/P2BPPBP/2RQ1RK1 w - - 0 16",
+   "solucionUci": [
+    "c3b5",
+    "b8b5",
+    "c1c8",
+    "d8c8",
+    "d5e7",
+    "g8h8",
+    "e7c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0549",
+   "numero": 549,
+   "nombre": "Gerardo Lebredo Zarragoitia vs Vassily Smyslov, Cienfuegos 1973",
+   "fen": "7k/6p1/5p2/2B4p/5P2/Q4K1P/6P1/4q1b1 b - - 0 36",
+   "solucionUci": [
+    "e1f1",
+    "f3g3",
+    "h5h4",
+    "g3g4",
+    "f1g2",
+    "g4h4",
+    "g7g5",
+    "h4h5",
+    "g5f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0550",
+   "numero": 550,
+   "nombre": "Vassily Smyslov vs Boris Spassky, Moscow 1973",
+   "fen": "r4r1k/1p5p/1bp2N2/2n1p1B1/p3P3/2P5/PPB2PP1/3R2K1 b - - 0 27",
+   "solucionUci": [
+    "h7h6",
+    "g5h4",
+    "b6d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0551",
+   "numero": 551,
+   "nombre": "Vassily Smyslov vs Istvan Bilek, Venice 1974",
+   "fen": "r2q2k1/p2rppbp/1pp3p1/4B3/NPPP2b1/P3Q3/5PPP/R4RK1 w - - 0 18",
+   "solucionUci": [
+    "e5g7",
+    "g8g7",
+    "d4d5",
+    "g7g8",
+    "d5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0552",
+   "numero": 552,
+   "nombre": "Garry Kasparov vs Vassily Smyslov, Leningrad 1975",
+   "fen": "2r4k/1p3pbp/p1b2N2/4r1q1/2pN1R2/7P/PPP2QP1/3R2K1 b - - 0 26",
+   "solucionUci": [
+    "g7f6",
+    "f4f6",
+    "c6g2",
+    "h3h4",
+    "g5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0553",
+   "numero": 553,
+   "nombre": "Vassily Smyslov vs Lothar Vogt, Leningrad 1977",
+   "fen": "2rqr1k1/1b1n1ppp/p1n1pbP1/3p3P/3N1PQ1/2PN4/1P3BB1/R2R2K1 w - - 0 24",
+   "solucionUci": [
+    "g6f7",
+    "g8f7",
+    "d4e6",
+    "e8e6",
+    "g2d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0554",
+   "numero": 554,
+   "nombre": "Vassily Smyslov vs Jingxuan Qi, Buenos Aires 1978",
+   "fen": "5rk1/3qbp1p/p1r5/1p2Np2/8/1P2Q1P1/P3PP1P/R5K1 b - - 0 22",
+   "solucionUci": [
+    "f5f4",
+    "e3f4",
+    "d7c7",
+    "e5c6",
+    "c7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0555",
+   "numero": 555,
+   "nombre": "Vassily Smyslov vs Wlodzimierz Schmidt, Moscow 1980",
+   "fen": "r7/1p2q1k1/5pp1/nPr4p/3RP3/3B3P/5QP1/5RK1 w - - 0 35",
+   "solucionUci": [
+    "f2f6",
+    "e7f6",
+    "d4d7",
+    "g7h6",
+    "f1f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0556",
+   "numero": 556,
+   "nombre": "Vassily Smyslov vs Robert Hübner, Velden 1983",
+   "fen": "q4rbk/p1r4p/6B1/4b3/Ppp2N2/1n2B1PQ/1P5P/4RRK1 w - - 0 32",
+   "solucionUci": [
+    "g6h7",
+    "c7h7",
+    "f4g6",
+    "h8g7",
+    "h3d7",
+    "f8f7",
+    "f1f7",
+    "g8f7",
+    "g6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0557",
+   "numero": 557,
+   "nombre": "Vassily Smyslov vs Gennadi Sosonko, Tilburg 1984",
+   "fen": "R4bk1/5pp1/5n1p/4Q3/3B4/1qprPBP1/5P1P/6K1 w - - 0 30",
+   "solucionUci": [
+    "a8f8",
+    "g8f8",
+    "e5c5",
+    "f8g8",
+    "c5c8",
+    "g8h7",
+    "c8f5",
+    "h7g8",
+    "f5d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0558",
+   "numero": 558,
+   "nombre": "Kevin Spraggett vs Vassily Smyslov, Montpellier 1985",
+   "fen": "r1bqr1k1/1p3ppp/2pp1n2/p1b1n3/2PNP3/2NBB2P/PPQ2PP1/4RRK1 b - - 0 14",
+   "solucionUci": [
+    "c8h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0559",
+   "numero": 559,
+   "nombre": "Vassily Smyslov vs Helgi Olafsson, Copenhagen 1985",
+   "fen": "1k1r4/pp2n1pp/3r1pb1/2Np4/8/1P4PP/P1R1PPB1/2R1K3 w - - 0 23",
+   "solucionUci": [
+    "c5b7",
+    "g6c2",
+    "b7d6",
+    "c2b3",
+    "d6f7",
+    "d8f8",
+    "a2b3",
+    "f8f7",
+    "c1c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0560",
+   "numero": 560,
+   "nombre": "Petar Popovic vs Vassily Smyslov, Ljubljana 1985",
+   "fen": "2r1r1k1/q2bb2p/p2p1pp1/1p1P4/8/1P5P/PQ3PP1/BB1RR1K1 w - - 0 28",
+   "solucionUci": [
+    "e1e7",
+    "e8e7",
+    "b2f6",
+    "e7e5",
+    "f6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0561",
+   "numero": 561,
+   "nombre": "Ilya Smirin vs Vassily Smyslov, Moscow 1988",
+   "fen": "r2q1rk1/4npbp/b1p1pnp1/p3N3/2BP2P1/B4N2/PP3P1P/2RQR1K1 w - - 0 22",
+   "solucionUci": [
+    "e5f7",
+    "f8f7",
+    "c4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0562",
+   "numero": 562,
+   "nombre": "Vassily Smyslov vs Jan Timman, Moscow 1993 (Blitz)",
+   "fen": "r2r2k1/p3pp1p/2p2npQ/6N1/2b3P1/2P2R1P/Pq3P2/5RK1 w - - 0 24",
+   "solucionUci": [
+    "f3f6",
+    "e7f6",
+    "h6h7",
+    "g8f8",
+    "f1e1",
+    "c4e6",
+    "e1e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0563",
+   "numero": 563,
+   "nombre": "Vassily Smyslov vs Lembit Oll, Rostov on Don 1993",
+   "fen": "4r3/pp1nr3/2p4p/4pkb1/4RP2/1PBN2P1/P1P1K3/3R4 w - - 0 29",
+   "solucionUci": [
+    "g3g4",
+    "f5e4",
+    "d3f2",
+    "e4f4",
+    "d1g1",
+    "e5e4",
+    "f2h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0564",
+   "numero": 564,
+   "nombre": "Susan Polgar vs Vassily Smyslov, Vienna 1993",
+   "fen": "6k1/6p1/4p2p/4N3/3P2Pq/4PP2/n6P/2R3K1 w - - 0 40",
+   "solucionUci": [
+    "c1c8",
+    "g8h7",
+    "c8h8",
+    "h7h8",
+    "e5g6",
+    "h8h7",
+    "g6h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0565",
+   "numero": 565,
+   "nombre": "Vassily Smyslov vs Johan Ingbrandt, Stockholm 1996",
+   "fen": "r3qrk1/2p2pb1/p6p/1p2pb2/5p2/1BP2N2/PP3PPP/R2QR1K1 w - - 0 21",
+   "solucionUci": [
+    "f3e5",
+    "g7e5",
+    "d1h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0566",
+   "numero": 566,
+   "nombre": "Ketevan Arakhamia-Grant vs Vassily Smyslov, London 1996",
+   "fen": "r5k1/p5p1/7p/Q2N1b2/8/1P3q1P/2P1rP2/2KR2R1 w - - 0 29",
+   "solucionUci": [
+    "d5f6",
+    "g8f7",
+    "a5c7",
+    "e2e7",
+    "g1g7",
+    "f7g7",
+    "c7e7",
+    "g7h8",
+    "d1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0567",
+   "numero": 567,
+   "nombre": "Mikhail Tal vs A. Leonov, Vilnius 1949",
+   "fen": "r3bqk1/1p2rppn/p3p2p/3pP2Q/3P1RN1/2PB3P/PP4P1/R5K1 w - - 0 22",
+   "solucionUci": [
+    "g4f6",
+    "h7f6",
+    "e5f6",
+    "g7f6",
+    "f4f6",
+    "f8g7",
+    "f6h6",
+    "f7f5",
+    "h5h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0568",
+   "numero": 568,
+   "nombre": "Marks Pasman vs Mikhail Tal, Riga 1952",
+   "fen": "rnb3k1/pp4pp/3p3r/2p1p1qn/P1PPPpP1/2PB1P2/3QNB1P/R5RK b - - 0 17",
+   "solucionUci": [
+    "h5g3",
+    "h1g2",
+    "g5h4",
+    "f2g3",
+    "f4g3",
+    "h2g3",
+    "h4h2",
+    "g2f1",
+    "h6f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0569",
+   "numero": 569,
+   "nombre": "Mikhail Tal vs Artur Darznieks, Riga 1953",
+   "fen": "r3r1k1/p1qn1pbp/2p2np1/1p6/2BPp3/BPN1P2P/P3QPP1/2RR2K1 w - - 0 16",
+   "solucionUci": [
+    "c3b5",
+    "c7a5",
+    "b5d6",
+    "a5a3",
+    "c4f7",
+    "g8h8",
+    "d6e8",
+    "f6e8",
+    "f7e8",
+    "a8e8",
+    "c1c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0570",
+   "numero": 570,
+   "nombre": "Mikhail Tal vs Vladimir Saigin, Riga 1954",
+   "fen": "r2qr1k1/ppp2ppp/3p1b2/1B1P1b2/5P2/2P1B1P1/PP1Q3P/R3K2R b KQ - 0 15",
+   "solucionUci": [
+    "c7c6",
+    "d5c6",
+    "d8b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0571",
+   "numero": 571,
+   "nombre": "A. Ostrauskas vs Mikhail Tal, Vilnius 1955",
+   "fen": "5r1k/6pp/p7/1pnP3q/2p1P3/2P4b/PPB4Q/4R1NK b - - 0 31",
+   "solucionUci": [
+    "h3g2",
+    "h1g2",
+    "f8f2",
+    "g2f2",
+    "h5h2",
+    "f2f3",
+    "h2c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0572",
+   "numero": 572,
+   "nombre": "Abram Khasin vs Mikhail Tal, Leningrad 1956",
+   "fen": "4r1k1/4qRpp/p2p4/1p2r3/8/2Pn1Q2/PP4PP/5R1K b - - 0 32",
+   "solucionUci": [
+    "e5e1",
+    "f3d5",
+    "e7f7",
+    "d5f7",
+    "g8h8",
+    "h1g1",
+    "e1f1",
+    "f7f1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0573",
+   "numero": 573,
+   "nombre": "Bukhuti Gurgenidze vs Mikhail Tal, Moscow 1957",
+   "fen": "r1bqr1k1/p1n2pbp/1p1p2p1/2pP4/P3P1n1/2N4P/1PQNBPP1/R1B1R1K1 b - - 0 14",
+   "solucionUci": [
+    "g4f2",
+    "g1f2",
+    "d8h4",
+    "f2f1",
+    "g7d4",
+    "c3d1",
+    "h4h3",
+    "e2f3",
+    "h3h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0574",
+   "numero": 574,
+   "nombre": "Anatolij Bannik vs Mikhail Tal, Moscow 1957",
+   "fen": "1r1r2k1/1p3p2/p1p2bp1/7p/2Pn3P/2B1q1P1/PP1RPQB1/2R3K1 b - - 0 27",
+   "solucionUci": [
+    "d4e2",
+    "d2e2",
+    "e3c1",
+    "e2e1",
+    "f6c3",
+    "e1c1",
+    "c3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0575",
+   "numero": 575,
+   "nombre": "Mikhail Tal vs Rudolf Teschner, Vienna 1957",
+   "fen": "1r1nkn1r/4bp1p/p1p4B/1pqpPQ2/8/1B5P/PP1N2P1/R4R1K w k - 0 23",
+   "solucionUci": [
+    "d2e4",
+    "d5e4",
+    "a1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0576",
+   "numero": 576,
+   "nombre": "Mikhail Tal vs N.N., Riga 1958 (Simul)",
+   "fen": "r2qr1k1/pp2bppp/2b1p3/3nN1B1/3P4/1BPR4/P3QPPP/4R1K1 w - - 0 18",
+   "solucionUci": [
+    "e5f7",
+    "g8f7",
+    "e2e6",
+    "f7f8",
+    "g5c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0577",
+   "numero": 577,
+   "nombre": "Mikhail Tal vs Dieter Keller, Zurich 1959",
+   "fen": "r7/2k1Pp1p/p1n2p2/P1b1r3/2p5/2P3P1/5P1P/1R1Q2K1 w - - 0 29",
+   "solucionUci": [
+    "b1b7",
+    "c7b7",
+    "d1d7",
+    "b7b8",
+    "e7e8q",
+    "e5e8",
+    "d7e8",
+    "b8b7",
+    "e8d7",
+    "b7b8",
+    "d7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0578",
+   "numero": 578,
+   "nombre": "Robert Fischer vs Mikhail Tal, Bled 1959",
+   "fen": "r4rk1/1q1nbppp/p1b5/4pP2/NpP1Nn2/1B3Q2/PP3BPP/R3R1K1 b - - 0 20",
+   "solucionUci": [
+    "g7g6",
+    "f5g6",
+    "f7f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0579",
+   "numero": 579,
+   "nombre": "Mikhail Tal vs Wolfgang Unzicker, Stockholm 1960",
+   "fen": "3rr1k1/3nbppp/p1R2n2/q2Bp3/1p2P3/5N1P/PP1B1PP1/2RQ2K1 w - - 0 24",
+   "solucionUci": [
+    "d5f7",
+    "g8f7",
+    "d1b3",
+    "f7f8",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0580",
+   "numero": 580,
+   "nombre": "Mikhail Tal vs Martin Johansson Sr., Stockholm 1961",
+   "fen": "r4k1r/1q2bp1p/p3pp2/3p3Q/1p1N1P2/4R3/PPP3PP/1K1R4 w - - 0 21",
+   "solucionUci": [
+    "e3e6",
+    "f7e6",
+    "d4e6",
+    "f8g8",
+    "d1d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0581",
+   "numero": 581,
+   "nombre": "Mikhail Tal vs Eero Book, Stockholm 1961",
+   "fen": "6k1/6pp/p4p2/2pN3b/2P1r3/1P6/P5PP/5RK1 w - - 0 34",
+   "solucionUci": [
+    "f1f6",
+    "g7f6",
+    "d5f6",
+    "g8f7",
+    "f6e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0582",
+   "numero": 582,
+   "nombre": "Mikhail Tal vs Bukhuti Gurgenidze, Baku 1961",
+   "fen": "r1b1r1k1/2q1bppp/p2p1n2/1p2p3/3PP3/1B1n1N1P/PB1N1PP1/R2QR1K1 w - - 0 17",
+   "solucionUci": [
+    "b3f7",
+    "g8f8",
+    "f7e8",
+    "d3b2",
+    "d1b1",
+    "b2a4",
+    "e1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0583",
+   "numero": 583,
+   "nombre": "Mikhail Tal vs Paul Keres, Curacao 1962",
+   "fen": "r1bq1rk1/5ppp/p1Np1b2/1p6/4P3/P4Q1P/1PBB1nP1/R3R1K1 b - - 0 20",
+   "solucionUci": [
+    "f2h3",
+    "g1h2",
+    "f6e5",
+    "c6e5",
+    "d6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0584",
+   "numero": 584,
+   "nombre": "Mikhail Tal vs Aleksandar Matanovic, Moscow 1963",
+   "fen": "2r3k1/1nqbrp2/p5pp/1p1Pp1N1/8/1P5P/P1B2PP1/2RQR1K1 w - - 0 24",
+   "solucionUci": [
+    "g5f7",
+    "e7f7",
+    "c2g6",
+    "c7d6",
+    "g6f7",
+    "g8f7",
+    "c1c8",
+    "d7c8",
+    "d1c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0585",
+   "numero": 585,
+   "nombre": "Mikhail Tal vs Robert Wade, Reykjavik 1964",
+   "fen": "1r1qrbk1/1p3p1p/p2p2p1/P2NpBn1/4P3/2P3P1/1P3P1P/R2Q1RK1 w - - 0 21",
+   "solucionUci": [
+    "f5d7",
+    "e8e6",
+    "d7e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0586",
+   "numero": 586,
+   "nombre": "Mikhail Tal vs Vladimir Ljavdansky, Kiev 1964",
+   "fen": "5rk1/7p/pqb1Ppp1/1p3p2/7R/2N5/PPPQ2PP/7K w - - 0 29",
+   "solucionUci": [
+    "e6e7",
+    "f8e8",
+    "c3d5",
+    "c6d5",
+    "d2d5",
+    "g8g7",
+    "h4h7",
+    "g7h7",
+    "d5f7",
+    "h7h6",
+    "f7e8",
+    "b6f2",
+    "e8h8",
+    "h6g5",
+    "h2h4",
+    "g5g4",
+    "e7e8q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0587",
+   "numero": 587,
+   "nombre": "Mikhail Tal vs Svetozar Gligoric, Reykjavik 1964",
+   "fen": "2r1rbk1/2q3pp/p1b2p2/1p1pnN2/4P1Q1/1P5P/PB3PP1/1B1RR1K1 w - - 0 27",
+   "solucionUci": [
+    "b2e5",
+    "e8e5",
+    "f5h6",
+    "g8h8",
+    "h6f7",
+    "c7f7",
+    "g4c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0588",
+   "numero": 588,
+   "nombre": "Anatoly Bykhovsky vs Mikhail Tal, Kislovodsk 1964",
+   "fen": "8/3nbp1k/ppR4p/5P1N/P3P2P/1r3B2/6K1/8 b - - 0 37",
+   "solucionUci": [
+    "b3f3",
+    "c6c7",
+    "f3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0589",
+   "numero": 589,
+   "nombre": "Mikhail Tal vs Georgi Tringov, Amsterdam 1964",
+   "fen": "r1b1k1nr/1p1n1pbp/p1pQ2p1/4p3/2B1PB2/2q2N2/P1P2PPP/1R1R2K1 w kq - 0 15",
+   "solucionUci": [
+    "c4f7",
+    "e8f7",
+    "f3g5",
+    "f7e8",
+    "d6e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0590",
+   "numero": 590,
+   "nombre": "Mikhail Tal vs Wladyslaw Schinzel, Warsaw 1966 (Simul)",
+   "fen": "2rrb1k1/p4ppp/4pn2/1p2N3/3P4/qBPQ3R/P4PPP/4R1K1 w - - 0 20",
+   "solucionUci": [
+    "e5g4",
+    "f6g4",
+    "d3h7",
+    "g8f8",
+    "h7h8",
+    "f8e7",
+    "h8g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0591",
+   "numero": 591,
+   "nombre": "Mikhail Tal vs Svend Hamann, Kislovodsk 1966",
+   "fen": "r1b4r/1p2kp2/pqp1pp2/7p/4P3/3R4/P1PQBPPP/3R2K1 w - - 0 17",
+   "solucionUci": [
+    "e4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0592",
+   "numero": 592,
+   "nombre": "Mikhail Tal vs Mato Damjanovic, Sarajevo 1966",
+   "fen": "3r1k2/5p2/r1p2p1p/1p6/n1bP1NP1/R1P2P2/2BK3P/R7 w - - 0 28",
+   "solucionUci": [
+    "c2a4",
+    "d8a8",
+    "a4b5",
+    "c4b5",
+    "a3a6",
+    "a8a6",
+    "a1a6",
+    "b5a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0593",
+   "numero": 593,
+   "nombre": "Erling Kristiansen vs Mikhail Tal, Havana 1966 (Olympiad)",
+   "fen": "3qr1k1/1b1n1p1p/p2Pp1p1/2p1PP2/r1Bp4/6QP/4NRP1/2R3K1 b - - 0 25",
+   "solucionUci": [
+    "a4c4",
+    "c1c4",
+    "e6f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0594",
+   "numero": 594,
+   "nombre": "Mikhail Tal vs Svetozar Gligoric, Budva 1967",
+   "fen": "r4bk1/2pQ2p1/p6B/2n1qp2/p7/2P3RP/5PP1/1R4K1 w - - 0 27",
+   "solucionUci": [
+    "h6g7",
+    "f8g7",
+    "g3g7",
+    "e5g7",
+    "d7d5",
+    "g8h7",
+    "d5a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0595",
+   "numero": 595,
+   "nombre": "Lajos Portisch vs Mikhail Tal, Moscow 1967",
+   "fen": "r2q1rk1/1p3pbp/p2p2p1/nPpPp2n/4P3/3Q2P1/PPNB1PBP/R4RK1 w - - 0 16",
+   "solucionUci": [
+    "b5b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0596",
+   "numero": 596,
+   "nombre": "Mikhail Tal vs Evgeni Vasiukov, Kharkov 1967",
+   "fen": "3r1k2/p5pp/2P5/1R4p1/2n5/1Bb4P/P4PP1/5K2 w - - 0 34",
+   "solucionUci": [
+    "c6c7",
+    "d8e8",
+    "b5b8",
+    "c4b6",
+    "b3a4",
+    "e8c8",
+    "a4d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0597",
+   "numero": 597,
+   "nombre": "Mikhail Tal vs Alexander Cherepkov, Alma-Ata 1968",
+   "fen": "3r2k1/2q1bppp/2n1b3/1ppPp3/8/2P2N1P/1PB2PP1/2BQR1K1 w - - 0 22",
+   "solucionUci": [
+    "c2h7",
+    "g8h7",
+    "d1c2",
+    "h7g8",
+    "d5e6",
+    "f7e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0598",
+   "numero": 598,
+   "nombre": "Bent Larsen vs Mikhail Tal, Eersel 1969",
+   "fen": "N5k1/pp2r1bp/3p4/3P4/7q/4Q2b/PP3N1P/2R1K1R1 w - - 0 31",
+   "solucionUci": [
+    "g1g7",
+    "g8g7",
+    "c1c7",
+    "h3d7",
+    "c7d7",
+    "e7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0599",
+   "numero": 599,
+   "nombre": "Vladimir Tukmakov vs Mikhail Tal, Moscow 1969",
+   "fen": "1r4k1/3b1q1p/pr1p1np1/2pP4/2Bb2P1/1PN2P2/Q2B2KP/1RR5 b - - 0 27",
+   "solucionUci": [
+    "f6g4",
+    "f3g4",
+    "f7f2",
+    "g2h3",
+    "f2f3",
+    "h3h4",
+    "f3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0600",
+   "numero": 600,
+   "nombre": "Mikhail Tal vs Alexey Suetin, Tbilisi 1969",
+   "fen": "r3k2r/2q1np1p/p2pP1p1/1p2n2Q/8/2PBB3/P1PR2PP/5RK1 w kq - 0 20",
+   "solucionUci": [
+    "h5e5",
+    "d6e5",
+    "e6f7",
+    "e8d7",
+    "d3f5",
+    "d7c6",
+    "f5e4",
+    "e7d5",
+    "d2d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0601",
+   "numero": 601,
+   "nombre": "Mikhail Tal vs Viktor Korchnoi, Herceg Novi 1970 (Blitz)",
+   "fen": "2b2r1k/r5pp/p1B2p2/2q5/Pp6/1Pp5/2P1QPPP/3RR1K1 w - - 0 23",
+   "solucionUci": [
+    "e2e8",
+    "a7f7",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0602",
+   "numero": 602,
+   "nombre": "Gedeon Barcza vs Mikhail Tal, Tallinn 1971",
+   "fen": "r1bq1rk1/ppp1npbp/3p2p1/4p3/3nP3/3PBNP1/PPPQNPBP/R3K2R b KQ - 0 9",
+   "solucionUci": [
+    "c8h3",
+    "f3d4",
+    "h3g2",
+    "h1g1",
+    "e5d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0603",
+   "numero": 603,
+   "nombre": "Mikhail Tal vs Andres Vooremaa, Tallinn 1971",
+   "fen": "r1bk1bQ1/1p1pRr2/p2n1P2/5P2/3p1N2/8/qPP3PP/4R2K w - - 0 27",
+   "solucionUci": [
+    "f4e6",
+    "d7e6",
+    "e7f7",
+    "d6f7",
+    "g8f8",
+    "d8c7",
+    "f8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0604",
+   "numero": 604,
+   "nombre": "Karoly Honfi vs Mikhail Tal, Sukhumi 1972",
+   "fen": "r1r3k1/5p1p/3b2p1/3Pp3/4B1P1/1PR5/qPK1Q2P/2BR4 b - - 0 30",
+   "solucionUci": [
+    "c8c3",
+    "c2c3",
+    "d6b4",
+    "c3b4",
+    "a2a5",
+    "b4c4",
+    "a5a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0605",
+   "numero": 605,
+   "nombre": "Mikhail Tal vs Leonid Shamkovich, Baku 1972",
+   "fen": "r1b2r1k/1pq2p1p/p3pp2/4b3/6Q1/1N1B4/PPP3PP/1K1R1R2 w - - 0 20",
+   "solucionUci": [
+    "d3h7",
+    "h8h7",
+    "f1f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0606",
+   "numero": 606,
+   "nombre": "Mikhail Tal vs Valeri Korensky, Sochi 1973",
+   "fen": "3qnrk1/r3bppp/p2p3B/2p1pN2/P3P2N/1b1P1Q2/1P3PPP/R4RK1 w - - 0 20",
+   "solucionUci": [
+    "f5g7",
+    "e8g7",
+    "f3g3",
+    "e7g5",
+    "h6g5",
+    "f7f6",
+    "g5h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0607",
+   "numero": 607,
+   "nombre": "Mikhail Tal vs William Hartston, Hastings 1973",
+   "fen": "2q2rk1/3rbpn1/pB2p1pQ/1p2P2p/4B3/8/PPP3PP/4RR1K w - - 0 24",
+   "solucionUci": [
+    "f1f7",
+    "f8f7",
+    "e4g6",
+    "g7f5",
+    "g6f7",
+    "g8f7",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0608",
+   "numero": 608,
+   "nombre": "Michael Basman vs Mikhail Tal, Hastings 1973",
+   "fen": "1r3rk1/2Q2p1p/4q1p1/1b6/8/p1BnP1P1/PP4BP/R4RK1 w - - 0 28",
+   "solucionUci": [
+    "f1f7",
+    "f8f7",
+    "c7b8",
+    "b5e8",
+    "c3d4",
+    "a3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0609",
+   "numero": 609,
+   "nombre": "Mikhail Tal vs Paul Keres, Tallinn 1973",
+   "fen": "2r1r1k1/1ppb1pp1/p1np2np/3Np3/3PP3/2P2qP1/PP1Q1P1P/R2BR1K1 b - - 0 17",
+   "solucionUci": [
+    "g6h4",
+    "g3h4",
+    "f3h3",
+    "d5f6",
+    "g7f6",
+    "d2h6",
+    "e5d4",
+    "g1h1",
+    "c6e5",
+    "e1g1",
+    "d7g4",
+    "g1g3",
+    "h3f1",
+    "g3g1",
+    "f1h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0610",
+   "numero": 610,
+   "nombre": "Mikhail Tal vs Michael Stean, Moscow 1975",
+   "fen": "2rq1bk1/pp1b1pp1/5n1p/n2BrN2/8/2N1B1PP/PPQ1PP2/3R1RK1 w - - 0 18",
+   "solucionUci": [
+    "f5h6",
+    "g7h6",
+    "c2g6",
+    "g8h8",
+    "d5f7",
+    "e5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0611",
+   "numero": 611,
+   "nombre": "Oleg Romanishin vs Mikhail Tal, Tallinn 1977",
+   "fen": "6r1/pp2Q1pk/7p/2p2N2/1qP1P3/1P3rP1/P4P1P/5RK1 w - - 0 29",
+   "solucionUci": [
+    "f5h6",
+    "h7h6",
+    "e7h4",
+    "h6g6",
+    "h4g4",
+    "g6h6",
+    "g4f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0612",
+   "numero": 612,
+   "nombre": "Mikhail Tal vs Tamaz Giorgadze, Minsk 1979",
+   "fen": "6R1/1p4p1/1N6/p3r2p/Pb4kP/5rP1/1PRn1PK1/8 b - - 0 39",
+   "solucionUci": [
+    "f3g3",
+    "f2g3",
+    "e5e2",
+    "g2h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0613",
+   "numero": 613,
+   "nombre": "Mikhail Tal vs Boris Spassky, Tilburg 1980",
+   "fen": "4qr2/1b1n2k1/r2P1p2/1p2pR1p/2p5/2P4P/1PBQ2P1/5R1K w - - 0 38",
+   "solucionUci": [
+    "f5g5",
+    "g7f7",
+    "c2g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0614",
+   "numero": 614,
+   "nombre": "Mikhail Tal vs Rico Mascarinas, Lvov 1981",
+   "fen": "4r1k1/4b1n1/1q3rP1/p2p1p2/1p3B2/5NN1/PPPQ1P2/1K5R w - - 0 28",
+   "solucionUci": [
+    "f4c7",
+    "b6c7",
+    "h1h8",
+    "g8h8",
+    "d2h6",
+    "h8g8",
+    "h6h7",
+    "g8f8",
+    "h7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0615",
+   "numero": 615,
+   "nombre": "Jan Ambroz vs Mikhail Tal, Riga 1981",
+   "fen": "4rbk1/1q3ppp/3pp3/2n5/3NP3/BP2Q3/5PPP/4R1K1 b - - 0 36",
+   "solucionUci": [
+    "c5e4",
+    "e3e4",
+    "d6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0616",
+   "numero": 616,
+   "nombre": "Mikhail Tal vs David Bronstein, Tbilisi 1982 (Simul match)",
+   "fen": "2b2k2/2p2r1p/p2pR3/1p3PQ1/3q3N/1P6/2P3PP/5K2 w - - 0 30",
+   "solucionUci": [
+    "h4g6",
+    "h7g6",
+    "g5d8",
+    "f8g7",
+    "e6g6",
+    "g7h7",
+    "d8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0617",
+   "numero": 617,
+   "nombre": "Mikhail Tal vs Jim Plaskett, Sochi 1984",
+   "fen": "r2q1rk1/ppp3p1/2npbn1p/3N4/2PP4/3Q2P1/PP4BP/R1B2RK1 w - - 0 14",
+   "solucionUci": [
+    "c1h6",
+    "e6d5",
+    "c4d5",
+    "c6b4",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0618",
+   "numero": 618,
+   "nombre": "Mikhail Tal vs Alexander Shabalov, Jurmala 1985",
+   "fen": "3rn1k1/1pr1bpp1/pn2p1p1/q3P3/3N2P1/P3B2P/1P1R1PB1/R2Q2K1 w - - 0 26",
+   "solucionUci": [
+    "d4e6",
+    "f7e6",
+    "d2d8",
+    "e7d8",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0619",
+   "numero": 619,
+   "nombre": "Zoltan Ribli vs Mikhail Tal, Montpellier 1985",
+   "fen": "5rk1/7p/1npq2pQ/pp2pp2/4P2P/1PPr1BP1/P2N2K1/2BR4 b - - 0 26",
+   "solucionUci": [
+    "d3f3",
+    "d2f3",
+    "d6d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0620",
+   "numero": 620,
+   "nombre": "Mikhail Tal vs Lembit Oll, Riga 1986",
+   "fen": "r1bk1b1r/pp1np1p1/1q3nBp/4p3/2PN4/8/PP1B1PPP/R2Q1RK1 w - - 0 14",
+   "solucionUci": [
+    "c4c5",
+    "d7c5",
+    "d2a5",
+    "e5d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0621",
+   "numero": 621,
+   "nombre": "Mikhail Tal vs Ovidiu Foisor, Tbilisi 1986",
+   "fen": "r2q1rk1/1b2bppp/p2ppn2/8/1BR1P3/1PN3P1/P2Q1PBP/R5K1 w - - 0 18",
+   "solucionUci": [
+    "e4e5",
+    "f6d5",
+    "c3d5",
+    "e6d5",
+    "g2d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0622",
+   "numero": 622,
+   "nombre": "Mikhail Tal vs Miguel Quinteros, Santiago del Estero 1987 (Blitz)",
+   "fen": "1r3rk1/p3pp1p/1q1p1npQ/3P1nN1/1pp5/2N4P/PPP1B1P1/R4R1K w - - 0 21",
+   "solucionUci": [
+    "f1f5",
+    "g6f5",
+    "c3e4",
+    "f5e4",
+    "a1f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0623",
+   "numero": 623,
+   "nombre": "Mikhail Tal vs Johann Hjartarson, Reykjavik 1987",
+   "fen": "rR6/2nb2kp/2Np2p1/3Pp2n/1P2Pp2/3q1N1P/1Q3PP1/6K1 w - - 0 39",
+   "solucionUci": [
+    "c6e5",
+    "d3d1",
+    "g1h2",
+    "a8a1",
+    "e5g4",
+    "g7f7",
+    "g4h6",
+    "f7e7",
+    "h6g8",
+    "e7f7",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0624",
+   "numero": 624,
+   "nombre": "Mikhail Tal vs Eduard Meduna, Germany 1989",
+   "fen": "r1b1k2r/pp1nbppp/1q2pn2/6N1/2Bp4/5N2/PPP2PPP/R1BQR1K1 w kq - 0 11",
+   "solucionUci": [
+    "g5f7",
+    "e8f7",
+    "e1e6",
+    "b6b4",
+    "e6f6",
+    "f7f6",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0625",
+   "numero": 625,
+   "nombre": "Soenke Maus vs Mikhail Tal, Germany 1990",
+   "fen": "1r2r1k1/3b1n1p/1q2pbp1/1p1p4/1N3N2/1P4PP/P2Q1PB1/R2R2K1 w - - 0 24",
+   "solucionUci": [
+    "b4d5",
+    "e6d5",
+    "f4d5",
+    "b6d6",
+    "d5f6",
+    "d6f6",
+    "d2d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0626",
+   "numero": 626,
+   "nombre": "Mikhail Tal vs Vladimir Akopian, Barcelona 1992",
+   "fen": "2r4k/5p1p/2bQP3/5pr1/1PpR1P2/2q5/P4K1P/4R3 w - - 0 32",
+   "solucionUci": [
+    "d6e5",
+    "g5g7",
+    "d4d8",
+    "c8d8",
+    "e5c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0627",
+   "numero": 627,
+   "nombre": "Malashkhia vs Tigran Petrosian, Tbilisi 1944",
+   "fen": "r4rk1/pp2ppbp/3p2p1/5P2/3BP1n1/2N5/PqP1Q2P/3R1RK1 w - - 0 17",
+   "solucionUci": [
+    "f5f6",
+    "g7f6",
+    "f1f6",
+    "g4f6",
+    "c3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0628",
+   "numero": 628,
+   "nombre": "Agamalian vs Tigran Petrosian, Tbilisi 1944",
+   "fen": "3r2k1/pp2ppbp/6p1/n2p4/3P2b1/PP2PNP1/R4PKP/B1rB1R2 b - - 0 26",
+   "solucionUci": [
+    "a5b3",
+    "a1b2",
+    "c1b1",
+    "d1b3",
+    "g4f3",
+    "g2g1",
+    "b1f1",
+    "g1f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0629",
+   "numero": 629,
+   "nombre": "Yury Vasilchuk vs Tigran Petrosian, Leningrad 1945",
+   "fen": "4N1r1/p3n1pQ/1p2p2P/1P2kp2/r5P1/8/5P1K/8 w - - 0 39",
+   "solucionUci": [
+    "h7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0630",
+   "numero": 630,
+   "nombre": "Palavandishvili vs Tigran Petrosian, Tbilisi 1945",
+   "fen": "r4rk1/p4ppp/1pn1pn2/3q4/3P4/2PBBP2/P1Q2P1P/2KR3R b - - 0 14",
+   "solucionUci": [
+    "c6b4",
+    "c2b3",
+    "b4d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0631",
+   "numero": 631,
+   "nombre": "Nersesov vs Tigran Petrosian, Tbilisi 1945",
+   "fen": "r3r1k1/3q1ppp/5n2/2Rp4/p4P2/P2QPNPP/P3K3/7R b - - 0 23",
+   "solucionUci": [
+    "f6e4",
+    "c5d5",
+    "d7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0632",
+   "numero": 632,
+   "nombre": "Nikolay Grigoriev vs Tigran Petrosian, Tbilisi 1945",
+   "fen": "6k1/p4ppp/4p3/1r2P3/3p1q1P/1r1P4/QP2KNP1/1R5R b - - 0 25",
+   "solucionUci": [
+    "b5e5",
+    "e2f1",
+    "e5f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0633",
+   "numero": 633,
+   "nombre": "Kristaps Smilga vs Tigran Petrosian, Leningrad 1946",
+   "fen": "2r2bk1/8/4p1p1/4PpP1/1pqBpP2/r1P1R3/PQR3K1/8 b - - 0 37",
+   "solucionUci": [
+    "a3a2",
+    "b2a2",
+    "b4b3",
+    "a2b2",
+    "b3c2",
+    "b2c2",
+    "c4d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0634",
+   "numero": 634,
+   "nombre": "Tigran Petrosian vs Yuri Kotkov, Leningrad 1946",
+   "fen": "2rq1r1k/3b1pp1/p3pb1p/1p6/1PN1B3/4PN2/2Q2PPP/3R1RK1 w - - 0 19",
+   "solucionUci": [
+    "d1d7",
+    "d8d7",
+    "c4b6",
+    "c8c2",
+    "b6d7",
+    "c2c4",
+    "f3d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0635",
+   "numero": 635,
+   "nombre": "Tigran Petrosian vs Genrikh Kasparian, Yerevan 1946",
+   "fen": "2kr3r/pp3pp1/2pPp1p1/4P3/3Q1P2/P1n4P/2qB2PK/RR6 b - - 0 28",
+   "solucionUci": [
+    "h8h3",
+    "g2h3",
+    "c3b1",
+    "a1b1",
+    "c2b1",
+    "d4a7",
+    "b1b5",
+    "d2a5",
+    "d8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0636",
+   "numero": 636,
+   "nombre": "Tigran Petrosian vs Manoian, Yerevan 1948",
+   "fen": "r6r/1q5k/p5pn/3pQ1P1/1P4P1/2P4R/2P4P/6K1 b - - 0 32",
+   "solucionUci": [
+    "b7g7",
+    "h3h6",
+    "h7g8",
+    "e5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0637",
+   "numero": 637,
+   "nombre": "Alexander Kotov vs Tigran Petrosian, Moscow 1949",
+   "fen": "rnbqk2r/pp2bppp/2p5/3p2B1/3Pn3/2N1P3/PPQ2PPP/R3KBNR w KQkq - 0 8",
+   "solucionUci": [
+    "g5e7",
+    "d8e7",
+    "c3d5",
+    "c6d5",
+    "c2c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0638",
+   "numero": 638,
+   "nombre": "Tigran Petrosian vs Alexey Sokolsky, Moscow 1949",
+   "fen": "rb1qrnk1/p4ppp/1ppP1p2/2P5/8/1B1bB2P/PP1N1PP1/R2Q1RK1 w - - 0 17",
+   "solucionUci": [
+    "b3f7",
+    "g8f7",
+    "d1b3",
+    "e8e6",
+    "b3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0639",
+   "numero": 639,
+   "nombre": "Boris Ratner vs Tigran Petrosian, Gorky 1950",
+   "fen": "3r1rk1/1p4bp/1qp3p1/p1n5/2PR2P1/1PB4P/PQ3PB1/5RK1 b - - 0 30",
+   "solucionUci": [
+    "c5a4",
+    "b3a4",
+    "b6b2",
+    "c3b2",
+    "g7d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0640",
+   "numero": 640,
+   "nombre": "Tigran Petrosian vs Ratmir Kholmov, Vilnius 1951",
+   "fen": "5rk1/R4pp1/7p/p2r4/4Q3/3n3P/1q2BPP1/3R2K1 b - - 0 34",
+   "solucionUci": [
+    "d3f2",
+    "a7b7",
+    "d5d1",
+    "e2d1",
+    "b2d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0641",
+   "numero": 641,
+   "nombre": "Herman Pilnik vs Tigran Petrosian, Budapest 1952",
+   "fen": "2r2k2/8/p1pP1r2/2P2p2/B4ppp/7P/PP3PP1/4R1K1 w - - 0 36",
+   "solucionUci": [
+    "a4c6",
+    "f8g7",
+    "e1e7",
+    "g7f8",
+    "e7e5",
+    "c8c6",
+    "d6d7",
+    "f6d6",
+    "e5f5",
+    "f8g7",
+    "f5g5",
+    "g7h6",
+    "c5d6",
+    "g4g3",
+    "g1f1",
+    "c6d6",
+    "g5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0642",
+   "numero": 642,
+   "nombre": "Tigran Petrosian vs Ludek Pachman, Saltsjobaden 1952",
+   "fen": "rn4k1/ppb2qp1/2p3r1/4PN2/5PQ1/5R2/PP4PP/3R2K1 w - - 0 24",
+   "solucionUci": [
+    "g4g6",
+    "f7g6",
+    "f5e7",
+    "g8f7",
+    "e7g6",
+    "f7g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0643",
+   "numero": 643,
+   "nombre": "Zdravko Milev vs Tigran Petrosian, Bucharest 1953",
+   "fen": "r3r1k1/p4p1p/q2p2p1/3P4/Pp1QnP2/6P1/1P5P/RN2R1K1 b - - 0 24",
+   "solucionUci": [
+    "e4g3",
+    "e1e8",
+    "a8e8",
+    "h2g3",
+    "e8e1",
+    "g1h2",
+    "a6e2",
+    "h2h3",
+    "e1h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0644",
+   "numero": 644,
+   "nombre": "Laszlo Szabo vs Tigran Petrosian, Zurich 1953",
+   "fen": "2r1n1k1/2q1bpp1/p1r4p/8/N1NRP3/8/P3QPPP/2R3K1 b - - 0 28",
+   "solucionUci": [
+    "e7f6",
+    "e4e5",
+    "f6e5",
+    "d4e4",
+    "e8f6",
+    "e4e5",
+    "c6c4",
+    "c1c4",
+    "c7c4",
+    "e2c4",
+    "c8c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0645",
+   "numero": 645,
+   "nombre": "Gideon Stahlberg vs Tigran Petrosian, Zurich 1953",
+   "fen": "r4rk1/1ppb1pb1/3p1qp1/2nPp2p/p1P1P2P/P1N3PB/1P3P1K/1R1QNR2 b - - 0 17",
+   "solucionUci": [
+    "d7h3",
+    "h2h3",
+    "c5e4",
+    "c3e4",
+    "f6f5",
+    "h3h2",
+    "f5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0646",
+   "numero": 646,
+   "nombre": "Mark Taimanov vs Tigran Petrosian, Zurich 1953",
+   "fen": "r1n1q1k1/5rpp/4b3/p2pPp2/2pP1P1Q/B1P2R2/2B3PP/R5K1 w - - 0 24",
+   "solucionUci": [
+    "c2a4",
+    "e6d7",
+    "e5e6",
+    "e8e6",
+    "h4d8",
+    "e6e8",
+    "d8e8",
+    "d7e8",
+    "a4e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0647",
+   "numero": 647,
+   "nombre": "Svetozar Gligoric vs Tigran Petrosian, Belgrade 1954",
+   "fen": "1n3rk1/7q/p1P2p2/1n1P1Rpp/1Q6/3N4/4r1PP/5RK1 w - - 0 33",
+   "solucionUci": [
+    "f5g5",
+    "g8f7",
+    "f1f6",
+    "f7f6",
+    "b4f8",
+    "f6g5",
+    "h2h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0648",
+   "numero": 648,
+   "nombre": "Tigran Petrosian vs Pal Benko, Budapest 1955",
+   "fen": "2k4r/p3qp2/bp1r1npp/n1pPp3/2P1P2B/P1PB1N2/6PP/R2Q1RK1 w - - 0 18",
+   "solucionUci": [
+    "f3e5",
+    "e7e5",
+    "h4g3",
+    "e5e7",
+    "e4e5",
+    "d6d7",
+    "f1f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0649",
+   "numero": 649,
+   "nombre": "Tigran Petrosian vs Alexander Tolush, Riga 1958",
+   "fen": "5rk1/p1r2qpp/8/2p1Rp2/1n2n2P/1P2P1P1/PB3PB1/2RQ2K1 w - - 0 29",
+   "solucionUci": [
+    "g2f1",
+    "g8h8",
+    "f1c4",
+    "f7f6",
+    "e5e8",
+    "f8e8",
+    "b2f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0650",
+   "numero": 650,
+   "nombre": "Tigran Petrosian vs Eduard Gufeld, Tbilisi 1959",
+   "fen": "rn2brk1/5ppp/1q2p3/p2p4/3P4/P1NBQ3/1P3PPP/2R1R1K1 w - - 0 23",
+   "solucionUci": [
+    "c3d5",
+    "e6d5",
+    "e3e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0651",
+   "numero": 651,
+   "nombre": "Leonid Stein vs Tigran Petrosian, Moscow 1961",
+   "fen": "3qk3/pr3ppr/4p1n1/1p1pP3/b1pP2B1/2P3P1/2P2RP1/2BQ1RK1 w - - 0 26",
+   "solucionUci": [
+    "g4e6",
+    "f7e6",
+    "d1g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0652",
+   "numero": 652,
+   "nombre": "Tigran Petrosian vs Paul Keres, Zurich 1961",
+   "fen": "r4rk1/p1n1B1pp/bp1p4/2p1pP2/2PnP1PQ/Pq1B3N/1P5P/3R1RK1 b - - 0 22",
+   "solucionUci": [
+    "b3d1",
+    "f1d1",
+    "d4f3",
+    "g1g2",
+    "f3h4",
+    "e7h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0653",
+   "numero": 653,
+   "nombre": "Semen Furman vs Tigran Petrosian, Moscow 1961",
+   "fen": "3rr3/5pkp/p1b3p1/4p3/p2nPn2/N6P/2P2PP1/R1N1RBK1 b - - 0 31",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "d4f3",
+    "g1h1",
+    "f3e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0654",
+   "numero": 654,
+   "nombre": "Tigran Petrosian vs Georgi Ilivitzki, Moscow) 1964",
+   "fen": "2rr1nk1/pp3ppp/4qn2/3p1N2/6P1/2BQP2P/PP3P2/1K1R3R w - - 0 22",
+   "solucionUci": [
+    "f5g7",
+    "g8g7",
+    "g4g5",
+    "f8d7",
+    "d3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0655",
+   "numero": 655,
+   "nombre": "Tigran Petrosian vs Leonid Stein, Moscow 1967",
+   "fen": "r4rk1/1ppb4/n2p1npb/3Ppp1q/1PP1P3/2N2NP1/2Q1BB2/1R1R2K1 w - - 0 25",
+   "solucionUci": [
+    "f3e5",
+    "h5h3",
+    "e2f1",
+    "h3h5",
+    "f1e2",
+    "h5h3",
+    "e2f1",
+    "h3h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0656",
+   "numero": 656,
+   "nombre": "Tigran Petrosian vs Aron Reshko, Leningrad 1967",
+   "fen": "2r5/p4pk1/1p4pp/4P2n/6R1/5Q2/PPBr3q/1K1R4 w - - 0 28",
+   "solucionUci": [
+    "g4g6",
+    "f7g6",
+    "f3b7",
+    "g7h8",
+    "b7c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0657",
+   "numero": 657,
+   "nombre": "Tigran Petrosian vs Jonathan Penrose, Palma de Mallorca 1969",
+   "fen": "2r5/7p/3q2k1/p2Np1p1/Pp1bPpP1/1P3P2/4Q2P/3R3K w - - 0 38",
+   "solucionUci": [
+    "d5e7",
+    "d6e7",
+    "e2a6",
+    "g6g7",
+    "a6c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0658",
+   "numero": 658,
+   "nombre": "Tigran Petrosian vs Boris Spassky, Moscow 1969",
+   "fen": "4r1k1/pp3pp1/5q1p/P1Rp4/3P1nP1/1P3PN1/3Q1K1P/1b3B2 b - - 0 38",
+   "solucionUci": [
+    "b1d3",
+    "g3f5",
+    "f6g5",
+    "f5e3",
+    "g5h4",
+    "f2g1",
+    "d3f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0659",
+   "numero": 659,
+   "nombre": "Tigran Petrosian vs Vladimir Savon, Moscow 1969",
+   "fen": "r4r2/1p2pkbQ/5qp1/8/p3P3/4B2R/P4PP1/2R2K2 w - - 0 29",
+   "solucionUci": [
+    "e4e5",
+    "f6e5",
+    "e3h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0660",
+   "numero": 660,
+   "nombre": "Lev Polugaevsky vs Tigran Petrosian, Soviet Union 1970",
+   "fen": "2r1r1k1/p1qn1p1p/1p3n2/2p2P2/2PpP2P/1P2b1P1/PB1NQ1NK/R4R2 b - - 0 23",
+   "solucionUci": [
+    "e3d2",
+    "e2d2",
+    "c7g3",
+    "h2g3",
+    "f6e4",
+    "g3f4",
+    "e4d2",
+    "f1e1",
+    "d7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0661",
+   "numero": 661,
+   "nombre": "Rudolf Maric vs Tigran Petrosian, Vinkovci 1970",
+   "fen": "5k2/1brnrpb1/p1pR1np1/Pp2p1N1/4P3/1BN1B2P/1PP2P2/3R2K1 w - - 0 22",
+   "solucionUci": [
+    "b3f7",
+    "e7f7",
+    "g5e6",
+    "f8g8",
+    "e6c7",
+    "g7f8",
+    "c7e8",
+    "g8h7",
+    "d6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0662",
+   "numero": 662,
+   "nombre": "Tigran Petrosian vs Anthony Saidy, San Antonio 1972",
+   "fen": "3r2k1/pb2bpp1/1pn1p2p/8/1P2q3/PQ2PN1P/1B2BPP1/3R2K1 w - - 0 21",
+   "solucionUci": [
+    "e2d3",
+    "e4d5",
+    "d3h7",
+    "g8h7",
+    "d1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0663",
+   "numero": 663,
+   "nombre": "Tigran Petrosian vs Miguel Quinteros, Manila 1974",
+   "fen": "2r2k2/5p2/2pp1q1p/2n1bPp1/2P5/B3Q1PP/5PB1/3R3K w - - 0 38",
+   "solucionUci": [
+    "f2f4",
+    "g5f4",
+    "g3f4",
+    "e5b2",
+    "d1d6",
+    "c8e8",
+    "d6f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0664",
+   "numero": 664,
+   "nombre": "Tigran Petrosian vs Radolfo Cardoso, Manila 1974",
+   "fen": "3r4/p5k1/1pp2bn1/4p3/2P1N1q1/1PB1Q1P1/P5K1/7R w - - 0 36",
+   "solucionUci": [
+    "h1h7",
+    "g7h7",
+    "e4f6",
+    "h7g7",
+    "f6g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0665",
+   "numero": 665,
+   "nombre": "Tigran Petrosian vs Bukhuti Gurgenidze, Riga 1975",
+   "fen": "r2q1rk1/pp2n1b1/3p2pp/1b1Pp1B1/1P2N3/1Q4PP/P4PB1/R1R3K1 w - - 0 19",
+   "solucionUci": [
+    "e4d6",
+    "h6g5",
+    "d6b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0666",
+   "numero": 666,
+   "nombre": "Tigran Petrosian vs Nigel Short, London 1978 (Simul)",
+   "fen": "2r3k1/pq2n1b1/4prN1/1pPbN1p1/3P2P1/8/P6Q/1B2RRK1 b - - 0 37",
+   "solucionUci": [
+    "f6g6",
+    "h2h5",
+    "g6h6",
+    "h5f7",
+    "g8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0667",
+   "numero": 667,
+   "nombre": "Gerardo Lebredo Zarragoitia vs Tigran Petrosian, Vilnius 1978",
+   "fen": "5r1k/p5p1/1p3n1p/1Pp5/2RPp3/P3P2P/2Q3PK/2N1q3 b - - 0 32",
+   "solucionUci": [
+    "f6g4",
+    "h3g4",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0668",
+   "numero": 668,
+   "nombre": "Lev Polugaevsky vs Tigran Petrosian, Kislovodsk 1982",
+   "fen": "2brrbk1/3n3p/pp1Pp1p1/5p2/PqP2P2/2N2B2/1B2Q1PP/3R1R1K w - - 0 24",
+   "solucionUci": [
+    "c3d5",
+    "e6d5",
+    "f3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0669",
+   "numero": 669,
+   "nombre": "Boris Spassky vs Vladlen Zurakhov, Leningrad 1954",
+   "fen": "1r5k/6p1/p1pQ1p1p/1q6/1n2N3/1P6/1KP2PPP/3R4 w - - 0 29",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "d6f6",
+    "h8g8",
+    "d1d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0670",
+   "numero": 670,
+   "nombre": "Semen Furman vs Boris Spassky, Moscow 1955",
+   "fen": "4r1k1/pQ4pp/2r5/1bq2p1n/2p1P3/P1P2P2/3BB1PP/R3R2K w - - 0 24",
+   "solucionUci": [
+    "d2e3",
+    "c5e5",
+    "f3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0671",
+   "numero": 671,
+   "nombre": "Boris Spassky vs Mark Taimanov, Moscow 1955",
+   "fen": "r3kb1r/1bp1n2p/p3qp2/1p2p1p1/4P2N/1PN1BQ2/1PP2PPP/R2R2K1 w kq - 0 15",
+   "solucionUci": [
+    "c3b5",
+    "a6b5",
+    "f3h5",
+    "e6f7",
+    "a1a8",
+    "b7a8",
+    "d1d8",
+    "e8d8",
+    "h5f7",
+    "g5h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0672",
+   "numero": 672,
+   "nombre": "Nikolai Krogius vs Boris Spassky, Leningrad 1957",
+   "fen": "4N2k/4B3/6pp/pp3p2/2bb1PP1/P1n2K2/2B4P/8 b - - 0 39",
+   "solucionUci": [
+    "c4d5",
+    "f3g3",
+    "c3e2",
+    "g3h3",
+    "e2f4",
+    "h3g3",
+    "f4e2",
+    "g3h3",
+    "e2g1",
+    "h3g3",
+    "f5f4",
+    "g3f4",
+    "g1e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0673",
+   "numero": 673,
+   "nombre": "David Bronstein vs Boris Spassky, Riga 1958",
+   "fen": "r4r1k/pb2Nppp/1p3n2/q3n3/N3p2R/1B2P3/PP3PPP/R3Q1K1 b - - 0 20",
+   "solucionUci": [
+    "e5f3",
+    "g2f3",
+    "a5g5",
+    "g1h1",
+    "g5h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0674",
+   "numero": 674,
+   "nombre": "Boris Spassky vs Fridrik Olafsson, Moscow 1959",
+   "fen": "4rr1k/5p2/p2p3q/1p1n1PRP/2p1pQ2/2P5/PPB2PR1/7K w - - 0 34",
+   "solucionUci": [
+    "g5g8",
+    "h8h7",
+    "g2g7",
+    "h6g7",
+    "g8g7",
+    "h7g7",
+    "f5f6",
+    "d5f6",
+    "f4g5",
+    "g7h7",
+    "g5f6",
+    "e8e5",
+    "c2e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0675",
+   "numero": 675,
+   "nombre": "Igor Zaitsev vs Boris Spassky, Rostov on Don 1960",
+   "fen": "1n3r2/r4p1k/p2R2p1/2p5/1p2q3/1QB1P3/PP3P2/2K3R1 w - - 0 23",
+   "solucionUci": [
+    "b3c4",
+    "e4c4",
+    "g1h1",
+    "h7g8",
+    "h1h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0676",
+   "numero": 676,
+   "nombre": "Boris Spassky vs Vladimir Shishkin, Rostov on Don 1960",
+   "fen": "1k1r4/2q2p2/Q3pPP1/8/Pb1pP3/1p1P4/8/1KBR4 w - - 0 35",
+   "solucionUci": [
+    "c1f4",
+    "c7f4",
+    "a6b6",
+    "b8c8",
+    "b6b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0677",
+   "numero": 677,
+   "nombre": "Boris Spassky vs Alberto Foguelman, Mar del Plata 1960",
+   "fen": "1n3N1k/r4p2/2pR2pp/1pq1p3/6QP/8/PPp2PP1/3R2K1 w - - 0 25",
+   "solucionUci": [
+    "f8g6",
+    "f7g6",
+    "d6d8",
+    "h8g7",
+    "d8g8",
+    "g7g8",
+    "g4g6",
+    "a7g7",
+    "d1d8",
+    "c5f8",
+    "d8f8",
+    "g8f8",
+    "g6c2",
+    "f8g8",
+    "c2c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0678",
+   "numero": 678,
+   "nombre": "Boris Spassky vs Dragoljub Ciric, Marianske Lazne 1962",
+   "fen": "r1b1r1k1/pp3ppp/3b1q2/3Q2N1/2B5/6K1/PPP3PP/R1B2R2 w - - 0 17",
+   "solucionUci": [
+    "f1f4",
+    "c8e6",
+    "g5e6",
+    "e8e6",
+    "d5d6",
+    "f6g6",
+    "f4g4",
+    "e6e3",
+    "c1e3",
+    "g6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0679",
+   "numero": 679,
+   "nombre": "Boris Spassky vs Valery Bykov, Leningrad 1963",
+   "fen": "4r1k1/pb1q1r1p/2np2p1/2pN1pB1/2P1nP2/P1P2B2/6PP/1R1QR1K1 w - - 0 26",
+   "solucionUci": [
+    "e1e4",
+    "e8e4",
+    "f3e4",
+    "f5e4",
+    "d5f6",
+    "f7f6",
+    "g5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0680",
+   "numero": 680,
+   "nombre": "Boris Spassky vs Viktor Korchnoi, Moscow 1964",
+   "fen": "rn3rk1/pb3ppp/1p2qb2/3p4/3p4/2NN2P1/PP2PPBP/2RQ1RK1 w - - 0 14",
+   "solucionUci": [
+    "c3d5",
+    "b7d5",
+    "d3f4",
+    "e6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0681",
+   "numero": 681,
+   "nombre": "Boris Spassky vs Gyozo Forintos, Sochi 1964",
+   "fen": "2kr1bnr/pppq1ppp/2n5/4P3/2Pp4/1Q3NPb/PP2PPBP/RNB2RK1 w - - 0 9",
+   "solucionUci": [
+    "e5e6",
+    "h3e6",
+    "f3e5",
+    "d7d6",
+    "e5c6",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0682",
+   "numero": 682,
+   "nombre": "Boris Spassky vs Kick Langeweg, Sochi 1967",
+   "fen": "r1r2bk1/p4ppp/1pq5/3R1N2/n1P5/4R3/PB2QPPP/6K1 w - - 0 25",
+   "solucionUci": [
+    "b2g7",
+    "c6d5",
+    "f5h6",
+    "g8g7",
+    "e2g4",
+    "g7f6",
+    "h6g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0683",
+   "numero": 683,
+   "nombre": "Shimon Kagan vs Boris Spassky, Winnipeg 1967",
+   "fen": "3rr1k1/p4pb1/1p4p1/3p1nq1/3P1NPp/1QR1P2P/PP1B1K2/6R1 b - - 0 28",
+   "solucionUci": [
+    "f5e3",
+    "d2e3",
+    "e8e3",
+    "c3e3",
+    "g5f4",
+    "f2e2",
+    "f4h2",
+    "e2f1",
+    "g7d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0684",
+   "numero": 684,
+   "nombre": "Boris Spassky vs Klaus Darga, Beverwijk 1967",
+   "fen": "5rk1/1prnqpp1/p3p2p/P2nN3/3P4/1B5P/1P2QPP1/R2R2K1 w - - 0 21",
+   "solucionUci": [
+    "e5g6",
+    "f7g6",
+    "b3d5",
+    "f8f6",
+    "a1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0685",
+   "numero": 685,
+   "nombre": "Istvan Csom vs Boris Spassky, Amsterdam 1970",
+   "fen": "6k1/p3r1p1/5p2/3P2p1/1P6/8/p4PPP/2R2K2 b - - 0 31",
+   "solucionUci": [
+    "e7c7",
+    "c1d1",
+    "c7c2",
+    "d5d6",
+    "c2d2",
+    "d1c1",
+    "g8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0686",
+   "numero": 686,
+   "nombre": "Mark Taimanov vs Boris Spassky, Rostov on Don 1971",
+   "fen": "3r1rk1/1R3pp1/4q2p/8/8/2pBPRP1/1bQ1P2P/6K1 b - - 0 31",
+   "solucionUci": [
+    "d8d3",
+    "e2d3",
+    "e6d5",
+    "b7b2",
+    "c3b2",
+    "f3f1",
+    "d5e5",
+    "e3e4",
+    "f8a8",
+    "c2b3",
+    "a8a1",
+    "g1g2",
+    "a1c1",
+    "b3f7",
+    "g8h7",
+    "f1f5",
+    "e5d6",
+    "e4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0687",
+   "numero": 687,
+   "nombre": "Boris Spassky vs Derek Banks, Vancouver 1971",
+   "fen": "5nr1/pp3k2/4ppq1/2B1b3/P5Pp/1B6/1P4P1/2RQ2K1 w - - 0 33",
+   "solucionUci": [
+    "b3e6",
+    "f7e6",
+    "d1b3",
+    "e6d7",
+    "b3b7",
+    "d7e6",
+    "c1d1",
+    "g6g4",
+    "b7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0688",
+   "numero": 688,
+   "nombre": "Boris Spassky vs Walter Dobrich, Vancouver 1971",
+   "fen": "r6r/1p1qkp2/p2p1pb1/b1pP3p/4N3/P3P1N1/1P3PPP/R2Q1RK1 w - - 0 17",
+   "solucionUci": [
+    "b2b4",
+    "h5h4",
+    "b4a5",
+    "h4g3",
+    "e4g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0689",
+   "numero": 689,
+   "nombre": "Boris Spassky vs Robert Zuk, Vancouver 1971",
+   "fen": "7k/1b4q1/pp6/2p1p3/P1Q1N3/6R1/1P4PP/6K1 w - - 0 40",
+   "solucionUci": [
+    "e4g5",
+    "b7c8",
+    "c4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0690",
+   "numero": 690,
+   "nombre": "Boris Spassky vs Robert Fischer, Reykjavik 1972",
+   "fen": "5k2/pp4p1/4pp2/1P6/7p/P3P1P1/4KP1b/2B5 w - - 0 32",
+   "solucionUci": [
+    "e2f3",
+    "f8e7",
+    "f3g2",
+    "h4g3",
+    "f2g3",
+    "h2g3",
+    "g2g3",
+    "e7d6",
+    "a3a4",
+    "d6d5",
+    "c1a3",
+    "d5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0691",
+   "numero": 691,
+   "nombre": "Boris Spassky vs Robert Fischer, Reykjavik 1972",
+   "fen": "5k2/3b2p1/1p4qp/p1pPp1p1/P1P1Pn2/2P5/2Q3PP/3BB1K1 b - - 0 27",
+   "solucionUci": [
+    "d7a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0692",
+   "numero": 692,
+   "nombre": "Boris Spassky vs Heikki Westerinen, Dortmund 1973",
+   "fen": "1r2k2r/2pq2p1/b2p4/pNpQP1Pp/3p1P2/6P1/PPP5/2KR3R w k - 0 23",
+   "solucionUci": [
+    "h1h5",
+    "h8f8",
+    "a2a4"
+   ]
+  }
+ ]
+}

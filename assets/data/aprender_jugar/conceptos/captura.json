@@ -1,0 +1,41 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "cp1",
+    "texto": "Capturar es mover tu pieza a la casilla donde hay una pieza rival, que sale del tablero. Cada pieza captura como se mueve (menos el peón, que avanza recto pero captura en diagonal). Capturar es opcional: no siempre conviene.",
+    "fen": "4k3/8/8/3p4/4P3/8/8/4K3 w - - 0 1",
+    "resaltar": [
+     "d5"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "cap1",
+    "texto": "Capturá la pieza rival.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "cap1",
+     "fen": "4k3/8/8/3p4/4P3/8/8/4K3 w - - 0 1",
+     "propiedad": "esCaptura"
+    },
+    "comentario": "El peón captura en diagonal: de e4 a d5.",
+    "exito": "¡Bien! Capturaste un peón."
+   },
+   {
+    "tipo": "actividad",
+    "id": "cap2",
+    "texto": "Ahora capturá con la torre.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "cap2",
+     "fen": "4k3/8/8/8/3q4/8/8/3RK3 w - - 0 1",
+     "propiedad": "esCaptura"
+    },
+    "comentario": "La torre captura en línea recta, igual que se mueve.",
+    "exito": "¡Capturaste la dama! Es la pieza de más valor."
+   }
+  ]
+ }
+}

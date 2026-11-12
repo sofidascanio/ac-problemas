@@ -1,0 +1,68 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "en1",
+    "texto": "El enroque es un movimiento especial que mueve dos piezas a la vez: el rey avanza dos casillas hacia una torre y esa torre salta al otro lado del rey. Sirve para poner al rey a salvo y activar la torre. Hay dos tipos: corto (con la torre de h1) y largo (con la torre de a1).",
+    "fen": "r3k2r/8/8/8/8/8/8/R3K2R w - - 0 1",
+    "resaltar": [
+     "e1",
+     "a1",
+     "h1"
+    ]
+   },
+   {
+    "tipo": "texto",
+    "id": "en2",
+    "texto": "Para enrocar: ni el rey ni esa torre se pudieron haber movido antes, no puede haber piezas entre ellos, y el rey no puede estar en jaque, ni pasar por una casilla atacada, ni terminar en una. Solo se puede una vez por partida."
+   },
+   {
+    "tipo": "actividad",
+    "id": "enr_corto",
+    "texto": "Enroque corto: mové el rey dos casillas hacia la derecha, hasta g1.",
+    "actividad": {
+     "tipo": "secuencia_exacta",
+     "id": "enr_corto",
+     "fen": "4k3/8/8/8/8/8/8/R3K2R w KQ - 0 1",
+     "solucionUci": [
+      "e1g1"
+     ]
+    },
+    "comentario": "En el enroque corto el rey va a g1 y la torre de h1 pasa a f1.",
+    "exito": "¡Eso es el enroque corto! Mirá cómo la torre saltó al otro lado del rey."
+   },
+   {
+    "tipo": "actividad",
+    "id": "enr_largo",
+    "texto": "Enroque largo: ahora mové el rey dos casillas hacia la izquierda, hasta c1.",
+    "actividad": {
+     "tipo": "secuencia_exacta",
+     "id": "enr_largo",
+     "fen": "4k3/8/8/8/8/8/8/R3K2R w KQ - 0 1",
+     "solucionUci": [
+      "e1c1"
+     ]
+    },
+    "comentario": "En el enroque largo el rey va a c1 y la torre de a1 pasa a d1.",
+    "exito": "¡Enroque largo! El rey queda en c1 y la torre en d1."
+   },
+   {
+    "tipo": "actividad",
+    "id": "enr_trivia",
+    "texto": "Las blancas quieren enrocar, pero su rey está en jaque por la torre negra. ¿Pueden hacerlo?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "enr_trivia",
+     "fen": "4k3/8/8/8/8/8/4r3/R3K2R w KQ - 0 1",
+     "opciones": [
+      "Sí, el enroque siempre es legal",
+      "No: no se puede enrocar estando en jaque"
+     ],
+     "respuestaCorrecta": 1
+    },
+    "exito": "Correcto: con el rey en jaque no se puede enrocar. Primero hay que salir del jaque."
+   }
+  ]
+ }
+}

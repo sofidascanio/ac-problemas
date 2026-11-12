@@ -1,0 +1,79 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "ah1",
+    "texto": "Ahogado: al jugador que tiene el turno no le queda ninguna jugada legal y su rey NO está en jaque. La partida termina en tablas (empate). Acá el rey negro no puede moverse a ninguna casilla (todas están atacadas), pero no está en jaque: es ahogado.",
+    "fen": "7k/5Q2/6K1/8/8/8/8/8 w - - 0 1",
+    "resaltar": [
+     "h8"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "ah_t1",
+    "texto": "Mueven las negras. ¿Qué situación es esta?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "ah_t1",
+     "fen": "7k/5K2/6Q1/8/8/8/8/8 b - - 0 1",
+     "opciones": [
+      "Jaque mate",
+      "Ahogado (tablas)",
+      "Ninguna: la partida sigue"
+     ],
+     "respuestaCorrecta": 1
+    },
+    "exito": "Es ahogado: el rey negro no tiene jugadas pero no está en jaque. ¡Tablas!"
+   },
+   {
+    "tipo": "actividad",
+    "id": "ah_t2",
+    "texto": "Mueven las negras. ¿Qué situación es esta?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "ah_t2",
+     "fen": "R5k1/5ppp/8/8/8/8/8/4K3 b - - 0 1",
+     "opciones": [
+      "Jaque mate",
+      "Ahogado (tablas)",
+      "Ninguna: la partida sigue"
+     ],
+     "respuestaCorrecta": 0
+    },
+    "exito": "Es jaque mate: el rey está en jaque y no tiene escapatoria. Ganan las blancas."
+   },
+   {
+    "tipo": "actividad",
+    "id": "ah_t3",
+    "texto": "Mueven las negras. ¿Qué situación es esta?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "ah_t3",
+     "fen": "4k3/8/8/8/8/8/8/4K2R b - - 0 1",
+     "opciones": [
+      "Jaque mate",
+      "Ahogado (tablas)",
+      "Ninguna: la partida sigue"
+     ],
+     "respuestaCorrecta": 2
+    },
+    "exito": "Ninguna de las dos: el rey negro tiene casillas libres (d8, d7, f7, f8...). La partida sigue."
+   },
+   {
+    "tipo": "actividad",
+    "id": "ah_mate",
+    "texto": "Tenés dama y rey contra el rey solo. ¡Cuidado con el ahogado! Da jaque mate en una jugada.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "ah_mate",
+     "fen": "7k/8/5K2/8/8/8/8/6Q1 w - - 0 1",
+     "propiedad": "esMate"
+    },
+    "comentario": "Cuidado: mover la dama a g6 sería ahogado y la partida terminaría en tablas.",
+    "exito": "¡Jaque mate! Tu rey en f6 protege a la dama en g7. Dama a g6 habría sido ahogado."
+   }
+  ]
+ }
+}

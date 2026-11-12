@@ -1,0 +1,46 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "re1",
+    "fen": "8/8/8/8/4K3/8/8/8 w - - 0 1",
+    "pieza": "e4",
+    "texto": "El rey se mueve una sola casilla en cualquier dirección. Es la pieza más importante: si queda atrapado (jaque mate), se pierde la partida."
+   },
+   {
+    "tipo": "explorar",
+    "id": "re2",
+    "fen": "8/8/8/r7/4K3/8/8/8 w - - 0 1",
+    "pieza": "e4",
+    "texto": "El rey nunca puede moverse a una casilla atacada. Acá la torre negra controla toda la quinta fila, así que el rey no puede subir."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "re3",
+    "fen": "8/8/8/8/8/8/8/4K3 w - - 0 1",
+    "pieza": "e1",
+    "objetivos": [
+     "e3",
+     "g4"
+    ],
+    "texto": "Llevá al rey a las dos estrellas, de a un paso por vez."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "re4",
+    "fen": "8/8/8/8/8/7r/8/4K3 w - - 0 1",
+    "pieza": "e1",
+    "objetivos": [
+     "g5"
+    ],
+    "texto": "Llegá a la estrella de g5. La torre negra controla toda la tercera fila, así que el rey no puede cruzarla... pero la torre está sola, sin protección: el rey puede capturar las piezas rivales que no estén protegidas."
+   },
+   {
+    "tipo": "texto",
+    "id": "re5",
+    "texto": "El rey tiene un movimiento especial, el enroque, que lo pone a salvo y activa una torre. Lo vemos en Conceptos del Juego."
+   }
+  ]
+ }
+}

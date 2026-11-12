@@ -1,0 +1,48 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "di1",
+    "texto": "El tablero tiene 64 casillas: 8 columnas (de la 'a' a la 'h') y 8 filas (del 1 al 8). Las blancas empiezan en las filas 1 y 2; las negras, en las filas 7 y 8. Así quedan todas las piezas al empezar.",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1",
+    "coordenadas": false
+   },
+   {
+    "tipo": "texto",
+    "id": "di2",
+    "texto": "Dos trucos para recordar: la casilla de la esquina inferior derecha (h1) siempre es clara, y la dama busca su color: la dama blanca va en casilla clara (d1) y la negra en casilla oscura (d8).",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1",
+    "resaltar": [
+     "h1",
+     "d1",
+     "d8"
+    ]
+   },
+   {
+    "tipo": "texto",
+    "id": "di3",
+    "texto": "En la fila de atrás, de izquierda a derecha: torre, caballo, alfil, dama, rey, alfil, caballo, torre. Adelante, ocho peones. Los dos reyes quedan enfrentados en la columna 'e'.",
+    "coordenadas": false,
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "resaltar": [
+     "e1",
+     "e8"
+    ]
+   },
+   {
+    "tipo": "colocar",
+    "id": "col_blancas",
+    "color": "w",
+    "texto": "Ahora te toca a vos. Colocá las piezas blancas en su lugar: tocá la casilla correcta para cada una."
+   },
+   {
+    "tipo": "colocar",
+    "id": "col_negras",
+    "color": "b",
+    "texto": "Ahora las negras, del otro lado del tablero.",
+    "fen": "8/8/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1"
+   }
+  ]
+ }
+}

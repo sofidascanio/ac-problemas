@@ -1,0 +1,42 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "ja1",
+    "texto": "Jaque: el rey está atacado por una pieza rival. Quien recibe jaque debe salir de él en su turno. Dar jaque no es lo mismo que dar mate: el rey todavía puede escapar.",
+    "fen": "4k2R/8/8/8/8/8/8/4K3 w - - 0 1",
+    "resaltar": [
+     "e8",
+     "h8"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "jaq1",
+    "texto": "Da jaque al rey negro con una sola jugada.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "jaq1",
+     "fen": "4k3/8/8/8/8/8/8/4K2R w - - 0 1",
+     "propiedad": "daJaque"
+    },
+    "comentario": "La torre ataca en línea recta: buscá una fila o columna que llegue al rey.",
+    "exito": "¡Jaque! El rey negro ahora tiene que escapar."
+   },
+   {
+    "tipo": "actividad",
+    "id": "jaq2",
+    "texto": "Otra vez: da jaque. Esta vez con la dama.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "jaq2",
+     "fen": "4k3/8/8/8/8/8/Q7/4K3 w - - 0 1",
+     "propiedad": "daJaque"
+    },
+    "comentario": "La dama da jaque en línea recta o en diagonal. Hay varias formas.",
+    "exito": "¡Bien! Con la dama hay muchas maneras de dar jaque."
+   }
+  ]
+ }
+}

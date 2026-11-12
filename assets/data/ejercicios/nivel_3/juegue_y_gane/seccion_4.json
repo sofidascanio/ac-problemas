@@ -1,0 +1,3608 @@
+{
+ "actividades": [
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0693",
+   "numero": 693,
+   "nombre": "Boris Spassky vs Valeri Korensky, Sochi 1973",
+   "fen": "r4k2/ppr2p1p/4PQ2/2bp4/7P/8/qPP3P1/2KR1R2 w - - 0 23",
+   "solucionUci": [
+    "e6e7",
+    "f8g8",
+    "f6f7",
+    "g8h8",
+    "e7e8q",
+    "a8e8",
+    "f7e8",
+    "h8g7",
+    "e8e5",
+    "g7g8",
+    "e5g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0694",
+   "numero": 694,
+   "nombre": "Boris Spassky vs Ratmir Kholmov, Sochi 1973",
+   "fen": "br1qr1k1/3n1p1p/3p2p1/1pnPp1b1/4P3/R1P1B2P/2BNQPP1/R4NK1 w - - 0 27",
+   "solucionUci": [
+    "a3a8",
+    "b8a8",
+    "a1a8",
+    "d8a8",
+    "e3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0695",
+   "numero": 695,
+   "nombre": "Boris Rytov vs Boris Spassky, Tallinn 1973",
+   "fen": "1rbq1rk1/p3ppbp/1p1p1np1/8/2PQP3/2N3P1/PP3PBP/1RB2RK1 b - - 0 12",
+   "solucionUci": [
+    "f6e4",
+    "d4e4",
+    "g7c3",
+    "c1g5",
+    "c3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0696",
+   "numero": 696,
+   "nombre": "Boris Spassky vs Orest Averkin, Moscow 1973",
+   "fen": "2r3k1/4bppp/1r2p3/qb6/5B2/6R1/PP4PP/2R1Q2K w - - 0 26",
+   "solucionUci": [
+    "f4c7",
+    "c8c7",
+    "e1e5",
+    "g8f8",
+    "e5c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0697",
+   "numero": 697,
+   "nombre": "Bojan Kurajica vs Boris Spassky, Solingen 1974",
+   "fen": "4k3/1p3p2/p2pbp2/4p1b1/1P2Pr2/8/1PP2PB1/3RKR2 b - - 0 23",
+   "solucionUci": [
+    "e6h3",
+    "g2h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0698",
+   "numero": 698,
+   "nombre": "Efim Geller vs Boris Spassky, Moscow 1975",
+   "fen": "r5k1/1Q3p2/r2p4/P1pP1qpp/2N2b2/2PP4/5R1P/6RK w - - 0 34",
+   "solucionUci": [
+    "c4d6",
+    "a6d6",
+    "b7a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0699",
+   "numero": 699,
+   "nombre": "Boris Spassky vs Francisco Sanz Alonso, Montilla 1978",
+   "fen": "3q2kr/n1pbR1b1/p6p/P2P4/2P2p2/2NB1N2/2K2P2/Q7 w - - 0 40",
+   "solucionUci": [
+    "e7g7",
+    "g8g7",
+    "c3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0700",
+   "numero": 700,
+   "nombre": "Anatoly Karpov vs Boris Spassky, Montreal 1979",
+   "fen": "3r4/2qrbbk1/5p1p/pp1P1Pp1/6P1/P1BR3P/1P2R1B1/3Q3K w - - 0 39",
+   "solucionUci": [
+    "e2e7",
+    "d7e7",
+    "d5d6",
+    "c7c4",
+    "b2b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0701",
+   "numero": 701,
+   "nombre": "Bent Larsen vs Boris Spassky, Montreal 1979",
+   "fen": "r4bk1/2Rnrppp/2p5/2qpP3/5B2/2N1P2P/2Q2PP1/3R2K1 w - - 0 22",
+   "solucionUci": [
+    "d1d5",
+    "c6d5",
+    "c7c5",
+    "d7c5",
+    "c3d5",
+    "e7a7",
+    "f4g5",
+    "a7a1",
+    "g1h2",
+    "a8a2",
+    "c2f5",
+    "c5e6",
+    "g5h4",
+    "a1f1",
+    "f2f4",
+    "f1c1",
+    "f5g4",
+    "c1c4",
+    "d5f6",
+    "g8h8",
+    "g4h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0702",
+   "numero": 702,
+   "nombre": "Boris Spassky vs Otto Borik, Germany 1982",
+   "fen": "3r1bk1/1pq2p1p/6p1/3nN3/1P6/2P2QPP/5PB1/1R4K1 w - - 0 28",
+   "solucionUci": [
+    "e5f7",
+    "c7f7",
+    "b1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0703",
+   "numero": 703,
+   "nombre": "Lajos Portisch vs Boris Spassky, London 1982",
+   "fen": "3qr2k/1b4pp/p3Qp2/1p4b1/2pPn3/P5B1/NP3PPP/3R1RK1 w - - 0 23",
+   "solucionUci": [
+    "g3c7",
+    "d8a8",
+    "e6h3",
+    "e8e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0704",
+   "numero": 704,
+   "nombre": "Jan Timman vs Boris Spassky, Hilversum 1983",
+   "fen": "4r1kb/1b1p1p1p/3Pr1pB/ppqnP2P/2p5/P4N2/1P3PP1/1BQRR1K1 w - - 0 25",
+   "solucionUci": [
+    "b1f5",
+    "g6f5",
+    "c1g5",
+    "e6g6",
+    "h5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0705",
+   "numero": 705,
+   "nombre": "Jan Timman vs Boris Spassky, Hilversum 1983",
+   "fen": "3r1bk1/1b2qp2/4n1p1/2r1P2p/N2p4/Q4NP1/1R3PBP/3R2K1 b - - 0 33",
+   "solucionUci": [
+    "c5c1",
+    "a3d3",
+    "e7a3",
+    "d3f1",
+    "c1d1",
+    "f1d1",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0706",
+   "numero": 706,
+   "nombre": "Aldo Haik vs Boris Spassky, Paris 1983",
+   "fen": "2rq1r2/3n1pk1/p2Pp2p/1p4p1/2p3P1/2N1PP2/PPQ2P2/2KR3R w - - 0 25",
+   "solucionUci": [
+    "h1h6",
+    "g7h6",
+    "d1h1",
+    "h6g7",
+    "c2h7",
+    "g7f6",
+    "f3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0707",
+   "numero": 707,
+   "nombre": "Eugenio Torre vs Boris Spassky, Bugojno 1984",
+   "fen": "2r3k1/p4pp1/bp5p/3p4/3N4/4PPPq/PP1Q3P/4K1R1 b - - 0 22",
+   "solucionUci": [
+    "c8c1",
+    "d2c1",
+    "h3h2",
+    "g1f1",
+    "h2g3",
+    "f1f2",
+    "g3g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0708",
+   "numero": 708,
+   "nombre": "Jonathan Ady vs Boris Spassky, London 1984",
+   "fen": "r1b1r1k1/1p3pp1/2p4p/3p4/1R5Q/4B1P1/PPq2PP1/R5K1 b - - 0 22",
+   "solucionUci": [
+    "a8a2",
+    "a1a2",
+    "c2b1",
+    "g1h2",
+    "b1a2",
+    "e3h6",
+    "a2b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0709",
+   "numero": 709,
+   "nombre": "Kevin Spraggett vs Boris Spassky, Montpellier 1985",
+   "fen": "2r4k/p2b1R1p/1p2p3/2qpP3/3N4/P5Q1/6rP/K4R2 w - - 0 35",
+   "solucionUci": [
+    "f7h7",
+    "h8h7",
+    "f1f7",
+    "h7h6",
+    "f7f6",
+    "h6h7",
+    "g3h3",
+    "h7g7",
+    "h3g2",
+    "g7h7",
+    "g2g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0710",
+   "numero": 710,
+   "nombre": "Lajos Portisch vs Boris Spassky, Montpellier 1985",
+   "fen": "r5k1/2p3bp/4n1p1/1Ppq1p2/4p3/1N2P2P/2Q2PPB/3R2K1 b - - 0 29",
+   "solucionUci": [
+    "a8a2",
+    "d1d5",
+    "a2c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0711",
+   "numero": 711,
+   "nombre": "Boris Spassky vs Lucas Brunner, Solingen 1986",
+   "fen": "r2n1rk1/pq2n1pp/1p2p3/3pPpN1/1B1P4/P5Q1/2P2PPP/R4RK1 w - - 0 18",
+   "solucionUci": [
+    "g5h7",
+    "g8h7",
+    "g3h4",
+    "h7g8",
+    "b4e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0712",
+   "numero": 712,
+   "nombre": "Boris Spassky vs Artur Yusupov, Belfort 1988",
+   "fen": "r7/p3N1pk/7p/1p1pN2P/1P2r3/P2K3b/6R1/5R2 w - - 0 39",
+   "solucionUci": [
+    "g2g7",
+    "h7g7",
+    "f1f7",
+    "g7h8",
+    "e5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0713",
+   "numero": 713,
+   "nombre": "Boris Spassky vs Jan Timman, Cannes 1990",
+   "fen": "2r3k1/1b1r4/p4p1p/1p2q1p1/1B1nP3/R2PN2P/1RP2QP1/7K b - - 0 37",
+   "solucionUci": [
+    "d4f3",
+    "f2f3",
+    "e5b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0714",
+   "numero": 714,
+   "nombre": "Boris Spassky vs Artur Yusupov, Linares 1990",
+   "fen": "r5k1/1bp1q1pp/p2p4/1p2n3/5B2/1P3P2/1PP2P1P/R2QR1K1 b - - 0 18",
+   "solucionUci": [
+    "e5f3",
+    "d1f3",
+    "e7e1",
+    "a1e1",
+    "b7f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0715",
+   "numero": 715,
+   "nombre": "Alexander Beliavsky vs Boris Spassky, Linares 1990",
+   "fen": "3qQ3/p5pk/b4rNp/2p5/5P1P/P5R1/3r2P1/4R1K1 w - - 0 34",
+   "solucionUci": [
+    "g6f8",
+    "h7g8",
+    "f8d7",
+    "d8e8",
+    "d7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0716",
+   "numero": 716,
+   "nombre": "Boris Spassky vs Eric Prie, Montpellier 1991",
+   "fen": "1rr2b1k/1q1b1pp1/4p2p/3p4/p2NPB2/1PP3R1/4QPPP/R5K1 w - - 0 28",
+   "solucionUci": [
+    "f4h6",
+    "g7h6",
+    "e2g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0717",
+   "numero": 717,
+   "nombre": "Robert Fischer vs Boris Spassky, Belgrade 1992",
+   "fen": "3b2nr/6pp/ppk1bp2/2p1P3/4N3/1N2BP2/1PP3PP/R5K1 w - - 0 19",
+   "solucionUci": [
+    "b3c5",
+    "b6c5",
+    "a1a6",
+    "c6d7",
+    "e4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0718",
+   "numero": 718,
+   "nombre": "Robert Fischer vs Boris Spassky, Belgrade 1992",
+   "fen": "6n1/p1q2k2/1r1p2p1/2pPbp1p/Q1P2B1P/3P2PK/P3R1B1/8 w - - 0 30",
+   "solucionUci": [
+    "e2e5",
+    "d6e5",
+    "f4e5",
+    "c7e7",
+    "d5d6",
+    "b6d6",
+    "e5d6",
+    "e7d6",
+    "a4a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0719",
+   "numero": 719,
+   "nombre": "Nana Ioseliani vs Boris Spassky, Copenhagen 1997",
+   "fen": "6k1/5p2/2qP3p/4n1pN/2pb4/1p3P2/1P2Q1PP/2R4K w - - 0 37",
+   "solucionUci": [
+    "d6d7",
+    "c6d6",
+    "c1c4",
+    "e5d7",
+    "e2d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0720",
+   "numero": 720,
+   "nombre": "Boris Spassky vs Viktor Korchnoi, St Petersburg 1999",
+   "fen": "5rk1/1pp3bp/3p2p1/3Pp3/1PP1N1q1/6Pn/2QN1PKP/R7 b - - 0 25",
+   "solucionUci": [
+    "h3f2",
+    "a1f1",
+    "g4h3",
+    "g2g1",
+    "f2g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0721",
+   "numero": 721,
+   "nombre": "Boris Spassky vs Nicolas Eliet, France 2002",
+   "fen": "r1bB2r1/pp3pnp/2p5/4k3/4P3/2N2P2/PPP1B2P/2KR4 w - - 0 18",
+   "solucionUci": [
+    "f3f4",
+    "e5f4",
+    "d8c7",
+    "f4g5",
+    "d1g1",
+    "g5f6",
+    "e4e5",
+    "f6e7",
+    "c7d6",
+    "e7d8",
+    "c3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0722",
+   "numero": 722,
+   "nombre": "Boris Spassky vs Scott Coleman, Reno 2004 (Simul)",
+   "fen": "r1b2r2/p3q1p1/1pn1ppk1/2npP1N1/5PQ1/2N5/PPP3PP/R4RK1 w - - 0 15",
+   "solucionUci": [
+    "c3d5",
+    "e6d5",
+    "f4f5",
+    "c8f5",
+    "g4f5",
+    "g6h5",
+    "f5h7",
+    "h5g4",
+    "h2h3",
+    "g4g5",
+    "f1f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0723",
+   "numero": 723,
+   "nombre": "Boris Spassky vs Craig Christensen, Reno 2004 (Simul)",
+   "fen": "4r1kb/q1r1pp1p/p2p2p1/1p1n2B1/1P6/2P2RPP/1P2QPB1/4R1K1 w - - 0 27",
+   "solucionUci": [
+    "f3f7",
+    "d5c3",
+    "e2e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0724",
+   "numero": 724,
+   "nombre": "Robert Fischer vs Heinz Matthai, Montreal 1956",
+   "fen": "2r1r1k1/pp2p3/3p2p1/5P2/1q2P1p1/2N5/1PPQ4/1K5R b - - 0 25",
+   "solucionUci": [
+    "c8c3",
+    "f5g6",
+    "c3h3",
+    "d2b4",
+    "h3h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0725",
+   "numero": 725,
+   "nombre": "Robert Fischer vs Attilio Di Camillo, Washington DC 1956",
+   "fen": "3q2k1/1r1P1pp1/8/1p2B1p1/2pQ2P1/3nR2P/1P3PK1/8 w - - 0 40",
+   "solucionUci": [
+    "e5c7",
+    "d3f4",
+    "g2f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0726",
+   "numero": 726,
+   "nombre": "George Kramer vs Robert Fischer, New York 1957",
+   "fen": "2rq1rk1/p2bppbp/2n3p1/1nB5/3P4/2P3P1/PQ1N2BP/R3NRK1 b - - 0 19",
+   "solucionUci": [
+    "b5c3",
+    "b2c3",
+    "c6d4",
+    "c3b4",
+    "d4e2",
+    "g1h1",
+    "c8c5",
+    "b4c5",
+    "g7a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0727",
+   "numero": 727,
+   "nombre": "Robert Fischer vs James Sherwin, New York 1957",
+   "fen": "5rk1/5ppp/3p4/3B2q1/R3P1n1/2r5/P3Q1PP/5R1K w - - 0 30",
+   "solucionUci": [
+    "f1f7",
+    "c3c1",
+    "e2f1",
+    "h7h5",
+    "f1c1",
+    "g5c1",
+    "f7f1",
+    "g8h7",
+    "f1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0728",
+   "numero": 728,
+   "nombre": "Robert Fischer vs Samuel Reshevsky, New York 1958",
+   "fen": "r1bq1rk1/pp1pppbp/5np1/n7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 9",
+   "solucionUci": [
+    "e4e5",
+    "f6e8",
+    "b3f7",
+    "g8f7",
+    "d4e6",
+    "d7e6",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0729",
+   "numero": 729,
+   "nombre": "Robert Fischer vs Hector Rossetto, Mar del Plata 1959",
+   "fen": "2r2n2/1RP3kp/p5p1/4pp2/B7/5P2/P5PP/6K1 w - - 0 33",
+   "solucionUci": [
+    "a4b3",
+    "a6a5",
+    "a2a4",
+    "h7h6",
+    "h2h3",
+    "g6g5",
+    "g2g4",
+    "f5g4",
+    "h3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0730",
+   "numero": 730,
+   "nombre": "Wolfgang Unzicker vs Robert Fischer, Varna 1962 (Olympiad)",
+   "fen": "2r3k1/q4pp1/3p3p/1p1QpPb1/r3P3/1NP3PP/1P4K1/R3R3 b - - 0 25",
+   "solucionUci": [
+    "a4a2",
+    "g2f1",
+    "c8c3",
+    "a1a2",
+    "c3f3",
+    "f1e2",
+    "f3f2",
+    "e2d3",
+    "a7a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0731",
+   "numero": 731,
+   "nombre": "Robert Fischer vs Victor Ciocaltea, Varna 1962 (Olympiad)",
+   "fen": "r1r3k1/2pbbpp1/p2p1qnp/np1Pp3/4P2P/2P2NP1/PP2QP2/RNBBK2R w KQ - 0 15",
+   "solucionUci": [
+    "c1g5",
+    "h6g5",
+    "h4g5",
+    "f6g5",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0732",
+   "numero": 732,
+   "nombre": "Robert Fischer vs L.W. Beach, Poughkeepsie 1963",
+   "fen": "r3k2r/p5bp/4p1p1/q2pn3/1p2N1P1/6QP/PPP5/1KBR3R w kq - 0 21",
+   "solucionUci": [
+    "c1h6",
+    "a5c7",
+    "e4d6",
+    "e8d8",
+    "h6g7",
+    "c7d6",
+    "g3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0733",
+   "numero": 733,
+   "nombre": "Robert Fischer vs Arthur Bisguier, New York 1963",
+   "fen": "r2b1nk1/p4p2/2pN2p1/1p1pPP2/1P4P1/2P3B1/P5K1/7R w - - 0 29",
+   "solucionUci": [
+    "e5e6",
+    "f7f6",
+    "d6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0734",
+   "numero": 734,
+   "nombre": "Robert Fischer vs Pal Benko, New York 1963",
+   "fen": "r3qr1k/pp3pbp/2pn4/7Q/3pP3/2NB3P/PPP3P1/R4RK1 w - - 0 19",
+   "solucionUci": [
+    "f1f6",
+    "h8g8",
+    "e4e5",
+    "h7h6",
+    "c3e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0735",
+   "numero": 735,
+   "nombre": "Robert Fischer vs Kevin Walters, San Francisco 1964 (Simul)",
+   "fen": "4rk2/3Rb1p1/1B2Qp1p/pp2p3/4q3/7P/5PPK/8 w - - 0 36",
+   "solucionUci": [
+    "b6c5",
+    "e4f4",
+    "g2g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0736",
+   "numero": 736,
+   "nombre": "Georgi Tringov vs Robert Fischer, Havana 1965",
+   "fen": "r1b2b1k/1p1n1Qpp/p1n1B3/q3P1B1/8/1RN5/P1P3PP/6K1 b - - 0 19",
+   "solucionUci": [
+    "a5c5",
+    "g1h1",
+    "d7f6",
+    "g5f6",
+    "c8e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0737",
+   "numero": 737,
+   "nombre": "Robert Fischer vs Istvan Bilek, Havana 1965",
+   "fen": "8/p4k1P/1p2rp2/3Qp2r/P7/1P3P2/1KP2P2/8 w - - 0 35",
+   "solucionUci": [
+    "f3f4",
+    "f6f5",
+    "f4e5",
+    "h5h7",
+    "d5d7",
+    "e6e7",
+    "d7f5",
+    "f7e8",
+    "f2f4",
+    "e8d8",
+    "e5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0738",
+   "numero": 738,
+   "nombre": "Robert Fischer vs Svetozar Gligoric, Havana 1966 (Olympiad)",
+   "fen": "3r3r/kpp3pp/p1pqbpn1/2N5/Q2PP3/5NPP/PP4P1/2R2RK1 w - - 0 18",
+   "solucionUci": [
+    "c5a6",
+    "e6h3",
+    "e4e5",
+    "g6e5",
+    "d4e5",
+    "f6e5",
+    "a6c5",
+    "a7b8",
+    "g2h3",
+    "e5e4",
+    "c5e4",
+    "d6e7",
+    "c1c3",
+    "b7b5",
+    "a4c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0739",
+   "numero": 739,
+   "nombre": "Robert Fischer vs Joaquim Durao, Havana 1966 (Olympiad)",
+   "fen": "2nrkb2/5p2/1pr1p1pp/p1p1P3/P1N1NPP1/1RP4R/1P2K2P/8 w - - 0 33",
+   "solucionUci": [
+    "c4a5",
+    "c6c7",
+    "a5c4",
+    "c7c6",
+    "a4a5",
+    "b6a5",
+    "e4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0740",
+   "numero": 740,
+   "nombre": "Robert Fischer vs Renato Naranja, Manila 1967",
+   "fen": "2rq1rk1/pb2npp1/1p1p1b1p/2p1pP1Q/2B1P2P/P1NP4/1PP3P1/R1B1K2R w KQ - 0 14",
+   "solucionUci": [
+    "c1g5",
+    "d6d5",
+    "g5f6",
+    "d5c4",
+    "h5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0741",
+   "numero": 741,
+   "nombre": "Robert Fischer vs Lhamsuren Myagmarsuren, Sousse 1967",
+   "fen": "2r1q1k1/r4p1p/b3pBp1/n3P1QP/p2p3R/P5P1/2p2PB1/R5K1 w - - 0 30",
+   "solucionUci": [
+    "g5h6",
+    "e8f8",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0742",
+   "numero": 742,
+   "nombre": "Robert Fischer vs Oscar Panno, Buenos Aires 1970",
+   "fen": "2n2nk1/4qp1p/4p1pQ/pb1pP1NP/1p1PB1P1/1P4N1/P4P2/6K1 w - - 0 29",
+   "solucionUci": [
+    "g5h7",
+    "f8h7",
+    "h5g6",
+    "f7g6",
+    "e4g6",
+    "h7g5",
+    "g3h5",
+    "g5f3",
+    "g1g2",
+    "f3h4",
+    "g2g3",
+    "h4g6",
+    "h5f6",
+    "g8f7",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0743",
+   "numero": 743,
+   "nombre": "Robert Fischer vs Mark Taimanov, Vancouver 1971",
+   "fen": "8/8/5K2/4n3/4k1B1/7P/8/8 w - - 0 82",
+   "solucionUci": [
+    "g4c8",
+    "e4f4",
+    "h3h4",
+    "e5f3",
+    "h4h5",
+    "f3g5",
+    "c8f5",
+    "g5f3",
+    "h5h6",
+    "f3g5",
+    "f6g6",
+    "g5f3",
+    "h6h7",
+    "f3e5",
+    "g6f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0744",
+   "numero": 744,
+   "nombre": "Anatoly Karpov vs Viktor Korchnoi, Moscow 1974",
+   "fen": "4r1k1/pp2pp1p/2bp1npQ/q2N4/4PN2/5P2/PPP5/2K4R w - - 0 24",
+   "solucionUci": [
+    "e4e5",
+    "c6d5",
+    "e5f6",
+    "e7f6",
+    "h6h7",
+    "g8f8",
+    "h7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0745",
+   "numero": 745,
+   "nombre": "Viktor Korchnoi vs Anatoly Karpov, Moscow 1974",
+   "fen": "1r1q1rk1/pb1pbp1p/1pn3p1/2pB2N1/2P5/6P1/PP1QPP1P/R1B1K2R w KQ - 0 13",
+   "solucionUci": [
+    "g5h7",
+    "f8e8",
+    "d2h6",
+    "c6e5",
+    "h7g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0746",
+   "numero": 746,
+   "nombre": "Anatoly Karpov vs Dirk Suling, Bremen 1977 (Simul)",
+   "fen": "2Q5/p3q1k1/Pp1p2P1/2pPr2p/2Pnpr2/2N1R3/1P3PP1/5RK1 b - - 0 38",
+   "solucionUci": [
+    "d4f3",
+    "e3f3",
+    "e4f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0747",
+   "numero": 747,
+   "nombre": "Anatoly Karpov vs Angel Martin Gonzalez, Las Palmas 1977",
+   "fen": "2rnr1k1/1q2p1bp/3p1pp1/1p1N1P2/p1n1P1NB/P1P5/1P2Q1PP/3R1R1K w - - 0 27",
+   "solucionUci": [
+    "h4f6",
+    "e7f6",
+    "g4f6",
+    "g7f6",
+    "d5f6",
+    "g8f8",
+    "f5g6",
+    "h7g6",
+    "e2g4",
+    "d8f7",
+    "g4g6",
+    "c4e5",
+    "f6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0748",
+   "numero": 748,
+   "nombre": "Anatoly Karpov vs Viktor Korchnoi, Baguio City 1978",
+   "fen": "4rkr1/2p2p1p/pq2b3/1p3N2/8/2PR1Q2/PP4PP/5R1K w - - 0 25",
+   "solucionUci": [
+    "f5h6",
+    "g8g7",
+    "d3d7",
+    "e8b8",
+    "h6f7",
+    "e6d7",
+    "f7d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0749",
+   "numero": 749,
+   "nombre": "Anatoly Karpov vs John van der Wiel, Amsterdam 1980",
+   "fen": "1r5r/4Pkb1/q2pR3/6Pp/1p5P/4Q3/PPP5/1NK5 w - - 0 29",
+   "solucionUci": [
+    "e7e8q",
+    "b8e8",
+    "g5g6",
+    "f7g8",
+    "e6e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0750",
+   "numero": 750,
+   "nombre": "Anatoly Karpov vs Miguel Quinteros, Buenos Aires 1980",
+   "fen": "2r4r/4qkbR/bp2p1p1/3pP3/p2P1PB1/P5Q1/1n2NBK1/7R w - - 0 32",
+   "solucionUci": [
+    "f4f5",
+    "h8h7",
+    "f5g6",
+    "f7g8",
+    "g6h7",
+    "g8h8",
+    "e2f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0751",
+   "numero": 751,
+   "nombre": "Anatoly Karpov vs Bent Larsen, Amsterdam 1980",
+   "fen": "1q4r1/1p1k1p2/2p1p3/2P4p/1R1P1p2/3Q1P2/PPK1R1P1/6r1 w - - 0 34",
+   "solucionUci": [
+    "d4d5",
+    "c6d5",
+    "c5c6",
+    "d7c6",
+    "d3b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0752",
+   "numero": 752,
+   "nombre": "Zoltan Ribli vs Anatoly Karpov, Tilburg 1980",
+   "fen": "1r3rk1/p1pqn1bp/2npb1p1/3N1p2/1PP1pP2/4P1PP/P2QN1BK/1RB2R2 b - - 0 16",
+   "solucionUci": [
+    "c6a5",
+    "e2d4",
+    "a5c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0753",
+   "numero": 753,
+   "nombre": "Anatoly Karpov vs Anthony Miles, Amsterdam 1981",
+   "fen": "1r6/5pk1/2q3pp/2B1R3/3P3P/4QP2/b5PK/8 w - - 0 32",
+   "solucionUci": [
+    "d4d5",
+    "a2d5",
+    "e3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0754",
+   "numero": 754,
+   "nombre": "Anatoly Karpov vs Efim Geller, Moscow 1981",
+   "fen": "3q2k1/1R3p2/1p2p1pp/3nP3/4Q3/P2B1PP1/1P3PK1/r7 w - - 0 31",
+   "solucionUci": [
+    "b7f7",
+    "g8f7",
+    "e4g6",
+    "f7f8",
+    "g6h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0755",
+   "numero": 755,
+   "nombre": "Anatoly Karpov vs Gian Carlo Angioni, Turin 1982 (Simul)",
+   "fen": "1r4k1/3rQ1bp/6p1/1p3bN1/2pP4/2P2B2/5PPP/6K1 w - - 0 36",
+   "solucionUci": [
+    "f3d5",
+    "d7d5",
+    "e7f7",
+    "g8h8",
+    "f7d5",
+    "b8e8",
+    "g5f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0756",
+   "numero": 756,
+   "nombre": "Anatoly Karpov vs De Chen, Hannover 1983",
+   "fen": "r1b2r1k/1pq3pp/p1n1p3/3p4/3PnN2/3B1NP1/PP3P1P/R2QR1K1 b - - 0 19",
+   "solucionUci": [
+    "f8f4",
+    "g3f4",
+    "c7f4",
+    "d3e4",
+    "d5e4",
+    "f3e5",
+    "c6e5",
+    "d4e5",
+    "c8d7",
+    "d1d7",
+    "a8f8",
+    "d7d1",
+    "f4g5",
+    "g1h1",
+    "f8f2",
+    "e1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0757",
+   "numero": 757,
+   "nombre": "Anatoly Karpov vs Murray Chandler, Bath 1983",
+   "fen": "1br3k1/p4p2/2p1r3/3p1b2/3Bn1p1/1P2P1Pq/P3Q1BP/2R1NRK1 b - - 0 28",
+   "solucionUci": [
+    "h3h2",
+    "g1h2",
+    "e4g3",
+    "e2b5",
+    "g3e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0758",
+   "numero": 758,
+   "nombre": "Garry Kasparov vs Anatoly Karpov, Moscow 1985",
+   "fen": "3r2k1/pb1r1pp1/1pn2q1p/3B4/6Q1/P4NP1/1P3PP1/3RR1K1 w - - 0 23",
+   "solucionUci": [
+    "g4d7",
+    "d8d7",
+    "e1e8",
+    "g8h7",
+    "d5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0759",
+   "numero": 759,
+   "nombre": "Garry Kasparov vs Anatoly Karpov, Leningrad 1986",
+   "fen": "5k2/3nqp2/b5pN/3P4/5Q2/1r1p2RP/5PPK/8 w - - 0 35",
+   "solucionUci": [
+    "g3g6",
+    "e7e5",
+    "g6g8",
+    "f8e7",
+    "d5d6",
+    "e7e6",
+    "g8e8",
+    "e6d5",
+    "e8e5",
+    "d7e5",
+    "d6d7",
+    "b3b8",
+    "h6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0760",
+   "numero": 760,
+   "nombre": "Alexander Beliavsky vs Anatoly Karpov, Brussels 1988",
+   "fen": "3rnk2/1R3p1p/2P3p1/r1b2N2/1p6/6PB/5P1P/2R3K1 w - - 0 37",
+   "solucionUci": [
+    "f5h6",
+    "e8d6",
+    "h6f7",
+    "d6f7",
+    "c6c7",
+    "d8e8",
+    "h3d7",
+    "f7d6",
+    "b7b8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0761",
+   "numero": 761,
+   "nombre": "Anatoly Karpov vs Lars Bo Hansen, Thessaloniki 1988 (Olympiad)",
+   "fen": "r2q2k1/1b3ppp/pp2pn2/4N3/4PQ2/1P4P1/P4PBP/2R3K1 w - - 0 20",
+   "solucionUci": [
+    "e5f7",
+    "d8d4",
+    "f4d6",
+    "d4b2",
+    "c1f1",
+    "a8e8",
+    "d6c7",
+    "b7a8",
+    "f7g5",
+    "h7h6",
+    "c7f7",
+    "g8h8",
+    "e4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0762",
+   "numero": 762,
+   "nombre": "Yasser Seirawan vs Anatoly Karpov, Rotterdam 1989",
+   "fen": "3r2k1/p4pp1/Qp3q2/3b3p/3N4/P3PPP1/1P3K2/2R5 b - - 0 30",
+   "solucionUci": [
+    "d5f3",
+    "d4f3",
+    "f6b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0763",
+   "numero": 763,
+   "nombre": "Jonathan Speelman vs Anatoly Karpov, Roquebrune 1992 (Blitz)",
+   "fen": "r2k3r/pppb1p2/3p4/3P2q1/3P4/1B1Q2Pp/PP6/4RRK1 b - - 0 21",
+   "solucionUci": [
+    "d7b5",
+    "d3f3",
+    "b5f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0764",
+   "numero": 764,
+   "nombre": "Alexander Morozevich vs Anatoly Karpov, Moscow 1992 (Rapid)",
+   "fen": "2r3k1/p2q1pbp/1p2p1p1/7P/2nPBB2/2PR2Q1/r4PP1/5RK1 b - - 0 24",
+   "solucionUci": [
+    "f7f5",
+    "e4f3",
+    "e6e5",
+    "d4e5",
+    "d7d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0765",
+   "numero": 765,
+   "nombre": "Ljubomir Ljubojevic vs Anatoly Karpov, Linares 1993",
+   "fen": "4r1k1/p6p/1pbp2p1/2p2pbq/1PP2P2/PBP3P1/2QRrRNP/6K1 b - - 0 35",
+   "solucionUci": [
+    "e2e1",
+    "g2e1",
+    "e8e1",
+    "f2f1",
+    "h5f3",
+    "f1e1",
+    "f3h1",
+    "g1f2",
+    "h1g2",
+    "f2e3",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0766",
+   "numero": 766,
+   "nombre": "Anatoly Karpov vs Judit Polgar, Las Palmas 1994",
+   "fen": "r4r2/p1p3qk/1pPpR1pp/3P1n2/7P/2PQ2P1/P5B1/R5K1 w - - 0 27",
+   "solucionUci": [
+    "h4h5",
+    "f5e7",
+    "a1e1",
+    "f8f7",
+    "h5g6",
+    "e7g6",
+    "e6g6",
+    "g7g6",
+    "g2e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0767",
+   "numero": 767,
+   "nombre": "Anatoly Karpov vs Ivan Morovic Fernandez, Las Palmas 1994",
+   "fen": "1b2r1k1/4rpp1/p2q1n2/2Rp1BB1/Np1P4/nP4P1/5PK1/3Q3R w - - 0 32",
+   "solucionUci": [
+    "h1h8",
+    "g8h8",
+    "d1h1",
+    "h8g8",
+    "g5f6",
+    "d6g3",
+    "f2g3",
+    "e7e2",
+    "g2h3",
+    "g7f6",
+    "h3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0768",
+   "numero": 768,
+   "nombre": "Anatoly Karpov vs Kiril Georgiev, Tilburg 1994",
+   "fen": "bq3rk1/3n1rb1/1p1P2p1/2p3N1/P7/1Q4P1/4RP1P/4R1K1 w - - 0 32",
+   "solucionUci": [
+    "e2e8",
+    "b8d6",
+    "b3f7",
+    "g8h8",
+    "g5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0769",
+   "numero": 769,
+   "nombre": "Ulf Andersson vs Anatoly Karpov, Nykoping 1995 (Rapid 2)",
+   "fen": "r2q1rk1/1b2bppp/p3pn2/1p4B1/1n1P4/1BN2N2/PP2QPPP/3RR1K1 w - - 0 14",
+   "solucionUci": [
+    "d4d5",
+    "f6d5",
+    "c3d5",
+    "e7g5",
+    "d5b4",
+    "d8e7",
+    "b4d5",
+    "b7d5",
+    "b3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0770",
+   "numero": 770,
+   "nombre": "Judit Polgar vs Anatoly Karpov, Monte Carlo 1996 (Rapid)",
+   "fen": "3rrbk1/3Rn3/p1p1R1p1/6Np/1Pp5/2B4P/1PK2P2/8 w - - 0 39",
+   "solucionUci": [
+    "d7e7",
+    "e8e7",
+    "e6g6",
+    "f8g7",
+    "c3g7",
+    "e7g7",
+    "g6g7",
+    "g8g7",
+    "g5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0771",
+   "numero": 771,
+   "nombre": "Alexander Onischuk vs Anatoly Karpov, Biel 1996",
+   "fen": "2r2b1k/5Q1p/p3R1p1/1pP5/8/Pq2P3/3n2PP/R5K1 b - - 0 31",
+   "solucionUci": [
+    "d2e4",
+    "h2h4",
+    "b3e3",
+    "g1h1",
+    "e3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0772",
+   "numero": 772,
+   "nombre": "Anatoly Karpov vs Peter Leko, Tilburg 1996",
+   "fen": "5r1k/1pp1p2p/pn2P1qb/6N1/3Pb3/Q7/PP1KB3/6RR w - - 0 28",
+   "solucionUci": [
+    "h1h6",
+    "g6h6",
+    "a3e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0773",
+   "numero": 773,
+   "nombre": "Anatoly Karpov vs Marcin Szymanski, Koszalin 1997 (Simul)",
+   "fen": "6k1/1bp1r1pp/1p1p2q1/pN3p1n/1nPP4/P4PPP/1P3QBK/2BR4 b - - 0 26",
+   "solucionUci": [
+    "b4d3",
+    "d1d3",
+    "f5f4",
+    "g3g4",
+    "g6d3",
+    "g4h5",
+    "e7e2",
+    "f2h4",
+    "e2g2",
+    "h2g2",
+    "d3f3",
+    "g2h2",
+    "f3g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0774",
+   "numero": 774,
+   "nombre": "Valery Salov vs Anatoly Karpov, Wijk aan Zee 1998",
+   "fen": "4k2r/1r3ppp/Qnq1p3/4p3/1P6/R5P1/3N1P1P/R5K1 w k - 0 27",
+   "solucionUci": [
+    "d2c4",
+    "b7b8",
+    "c4b6",
+    "e8g8",
+    "b6c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0775",
+   "numero": 775,
+   "nombre": "Vladimir Kramnik vs Anatoly Karpov, Frankfurt 1999",
+   "fen": "3r1k1r/1b2qppp/p3p3/3nB3/B1nN4/2P5/P4PPP/R2QR1K1 w - - 0 20",
+   "solucionUci": [
+    "e5g7",
+    "f8g7",
+    "d4f5",
+    "e6f5",
+    "e1e7",
+    "d5e7",
+    "d1e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0776",
+   "numero": 776,
+   "nombre": "Alexei Shirov vs Anatoly Karpov, Monte Carlo 2001 (Blindfold)",
+   "fen": "8/2R3p1/1Q2ppkr/3pP2p/3P3n/5P1P/5P1K/2Bq4 w - - 0 36",
+   "solucionUci": [
+    "b6b1",
+    "h4f5",
+    "c7g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0777",
+   "numero": 777,
+   "nombre": "Judit Polgar vs Anatoly Karpov, Hoogeveen 2003",
+   "fen": "4rrk1/p1pb1ppp/1p6/n1qPB3/8/2PBR3/5PPP/3QR1K1 w - - 0 25",
+   "solucionUci": [
+    "d3h7",
+    "g8h7",
+    "d1h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0778",
+   "numero": 778,
+   "nombre": "Andrei Istratescu vs Anatoly Karpov, Bucharest 2005",
+   "fen": "5bk1/ppp3pR/7R/3prq2/4r3/2P1B3/1PP2PQ1/1K6 w - - 0 31",
+   "solucionUci": [
+    "e3c5",
+    "e5e7",
+    "c5e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0779",
+   "numero": 779,
+   "nombre": "Judit Polgar vs Anatoly Karpov, Moscow 2009 (Blitz)",
+   "fen": "4r1k1/B4pp1/5n1p/bNpp4/4n3/1P2RNPP/P4P2/5K2 b - - 0 28",
+   "solucionUci": [
+    "e4g3",
+    "f1g2",
+    "g3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0780",
+   "numero": 780,
+   "nombre": "Anatoly Karpov vs Arkadij Naiditsch, Kiev 2013 (Rapid)",
+   "fen": "1r1qr1k1/6bp/3p2p1/1N1P1p1n/1p6/3Q2PP/3BPPB1/1R4K1 b - - 0 24",
+   "solucionUci": [
+    "h5g3",
+    "f2g3",
+    "d8b6",
+    "g1f1",
+    "b6b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0781",
+   "numero": 781,
+   "nombre": "Anatoly Karpov vs Olav Sepp, Puhajarve 2013 (Rapid)",
+   "fen": "r2q1rk1/1pp3bp/n2p4/p2P1b2/1PPN4/P1NpB2P/5P2/R2QK1R1 w Q - 0 17",
+   "solucionUci": [
+    "d4f5",
+    "f8f5",
+    "g1g7",
+    "g8g7",
+    "d1g4",
+    "g7f6",
+    "c3e4",
+    "f6e5",
+    "e4g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0782",
+   "numero": 782,
+   "nombre": "Garry Kasparov vs Walter Browne, Banja Luka 1979",
+   "fen": "1r1q2k1/R4p2/3Pb2p/4Q1p1/1p2B3/2p3PP/1P3P2/6K1 w - - 0 38",
+   "solucionUci": [
+    "e4h7",
+    "g8h7",
+    "e5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0783",
+   "numero": 783,
+   "nombre": "Garry Kasparov vs Leonid Yurtaev, Moscow 1981",
+   "fen": "3r2k1/p4p2/3qbPp1/3pR2p/1r1P4/2N1Q3/1P5P/5R1K w - - 0 29",
+   "solucionUci": [
+    "e5e6",
+    "f7e6",
+    "e3h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0784",
+   "numero": 784,
+   "nombre": "Garry Kasparov vs Miguel Najdorf, Bugojno 1982",
+   "fen": "4rrk1/pb3ppp/1p6/n2p1N2/6Q1/P2B4/3B1PPP/b5K1 w - - 0 24",
+   "solucionUci": [
+    "f5g7",
+    "a1g7",
+    "d2h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0785",
+   "numero": 785,
+   "nombre": "Matthias Wahls vs Garry Kasparov, Hamburg 1985 (Simul)",
+   "fen": "7r/ppR2nbp/4k1p1/3Nn3/3P1B2/3q1P2/PP2Q2P/7K w - - 0 27",
+   "solucionUci": [
+    "f4e5",
+    "d3e2",
+    "d5f4",
+    "e6f5",
+    "c7f7",
+    "f5g5",
+    "f4e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0786",
+   "numero": 786,
+   "nombre": "Garry Kasparov vs Comp Meph Exclusive S, Hamburg 1985 (Simul)",
+   "fen": "rb3rk1/1b1q1ppp/1pn1p3/p1p1P2Q/2PpNP2/3P2PP/PP4B1/R1B1R1K1 w - - 0 17",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "e5f6",
+    "g8h8",
+    "g2e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0787",
+   "numero": 787,
+   "nombre": "Nigel Short vs Garry Kasparov, Belfort 1988",
+   "fen": "2br2k1/1r3pPp/p3p3/q1bp2P1/3R3P/2N1Q3/PPP1B3/2KR4 b - - 0 24",
+   "solucionUci": [
+    "a5b4",
+    "b2b3",
+    "e6e5",
+    "e3e5",
+    "b4c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0788",
+   "numero": 788,
+   "nombre": "Ljubomir Ljubojevic vs Garry Kasparov, Belfort 1988",
+   "fen": "3r2k1/5p1p/p3b1p1/6P1/2p4P/PpP5/1P1qB3/K3RQ2 b - - 0 38",
+   "solucionUci": [
+    "e6h3",
+    "f1g1",
+    "d8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0789",
+   "numero": 789,
+   "nombre": "Gata Kamsky vs Garry Kasparov, New York 1989",
+   "fen": "8/p4k2/1p2p1q1/1b1pPr2/6pp/PN2Q3/1P3PPP/4R1K1 b - - 0 36",
+   "solucionUci": [
+    "f5f3",
+    "e3c1",
+    "f3b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0790",
+   "numero": 790,
+   "nombre": "Alexei Shirov vs Garry Kasparov, Manila 1992 (Olympiad)",
+   "fen": "6rk/6b1/p7/3P1Nq1/P3P2p/4Qp2/1P1r1RP1/R5K1 b - - 0 35",
+   "solucionUci": [
+    "g7d4",
+    "e3g5",
+    "d4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0791",
+   "numero": 791,
+   "nombre": "Nigel Short vs Garry Kasparov, London 1993 (Rapid 2)",
+   "fen": "1rr4k/4bppp/p7/3PpP2/1q6/2NR1Q2/P5PP/4R2K b - - 0 36",
+   "solucionUci": [
+    "e5e4",
+    "f3e4",
+    "c8c3",
+    "e4b4",
+    "e7b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0792",
+   "numero": 792,
+   "nombre": "Garry Kasparov vs Krystian Klimczok, Katowice 1993 (Simul)",
+   "fen": "2rq1rk1/pp1b1pp1/2n1p2p/3pPPb1/3P2P1/2N1B3/PP1QB2P/R4R1K w - - 0 17",
+   "solucionUci": [
+    "f5f6",
+    "g7f6",
+    "e3g5",
+    "f6g5",
+    "f1f6",
+    "g8g7",
+    "a1f1",
+    "c6e7",
+    "h2h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0793",
+   "numero": 793,
+   "nombre": "Garry Kasparov vs Vassily Ivanchuk, Linares 1994",
+   "fen": "kb5r/1b1r1p2/1Q5q/PNpp4/2p5/6P1/1P3PB1/R3R1K1 w - - 0 30",
+   "solucionUci": [
+    "e1e8",
+    "h6h2",
+    "g1f1",
+    "h8e8",
+    "a5a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0794",
+   "numero": 794,
+   "nombre": "Viswanathan Anand vs Garry Kasparov, New York 1995",
+   "fen": "2r5/4ppk1/1N1pb1p1/1p5p/1Pr1P2P/5P2/1KPR2P1/4R3 b - - 0 30",
+   "solucionUci": [
+    "c4b4",
+    "b2a3",
+    "c8c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0795",
+   "numero": 795,
+   "nombre": "Garry Kasparov vs Yasser Seirawan, Amsterdam 1996",
+   "fen": "r3kn2/5q2/r3p2p/4Pp2/1Q3N1B/5P1P/1P6/6RK w q - 0 31",
+   "solucionUci": [
+    "f4h5",
+    "f7c7",
+    "g1g7",
+    "a6a1",
+    "h1g2",
+    "c7c2",
+    "h4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0796",
+   "numero": 796,
+   "nombre": "Garry Kasparov vs Viswanathan Anand, Moscow 1996 (Rapid)",
+   "fen": "2b1rnkb/1q3p1p/pBrp1PpQ/1p1Np1P1/1P2P3/P2PR3/4N2P/5RK1 w - - 0 32",
+   "solucionUci": [
+    "b6d8",
+    "f8e6",
+    "d5e7",
+    "e8e7",
+    "f6e7",
+    "b7d7",
+    "e3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0797",
+   "numero": 797,
+   "nombre": "Garry Kasparov vs Zbynek Hracek, Yerevan 1996 (Olympiad)",
+   "fen": "1rb1k3/5p1p/3qpP2/p2p1Pr1/1p1Q4/8/PPP3BP/1K1R3R w - - 0 22",
+   "solucionUci": [
+    "g2d5",
+    "c8d7",
+    "h1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0798",
+   "numero": 798,
+   "nombre": "Garry Kasparov vs Jan Timman, Prague 1998",
+   "fen": "r5k1/p2n1p1p/1p2pp2/3b3N/8/P1P5/5PPP/3RK2R w K - 0 20",
+   "solucionUci": [
+    "c3c4",
+    "d5c6",
+    "d1d7",
+    "c6d7",
+    "h5f6",
+    "g8g7",
+    "f6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0799",
+   "numero": 799,
+   "nombre": "Garry Kasparov vs Vladimir Kramnik, Moscow 1998 (Blitz 1)",
+   "fen": "3r1n2/8/pNpNb3/P1P1Rpk1/3P4/8/5K2/8 w - - 0 39",
+   "solucionUci": [
+    "d4d5",
+    "c6d5",
+    "d6b7",
+    "d8e8",
+    "c5c6",
+    "g5f6",
+    "e5e1",
+    "e8e7",
+    "b7c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0800",
+   "numero": 800,
+   "nombre": "Garry Kasparov vs Vladimir Kramnik, Moscow 1998 (Blitz 18)",
+   "fen": "1r4r1/1p6/p2kb1Nn/5pR1/3P4/P2B2P1/1P1K4/4R3 w - - 0 33",
+   "solucionUci": [
+    "g6f4",
+    "e6d7",
+    "g5h5",
+    "h6g4",
+    "d3f5",
+    "g4f6",
+    "h5h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0801",
+   "numero": 801,
+   "nombre": "Vladimir Kramnik vs Garry Kasparov, Moscow 1998 (Blitz 19)",
+   "fen": "8/p1Q2pk1/4p3/P2rP1p1/3b1PP1/5K2/8/8 w - - 0 38",
+   "solucionUci": [
+    "f4f5",
+    "d4e5",
+    "c7b7",
+    "d5d6",
+    "f5e6",
+    "d6e6",
+    "b7a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0802",
+   "numero": 802,
+   "nombre": "Garry Kasparov vs Vladimir Kramnik, Frankfurt 1999",
+   "fen": "4kr2/2qr1p2/p3p1p1/3b3p/5Q1P/1P3P2/1KP1N1P1/3RR3 w - - 0 35",
+   "solucionUci": [
+    "d1d5",
+    "e6d5",
+    "e2d4",
+    "e8d8",
+    "d4e6",
+    "f7e6",
+    "f4f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0803",
+   "numero": 803,
+   "nombre": "Garry Kasparov vs Jan Timman, Wijk aan Zee 2000",
+   "fen": "8/5p1p/2R5/1P1r1kp1/2K5/3p4/P4PPP/8 w - - 0 35",
+   "solucionUci": [
+    "c4d5",
+    "d3d2",
+    "g2g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0804",
+   "numero": 804,
+   "nombre": "Thien Hai Dao vs Garry Kasparov, Batumi 2001 (Rapid)",
+   "fen": "5rk1/pp1R1pp1/7p/4r3/6P1/P3PQ2/1P2KPq1/2R5 b - - 0 23",
+   "solucionUci": [
+    "e5e3",
+    "f3e3",
+    "g2g4",
+    "e2f1",
+    "g4d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0805",
+   "numero": 805,
+   "nombre": "Garry Kasparov vs Ruslan Ponomariov, Linares 2002",
+   "fen": "7r/2r1k2p/3Rbq1Q/2p2p1B/4p3/2P5/1P3P1P/3R2K1 w - - 0 38",
+   "solucionUci": [
+    "d6e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0806",
+   "numero": 806,
+   "nombre": "Alexander Huzman vs Garry Kasparov, Rethymnon 2003",
+   "fen": "r1bq1rk1/2b2ppp/p4n2/3p1N2/1Pp5/2Q1PN2/P3BPPP/R2R2K1 w - - 0 21",
+   "solucionUci": [
+    "d1d5",
+    "d8e8",
+    "e2c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0807",
+   "numero": 807,
+   "nombre": "Alexander Khalifman vs Jaan Ehlvest, Lvov 1985",
+   "fen": "2B4k/6pp/pnq3b1/3p2P1/1p1r4/6Q1/PPP4P/2KRR3 w - - 0 30",
+   "solucionUci": [
+    "c8f5",
+    "g6f5",
+    "g3c7",
+    "d4d1",
+    "c1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0808",
+   "numero": 808,
+   "nombre": "Yuri Balashov vs Alexander Khalifman, Minsk 1985",
+   "fen": "4n3/1b2nk2/1p1p1p1p/pP1p1PpN/P2PN1P1/1B2P2P/5K2/8 w - - 0 39",
+   "solucionUci": [
+    "h5f6",
+    "e8f6",
+    "e4d6",
+    "f7f8",
+    "d6b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0809",
+   "numero": 809,
+   "nombre": "Alexander Khalifman vs Vladimir Dimitrov, Groningen 1985",
+   "fen": "5k2/3b2pp/1p1r1p2/1Rbp4/P7/6PP/1P3PB1/3R2K1 w - - 0 33",
+   "solucionUci": [
+    "b2b4",
+    "d7b5",
+    "b4c5",
+    "b5a4",
+    "d1a1",
+    "b6c5",
+    "a1a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0810",
+   "numero": 810,
+   "nombre": "Alexander Khalifman vs Adrian Mikhalchishin, Kuibyshev 1986",
+   "fen": "5rrk/1bq1n2p/p2pPpp1/1p2pN1N/2p1P1Q1/2P4R/PP3PPP/R5K1 w - - 0 26",
+   "solucionUci": [
+    "h5f6",
+    "e7f5",
+    "h3h7",
+    "c7h7",
+    "f6h7",
+    "h8h7",
+    "e4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0811",
+   "numero": 811,
+   "nombre": "Alexander Khalifman vs Alexander Huzman, Tashkent 1987",
+   "fen": "3r1r1k/p3bp1p/1pp2p2/5P1Q/3q1P2/1PN2RRP/1P4P1/7K w - - 0 28",
+   "solucionUci": [
+    "g3g4",
+    "e7c5",
+    "h5h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0812",
+   "numero": 812,
+   "nombre": "Alexander Khalifman vs Mikhail Ulibin, Sochi 1989",
+   "fen": "r1b2rk1/p2n1qpp/p2Pp3/2p2pP1/N1p2N2/8/PP3PP1/R2Q1RK1 w - - 0 17",
+   "solucionUci": [
+    "f4e6",
+    "f7e6",
+    "f1e1",
+    "e6e1",
+    "d1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0813",
+   "numero": 813,
+   "nombre": "Alexander Khalifman vs Ventzislav Inkiov, Moscow 1989",
+   "fen": "r5rk/1p2q2p/p1ppnp1B/P1b1p2B/4P3/2P2QP1/1P3P1P/3R1R1K w - - 0 23",
+   "solucionUci": [
+    "b2b4",
+    "c5a7",
+    "d1d6",
+    "e7d6",
+    "f3f6",
+    "g8g7",
+    "h6g7",
+    "e6g7",
+    "f6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0814",
+   "numero": 814,
+   "nombre": "Ljubomir Ljubojevic vs Alexander Khalifman, Reykjavik 1991",
+   "fen": "2r3k1/5pp1/p1p3p1/P3Pq2/2Q3P1/3nB2P/1r3P2/2R1R1K1 b - - 0 31",
+   "solucionUci": [
+    "f5f3",
+    "c4d3",
+    "b2f2",
+    "e3f2",
+    "f3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0815",
+   "numero": 815,
+   "nombre": "Alexander Khalifman vs Bent Larsen, London 1991",
+   "fen": "3r4/R2n3p/3Pnbk1/4pN2/2p5/2N1B3/6PP/6K1 w - - 0 29",
+   "solucionUci": [
+    "f5e7",
+    "g6f7",
+    "e7c6",
+    "d8c8",
+    "a7d7",
+    "f7e8",
+    "c6e5",
+    "f6e5",
+    "d7e7",
+    "e8d8",
+    "e3b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0816",
+   "numero": 816,
+   "nombre": "Alexander Khalifman vs Ivan Sokolov, Wijk aan Zee 1991",
+   "fen": "4r1kb/p4p2/1p3Pb1/4B3/2p4R/2Pr1BR1/6PP/6K1 w - - 0 32",
+   "solucionUci": [
+    "g3g6",
+    "f7g6",
+    "h4h8",
+    "g8f7",
+    "h8h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0817",
+   "numero": 817,
+   "nombre": "Alexander Khalifman vs Yasser Seirawan, Wijk aan Zee 1991",
+   "fen": "r3rbk1/pp3ppp/5p2/q1pP1N1Q/2P2P2/1P6/PB4PP/5RK1 w - - 0 22",
+   "solucionUci": [
+    "f5h6",
+    "g7h6",
+    "h5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0818",
+   "numero": 818,
+   "nombre": "Alexander Khalifman vs Soenke Maus, Hamburg 1991",
+   "fen": "4r1k1/p2qBp1p/3P2p1/2n5/1p1N3Q/2bb2NP/P4PP1/3R2K1 w - - 0 25",
+   "solucionUci": [
+    "g3h5",
+    "c3d4",
+    "h4d4",
+    "g6h5",
+    "d4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0819",
+   "numero": 819,
+   "nombre": "Gerald Hertneck vs Alexander Khalifman, Germany 1992",
+   "fen": "r1b1r1k1/1p3ppp/p1p4q/3p4/N2P3n/3BP2P/PP2QPP1/2R2RK1 b - - 0 19",
+   "solucionUci": [
+    "h4g2",
+    "g1g2",
+    "c8h3",
+    "g2g3",
+    "e8e6",
+    "f2f4",
+    "g7g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0820",
+   "numero": 820,
+   "nombre": "Dmitry Gurevich vs Alexander Khalifman, Moscow 1992 (Rapid)",
+   "fen": "br4k1/p1q2p2/4nnp1/2P1N3/P2R3p/4N1P1/QB2PP1P/6K1 b - - 0 26",
+   "solucionUci": [
+    "c7b7",
+    "c5c6",
+    "b7b2",
+    "a2b2",
+    "b8b2",
+    "d4d8",
+    "e6d8",
+    "c6c7",
+    "b2b1",
+    "e3f1",
+    "b1d1",
+    "c7c8q",
+    "a8b7",
+    "c8c2",
+    "d1d5",
+    "e5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0821",
+   "numero": 821,
+   "nombre": "Alexander Khalifman vs Oswald Gschnitzer, Germany 1993",
+   "fen": "2rn2k1/3b1p1N/3p1Qp1/3Pp3/1q2P3/2p1R1NP/5PP1/6K1 w - - 0 37",
+   "solucionUci": [
+    "g3h5",
+    "g6h5",
+    "f6h6",
+    "f7f6",
+    "h6g6",
+    "g8h8",
+    "h7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0822",
+   "numero": 822,
+   "nombre": "Alexander Khalifman vs Grigory Serper, St Petersburg 1994",
+   "fen": "1k1rq3/pppb4/7r/1BRPnp1p/Q1N3pP/4P1P1/PR4PK/8 w - - 0 27",
+   "solucionUci": [
+    "b5d7",
+    "e5d7",
+    "b2b7",
+    "b8b7",
+    "c5c7",
+    "b7c7",
+    "a4a7",
+    "c7c8",
+    "d5d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0823",
+   "numero": 823,
+   "nombre": "Dirk Fehmer vs Alexander Khalifman, Eupen 1994",
+   "fen": "r1b1r1k1/1p2qppp/p1p5/3p4/PP1P3n/3BP3/3QNPPP/1R3RK1 b - - 0 17",
+   "solucionUci": [
+    "c8h3",
+    "d2c2",
+    "h3g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0824",
+   "numero": 824,
+   "nombre": "Alexander Khalifman vs Norbert Sehner, Germany 1994",
+   "fen": "8/5Rp1/p1r4k/1p5n/4p1KP/4N3/PP2PP2/8 w - - 0 39",
+   "solucionUci": [
+    "e3f5",
+    "h6g6",
+    "f7g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0825",
+   "numero": 825,
+   "nombre": "Alexander Khalifman vs Valerij Filippov, Kazan 1995",
+   "fen": "r6r/pp3kpp/n1p1bqn1/4pp2/2P5/B4PP1/PP1QBN1P/2KR1R2 w - - 0 18",
+   "solucionUci": [
+    "f2e4",
+    "f5e4",
+    "f3e4",
+    "g6f4",
+    "g3f4",
+    "h8d8",
+    "a3d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0826",
+   "numero": 826,
+   "nombre": "Alexander Khalifman vs Evgeny Bareev, Moscow 1995",
+   "fen": "rn3rk1/1q2ppbp/p3b1p1/1pPN4/4P3/4PN2/PPQ1B1PP/R4RK1 w - - 0 16",
+   "solucionUci": [
+    "c5c6",
+    "b7a7",
+    "c6c7",
+    "e6d5",
+    "c7c8q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0827",
+   "numero": 827,
+   "nombre": "Helmut Pfleger vs Alexander Khalifman, Germany 1996",
+   "fen": "r1r2bk1/1p1q3p/1P2p1p1/2P1p3/pB1p4/Qn1P2PP/2R2PB1/3R2K1 w - - 0 36",
+   "solucionUci": [
+    "c5c6",
+    "b7c6",
+    "b4f8",
+    "c8f8",
+    "g2c6",
+    "d7d8",
+    "c6a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0828",
+   "numero": 828,
+   "nombre": "Valery Loginov vs Alexander Khalifman, St Petersburg 1996",
+   "fen": "5r1k/1p6/3Nb2b/1P5p/7q/4P2P/1R2QP2/rB2K2R b K - 0 31",
+   "solucionUci": [
+    "e6a2",
+    "e1g1",
+    "a2d5",
+    "b1g6",
+    "h4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0829",
+   "numero": 829,
+   "nombre": "Alexander Khalifman vs Thomas Casper, Germany 1997",
+   "fen": "r3n1k1/pR4p1/3p4/1NpPp1Qp/2P1q2P/P7/6PK/8 w - - 0 36",
+   "solucionUci": [
+    "b5d6",
+    "e4f4",
+    "g5f4",
+    "e5f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0830",
+   "numero": 830,
+   "nombre": "Alexander Khalifman vs Alexander Fishbein, New York 1998",
+   "fen": "rn3Bk1/pp5p/2p3p1/8/6NP/2P5/P2br1P1/3R1R1K w - - 0 23",
+   "solucionUci": [
+    "d1d2",
+    "e2d2",
+    "g4h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0831",
+   "numero": 831,
+   "nombre": "Michael Unger vs Alexander Khalifman, Bad Wiessee 1998",
+   "fen": "r4r1k/pR3pp1/3p3p/8/3bQR2/6P1/P2BqP1P/6K1 b - - 0 30",
+   "solucionUci": [
+    "d4f2",
+    "g1g2",
+    "f2e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0832",
+   "numero": 832,
+   "nombre": "Alexander Huzman vs Alexander Khalifman, Bugojno 1999",
+   "fen": "1r2r3/3b3k/2p1ppnp/p2p3B/3P1P1P/P3RN2/1P3P2/1K2R3 w - - 0 30",
+   "solucionUci": [
+    "f4f5",
+    "e6f5",
+    "e1g1",
+    "g6f4",
+    "h5e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0833",
+   "numero": 833,
+   "nombre": "Alexander Khalifman vs Peter Acs, Hoogeveen 2002",
+   "fen": "4k3/p4p2/1P2p2p/8/2pq3P/2Nr2r1/1P1nQPP1/R2R2K1 b - - 0 30",
+   "solucionUci": [
+    "g3g2",
+    "g1g2",
+    "d4g7",
+    "g2h2",
+    "d2f3",
+    "e2f3",
+    "d3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0834",
+   "numero": 834,
+   "nombre": "Alexander Khalifman vs Gabriel Sargissian, Internet 2004",
+   "fen": "3rr3/5pk1/p2q2p1/PbnNp3/8/1B3Q1P/5PP1/2R1R1K1 w - - 0 40",
+   "solucionUci": [
+    "c1c5",
+    "d6c5",
+    "f3f6",
+    "g7g8",
+    "d5e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0835",
+   "numero": 835,
+   "nombre": "Alexander Khalifman vs Ernesto Inarkiev, Khanty-Mansiysk 2005",
+   "fen": "6k1/3b1q2/1pNpNnnb/3Pp3/4P3/r4BB1/P1R3K1/7Q b - - 0 33",
+   "solucionUci": [
+    "f6d5",
+    "c2f2",
+    "d7c6",
+    "h1h6",
+    "f7e6",
+    "e4d5",
+    "c6d5",
+    "f3d5",
+    "e6d5",
+    "g2h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0836",
+   "numero": 836,
+   "nombre": "Valerij Popov vs Alexander Khalifman, Aix les Bains 2011",
+   "fen": "r3r1k1/pp1q1pp1/5n1p/b2pn3/3Nb3/PP2B1PP/2P1NPBK/R2Q1R2 b - - 0 19",
+   "solucionUci": [
+    "e5g4",
+    "h3g4",
+    "f6g4",
+    "h2g1",
+    "e4g2",
+    "g1g2",
+    "e8e3",
+    "e2f4",
+    "a8d8",
+    "f1h1",
+    "e3e4",
+    "a1c1",
+    "g4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0837",
+   "numero": 837,
+   "nombre": "Alexander Khalifman vs Ilya Duzhakov, St Petersburg 2012",
+   "fen": "3q1rk1/4pp2/p2bb1p1/1pBN1n1p/1P6/4P1PP/P3QPB1/3R2K1 w - - 0 24",
+   "solucionUci": [
+    "e3e4",
+    "f5g7",
+    "d5e7",
+    "d6e7",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0838",
+   "numero": 838,
+   "nombre": "Alexander Khalifman vs Konstantin Kostin, Voronezh 2014",
+   "fen": "2k1r3/pp3pp1/2p3b1/6P1/P1QRPq2/2N2p2/1P6/3K1RBr b - - 0 29",
+   "solucionUci": [
+    "f3f2",
+    "g1f2",
+    "f4f2",
+    "f1h1",
+    "f2f3",
+    "d1c2",
+    "f3h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0839",
+   "numero": 839,
+   "nombre": "Alexander Khalifman vs Sergey Grishchenko, Sochi 2014",
+   "fen": "r1q2rk1/1p2n1pb/1ppp3p/2n5/P1PNp1Q1/1P2P1PP/1B3PB1/R3R1K1 w - - 0 20",
+   "solucionUci": [
+    "d4c6",
+    "c8g4",
+    "c6e7",
+    "g8f7",
+    "h3g4",
+    "f7e7",
+    "b2g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0840",
+   "numero": 840,
+   "nombre": "Veselin Topalov vs Vladimir Kramnik, Belgrade 1995",
+   "fen": "2r1k3/5pbp/p3P1p1/1pB5/1K6/1N1B2n1/PqP5/R3Q3 b - - 0 38",
+   "solucionUci": [
+    "g7c3",
+    "e1c3",
+    "a6a5",
+    "b4b5",
+    "b2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0841",
+   "numero": 841,
+   "nombre": "Jeroen Piket vs Vladimir Kramnik, Monte Carlo 1999 (Rapid)",
+   "fen": "4q2k/5p1p/p4p2/1p2bN2/2p1P3/P5P1/1P1Q1P1P/6K1 w - - 0 29",
+   "solucionUci": [
+    "d2h6",
+    "e8g8",
+    "f2f4",
+    "e5b2",
+    "e4e5",
+    "g8g6",
+    "h6f8",
+    "g6g8",
+    "f8e7",
+    "g8g6",
+    "e7d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0842",
+   "numero": 842,
+   "nombre": "Vladimir Kramnik vs Ljubomir Ljubojevic, Monaco 2000 (Rapid)",
+   "fen": "r7/4B1bk/2qP1np1/5b1p/2p2P2/2P1R2P/P2Q2P1/4R2K w - - 0 30",
+   "solucionUci": [
+    "e7f6",
+    "g7f6",
+    "e3e7",
+    "h7h6",
+    "e7f7",
+    "f6h4",
+    "d2d4",
+    "a8g8",
+    "d4a7",
+    "g8h8",
+    "e1e7",
+    "g6g5",
+    "f7f6",
+    "f5g6",
+    "f6g6",
+    "h6g6",
+    "e7e6",
+    "g6f5",
+    "a7f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0843",
+   "numero": 843,
+   "nombre": "Peter Leko vs Vladimir Kramnik, Budapest 2001",
+   "fen": "3rr3/pkp3pp/1pb2P2/3N4/2P1N3/bP6/P2R1PPP/4R1K1 b - - 0 22",
+   "solucionUci": [
+    "a3b4",
+    "f6f7",
+    "e8e4",
+    "e1e4",
+    "b4d2",
+    "e4e7",
+    "c6d5",
+    "e7e8",
+    "d5f7",
+    "e8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0844",
+   "numero": 844,
+   "nombre": "Vladimir Kramnik vs Darmen Sadvakasov, Astana 2001",
+   "fen": "r4rk1/1pq2ppp/p1n5/3RbbNQ/P1B1p3/1P2P3/1B3PP1/R6K w - - 0 19",
+   "solucionUci": [
+    "g5f7",
+    "f8f7",
+    "h5f5",
+    "f7f5",
+    "d5d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0845",
+   "numero": 845,
+   "nombre": "Vladimir Kramnik vs Sergey Volkov, Moscow 2005",
+   "fen": "3r2k1/p1r1np2/1qp1p1p1/p1R1P1Pp/3PP2P/P3B3/1PQ5/1K1R4 w - - 0 38",
+   "solucionUci": [
+    "d4d5",
+    "e6d5",
+    "c5d5",
+    "b6e3",
+    "d5d8",
+    "g8g7",
+    "c2d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0846",
+   "numero": 846,
+   "nombre": "Vladimir Kramnik vs Lazaro Bruzon, Turin 2006 (Olympiad)",
+   "fen": "r1b1r1k1/1pBn1pp1/2p3np/2q5/p2NP3/2P5/B2Q1PPP/3RR1K1 w - - 0 26",
+   "solucionUci": [
+    "a2f7",
+    "g8f7",
+    "d2a2",
+    "f7f8",
+    "d4e6",
+    "e8e6",
+    "a2e6",
+    "g6e7",
+    "e1e3",
+    "f8e8",
+    "e3f3",
+    "c5h5",
+    "c7d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0847",
+   "numero": 847,
+   "nombre": "Veselin Topalov vs Vladimir Kramnik, Elista 2006",
+   "fen": "3rk3/p5p1/2pqP3/1pbr1pB1/6pP/n1PB2R1/P3Q1K1/3R4 w - - 0 38",
+   "solucionUci": [
+    "d3f5",
+    "d5d1",
+    "f5g6",
+    "e8f8",
+    "e6e7",
+    "d6e7",
+    "g5e7",
+    "c5e7",
+    "g6d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0848",
+   "numero": 848,
+   "nombre": "Vladimir Kramnik vs Magnus Carlsen, Monte Carlo 2007 (Rapid)",
+   "fen": "2r1k1r1/pq3pP1/3Rp3/1Pn4Q/2p5/2P3P1/5P1P/R5K1 w - - 0 22",
+   "solucionUci": [
+    "d6c6",
+    "c8c6",
+    "b5c6",
+    "b7c6",
+    "h5h8",
+    "g8h8",
+    "g7h8q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0849",
+   "numero": 849,
+   "nombre": "Boris Gelfand vs Vladimir Kramnik, Moscow 2008",
+   "fen": "2r1q1k1/5pp1/1bN1p2p/1p3n2/2n5/5QP1/P4PBP/B2R2K1 b - - 0 32",
+   "solucionUci": [
+    "c4e3",
+    "f2e3",
+    "f5e3",
+    "a1d4",
+    "b6d4",
+    "d1d4",
+    "e3g2",
+    "c6b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0850",
+   "numero": 850,
+   "nombre": "Vladimir Kramnik vs Peter Svidler, Moscow 2008 (Blitz)",
+   "fen": "r5k1/pp4pp/6q1/2pp4/2bbNPn1/5BP1/PPQB2KP/4R3 b - - 0 24",
+   "solucionUci": [
+    "g4f2",
+    "d2e3",
+    "f2d3",
+    "e1e2",
+    "d3b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0851",
+   "numero": 851,
+   "nombre": "Vladimir Kramnik vs Viswanathan Anand, Bonn 2008",
+   "fen": "8/1b1nkp1p/4pq2/1B6/PP1p1pQ1/2r2N2/5PPP/4R1K1 w - - 0 29",
+   "solucionUci": [
+    "f3d4",
+    "f6d4",
+    "e1d1",
+    "d7f6",
+    "d1d4",
+    "f6g4",
+    "d4d7",
+    "e7f6",
+    "d7b7",
+    "c3c1",
+    "b5f1",
+    "g4e3",
+    "f2e3",
+    "f4e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0852",
+   "numero": 852,
+   "nombre": "Arkadij Naiditsch vs Vladimir Kramnik, Dortmund 2009",
+   "fen": "4r1k1/pp1q1pp1/2p2n1p/2P4r/1PB1pB2/7b/P1Q1N1P1/R3R1K1 b - - 0 22",
+   "solucionUci": [
+    "h3g2",
+    "e2g3",
+    "g2f3",
+    "c2b3",
+    "h5h4",
+    "f4d6",
+    "d7h3",
+    "c4f7",
+    "g8h7",
+    "b3b2",
+    "f6g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0853",
+   "numero": 853,
+   "nombre": "Alexander Morozevich vs Vladimir Kramnik, Moscow 2009",
+   "fen": "r3r1k1/1Q4p1/p2B3p/3pP3/2q2pPP/P2n1N2/1P3PK1/7R b - - 0 30",
+   "solucionUci": [
+    "d3f2",
+    "g2f2",
+    "c4c2",
+    "f2g1",
+    "c2d1",
+    "g1f2",
+    "d1h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0854",
+   "numero": 854,
+   "nombre": "Viswanathan Anand vs Vladimir Kramnik, Zurich 2013",
+   "fen": "rq2r1k1/2p2ppp/b1R5/P2Qp3/4P3/3pB2P/1P1NnPP1/R6K w - - 0 22",
+   "solucionUci": [
+    "c6a6",
+    "a8a6",
+    "d5d3",
+    "b8b2",
+    "a1b1",
+    "a6d6",
+    "d3e2",
+    "b2a2",
+    "e2b5",
+    "c7c6",
+    "b5b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0855",
+   "numero": 855,
+   "nombre": "Vladimir Kramnik vs Daniel Fridman, Dortmund 2013",
+   "fen": "r2rkq2/3n1p2/pp1npp1p/2p4N/2P2QPP/P1NPP3/1B6/5RK1 w q - 0 29",
+   "solucionUci": [
+    "c3d5",
+    "e6d5",
+    "b2f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0856",
+   "numero": 856,
+   "nombre": "Vladimir Kramnik vs Anton Korobov, Tromsø 2013",
+   "fen": "6k1/1R3b2/2q1pp2/3n3p/7p/8/3B1PP1/1Q4K1 w - - 0 37",
+   "solucionUci": [
+    "d2h6",
+    "d5c7",
+    "b1b4",
+    "g8h7",
+    "b4f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0857",
+   "numero": 857,
+   "nombre": "Vladimir Kramnik vs Levon Aronian, Khanty-Mansiysk 2014",
+   "fen": "4rb2/5p1k/7B/1p1b1P2/6Q1/1P6/2r1p1PP/3R1R1K w - - 0 35",
+   "solucionUci": [
+    "f1g1",
+    "f8h6",
+    "d1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0858",
+   "numero": 858,
+   "nombre": "Vladimir Kramnik vs Peter Svidler, Sochi 2015",
+   "fen": "1r1r2k1/pp2ppb1/1n4pp/3bP3/2qNR2N/B5P1/P4QBP/5RK1 w - - 0 26",
+   "solucionUci": [
+    "d4e6",
+    "d5e6",
+    "e4c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0859",
+   "numero": 859,
+   "nombre": "Laurent Fressinet vs Vladimir Kramnik, Paris 2016 (Rapid)",
+   "fen": "r4r1k/ppb1q1pp/4b3/2p1p3/4Qn2/2P1NN1P/PP3PPK/3RRB2 b - - 0 22",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "f8f3",
+    "e4f3",
+    "e5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0860",
+   "numero": 860,
+   "nombre": "Vassily Ivanchuk vs Viswanathan Anand, Buenos Aires 1994",
+   "fen": "4r1k1/1p1nppbR/3p2p1/3P4/2P3P1/1P2BB1R/q3QPK1/r7 w - - 0 31",
+   "solucionUci": [
+    "h7g7",
+    "g8g7",
+    "e3d4",
+    "f7f6",
+    "e2e3",
+    "d7f8",
+    "f3e4",
+    "g7f7",
+    "h3h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0861",
+   "numero": 861,
+   "nombre": "Veselin Topalov vs Viswanathan Anand, Dos Hermanas 1996",
+   "fen": "r2q1rk1/2p2ppp/8/1pn1P3/8/5Q2/1P3PPP/R1B2RK1 w - - 0 18",
+   "solucionUci": [
+    "c1g5",
+    "a8a1",
+    "g5d8",
+    "a1f1",
+    "g1f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0862",
+   "numero": 862,
+   "nombre": "Viswanathan Anand vs Miguel Illescas, Leon 1997",
+   "fen": "2Q5/5pbk/3p1qp1/3P4/4PP1p/3nB1PP/3N2K1/8 w - - 0 38",
+   "solucionUci": [
+    "e4e5",
+    "d6e5",
+    "d2e4",
+    "f6f5",
+    "e4g5",
+    "h7h6",
+    "c8g8",
+    "d3f4",
+    "g3f4",
+    "f5c2",
+    "e3f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0863",
+   "numero": 863,
+   "nombre": "Aleksandar Kovacevic vs Viswanathan Anand, Belgrade 1997",
+   "fen": "qr4k1/2p2pp1/3p2p1/2n1p1P1/1nB1P3/2QPP2P/1P6/2B1R1K1 b - - 0 29",
+   "solucionUci": [
+    "b4d3",
+    "c4d3",
+    "b8b3",
+    "c3c2",
+    "b3d3",
+    "b2b4",
+    "a8a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0864",
+   "numero": 864,
+   "nombre": "Vassily Ivanchuk vs Viswanathan Anand, Linares 1998",
+   "fen": "2rr2k1/5pp1/p2p3p/qp1Pp1bP/8/5P2/PPP3P1/1K1QRB1R b - - 0 22",
+   "solucionUci": [
+    "c8c2",
+    "b1c2",
+    "a5a2",
+    "f3f4",
+    "d8c8",
+    "c2d2",
+    "g5f4",
+    "d2e2",
+    "a2b2",
+    "e2f3",
+    "c8c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0865",
+   "numero": 865,
+   "nombre": "Julen Arizmendi Martinez vs Viswanathan Anand, Villarrobledo 1998 (Rapid)",
+   "fen": "4r1k1/p2qbp1p/1p2p1pB/4r3/4N3/P4Q1P/1P3PP1/4R1K1 w - - 0 25",
+   "solucionUci": [
+    "e4f6",
+    "e7f6",
+    "f3f6",
+    "e5e1",
+    "g1h2",
+    "d7d6",
+    "f2f4",
+    "d6f8",
+    "h6f8",
+    "e8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0866",
+   "numero": 866,
+   "nombre": "Loek van Wely vs Viswanathan Anand, Monte Carlo 1999 (Rapid)",
+   "fen": "1r4k1/p1R3pp/4pn2/8/3pP3/5P2/2R3PP/r1B3K1 b - - 0 22",
+   "solucionUci": [
+    "d4d3",
+    "c7c8",
+    "g8f7",
+    "c2c7",
+    "f7g6",
+    "g1f2",
+    "a1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0867",
+   "numero": 867,
+   "nombre": "Viswanathan Anand vs Ljubomir Ljubojevic, Monaco 2000 (Blindfold)",
+   "fen": "1rr4k/2qb1pp1/2nppb2/7P/4PP2/PpNBB3/1P4Q1/1K4RR w - - 0 27",
+   "solucionUci": [
+    "e4e5",
+    "d6e5",
+    "g2e4",
+    "h8g8",
+    "e3c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0868",
+   "numero": 868,
+   "nombre": "Sinisa Drazic vs Viswanathan Anand, Bastia 2000",
+   "fen": "1r3nk1/3b1p2/1rpq1n2/R2p2p1/P2Pp2p/1P2P3/2QNNPPP/2R2BK1 b - - 0 28",
+   "solucionUci": [
+    "f6g4",
+    "g2g3",
+    "d6f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0869",
+   "numero": 869,
+   "nombre": "Viswanathan Anand vs Victor Bologan, New Delhi 2000",
+   "fen": "2b2b1k/2r2ppp/n2p1N2/3Pr1P1/3NPQ2/2p3RP/1q3PK1/1B1R4 w - - 0 38",
+   "solucionUci": [
+    "g5g6",
+    "f7g6",
+    "f6d7",
+    "f8e7",
+    "d7e5",
+    "d6e5",
+    "f4f7",
+    "h7h6",
+    "f7e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0870",
+   "numero": 870,
+   "nombre": "Viswanathan Anand vs Elizbar Ubilava, Villarrobledo 2001 (Rapid)",
+   "fen": "8/pp3rk1/1q1PQnp1/2p5/2P4r/3R1R2/PP3PP1/6K1 w - - 0 31",
+   "solucionUci": [
+    "f3f6",
+    "f7f6",
+    "e6e7",
+    "f6f7",
+    "e7h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0871",
+   "numero": 871,
+   "nombre": "Viswanathan Anand vs Alexey Dreev, Moscow 2001",
+   "fen": "2rr3k/pp3pp1/4p2p/2P1Bq1n/8/2P2PQ1/PP4P1/K2R3R w - - 0 26",
+   "solucionUci": [
+    "d1d8",
+    "c8d8",
+    "e5g7",
+    "h8h7",
+    "g3c7",
+    "d8g8",
+    "g7d4",
+    "g8g2",
+    "c7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0872",
+   "numero": 872,
+   "nombre": "Nigel Short vs Viswanathan Anand, Dubai 2002",
+   "fen": "2r1r1k1/1p2ppbp/p1np1np1/P2N4/R3PPq1/1N1QB3/1PP3PP/5RK1 b - - 0 16",
+   "solucionUci": [
+    "f6d5",
+    "e4d5",
+    "c6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0873",
+   "numero": 873,
+   "nombre": "Viswanathan Anand vs Judit Polgar, Cap d’Agde 2003",
+   "fen": "r1r3k1/2qn1ppp/p3p3/2bb4/1p1N2PP/4BP2/PPPRBQ2/1K5R b - - 0 20",
+   "solucionUci": [
+    "c5d4",
+    "e3d4",
+    "d5a2",
+    "b1a2",
+    "c7a5",
+    "a2b1",
+    "b4b3",
+    "c2b3",
+    "a5d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0874",
+   "numero": 874,
+   "nombre": "Miso Cebalo vs Viswanathan Anand, Bastia 2003",
+   "fen": "4rnk1/pb3ppp/1p6/3r2q1/1Bp5/P4B2/1PQ2PP1/1K1R3R w - - 0 22",
+   "solucionUci": [
+    "d1d5",
+    "b7d5",
+    "h1h5",
+    "g5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0875",
+   "numero": 875,
+   "nombre": "Evgeny Miroshnichenko vs Viswanathan Anand, Porz 2004",
+   "fen": "3r1rk1/p5pp/2b5/4qp1n/1pP1P3/1P2QRPP/P2NR1B1/6K1 b - - 0 27",
+   "solucionUci": [
+    "h5g3",
+    "e2f2",
+    "g3e4",
+    "d2e4",
+    "c6e4",
+    "f3f4",
+    "g7g5",
+    "e3g3",
+    "e5g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0876",
+   "numero": 876,
+   "nombre": "Viswanathan Anand vs Johann Hjartarson, Reykjavik 2006 (Blitz)",
+   "fen": "5rk1/7p/p2R2p1/P1pPp3/q1N1Qr1b/2P4P/5PPK/4R3 w - - 0 34",
+   "solucionUci": [
+    "d6g6",
+    "h7g6",
+    "e4g6",
+    "g8h8",
+    "e1e5",
+    "f4f5",
+    "g6h6",
+    "h8g8",
+    "h6h4",
+    "f5e5",
+    "h4g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0877",
+   "numero": 877,
+   "nombre": "Teimour Radjabov vs Viswanathan Anand, Rishon Le Zion 2006 (Blitz)",
+   "fen": "r1b1kb1r/1p1n1pp1/p1n1p2p/4P3/q2NN2B/8/P1PQB1PP/1R2K2R w Kkq - 0 15",
+   "solucionUci": [
+    "d4e6",
+    "g7g5",
+    "e4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0878",
+   "numero": 878,
+   "nombre": "Vassily Ivanchuk vs Viswanathan Anand, Monte Carlo 2007 (Blindfold)",
+   "fen": "r3r1k1/pp3pp1/8/2P1n1qp/1P6/P1Q2P2/5PBP/R3R1K1 w - - 0 22",
+   "solucionUci": [
+    "f3f4",
+    "g5f4",
+    "e1e4",
+    "f4f6",
+    "a1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0879",
+   "numero": 879,
+   "nombre": "Viswanathan Anand vs Levon Aronian, Morelia/Linares 2008",
+   "fen": "3B2k1/6p1/3b4/1p1p3q/3P1p2/2PQ1NPb/1P2rP1P/R5K1 b - - 0 30",
+   "solucionUci": [
+    "e2e3",
+    "f2e3",
+    "h5f3",
+    "d3c2",
+    "f4g3",
+    "h2g3",
+    "f3g3",
+    "g1h1",
+    "h3f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0880",
+   "numero": 880,
+   "nombre": "Magnus Carlsen vs Viswanathan Anand, Nice 2008 (Rapid)",
+   "fen": "5rk1/1p3ppp/1b1p1q2/r2P4/4B1b1/P3P1P1/4NP1P/R2Q1RK1 w - - 0 19",
+   "solucionUci": [
+    "e4h7",
+    "g8h7",
+    "d1b1",
+    "g7g6",
+    "b1b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0881",
+   "numero": 881,
+   "nombre": "Viswanathan Anand vs Loek van Wely, Wijk aan Zee 2013",
+   "fen": "5r2/1p1r2p1/p1p2bk1/8/1PPPR1P1/3KB3/1P6/5R2 w - - 0 36",
+   "solucionUci": [
+    "g4g5",
+    "f6d4",
+    "e4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0882",
+   "numero": 882,
+   "nombre": "Viswanathan Anand vs Wei Yi, Leon 2016",
+   "fen": "3q2k1/R4p2/2pr2pp/1pQ4n/1P1pP3/3P3P/2N2PP1/6K1 w - - 0 32",
+   "solucionUci": [
+    "e4e5",
+    "d6d5",
+    "c5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0883",
+   "numero": 883,
+   "nombre": "Ruslan Ponomariov vs Sergey Vokarev, Briansk 1995",
+   "fen": "5rk1/1b3r1p/4p1pb/pp1q4/2pP4/2P2PB1/P1N1Q1PP/3R1R1K b - - 0 27",
+   "solucionUci": [
+    "f7f3",
+    "g2f3",
+    "f8f3",
+    "h1g1",
+    "f3c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0884",
+   "numero": 884,
+   "nombre": "Ruslan Ponomariov vs Boris Ponomariov, Alicante 1997",
+   "fen": "r1b3k1/p1q2pp1/2p4p/4b3/4r3/1P5P/PNP1BPP1/1R1Q1R1K b - - 0 21",
+   "solucionUci": [
+    "e5b2",
+    "b1b2",
+    "c8h3",
+    "g2h3",
+    "c7e5",
+    "c2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0885",
+   "numero": 885,
+   "nombre": "Ruslan Ponomariov vs Vepa Malikgulyew, Zagan 1997",
+   "fen": "r2r1nk1/ppq1bppp/2p1pn2/5N2/2PP4/3B1Q2/PP3PPP/2BRR1K1 w - - 0 16",
+   "solucionUci": [
+    "f3g3",
+    "c7g3",
+    "f5e7",
+    "g8h8",
+    "h2g3",
+    "d8e8",
+    "e7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0886",
+   "numero": 886,
+   "nombre": "Sergei Azarov vs Ruslan Ponomariov, Artek 1999",
+   "fen": "r1b1k2r/pp3ppp/2nBpn2/2P4Q/4P3/P2Bq3/2P1N1PP/R3KR2 w Qkq - 0 20",
+   "solucionUci": [
+    "f1f6",
+    "g7g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0887",
+   "numero": 887,
+   "nombre": "Sergei Tiviakov vs Ruslan Ponomariov, Moscow 2001",
+   "fen": "3r1r1k/1q3p1p/pp6/1p2ppQ1/4Nn2/2PP4/PP3PPP/R3R1K1 b - - 0 23",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "f8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0888",
+   "numero": 888,
+   "nombre": "Ruslan Ponomariov vs Teimour Radjabov, Wijk aan Zee 2003",
+   "fen": "5r1k/p4Bb1/2p3Qp/1pB1p1p1/1P2P1n1/6P1/P1nq1N1P/1R4K1 b - - 0 35",
+   "solucionUci": [
+    "c2e3",
+    "c5e3",
+    "g4e3",
+    "h2h4",
+    "d2e2",
+    "g6h5",
+    "g5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0889",
+   "numero": 889,
+   "nombre": "Ruslan Ponomariov vs Tihomir Dovramadjiev, Internet 2004",
+   "fen": "3r4/2r2pkp/p3p1p1/1pNbR3/5P1q/P3Q2P/1P4PK/3R4 w - - 0 30",
+   "solucionUci": [
+    "e5d5",
+    "d8d5",
+    "d1d5",
+    "e6d5",
+    "e3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0890",
+   "numero": 890,
+   "nombre": "Comp Hydra vs Ruslan Ponomariov, Bilbao 2005",
+   "fen": "k4b1r/5p1p/2bPpqp1/p1Bp4/2pP4/2P3Q1/P4PPP/1R4K1 w - - 0 27",
+   "solucionUci": [
+    "d6d7",
+    "f8c5",
+    "g3c7",
+    "e6e5",
+    "d4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0891",
+   "numero": 891,
+   "nombre": "Levon Aronian vs Ruslan Ponomariov, Khanty-Mansiysk 2005",
+   "fen": "r1bq1rk1/p2n1pp1/1p5p/b1pp4/3P4/P2BPNB1/1P2KPPP/R2Q3R w - - 0 14",
+   "solucionUci": [
+    "b2b4",
+    "c5b4",
+    "d1b3",
+    "d7c5",
+    "d4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0892",
+   "numero": 892,
+   "nombre": "Ruslan Ponomariov vs Alexander Grischuk, Sochi 2006",
+   "fen": "1r4k1/3R1ppp/1qb1p3/1Pb1Q3/2P2P2/4p3/2N1B2P/2K5 w - - 0 30",
+   "solucionUci": [
+    "d7c7",
+    "c6f3",
+    "e2f3",
+    "c5d6",
+    "c7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0893",
+   "numero": 893,
+   "nombre": "Krishnan Sasikiran vs Ruslan Ponomariov, Zafra 2007",
+   "fen": "6rk/2p4p/p4p1B/2b4Q/Ppq5/1n3N1P/1P4P1/4R2K w - - 0 29",
+   "solucionUci": [
+    "f3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0894",
+   "numero": 894,
+   "nombre": "Ruslan Ponomariov vs Peter Leko, Moscow 2007 (Blitz)",
+   "fen": "1rr3k1/1b2qpp1/pp1bpn1p/4n3/P1BNP3/2N1BP1P/QP4P1/R2R2K1 w - - 0 19",
+   "solucionUci": [
+    "c4e6",
+    "c8d8",
+    "d4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0895",
+   "numero": 895,
+   "nombre": "Pavel Tregubov vs Ruslan Ponomariov, Odessa 2008",
+   "fen": "4r2r/5p2/1kp4p/p3RQp1/3R4/P5P1/qP3PP1/2K5 w - - 0 28",
+   "solucionUci": [
+    "e5b5",
+    "b6a6",
+    "b5a5",
+    "a6b6",
+    "f5c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0896",
+   "numero": 896,
+   "nombre": "Vladislav Tkachiev vs Ruslan Ponomariov, Moscow 2008 (Blitz)",
+   "fen": "r1b1r1k1/ppb2pp1/2nq3p/3p4/3P4/3BBN1P/PP3PP1/R2QR1K1 w - - 0 17",
+   "solucionUci": [
+    "e3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0897",
+   "numero": 897,
+   "nombre": "Magnus Carlsen vs Ruslan Ponomariov, Moscow 2008 (Blitz)",
+   "fen": "2r2qk1/6r1/2Ppp1pQ/p1n2pP1/1p1B4/1P5P/P1P3B1/4R1K1 w - - 0 28",
+   "solucionUci": [
+    "e1e6",
+    "c5e6",
+    "g2d5",
+    "c8e8",
+    "c6c7",
+    "g8f7",
+    "d4g7",
+    "f8g8",
+    "g7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0898",
+   "numero": 898,
+   "nombre": "Boris Gelfand vs Ruslan Ponomariov, Khanty-Mansiysk 2009",
+   "fen": "5k2/p4p1p/Pr2p3/1nRr1p2/1R6/3N1PP1/4P1KP/8 w - - 0 35",
+   "solucionUci": [
+    "c5d5",
+    "e6d5",
+    "d3f4",
+    "b5c7",
+    "b4b6",
+    "a7b6",
+    "a6a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0899",
+   "numero": 899,
+   "nombre": "Ruslan Ponomariov vs Baadur Jobava, Kharkov 2010",
+   "fen": "5k1r/p1nbq2r/1p1p1pp1/1PpPp1b1/2P1P1P1/P2Q1P1n/2KNN2R/3BB2R b - - 0 30",
+   "solucionUci": [
+    "h3f2",
+    "e1f2",
+    "h7h2",
+    "h1h2",
+    "h8h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0900",
+   "numero": 900,
+   "nombre": "Francisco Vallejo Pons vs Ruslan Ponomariov, Spain 2011",
+   "fen": "5rk1/6pp/2N5/Q2p4/4q1n1/6P1/5P1P/3R2K1 b - - 0 32",
+   "solucionUci": [
+    "g4e3",
+    "f2e3",
+    "e4e3",
+    "g1g2",
+    "f8f2",
+    "g2h3",
+    "e3h6",
+    "h3g4",
+    "h6g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0901",
+   "numero": 901,
+   "nombre": "Sergey Fedorchuk vs Ruslan Ponomariov, Spain 2011",
+   "fen": "5r2/1p3pk1/p1rpbn1p/b1q1p3/P3P3/1PNR1Q2/2P2PPP/R1B3K1 w - - 0 21",
+   "solucionUci": [
+    "c1h6",
+    "g7g6",
+    "c3d5",
+    "f6h7",
+    "f3g3",
+    "g6h5",
+    "d5f6",
+    "h7f6",
+    "g3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0902",
+   "numero": 902,
+   "nombre": "Peter Svidler vs Ruslan Ponomariov, Eilat 2012",
+   "fen": "4r1k1/pR3b2/5Ppp/6P1/4B1n1/7r/P3R1N1/6K1 w - - 0 34",
+   "solucionUci": [
+    "e4d5",
+    "e8e2",
+    "d5f7",
+    "g8f8",
+    "f7g6",
+    "e2e8",
+    "b7f7",
+    "f8g8",
+    "f7g7",
+    "g8h8",
+    "g7h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0903",
+   "numero": 903,
+   "nombre": "Ruslan Ponomariov vs Leinier Dominguez Perez, Tashkent 2012",
+   "fen": "2rqr1k1/R3bp1p/1n4p1/3P1b1N/3P1B2/6QP/6B1/5RK1 w - - 0 33",
+   "solucionUci": [
+    "a7e7",
+    "d8e7",
+    "f4g5",
+    "e7e2",
+    "h5f6",
+    "g8g7",
+    "f6e8",
+    "c8e8",
+    "f1f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0904",
+   "numero": 904,
+   "nombre": "Deshun Xiu vs Ruslan Ponomariov, Danzhou 2014",
+   "fen": "1B6/p4k1p/1p3pp1/2pN4/2P1K1PP/PP1R4/3r1r2/8 b - - 0 42",
+   "solucionUci": [
+    "f6f5",
+    "g4f5",
+    "g6f5",
+    "e4e5",
+    "d2d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0905",
+   "numero": 905,
+   "nombre": "Fabiano Caruana vs Ruslan Ponomariov, Dortmund 2014",
+   "fen": "3q4/k1p2br1/1pQ5/p2pR3/P2P4/1P1B4/K1P5/8 w - - 0 39",
+   "solucionUci": [
+    "e5e7",
+    "d8e7",
+    "d3a6",
+    "a7a6",
+    "c6a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0906",
+   "numero": 906,
+   "nombre": "Ivan Cheparinov vs Ruslan Ponomariov, Tromsø 2014 (Olympiad)",
+   "fen": "1n1r1k2/p1rbbppp/1p1Npn2/2P5/8/BN4P1/P3PPBP/R2R2K1 w - - 0 19",
+   "solucionUci": [
+    "d6b5",
+    "c7c8",
+    "b5a7",
+    "c8c7",
+    "c5b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0907",
+   "numero": 907,
+   "nombre": "Ruslan Ponomariov vs Jure Borisek, Berlin 2015 (Blitz)",
+   "fen": "2r1r1kb/1b2qp1p/1np2npB/1p2p3/4P3/1PP2NNP/5PP1/2QRRBK1 w - - 0 26",
+   "solucionUci": [
+    "g3f5",
+    "e7e6",
+    "f5d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0908",
+   "numero": 908,
+   "nombre": "Ruslan Ponomariov vs Axel Bachmann, Berlin 2015 (Blitz)",
+   "fen": "3r2k1/1b3pb1/1n3npp/pBp1p1B1/P3P3/2P2NNP/5PP1/1R4K1 w - - 0 24",
+   "solucionUci": [
+    "g5f6",
+    "g7f6",
+    "b5a6",
+    "b6a4",
+    "b1b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0909",
+   "numero": 909,
+   "nombre": "Ruslan Ponomariov vs Francisco Vallejo Pons, Madrid 2016",
+   "fen": "8/p4kpp/b7/1p1qP3/2r5/1Q4P1/PPRbPP1P/5RK1 w - - 0 24",
+   "solucionUci": [
+    "e2e4",
+    "d5d4",
+    "f1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0910",
+   "numero": 910,
+   "nombre": "Rustam Kasimdzhanov vs Patrice Verdier, Corsica 1997 (Rapid)",
+   "fen": "5r2/pR2Npbk/3p2pp/2pP4/P4QP1/2q1P3/5PK1/8 w - - 0 34",
+   "solucionUci": [
+    "e7g6",
+    "c3d3",
+    "g6f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0911",
+   "numero": 911,
+   "nombre": "Rustam Kasimdzhanov vs Giorgi Bakhtadze, Yerevan 1999",
+   "fen": "b1r2k2/R1Nr1p2/7p/N6n/2B1PnR1/5P2/6PK/8 w - - 0 40",
+   "solucionUci": [
+    "c7e6",
+    "f8e7",
+    "a7d7",
+    "e7d7",
+    "e6f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0912",
+   "numero": 912,
+   "nombre": "Rustam Kasimdzhanov vs Gerald Hertneck, Germany 2001",
+   "fen": "k7/p1r1qpnp/B2rb1p1/2ppN3/Q5P1/1R2P2P/PP3P2/1KR5 w - - 0 24",
+   "solucionUci": [
+    "c1c5",
+    "c7c5",
+    "a6b7",
+    "e7b7",
+    "b3b7",
+    "a8b7",
+    "a4b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0913",
+   "numero": 913,
+   "nombre": "Etienne Bacrot vs Rustam Kasimdzhanov, Moscow 2002",
+   "fen": "5r1k/pp4bp/1q1p2p1/3Ppb2/1P2Nr2/1Q1B1P2/P5KP/R1BR4 b - - 0 24",
+   "solucionUci": [
+    "f4f3",
+    "g2f3",
+    "f5e4",
+    "f3g3",
+    "b6f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0914",
+   "numero": 914,
+   "nombre": "Thomas Luther vs Rustam Kasimdzhanov, Mainz 2003",
+   "fen": "r4rk1/1b3pp1/p2p4/1p4qp/1P1p1n2/P2P1PN1/B1P2RPP/R2Q2K1 b - - 0 21",
+   "solucionUci": [
+    "h5h4",
+    "g3e4",
+    "b7e4",
+    "d3e4",
+    "f4h3",
+    "g1f1",
+    "h3f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0915",
+   "numero": 915,
+   "nombre": "Rustam Kasimdzhanov vs Mark Bluvshtein, Khanty-Mansiysk 2010 (Olympiad)",
+   "fen": "4Q3/p5pk/p1pP3p/3bN3/3Pqp2/P6P/5PP1/6K1 w - - 0 34",
+   "solucionUci": [
+    "e8g6",
+    "e4g6",
+    "e5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0916",
+   "numero": 916,
+   "nombre": "Rustam Kasimdzhanov vs Mohammad Miran Khademi, Mashhad 2011",
+   "fen": "r3b2R/7R/r1pkn1p1/4Np2/1PPp1P2/3P1BP1/p1K5/8 w - - 0 39",
+   "solucionUci": [
+    "h8e8",
+    "a8a7",
+    "c4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0917",
+   "numero": 917,
+   "nombre": "Rustam Kasimdzhanov vs Liviu Dieter Nisipeanu, Rogaska Slatina 2011",
+   "fen": "2r4k/qp5p/3p2p1/3Ppb2/NPB2p1b/1R3Pn1/5RPP/2BQ2K1 w - - 0 29",
+   "solucionUci": [
+    "a4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0918",
+   "numero": 918,
+   "nombre": "Rustam Kasimdzhanov vs Marat Dzhumaev, Tashkent 2011",
+   "fen": "2r3k1/ppP4p/6p1/5bN1/3qp3/1P2n1P1/P4QBP/2R3K1 w - - 0 24",
+   "solucionUci": [
+    "g3g4",
+    "e3c2",
+    "g4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0919",
+   "numero": 919,
+   "nombre": "Rustam Kasimdzhanov vs Henrik Teske, Germany 2011",
+   "fen": "1r1Nbk2/2n4p/5P1p/1p6/p7/8/P2R1KPP/2rBR3 w - - 0 38",
+   "solucionUci": [
+    "f6f7",
+    "e8f7",
+    "d8f7",
+    "f8f7",
+    "d1h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0920",
+   "numero": 920,
+   "nombre": "Dimitar Donchev vs Veselin Topalov, Sofia 1989",
+   "fen": "4rrk1/1bpn2pp/p2bp3/1p1p1n1q/3P2N1/2P2N1P/PPB2PP1/R1BQR1K1 w - - 0 18",
+   "solucionUci": [
+    "f3e5",
+    "d6e5",
+    "g4h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0921",
+   "numero": 921,
+   "nombre": "Eran Liss vs Veselin Topalov, Singapore 1990",
+   "fen": "r4k2/2p1n1bQ/bp2B1p1/p1q5/P2p1P1P/2p1B3/1P4P1/R3R1K1 w - - 0 28",
+   "solucionUci": [
+    "f4f5",
+    "d4e3",
+    "f5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0922",
+   "numero": 922,
+   "nombre": "Vasilios Kotronias vs Veselin Topalov, Kavala 1990",
+   "fen": "2r4r/1b1nqkpp/p3pb2/4p2P/2pN1PQ1/P1N1B2R/1PP5/2KR4 w - - 0 20",
+   "solucionUci": [
+    "d4e6",
+    "b7c6",
+    "f4f5",
+    "e5e4",
+    "e3d4",
+    "h8g8",
+    "c3e4",
+    "c6e4",
+    "g4e4",
+    "c4c3",
+    "b2b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0923",
+   "numero": 923,
+   "nombre": "Veselin Topalov vs Jacob Bjerre Jensen, Copenhagen 1991",
+   "fen": "5kr1/1p3p1p/2pqB3/4R1rn/p2P4/2P2Q2/PP3P2/3R3K b - - 0 28",
+   "solucionUci": [
+    "h5f4",
+    "f3f4",
+    "g5h5",
+    "e5h5",
+    "d6f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0924",
+   "numero": 924,
+   "nombre": "Veselin Topalov vs Juan Mellado Trivino, Terrassa 1992",
+   "fen": "r3rbk1/1p1q2pp/5p2/pNpnP3/P2p1PP1/1P3Q1P/1P1B4/R3R2K w - - 0 22",
+   "solucionUci": [
+    "b5d6",
+    "d5b4",
+    "d6e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0925",
+   "numero": 925,
+   "nombre": "Mikhail Nedobora vs Veselin Topalov, Candas 1992",
+   "fen": "2k1r2r/pp6/2p2np1/4p3/2P3P1/1P1R1P1p/PB2N2b/1K2R3 b - - 0 25",
+   "solucionUci": [
+    "e5e4",
+    "d3e3",
+    "e4f3",
+    "e3f3",
+    "f6e4",
+    "b1c2",
+    "e4g5",
+    "f3f2",
+    "h2e5",
+    "b2e5",
+    "e8e5",
+    "e1h1",
+    "e5e4",
+    "h1g1",
+    "g5f3",
+    "g1h1",
+    "f3e5",
+    "c2d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0926",
+   "numero": 926,
+   "nombre": "Jesus Maria Iruzubieta Villaluenga vs Veselin Topalov, Elgoibar 1992",
+   "fen": "6k1/1q3p1p/p2p2p1/4r1PP/4nQ2/2P2N2/P7/4R1K1 b - - 0 34",
+   "solucionUci": [
+    "e4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0927",
+   "numero": 927,
+   "nombre": "Veselin Topalov vs Alfonso Romero Holmes, Leon 1993",
+   "fen": "5rk1/p2bppb1/3p2p1/1pq2PBn/4P1Q1/1B6/P1P5/1K1R3R w - - 0 24",
+   "solucionUci": [
+    "g5h6",
+    "c5c3",
+    "h6g7",
+    "c3g7",
+    "d1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0928",
+   "numero": 928,
+   "nombre": "Jesus Maria De la Villa vs Veselin Topalov, Pamplona 1994",
+   "fen": "5r1B/p3kB1R/1b4p1/4pbN1/5n2/1P3K2/P7/8 b - - 0 35",
+   "solucionUci": [
+    "f8h8",
+    "h7h8",
+    "e7f6"
+   ]
+  }
+ ]
+}

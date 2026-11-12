@@ -1,0 +1,3628 @@
+{
+ "actividades": [
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0223",
+   "numero": 223,
+   "nombre": "Carl Hamppe vs Wilhelm Steinitz, Vienna 1859",
+   "fen": "2k3rr/ppp1npb1/2Pp4/P7/1PBP4/2P2QBq/7P/R4RK1 b - - 0 21",
+   "solucionUci": [
+    "g7d4",
+    "g1h1",
+    "g8g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0224",
+   "numero": 224,
+   "nombre": "Wilhelm Steinitz vs Strauss, Vienna 1860",
+   "fen": "r5r1/pp2kpBQ/3pn3/6q1/8/8/P4PPP/3RR1K1 w - - 0 23",
+   "solucionUci": [
+    "e1e6",
+    "e7e6",
+    "h7e4",
+    "e6d7",
+    "e4b7",
+    "d7e6",
+    "d1e1",
+    "e6f5",
+    "b7f7",
+    "f5g4",
+    "f7f3",
+    "g4h4",
+    "f3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0225",
+   "numero": 225,
+   "nombre": "Wilhelm Steinitz vs Adolf Anderssen, London 1862",
+   "fen": "8/2R3pk/2N2r1p/1p3p2/1Pb1p2P/8/1r3PP1/R5K1 b - - 0 33",
+   "solucionUci": [
+    "e4e3",
+    "f2f3",
+    "f6g6",
+    "g2g4",
+    "f5g4",
+    "f3f4",
+    "c4d5",
+    "c6d4",
+    "g6a6",
+    "a1a6",
+    "b2b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0226",
+   "numero": 226,
+   "nombre": "Henry Bird vs Wilhelm Steinitz, London 1866",
+   "fen": "2kr3r/ppp2p1p/2Bb1p2/3P4/6b1/5N2/PPP3PP/RNqQK2R b KQ - 0 13",
+   "solucionUci": [
+    "d8e8",
+    "c6e8",
+    "h8e8",
+    "e1f2",
+    "c1e3",
+    "f2f1",
+    "g4f3",
+    "g2f3",
+    "d6c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0227",
+   "numero": 227,
+   "nombre": "Wilhelm Steinitz vs Henry Bird, London 1866",
+   "fen": "r1b1kb1r/ppp2ppp/2n1p3/6B1/3P2q1/3B1N2/PPP2PPP/R2QK2R w KQkq - 0 9",
+   "solucionUci": [
+    "h2h3",
+    "g4g2",
+    "h1h2",
+    "g2h2",
+    "f3h2",
+    "c6d4",
+    "d3b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0228",
+   "numero": 228,
+   "nombre": "Wilhelm Steinitz vs Hieronim Czarnowski, Paris 1867",
+   "fen": "3r2r1/pbq1kp2/1n2pn1p/2b3p1/B1PN4/4B2P/P2QNPP1/R2R2K1 w - - 0 21",
+   "solucionUci": [
+    "d4c6",
+    "c7c6",
+    "a4c6",
+    "c5e3",
+    "d2b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0229",
+   "numero": 229,
+   "nombre": "Wilhelm Steinitz vs Szymon Winawer, Paris 1867",
+   "fen": "r1q1k2r/ppp2p2/1n3Ppp/3pN3/3Pn1Q1/B1P5/P1P3PP/1R3RK1 w kq - 0 17",
+   "solucionUci": [
+    "g4g6",
+    "f7g6",
+    "f6f7",
+    "e8d8",
+    "f7f8q",
+    "h8f8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0230",
+   "numero": 230,
+   "nombre": "Wilhelm Steinitz vs Emile D’Andre, Paris 1867",
+   "fen": "3k4/1b1nb2R/2p5/1p1Ppr2/p7/P1NP1N2/BPP3K1/8 w - - 0 27",
+   "solucionUci": [
+    "d5d6",
+    "e7d6",
+    "a2e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0231",
+   "numero": 231,
+   "nombre": "Wilhelm Steinitz vs Walsh, London 1870 (Simul)",
+   "fen": "1rbk1bnr/ppNpppp1/7p/1N6/4P3/3q4/P2B1PPP/1R1QK2R w K - 0 14",
+   "solucionUci": [
+    "c7e6",
+    "d8e8",
+    "b5c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0232",
+   "numero": 232,
+   "nombre": "Wilhelm Steinitz vs Henry Bird, London 1870",
+   "fen": "5rnr/pp2kpp1/1b1p3p/nBpP2N1/4PN2/8/P4PPP/4RRK1 w - - 0 19",
+   "solucionUci": [
+    "g5e6",
+    "f7e6",
+    "f4g6",
+    "e7f7",
+    "g6h8",
+    "f7f6",
+    "f2f4",
+    "g8e7",
+    "e4e5",
+    "f6f5",
+    "b5d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0233",
+   "numero": 233,
+   "nombre": "Walter Grimshaw vs Wilhelm Steinitz, Vienna 1872",
+   "fen": "r1b1k1nr/pp3ppp/2n5/1N6/8/8/qPPQ1PPP/2KR1B1R w kq - 0 14",
+   "solucionUci": [
+    "b5c7",
+    "e8f8",
+    "d2d6",
+    "g8e7",
+    "d6d8",
+    "c6d8",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0234",
+   "numero": 234,
+   "nombre": "C.E.A. Dupre vs Wilhelm Steinitz, The Hague 1873",
+   "fen": "3r2k1/1p4pp/1qp2p2/p7/3nN3/P3Q3/1P3PPP/3R2K1 w - - 0 28",
+   "solucionUci": [
+    "e4d6",
+    "c6c5",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0235",
+   "numero": 235,
+   "nombre": "Wilhelm Steinitz vs Jean Dufresne, Liverpool 1874",
+   "fen": "r1b3n1/ppp2qb1/2kp4/5PB1/3P2PQ/2PB4/PP3K2/4R3 w - - 0 24",
+   "solucionUci": [
+    "d4d5",
+    "c6b6",
+    "g5e3",
+    "c7c5",
+    "h4d8",
+    "f7c7",
+    "d8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0236",
+   "numero": 236,
+   "nombre": "Wilhelm Steinitz vs Dion Martinez, Philadelphia 1882",
+   "fen": "r3kbnr/p1pp1p1p/1pn5/1P4pq/3PPp2/5N2/1PP2KPP/R1BQ1B1R b kq - 0 10",
+   "solucionUci": [
+    "c6d4",
+    "c1f4",
+    "g5f4",
+    "f3d4",
+    "h5h4",
+    "f2g1",
+    "f8c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0237",
+   "numero": 237,
+   "nombre": "Wilhelm Steinitz vs Joseph Blackburne, Vienna 1882",
+   "fen": "r2nrbk1/ppp2pp1/6np/1P1B4/3P2N1/2P5/1P4PP/R1B2RK1 w - - 0 23",
+   "solucionUci": [
+    "c1h6",
+    "g7h6",
+    "g4f6",
+    "g8h8",
+    "f6e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0238",
+   "numero": 238,
+   "nombre": "Joseph Blackburne vs Wilhelm Steinitz, Vienna 1882",
+   "fen": "3b1rk1/1bq3pp/5pn1/1p2rN2/2p1p3/2P1B2Q/1PB2PPP/R2R2K1 w - - 0 24",
+   "solucionUci": [
+    "d1d7",
+    "c7d7",
+    "f5h6",
+    "g7h6",
+    "h3d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0239",
+   "numero": 239,
+   "nombre": "Wilhelm Steinitz vs Samuel Rosenthal, London 1883",
+   "fen": "6k1/pbB2ppp/4r3/1P6/3P4/5p1q/P1NQ3P/4R1K1 b - - 0 33",
+   "solucionUci": [
+    "e6g6",
+    "c7g3",
+    "g6g3",
+    "h2g3",
+    "f3f2",
+    "g1f2",
+    "h3g2",
+    "f2e3",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0240",
+   "numero": 240,
+   "nombre": "Josef Noa vs Wilhelm Steinitz, London 1883",
+   "fen": "r2qkb1r/2p2pp1/p1npb2p/1p6/2P1P3/1BQ1B3/PP3PPP/RN2K2R b KQkq - 0 12",
+   "solucionUci": [
+    "d6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0241",
+   "numero": 241,
+   "nombre": "G.H. Thornton vs Wilhelm Steinitz, New York 1884",
+   "fen": "5r1k/ppp2pbp/4r3/8/2P3QP/1qPR2B1/1P3RP1/2K5 w - - 0 25",
+   "solucionUci": [
+    "f2f7",
+    "f8f7",
+    "g4e6",
+    "f7f1",
+    "g3e1",
+    "b3b6",
+    "e6b6",
+    "a7b6",
+    "c1d2",
+    "h8g8",
+    "d3d8",
+    "g7f8",
+    "d8d7",
+    "f8d6",
+    "d2e2",
+    "f1g1",
+    "e2f2",
+    "g1h1",
+    "f2e2",
+    "h1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0242",
+   "numero": 242,
+   "nombre": "Johannes Zukertort vs Wilhelm Steinitz, USA 1886",
+   "fen": "3r4/pp4pk/4R2p/5p2/3Pbq2/2Q5/P2R1PPP/1r1N2K1 b - - 0 37",
+   "solucionUci": [
+    "d8c8",
+    "e6e4",
+    "f4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0243",
+   "numero": 243,
+   "nombre": "Isidor Gunsberg vs Wilhelm Steinitz, New York 1891",
+   "fen": "Q1bk1q1r/1pbp1ppp/2p1n3/4pN2/4P1B1/2P5/P4PPP/R2R2K1 w - - 0 23",
+   "solucionUci": [
+    "d1d7",
+    "d8d7",
+    "a1d1",
+    "e6d4",
+    "c3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0244",
+   "numero": 244,
+   "nombre": "Wilhelm Steinitz vs Armand Blackmar, Skaneateles 1891 (Blindfold simul)",
+   "fen": "r3k1nr/pppq1ppp/2n5/1Bb1p3/4P1b1/2NP1N2/PPP3PP/R1BQK2R w KQkq - 0 8",
+   "solucionUci": [
+    "f3e5",
+    "g4d1",
+    "e5d7",
+    "e8d7",
+    "e1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0245",
+   "numero": 245,
+   "nombre": "Wilhelm Steinitz vs Mikhail Chigorin, Havana 1892",
+   "fen": "4rr1k/1ppb3p/2q1n1p1/p7/3b4/1BP1B3/PP3PP1/2KR1Q1R w - - 0 23",
+   "solucionUci": [
+    "d1d4",
+    "e6d4",
+    "h1h7",
+    "h8h7",
+    "f1h1",
+    "h7g7",
+    "e3h6",
+    "g7f6",
+    "h1h4",
+    "f6e5",
+    "h4d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0246",
+   "numero": 246,
+   "nombre": "City of Liverpool vs Wilhelm Steinitz, corr. 1893",
+   "fen": "r2qb1k1/p1pr2bp/1pn2pN1/3NpPpQ/4P3/B7/PPP3PP/R4R1K b - - 0 20",
+   "solucionUci": [
+    "d7d5",
+    "e4d5",
+    "c6d4",
+    "g6e7",
+    "d8e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0247",
+   "numero": 247,
+   "nombre": "Carl Walbrodt vs Wilhelm Steinitz, Hastings 1895",
+   "fen": "3B2k1/6pp/p1p1q3/1pb5/4np2/1PPQ3P/P4PP1/3N2K1 b - - 0 29",
+   "solucionUci": [
+    "e4f2",
+    "d1f2",
+    "e6e1",
+    "g1h2",
+    "c5f2",
+    "h3h4",
+    "h7h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0248",
+   "numero": 248,
+   "nombre": "Emanuel Schiffers vs Wilhelm Steinitz, Hastings 1895",
+   "fen": "r1b2rk1/ppp3pp/3b3q/2pP4/2P3B1/2B3P1/PP3P2/2RQ1RK1 b - - 0 19",
+   "solucionUci": [
+    "d6g3",
+    "f2g3",
+    "f8f1",
+    "d1f1",
+    "c8g4",
+    "f1f4",
+    "h6f4",
+    "g3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0249",
+   "numero": 249,
+   "nombre": "Dawid Janowski vs Wilhelm Steinitz, Hastings 1895",
+   "fen": "r3k2r/1p2bp1p/p1q1bp2/1Npp3Q/8/1P6/1PP2PPP/R1B1R1K1 w kq - 0 17",
+   "solucionUci": [
+    "e1e6",
+    "c6b5",
+    "c1h6",
+    "e8d8",
+    "h5f7",
+    "h8e8",
+    "a1e1",
+    "b5d7",
+    "h6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0250",
+   "numero": 250,
+   "nombre": "Wilhelm Steinitz vs Emanuel Schiffers, Rostov on Don 1896",
+   "fen": "r2q1rk1/ppp2pp1/2n1b2p/3n4/2BP4/2P2N2/P1Q2PPP/R1B1R1K1 w - - 0 13",
+   "solucionUci": [
+    "c1h6",
+    "g7h6",
+    "e1e6",
+    "f7e6",
+    "c2g6",
+    "g8h8",
+    "g6h6",
+    "h8g8",
+    "h6e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0251",
+   "numero": 251,
+   "nombre": "Bobrov vs Wilhelm Steinitz, Moscow 1896 (Simul)",
+   "fen": "r1b3k1/ppp2pb1/6p1/8/3P2pQ/2PBq1N1/PP4P1/1K5R w - - 0 25",
+   "solucionUci": [
+    "h4d8",
+    "g7f8",
+    "h1h8",
+    "g8h8",
+    "d8f8",
+    "h8h7",
+    "f8f7",
+    "h7h8",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0252",
+   "numero": 252,
+   "nombre": "Emanuel Lasker vs Wilhelm Steinitz, Moscow 1896",
+   "fen": "1rrb1n2/3kn1p1/2pp4/1p4BP/3PN1p1/1N6/1P2RP2/4R1K1 w - - 0 35",
+   "solucionUci": [
+    "e4c5",
+    "d6c5",
+    "b3c5",
+    "d7d6",
+    "g5f4",
+    "d6d5",
+    "e2e5",
+    "d5c4",
+    "e1c1",
+    "c4d4",
+    "c5b3",
+    "d4d3",
+    "c1c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0253",
+   "numero": 253,
+   "nombre": "Wilhelm Steinitz vs Emanuel Lasker, Moscow 1897",
+   "fen": "1r5k/3q2pp/p1b2pn1/P3p3/1BBr4/2Q3P1/1P2RPP1/4R1K1 b - - 0 35",
+   "solucionUci": [
+    "c6g2",
+    "g1g2",
+    "d7c6",
+    "e2e4",
+    "d4e4",
+    "e1e4",
+    "c6e4",
+    "g2g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0254",
+   "numero": 254,
+   "nombre": "Wilhelm Steinitz vs Joseph Blackburne, Vienna 1898",
+   "fen": "6r1/p1k3r1/2p4n/5p1p/2P1B2P/1P3RP1/P5K1/4R3 w - - 0 35",
+   "solucionUci": [
+    "e4c6",
+    "f5f4",
+    "f3f4",
+    "g7g3",
+    "g2f2",
+    "g3h3",
+    "c6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0255",
+   "numero": 255,
+   "nombre": "Harry Pillsbury vs Wilhelm Steinitz, Vienna 1898",
+   "fen": "3rrb1k/1p1b1pp1/2pp2p1/pq5N/1P2P3/P4PQ1/1BP3PP/3RR2K w - - 0 25",
+   "solucionUci": [
+    "h5f6",
+    "g7f6",
+    "g3h4",
+    "h8g8",
+    "b2f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0256",
+   "numero": 256,
+   "nombre": "Rudolf Loman vs Emanuel Lasker, Amsterdam 1889",
+   "fen": "r2qkb1r/2p2p1p/p2p4/1p2p1p1/3nP1b1/1BNP1N2/PPP2P1K/R1BQ1R2 w kq - 0 13",
+   "solucionUci": [
+    "f3e5",
+    "g4d1",
+    "b3f7",
+    "e8e7",
+    "c3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0257",
+   "numero": 257,
+   "nombre": "Emanuel Lasker vs Theodor von Scheve, Berlin 1890",
+   "fen": "r2r2k1/2p2pp1/6q1/1pp5/5P2/N1Pb1Q2/PP4PP/3RR1K1 w - - 0 25",
+   "solucionUci": [
+    "d1d3",
+    "g6d3",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0258",
+   "numero": 258,
+   "nombre": "Emanuel Lasker vs Gustavus Reichhelm, Philadelphia 1892 (Simul)",
+   "fen": "5r1k/8/2b1pq1p/1p3pNQ/p1pPpP2/P1P1P2P/1P6/6RK w - - 0 34",
+   "solucionUci": [
+    "g5e6",
+    "c6e8",
+    "g1g6",
+    "f6g6",
+    "h5g6",
+    "e8g6",
+    "e6f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0259",
+   "numero": 259,
+   "nombre": "Emanuel Lasker vs Franklin Elson, Wakefield 1892 (Simul)",
+   "fen": "r1bq2k1/ppp1b2p/3pp1p1/8/3P1r2/2PB1N2/PPQ2PPP/4RRK1 w - - 0 16",
+   "solucionUci": [
+    "d3g6",
+    "h7g6",
+    "c2g6",
+    "g8h8",
+    "g6h6",
+    "h8g8",
+    "h6f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0260",
+   "numero": 260,
+   "nombre": "John Ryan vs Emanuel Lasker, USA 1893 (Simul)",
+   "fen": "6k1/5pp1/1bQp3p/1p2qP2/1Pp5/2r5/5PPP/1B3RK1 b - - 0 28",
+   "solucionUci": [
+    "b6f2",
+    "g1h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0261",
+   "numero": 261,
+   "nombre": "Ostalaza vs Emanuel Lasker, Havana 1893",
+   "fen": "2rqk2r/pp1bppb1/2np2p1/7n/3NPP2/2N1B3/PPPQB2P/2KR3R b k - 0 12",
+   "solucionUci": [
+    "h5f4",
+    "e3f4",
+    "c6d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0262",
+   "numero": 262,
+   "nombre": "Emanuel Lasker vs Celsito, Havana 1893 (Simul)",
+   "fen": "r1b1k2r/1p2qppp/p4n2/3Pp3/4P3/P2B4/2P3PP/R1BQK2R b KQkq - 0 14",
+   "solucionUci": [
+    "f6e4",
+    "d3e4",
+    "e7h4",
+    "e1f1",
+    "h4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0263",
+   "numero": 263,
+   "nombre": "Alfred Ettlinger vs Emanuel Lasker, New York 1893",
+   "fen": "2krr3/1pp1qpp1/p1pb2np/8/3NP3/4B1PP/bPPNQP2/2KR3R w - - 0 16",
+   "solucionUci": [
+    "d4c6",
+    "b7c6",
+    "e2a6",
+    "c8d7",
+    "a6a2",
+    "d8a8",
+    "a2b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0264",
+   "numero": 264,
+   "nombre": "Emanuel Lasker vs Joseph Blackburne, Hastings 1895",
+   "fen": "2k1r2r/1pp2ppp/p2p2q1/8/1PPbP3/N4n2/P1QBRPPP/1R5K b - - 0 20",
+   "solucionUci": [
+    "f3h2",
+    "h1h2",
+    "g6h5",
+    "h2g1",
+    "h5e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0265",
+   "numero": 265,
+   "nombre": "Harry Pillsbury vs Emanuel Lasker, St Petersburg 1896",
+   "fen": "8/pp4pk/4Qb1p/3p4/2qP4/K7/P2R2PP/3R4 b - - 0 28",
+   "solucionUci": [
+    "c4c3",
+    "a3a4",
+    "b7b5",
+    "a4b5",
+    "c3c4",
+    "b5a5",
+    "f6d8",
+    "e6b6",
+    "d8b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0266",
+   "numero": 266,
+   "nombre": "Emanuel Lasker vs N.N., Berlin 1897 (Simul)",
+   "fen": "1r2r1k1/pb3ppp/7P/q1p1RN2/1nQ3P1/7B/1P6/1K3R2 w - - 0 1",
+   "solucionUci": [
+    "c4f7",
+    "g8f7",
+    "f5e7",
+    "b7f3",
+    "f1f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0267",
+   "numero": 267,
+   "nombre": "Emanuel Lasker vs Anderson, London 1898 (Simul)",
+   "fen": "r1bqk1nr/pp1p1pp1/2n4p/2b1p3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 7",
+   "solucionUci": [
+    "c4f7",
+    "e8f7",
+    "d1d5",
+    "f7e8",
+    "d5c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0268",
+   "numero": 268,
+   "nombre": "Emanuel Lasker vs Joseph Blackburne, London 1899",
+   "fen": "2r1k2r/5p2/3pb3/pPnNp1q1/P3Pbn1/5PB1/2B3P1/1R1QRNK1 b k - 0 31",
+   "solucionUci": [
+    "h8h1",
+    "g1h1",
+    "f4g3",
+    "f1g3",
+    "g4f2",
+    "h1g1",
+    "f2d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0269",
+   "numero": 269,
+   "nombre": "Emanuel Lasker vs N.N., Great Britain 1900 (Simul)",
+   "fen": "2r1k2r/1p3p2/1n1p1p1b/p1pPqN2/4P1Q1/1P1P2P1/P5B1/2R2RK1 w k - 0 25",
+   "solucionUci": [
+    "d3d4",
+    "c5d4",
+    "c1c8",
+    "b6c8",
+    "f5h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0270",
+   "numero": 270,
+   "nombre": "Emanuel Lasker vs R. Lee, Hereford 1900 (Simul)",
+   "fen": "6b1/1p4k1/p2p1p2/3P4/PP1K4/8/4B3/8 w - - 0 1",
+   "solucionUci": [
+    "e2a6",
+    "b7a6",
+    "b4b5",
+    "a6b5",
+    "a4b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0271",
+   "numero": 271,
+   "nombre": "Emanuel Lasker vs Manuel Marquez Sterling, Paris 1900",
+   "fen": "r3k2r/1ppq1pbp/p1N1bnp1/3pQ3/B2P1P2/8/PPP3PP/RNB1K2R w KQkq - 0 12",
+   "solucionUci": [
+    "f4f5",
+    "g6f5",
+    "c1h6",
+    "e8g8",
+    "e5g3",
+    "f6e8",
+    "c6e7",
+    "d7e7",
+    "a4e8",
+    "f7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0272",
+   "numero": 272,
+   "nombre": "Emanuel Lasker vs E.M. Sala, USA 1901 (Simul)",
+   "fen": "3k3r/1pp2p2/p1q1bN1p/4P3/2P4n/1P1r1pP1/PQ5P/R1B2RK1 b - - 0 22",
+   "solucionUci": [
+    "f3f2",
+    "f1f2",
+    "d3d1",
+    "f2f1",
+    "c6h1",
+    "g1f2",
+    "h1f1",
+    "f2e3",
+    "f1f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0273",
+   "numero": 273,
+   "nombre": "M.R. Quinault vs Emanuel Lasker, USA 1903 (Simul)",
+   "fen": "1k4rr/ppp2p2/5q2/4p3/1PPpPn2/P2P1Q2/R5NP/5R1K b - - 0 24",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "f6h6",
+    "h2g1",
+    "f4h3",
+    "g1h2",
+    "h3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0274",
+   "numero": 274,
+   "nombre": "Emanuel Lasker vs Rudolf Loman, USA 1903 (Simul)",
+   "fen": "5k2/1p4pP/p7/1p1p2K1/2r5/8/6PP/8 b - - 0 39",
+   "solucionUci": [
+    "c4h4",
+    "g5h4",
+    "g7g5",
+    "h4g5",
+    "f8g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0275",
+   "numero": 275,
+   "nombre": "Emanuel Lasker vs Ferenc Chalupetzky, corr. 1903",
+   "fen": "r1b1kb1r/pp2q2p/2p2p2/1B2p3/3PQ3/8/PPP3PP/R1B1K2R w KQkq - 0 13",
+   "solucionUci": [
+    "b5e2",
+    "e5d4",
+    "e4d4",
+    "e7b4",
+    "d4b4",
+    "f8b4",
+    "c2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0276",
+   "numero": 276,
+   "nombre": "Edward Hymes vs Emanuel Lasker, USA 1905 (Simul)",
+   "fen": "6k1/6p1/3p2rp/pp5r/4Pp2/1PP2PqP/1BP1R1P1/3Q3K b - - 0 36",
+   "solucionUci": [
+    "h5h3",
+    "g2h3",
+    "g3f3",
+    "h1h2",
+    "f3g3",
+    "h2h1",
+    "f4f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0277",
+   "numero": 277,
+   "nombre": "E. Tarnowski vs Emanuel Lasker, corr. 1908",
+   "fen": "rk5r/2p5/p2pP1qp/1p1QnNB1/4P2P/8/PPP3P1/R5K1 w - - 0 22",
+   "solucionUci": [
+    "f5d6",
+    "c7d6",
+    "d5d6",
+    "b8b7",
+    "d6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0278",
+   "numero": 278,
+   "nombre": "Emanuel Lasker vs Womersley, England 1908 (Simul)",
+   "fen": "2k5/5ppp/1PpPb3/2P5/2BP4/p7/5KPP/8 w - - 0 1",
+   "solucionUci": [
+    "d4d5",
+    "c6d5",
+    "c4a6",
+    "c8b8",
+    "c5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0279",
+   "numero": 279,
+   "nombre": "Emanuel Lasker vs N.N., Netherlands 1908 (Simul)",
+   "fen": "3r1k1r/2N1bppp/8/8/2B1Pp2/8/1Pn3PP/3R1RK1 w - - 0 23",
+   "solucionUci": [
+    "c7e6",
+    "f7e6",
+    "f1f4",
+    "f8g8",
+    "c4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0280",
+   "numero": 280,
+   "nombre": "Emanuel Lasker vs N.B. Holmes, England 1908 (Simul)",
+   "fen": "4r1k1/3b1pp1/p1rp2qp/1p6/7R/P4N2/1PPQ1PP1/1K1R4 b - - 0 23",
+   "solucionUci": [
+    "c6c2",
+    "d2d6",
+    "c2c1",
+    "b1c1",
+    "e8c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0281",
+   "numero": 281,
+   "nombre": "Emanuel Lasker vs H.P. Fortuin Harreman, Netherlands 1908 (Simul)",
+   "fen": "3r1qk1/5ppp/1p1P4/nPn2N2/R3Q3/7P/5PP1/4R1K1 w - - 0 29",
+   "solucionUci": [
+    "f5e7",
+    "g8h8",
+    "e4h7",
+    "h8h7",
+    "a4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0282",
+   "numero": 282,
+   "nombre": "Emanuel Lasker vs Joseph Blake, England 1908 (Simul)",
+   "fen": "2nr2k1/p5pp/2Q5/5b2/8/8/Pq3PPP/R3R1K1 w - - 0 21",
+   "solucionUci": [
+    "a1d1",
+    "d8f8",
+    "c6d5",
+    "g8h8",
+    "d5f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0283",
+   "numero": 283,
+   "nombre": "Coates/Wallwork vs Emanuel Lasker, Manchester 1908 (Simul)",
+   "fen": "7k/p1p3pp/1bB2q2/8/2Q2nb1/1PP5/P5PP/R6K b - - 0 29",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "g4f3",
+    "c6f3",
+    "f6f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0284",
+   "numero": 284,
+   "nombre": "Siegbert Tarrasch vs Emanuel Lasker, Germany 1908",
+   "fen": "3rr1k1/p1pqbppp/2pp4/8/4P1n1/1P4N1/PBP2PPP/R2QR1K1 w - - 0 15",
+   "solucionUci": [
+    "b2g7",
+    "g4f2",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0285",
+   "numero": 285,
+   "nombre": "Akiba Rubinstein vs Emanuel Lasker, St Petersburg 1909",
+   "fen": "2kr4/pp3ppp/2b5/6q1/3P4/4r3/PP3PPP/2RQ1RK1 w - - 0 17",
+   "solucionUci": [
+    "c1c6",
+    "b7c6",
+    "d1c1",
+    "d8d4",
+    "f2e3",
+    "d4d6",
+    "f1f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0286",
+   "numero": 286,
+   "nombre": "Julio Lynch vs Emanuel Lasker, Buenos Aires 1910 (Simul)",
+   "fen": "1r2k3/2p2ppp/3pn3/3R4/P3PP2/4R3/Pr2NP1P/6K1 b - - 0 30",
+   "solucionUci": [
+    "b2e2",
+    "e3e2",
+    "b8b1",
+    "g1g2",
+    "e6f4",
+    "g2f3",
+    "f4e2",
+    "f3e2",
+    "b1b2",
+    "e2f3",
+    "b2a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0287",
+   "numero": 287,
+   "nombre": "J. Bar vs Emanuel Lasker, Germany 1913 (Simul)",
+   "fen": "r4nk1/1b2qrp1/2n4R/3pP3/2pP4/4B3/P5RP/1B2QN1K b - - 0 30",
+   "solucionUci": [
+    "c6e5",
+    "d4e5",
+    "d5d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0288",
+   "numero": 288,
+   "nombre": "Vilhelm Nielsen vs Emanuel Lasker, Copenhagen 1919 (Simul)",
+   "fen": "r2qr1k1/pb1nbppp/4p3/2p5/2P5/2NBB3/PP2QPPP/3R1RK1 w - - 0 15",
+   "solucionUci": [
+    "d3h7",
+    "g8h7",
+    "e2d3",
+    "h7g8",
+    "d3d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0289",
+   "numero": 289,
+   "nombre": "Prusa vs Emanuel Lasker, Prague 1924 (Simul)",
+   "fen": "r1bq1r2/ppp1npk1/1b4pp/3P4/2Q1N1P1/P3BN1P/1P3P2/R4RK1 w - - 0 19",
+   "solucionUci": [
+    "c4c3",
+    "f7f6",
+    "e4f6",
+    "f8f6",
+    "e3h6",
+    "g7h6",
+    "c3f6",
+    "c8d7",
+    "f6f7",
+    "d8g8",
+    "g4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0290",
+   "numero": 290,
+   "nombre": "Emanuel Lasker vs Vrbasic, Yugoslavia 1924 (Simul)",
+   "fen": "8/1pK1Pk1p/6pP/P5P1/4b3/B7/8/8 w - - 0 1",
+   "solucionUci": [
+    "a5a6",
+    "b7a6",
+    "c7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0291",
+   "numero": 291,
+   "nombre": "A. Arnold vs Emanuel Lasker, Prague 1924 (Simul)",
+   "fen": "r3k1nr/pppq1ppp/8/1Nb1P3/2Bp1P2/3P4/PPP4P/R2Q1RK1 w kq - 0 15",
+   "solucionUci": [
+    "e5e6",
+    "f7e6",
+    "d1h5",
+    "g7g6",
+    "h5c5",
+    "e8c8",
+    "c4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0292",
+   "numero": 292,
+   "nombre": "Alexander Alekhine vs Emanuel Lasker, New York 1924",
+   "fen": "1r4k1/p1b2bpn/2pq1p2/3p1P1p/3P2P1/3B1N1P/P4PN1/2Q1R1K1 b - - 0 28",
+   "solucionUci": [
+    "h7g5",
+    "f3g5",
+    "d6h2",
+    "g1f1",
+    "f6g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0293",
+   "numero": 293,
+   "nombre": "Emanuel Lasker vs Kenneth Smith, USA 1926 (Simul)",
+   "fen": "r3k2r/1pqbbp2/p1npp1p1/5P1n/3NP2p/2N2B2/PPP1Q1PP/3R1RBK b kq - 0 15",
+   "solucionUci": [
+    "h5g3",
+    "h2g3",
+    "h4g3",
+    "g1h2",
+    "h8h2",
+    "h1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0294",
+   "numero": 294,
+   "nombre": "Muehrenberg vs Emanuel Lasker, Copenhagen 1927 (Simul)",
+   "fen": "6k1/2pb1rb1/2pp1p1p/1q3Pp1/2N1P3/1PP3B1/r5PP/3QRR1K w - - 0 23",
+   "solucionUci": [
+    "g3d6",
+    "c7d6",
+    "c4d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0295",
+   "numero": 295,
+   "nombre": "Emanuel Lasker vs Buchholtz, Copenhagen 1927 (Simul)",
+   "fen": "1rb3kr/pppp1qp1/4pQ2/3nP2p/7P/2PB2R1/P4PP1/R1B1K3 w Q - 0 21",
+   "solucionUci": [
+    "f6d8",
+    "f7f8",
+    "g3g7",
+    "g8g7",
+    "d8g5",
+    "g7f7",
+    "g5g6",
+    "f7e7",
+    "c1g5",
+    "d5f6",
+    "g5f6",
+    "f8f6",
+    "g6f6",
+    "e7e8",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0296",
+   "numero": 296,
+   "nombre": "Bruno Hartmann vs Emanuel Lasker, Copenhagen 1927 (Simul)",
+   "fen": "4rq1k/pp1b1rp1/3p1bQp/2pP1P2/3p4/3B3R/P1PB2PP/4R1K1 w - - 0 24",
+   "solucionUci": [
+    "e1e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0297",
+   "numero": 297,
+   "nombre": "A. Gavilan vs Jose Raul Capablanca, Havana 1901",
+   "fen": "r1b2r1k/ppp4p/3p1p1q/2b1n1p1/4P3/P2N2BP/1P2QPP1/R2B1R1K b - - 0 20",
+   "solucionUci": [
+    "c8h3",
+    "g2h3",
+    "h6h3",
+    "h1g1",
+    "h3g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0298",
+   "numero": 298,
+   "nombre": "Jose Raul Capablanca vs Juan Antonio Blanco Jimenez, Havana 1901",
+   "fen": "8/6p1/4K3/5P2/4k3/8/7P/8 w - - 0 47",
+   "solucionUci": [
+    "h2h4",
+    "e4f4",
+    "h4h5",
+    "f4g5",
+    "e6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0299",
+   "numero": 299,
+   "nombre": "Jose Raul Capablanca vs Rudolf Raubitschek, New York 1906",
+   "fen": "kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w - - 0 32",
+   "solucionUci": [
+    "b7a7",
+    "d4a7",
+    "f5a5",
+    "a7a6",
+    "a5a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0300",
+   "numero": 300,
+   "nombre": "Rudolf Raubitschek vs Jose Raul Capablanca, New York 1906",
+   "fen": "2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP3RP1/R1B3K1 b - - 0 24",
+   "solucionUci": [
+    "g4g2",
+    "g1f1",
+    "e6c4",
+    "a3c4",
+    "g2g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0301",
+   "numero": 301,
+   "nombre": "Albert Pulvermacher vs Jose Raul Capablanca, New York 1907",
+   "fen": "r2q1rk1/ppp2ppp/5n2/2b1P1B1/Q3P1b1/2P5/PP4PP/RN2KB1R b KQ - 0 10",
+   "solucionUci": [
+    "f6e4",
+    "g5d8",
+    "c5f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0302",
+   "numero": 302,
+   "nombre": "Jose Raul Capablanca vs Edward Adams, Washington DC 1907",
+   "fen": "7k/5pp1/8/8/p6P/P1b1N1P1/3p1PK1/3Rr3 b - - 0 37",
+   "solucionUci": [
+    "c3b4",
+    "a3b4",
+    "e1d1",
+    "e3d1",
+    "a4a3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0303",
+   "numero": 303,
+   "nombre": "Jose Raul Capablanca vs William Pratt, Troy 1909 (Simul)",
+   "fen": "2k3nr/ppp2Npp/2p5/2b5/8/2Pr4/PP1P2PP/RNB4K b - - 0 17",
+   "solucionUci": [
+    "d3d7",
+    "f7h8",
+    "d7e7",
+    "g2g3",
+    "e7e1",
+    "h1g2",
+    "e1c1",
+    "d2d4",
+    "c5d6",
+    "h8f7",
+    "h7h6",
+    "f7d6",
+    "c7d6",
+    "g2f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0304",
+   "numero": 304,
+   "nombre": "Juan Corzo y Prinzipe vs Jose Raul Capablanca, Havana 1909",
+   "fen": "r2qk2r/ppp1nppp/3p4/b2Nn3/2B1P1b1/5N2/PPP2PPP/R1BQ1RK1 w kq - 0 9",
+   "solucionUci": [
+    "f3e5",
+    "g4d1",
+    "d5f6",
+    "e8f8",
+    "e5d7",
+    "d8d7",
+    "f6d7",
+    "f8e8",
+    "f1d1",
+    "e8d7",
+    "c4f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0305",
+   "numero": 305,
+   "nombre": "Jose Raul Capablanca vs Einar Michelsen, New York 1910",
+   "fen": "r1b3r1/pp1k3q/2n2pN1/3p1N2/3P4/5Q2/5PPP/5RK1 w - - 0 27",
+   "solucionUci": [
+    "f3d5",
+    "d7c7",
+    "d5d6",
+    "c7b6",
+    "f1b1",
+    "b6a6",
+    "d6a3",
+    "c6a5",
+    "a3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0306",
+   "numero": 306,
+   "nombre": "O. Tuka vs Jose Raul Capablanca, Prague 1911 (Simul)",
+   "fen": "1k5r/1p1Qnp2/p3p3/2b5/4pq2/P7/1PPNBPP1/1K1R4 w - - 0 25",
+   "solucionUci": [
+    "d2e4",
+    "f4e4",
+    "e2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0307",
+   "numero": 307,
+   "nombre": "Jan Podhajsky vs Jose Raul Capablanca, Prague 1911 (Simul)",
+   "fen": "5rk1/pb1p2p1/1p1pp2p/6r1/2PPp2q/P3P1N1/1P2BP2/R3QRK1 b - - 0 21",
+   "solucionUci": [
+    "h4h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0308",
+   "numero": 308,
+   "nombre": "Jose Raul Capablanca vs Edward Tennenwurzel, New York 1911",
+   "fen": "r2qrnk1/1b2bppp/pp6/2ppN1B1/3PnP2/2PB1N1Q/PP4PP/4RRK1 w - - 0 17",
+   "solucionUci": [
+    "e5f7",
+    "g8f7",
+    "e1e4",
+    "d5e4",
+    "d3c4",
+    "b7d5",
+    "h3f5",
+    "f7g8",
+    "c4d5",
+    "g8h8",
+    "f3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0309",
+   "numero": 309,
+   "nombre": "Jose Raul Capablanca vs William Morris, New York 1911",
+   "fen": "2r3rk/3q1p1p/5p2/1p1p1b2/2pN3R/P1P1R3/1P3PPP/3Q2K1 w - - 0 26",
+   "solucionUci": [
+    "e3e7",
+    "d7e7",
+    "d4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0310",
+   "numero": 310,
+   "nombre": "Jose Raul Capablanca vs J. Koksal, Prague 1911 (Simul)",
+   "fen": "4r1k1/ppp2ppp/2b5/2b2P2/3r4/3B3P/PPPB2P1/R2R3K b - - 0 22",
+   "solucionUci": [
+    "d4d3",
+    "c2d3",
+    "e8e2",
+    "d3d4",
+    "c6g2",
+    "h1h2",
+    "g2c6",
+    "h2g1",
+    "c5d4",
+    "g1f1",
+    "c6b5",
+    "d2c3",
+    "e2b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0311",
+   "numero": 311,
+   "nombre": "Jose Raul Capablanca vs Rudolf Spielmann, San Sebastian 1911",
+   "fen": "7k/ppq1b1pp/8/2P5/1P2R1Q1/2P5/P4rPp/2B4K w - - 0 28",
+   "solucionUci": [
+    "c1f4",
+    "c7d8",
+    "e4e7",
+    "d8f8",
+    "g4g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0312",
+   "numero": 312,
+   "nombre": "Wilhelm Kluxen vs Jose Raul Capablanca, Hamburg 1911 (Simul)",
+   "fen": "r4r1k/ppp2Bpp/5q2/4NQ2/8/8/PP3PPP/n4RK1 w - - 0 17",
+   "solucionUci": [
+    "e5g6",
+    "f6g6",
+    "f7g6",
+    "f8f5",
+    "g6f5",
+    "g7g6",
+    "f5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0313",
+   "numero": 313,
+   "nombre": "Jose Raul Capablanca vs Rolando Illa, Buenos Aires 1911",
+   "fen": "4r3/pp3kpR/1qpp1rp1/8/2P1P3/2P4Q/P1P3PP/1R5K w - - 0 25",
+   "solucionUci": [
+    "h3d7",
+    "e8e7",
+    "h7g7",
+    "f7g7",
+    "d7e7",
+    "g7h6",
+    "b1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0314",
+   "numero": 314,
+   "nombre": "Leopold Carranza vs Jose Raul Capablanca, Buenos Aires 1911",
+   "fen": "r2qk2r/pp3ppp/1npbp1b1/8/3P1Pn1/1B2B1N1/PPPQN1PP/R4RK1 b kq - 0 12",
+   "solucionUci": [
+    "g6c2",
+    "b3c2",
+    "b6c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0315",
+   "numero": 315,
+   "nombre": "E. Weiss vs Jose Raul Capablanca, Hamburg 1911 (Simul)",
+   "fen": "rn2r1k1/pp3ppp/5n2/q2p4/1bpP4/2N1BP1P/PPPQBP2/2K3RR w - - 0 14",
+   "solucionUci": [
+    "g1g7",
+    "g8g7",
+    "e3h6",
+    "g7h8",
+    "d2g5",
+    "f6h5",
+    "h1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0316",
+   "numero": 316,
+   "nombre": "Charles Jaffe vs Jose Raul Capablanca, New York 1912",
+   "fen": "r1bqr1k1/pp1nbppp/2pp1n2/4p1B1/3PP3/2PQ1N2/PP2BPPP/R3KN1R b KQ - 0 9",
+   "solucionUci": [
+    "e5d4",
+    "c3d4",
+    "f6e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0317",
+   "numero": 317,
+   "nombre": "Jose Raul Capablanca vs N.N., Louisville 1912 (Simul)",
+   "fen": "r3k3/pppq1pp1/4p1b1/bN2N2r/1n1P3P/8/P2BQPB1/R3K2R b KQq - 0 18",
+   "solucionUci": [
+    "h5e5",
+    "d4e5",
+    "g6d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0318",
+   "numero": 318,
+   "nombre": "Jose Raul Capablanca vs Juan Corzo y Prinzipe, Havana 1913",
+   "fen": "5rk1/2pqb2p/4p1p1/3p3Q/1Pn5/2P5/2B2PPP/2B1R1K1 w - - 0 24",
+   "solucionUci": [
+    "c2g6",
+    "h7g6",
+    "h5g6",
+    "g8h8",
+    "e1e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0319",
+   "numero": 319,
+   "nombre": "R. Portela vs Jose Raul Capablanca, Havana 1913",
+   "fen": "3r4/1p6/2p4p/4pk2/Pp5r/1P1P1K2/1P1R3P/6R1 b - - 0 35",
+   "solucionUci": [
+    "d8d3",
+    "d2d3",
+    "e5e4",
+    "f3e3",
+    "h4h3",
+    "g1g3",
+    "h3g3",
+    "h2g3",
+    "e4d3",
+    "e3d3",
+    "f5g4",
+    "d3c4",
+    "g4g3",
+    "c4c5",
+    "h6h5",
+    "c5b6",
+    "h5h4",
+    "b6b7",
+    "h4h3",
+    "a4a5",
+    "h3h2",
+    "a5a6",
+    "h2h1q",
+    "a6a7",
+    "c6c5",
+    "b7b8",
+    "h1h8",
+    "b8b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0320",
+   "numero": 320,
+   "nombre": "Jose Raul Capablanca vs Fedor Duz-Khotimirsky, St Petersburg 1913",
+   "fen": "5rk1/1q2bp1p/3pP1p1/1p1P4/nP1p4/3B1QNP/5PP1/R5K1 w - - 0 28",
+   "solucionUci": [
+    "g3f5",
+    "f7e6",
+    "d5e6",
+    "b7c7",
+    "f3c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0321",
+   "numero": 321,
+   "nombre": "Jose Raul Capablanca vs Richard Reti, Vienna 1914",
+   "fen": "5k2/5pp1/pP1p3p/3b4/r7/4BP2/6PP/2R3K1 w - - 0 33",
+   "solucionUci": [
+    "c1c8",
+    "f8e7",
+    "b6b7",
+    "d5b7",
+    "c8c7",
+    "e7e6",
+    "c7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0322",
+   "numero": 322,
+   "nombre": "Jose Raul Capablanca vs U. Kalske, Helsinki 1914",
+   "fen": "r4rk1/2pq2pp/pbn1b3/1p1p2B1/4n3/1NPQ1N2/PPB2PPP/3R1RK1 b - - 0 16",
+   "solucionUci": [
+    "f8f3",
+    "d3f3",
+    "e4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0323",
+   "numero": 323,
+   "nombre": "Jose Raul Capablanca vs Masyutin, Kiev 1914",
+   "fen": "r1bq1n1r/pp3QpB/2pkpb2/3pN3/3P4/2N5/PPP3PP/R4RK1 w - - 0 14",
+   "solucionUci": [
+    "e5c4",
+    "d5c4",
+    "c3e4",
+    "d6d5",
+    "f1f5",
+    "d5e4",
+    "a1e1",
+    "e4d4",
+    "c2c3",
+    "d4d3",
+    "f5d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0324",
+   "numero": 324,
+   "nombre": "Jose Raul Capablanca vs Joseph Blackburne, St Petersburg 1914",
+   "fen": "rq1n2k1/6b1/p5R1/1p1pP2r/2pP1P2/2P4P/P1QB3K/1R6 w - - 0 28",
+   "solucionUci": [
+    "g6g7",
+    "g8g7",
+    "b1g1",
+    "g7f8",
+    "c2g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0325",
+   "numero": 325,
+   "nombre": "Jose Raul Capablanca vs Lynch/Villegas, Buenos Aires 1914",
+   "fen": "8/2NPk3/p5pp/P7/1P3p2/3b3P/6P1/6K1 w - - 0 37",
+   "solucionUci": [
+    "c7e6",
+    "e7d7",
+    "e6c5",
+    "d7c6",
+    "c5d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0326",
+   "numero": 326,
+   "nombre": "Jose Raul Capablanca vs M. Wolfson, New York 1915 (Simul)",
+   "fen": "Qnk5/p2q2pp/3p4/p1pB4/2P5/K1P1r3/4r2P/1R2B3 b - - 0 35",
+   "solucionUci": [
+    "e2a2",
+    "a3a2",
+    "d7a4",
+    "a2b2",
+    "e3e2",
+    "b2c1",
+    "a4c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0327",
+   "numero": 327,
+   "nombre": "Jose Raul Capablanca vs J.M. Stahr, Chicago 1915",
+   "fen": "6r1/p1bR4/4pkrp/5q2/B1p5/5Q2/1P3PP1/4R1K1 w - - 0 33",
+   "solucionUci": [
+    "e1e6",
+    "f6e6",
+    "f3c6",
+    "e6e5",
+    "d7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0328",
+   "numero": 328,
+   "nombre": "Jose Raul Capablanca vs Christoph Wolff, New York 1915",
+   "fen": "6k1/p1p1qp2/1rp1r1pp/2Rp2b1/3P4/1PN1P1QP/P4PP1/2R3K1 b - - 0 22",
+   "solucionUci": [
+    "e6e3",
+    "f2e3",
+    "g5e3",
+    "g1h1",
+    "e3c1",
+    "c3d5",
+    "c6d5",
+    "c5c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0329",
+   "numero": 329,
+   "nombre": "Walter Shipley vs Jose Raul Capablanca, Philadelphia 1915 (Simul)",
+   "fen": "1k1r4/1p5p/5p2/4n1p1/3q4/8/3r1PPP/R1QB1RK1 b - - 0 31",
+   "solucionUci": [
+    "d2f2",
+    "f1f2",
+    "e5d3",
+    "c1d2",
+    "d4a1",
+    "f2e2",
+    "a1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0330",
+   "numero": 330,
+   "nombre": "Manfred Schroeder vs Jose Raul Capablanca, New York 1916",
+   "fen": "r1b1r1k1/p1q2pp1/2pb3p/n7/2PP2n1/2NQ1N2/PP2B1PP/R1B1K2R b KQ - 0 16",
+   "solucionUci": [
+    "d6g3",
+    "h2g3",
+    "c7g3",
+    "e1d2",
+    "g4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0331",
+   "numero": 331,
+   "nombre": "Jose Raul Capablanca vs Marc Fonaroff, New York 1918",
+   "fen": "5rk1/ppq2ppp/2p5/4bN2/4P3/6Q1/PPP2PPP/3R2K1 w - - 0 20",
+   "solucionUci": [
+    "f5h6",
+    "g8h8",
+    "g3e5",
+    "c7e5",
+    "h6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0332",
+   "numero": 332,
+   "nombre": "Jose Raul Capablanca vs Walter Shipley, Philadelphia 1918 (Simul)",
+   "fen": "1k5r/pp2b3/2p2p1N/qr3p1P/2nP4/PRN5/1PP5/1KQ4R b - - 0 32",
+   "solucionUci": [
+    "c4a3",
+    "b3a3",
+    "b5b2",
+    "c1b2",
+    "e7a3",
+    "b2b3",
+    "h8h6",
+    "b3g8",
+    "b8c7",
+    "g8g7",
+    "c7b6",
+    "g7h6",
+    "a5b4",
+    "b1a2",
+    "b4b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0333",
+   "numero": 333,
+   "nombre": "Harold Cole vs Jose Raul Capablanca, Hastings 1919",
+   "fen": "2b1r1k1/p1p2pp1/2pp4/2n1qPB1/4P3/1PN2Q2/P5RP/6K1 b - - 0 29",
+   "solucionUci": [
+    "c8f5",
+    "f3f5",
+    "e5c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0334",
+   "numero": 334,
+   "nombre": "Jose Raul Capablanca vs Boris Kostic, Havana 1919",
+   "fen": "5r1k/p2q2p1/2n5/3r3p/1bQ2B2/1P3P2/P3R1PP/4RN1K w - - 0 29",
+   "solucionUci": [
+    "e2e8",
+    "d5d4",
+    "e8f8",
+    "b4f8",
+    "c4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0335",
+   "numero": 335,
+   "nombre": "Jose Raul Capablanca vs Edward Tinsley, London 1919 (Simul)",
+   "fen": "3rrbk1/pp1q1ppp/2pp2n1/5N2/3QnP2/1PN5/PBP3PP/3R1RK1 w - - 0 17",
+   "solucionUci": [
+    "f5h6",
+    "g7h6",
+    "c3e4",
+    "e8e4",
+    "d4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0336",
+   "numero": 336,
+   "nombre": "Jose Raul Capablanca vs T. Bray, Birmingham 1919 (Simul)",
+   "fen": "r2qr1k1/pbpnbppp/1p2pn2/6N1/3P4/3B1N2/PPP1QPPP/R1B1R1K1 w - - 0 12",
+   "solucionUci": [
+    "g5f7",
+    "b7f3",
+    "g2f3",
+    "g8f7",
+    "e2e6",
+    "f7f8",
+    "d3c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0337",
+   "numero": 337,
+   "nombre": "Jose Raul Capablanca vs Valentin Marin y Llovet, Barcelona 1920 (Simul)",
+   "fen": "q5k1/2p2ppp/rr6/3p4/1p1P3P/1Q2PP2/PP3P2/K3R3 b - - 0 26",
+   "solucionUci": [
+    "a6a2",
+    "b3a2",
+    "b6a6",
+    "a2a6",
+    "a8a6",
+    "a1b1",
+    "a6d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0338",
+   "numero": 338,
+   "nombre": "Jose Raul Capablanca vs M. Coll, Barcelona 1920 (Simul)",
+   "fen": "r2qr1k1/pp1nbpp1/2p1pn1p/6N1/3P1P2/2PB4/PP1BQ1PP/4RRK1 w - - 0 16",
+   "solucionUci": [
+    "g5f7",
+    "g8f7",
+    "e2e6",
+    "f7f8",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0339",
+   "numero": 339,
+   "nombre": "Jose Raul Capablanca vs E.S. Maddock, New York 1922 (Simul)",
+   "fen": "2kr4/ppnq1p2/5r1p/N1pbp2P/P3NB2/1PPP1Q2/2K1B3/3R4 w - - 0 25",
+   "solucionUci": [
+    "e4f6",
+    "d5f3",
+    "e2f3",
+    "d7d6",
+    "f4e5",
+    "d6b6",
+    "a5b7",
+    "c5c4",
+    "d3d4",
+    "b6b3",
+    "c2d2",
+    "b3b2",
+    "d2e3",
+    "b2c3",
+    "e3f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0340",
+   "numero": 340,
+   "nombre": "Jose Raul Capablanca vs Perkins, New York 1924 (Simul)",
+   "fen": "2kr3r/1pp1b3/p1n1b3/4pp2/6p1/P1NPB1P1/1PPNKP2/R6R b - - 0 20",
+   "solucionUci": [
+    "f5f4",
+    "h1h8",
+    "d8h8",
+    "g3f4",
+    "e5f4",
+    "e3f4",
+    "c6d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0341",
+   "numero": 341,
+   "nombre": "Efim Bogoljubov vs Jose Raul Capablanca, New York 1924",
+   "fen": "2r3k1/q4ppp/p3p3/pnNp4/2rP4/2P2P2/4R1PP/2R1Q1K1 b - - 0 31",
+   "solucionUci": [
+    "b5d4",
+    "c3d4",
+    "c8c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0342",
+   "numero": 342,
+   "nombre": "Frank Marshall vs Jose Raul Capablanca, New York 1927",
+   "fen": "1k6/pp4p1/2nb1p2/4r3/P7/2PQ4/1P4PP/4rR1K b - - 0 31",
+   "solucionUci": [
+    "e5d5",
+    "d3f3",
+    "c6e5",
+    "f3f2",
+    "e1f1",
+    "f2f1",
+    "e5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0343",
+   "numero": 343,
+   "nombre": "Jose Raul Capablanca vs A. Souza Campos, Sao Paulo 1927",
+   "fen": "3r3k/pb1p1rp1/1pn2pp1/2qNp1B1/2B1P3/3R4/PPP2PPP/3R2K1 w - - 0 20",
+   "solucionUci": [
+    "d3h3",
+    "h8g8",
+    "d5f6",
+    "g8f8",
+    "h3h8",
+    "f8e7",
+    "h8e8",
+    "d8e8",
+    "d1d7",
+    "e7f8",
+    "d7f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0344",
+   "numero": 344,
+   "nombre": "Jose Raul Capablanca vs C.H. Reid, London 1928",
+   "fen": "2k4r/pppqb3/2n2p2/3bp2p/Q4PrN/P2PB1P1/1P2P1BK/2R2R2 b - - 0 17",
+   "solucionUci": [
+    "g4h4",
+    "g3h4",
+    "d5g2",
+    "h2g2",
+    "d7g4",
+    "g2f2",
+    "g4h4",
+    "f2f3",
+    "c6d4",
+    "f3e4",
+    "f6f5",
+    "e4d5",
+    "h4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0345",
+   "numero": 345,
+   "nombre": "Jose Raul Capablanca vs Gracie Square Pharmacy Chess Club, New York 1931 (Simul)",
+   "fen": "5r2/6k1/p1r3p1/5PQ1/2q1PN2/1p6/P6P/5R1K w - - 0 37",
+   "solucionUci": [
+    "f5f6",
+    "f8f6",
+    "f4h5",
+    "g7h7",
+    "h5f6",
+    "h7g7",
+    "f6h5",
+    "g7h7",
+    "g5e7",
+    "h7h6",
+    "h5g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0346",
+   "numero": 346,
+   "nombre": "Jose Raul Capablanca vs Glicco, Mexico 1933",
+   "fen": "r1br1qk1/pp1n1p2/2p2npp/4pN2/2BPP3/5N2/PP3PPP/2RQR1K1 w - - 0 17",
+   "solucionUci": [
+    "c4f7",
+    "g8h7",
+    "f7g6",
+    "h7g6",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0347",
+   "numero": 347,
+   "nombre": "Jose Raul Capablanca vs George Thomas, Hastings 1934",
+   "fen": "2rr1nk1/pbq2ppp/8/1Bp1P3/4p3/P7/QP1N1PPP/3RR1K1 b - - 0 24",
+   "solucionUci": [
+    "c7a5",
+    "d2c4",
+    "d8d1",
+    "e1d1",
+    "a5b5",
+    "c4d6",
+    "b5d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0348",
+   "numero": 348,
+   "nombre": "Jose Raul Capablanca vs Llusa, Barcelona 1935 (Simul)",
+   "fen": "r1b2rk1/pp1n2pp/4p3/6q1/2NPQn2/3B4/PP4PP/2R2RK1 w - - 0 19",
+   "solucionUci": [
+    "e4h7",
+    "g8f7",
+    "f1f4",
+    "g5f4",
+    "c1f1",
+    "f4f1",
+    "d3f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0349",
+   "numero": 349,
+   "nombre": "Jose Raul Capablanca vs Andor Lilienthal, Moscow 1936",
+   "fen": "4k3/rp3ppb/1np1p2p/N7/1PP5/6P1/4PPBP/3R2K1 w - - 0 35",
+   "solucionUci": [
+    "a5b7",
+    "a7b7",
+    "g2c6",
+    "b7d7",
+    "c4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0350",
+   "numero": 350,
+   "nombre": "Jose Raul Capablanca vs J.C. Rather, New York 1936 (Simul)",
+   "fen": "r2q1r1k/1p2pp1p/p4n2/2pp2Q1/4p3/2NP2P1/PPP2PK1/R6R w - - 0 18",
+   "solucionUci": [
+    "c3d5",
+    "d8d5",
+    "h1h7",
+    "f6h7",
+    "g5d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0351",
+   "numero": 351,
+   "nombre": "V. Malkov vs Alexander Alekhine, corr. 1902",
+   "fen": "1rbq1r2/4bpk1/p3p1p1/1p2P1P1/2pPBP2/2P5/PP2Q1P1/2KR3R w - - 0 21",
+   "solucionUci": [
+    "h1h7",
+    "g7h7",
+    "e2h5",
+    "h7g8",
+    "e4g6",
+    "f7g6",
+    "h5g6",
+    "g8h8",
+    "d1h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0352",
+   "numero": 352,
+   "nombre": "Alexander Alekhine vs Nikolay Zubakin, corr. 1902",
+   "fen": "3qr1k1/pp3ppp/3b4/8/1nrN3P/P1N1P3/1P1K1PP1/1Q3R1R b - - 0 19",
+   "solucionUci": [
+    "c4d4",
+    "e3d4",
+    "d6f4",
+    "d2d1",
+    "d8d4",
+    "b1d3",
+    "d4d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0353",
+   "numero": 353,
+   "nombre": "Alexander Alekhine vs S. Antushev, corr. 1903",
+   "fen": "r2qk2r/2p2p2/p1np3p/1pb1p1pb/4P3/1B1P1NPP/PPP3P1/RN1Q1R1K w kq - 0 14",
+   "solucionUci": [
+    "f3e5",
+    "h5d1",
+    "b3f7",
+    "e8f8",
+    "e5c6",
+    "d8d7",
+    "f7e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0354",
+   "numero": 354,
+   "nombre": "Alexander Alekhine vs V. Zhukovsky, corr. 1905",
+   "fen": "2k1r3/ppp2p1p/8/7q/5Bn1/Q1P3pN/PP4P1/R4K2 b - - 0 27",
+   "solucionUci": [
+    "g4f2",
+    "f1g1",
+    "f2h3",
+    "g2h3",
+    "h5h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0355",
+   "numero": 355,
+   "nombre": "V.M. Manko vs Alexander Alekhine, corr. 1906",
+   "fen": "1rb1q2k/ppp1r2p/4p1p1/4PpN1/P6R/2Q5/5PPP/3R2K1 w - - 0 25",
+   "solucionUci": [
+    "g5h7",
+    "e7h7",
+    "h4h7",
+    "h8h7",
+    "c3c7",
+    "h7h6",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0356",
+   "numero": 356,
+   "nombre": "Alexander Alekhine vs Otto Kunze, Düsseldorf 1908",
+   "fen": "r3rnk1/1pqnb3/p3p1p1/3p2P1/7B/2NB4/PPP1Q2P/5RRK w - - 0 23",
+   "solucionUci": [
+    "d3g6",
+    "f8g6",
+    "e2e6",
+    "g8h8",
+    "e6g6",
+    "c7c6",
+    "g6h5",
+    "h8g8",
+    "h5f7",
+    "g8h8",
+    "g5g6",
+    "d5d4",
+    "c3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0357",
+   "numero": 357,
+   "nombre": "Alexander Alekhine vs H. Koehnlein, Düsseldorf 1908",
+   "fen": "r1b2r1k/ppp3pp/3b4/4Npq1/2B5/8/PPP2PPP/R2QR1K1 w - - 0 16",
+   "solucionUci": [
+    "d1d6",
+    "c7d6",
+    "e5f7",
+    "f8f7",
+    "e1e8",
+    "f7f8",
+    "e8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0358",
+   "numero": 358,
+   "nombre": "Alexander Alekhine vs Dawid Daniuszewski, St Petersburg 1909",
+   "fen": "5r2/2p3k1/1p1p1rBp/p1nPpP2/6q1/2P1R1Pp/P1P4K/4QR2 b - - 0 34",
+   "solucionUci": [
+    "g4g6",
+    "f5g6",
+    "f6f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0359",
+   "numero": 359,
+   "nombre": "Alexander Alekhine vs Savielly Tartakower, Hamburg 1910",
+   "fen": "5r2/p1ppk1r1/1pn1p2p/8/2PP1N2/2P5/P2K2PP/R4R2 w - - 0 21",
+   "solucionUci": [
+    "f4d5",
+    "e7e8",
+    "d5c7",
+    "e8e7",
+    "c7d5",
+    "e7e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0360",
+   "numero": 360,
+   "nombre": "Alexander Alekhine vs Krotky, Tula 1910 (Simul)",
+   "fen": "2kr3r/pppq1p2/3p4/3Nb1p1/2B1P1nP/2P3P1/PP2Q1K1/R4R2 w - - 0 20",
+   "solucionUci": [
+    "f1f7",
+    "d7f7",
+    "d5b6",
+    "a7b6",
+    "c4f7",
+    "g4f6",
+    "h4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0361",
+   "numero": 361,
+   "nombre": "Alexander Alekhine vs Gutkevitsch, Moscow 1910 (Simul)",
+   "fen": "r2q1rk1/pp1nbppp/2pnb3/3p2BN/3P1Q1P/2NB4/PPP2PP1/2KR3R w - - 0 14",
+   "solucionUci": [
+    "g5h6",
+    "d6e8",
+    "h6g7",
+    "e8g7",
+    "f4h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0362",
+   "numero": 362,
+   "nombre": "Ossip Bernstein vs Alexander Alekhine, Vilnius 1912",
+   "fen": "br1q1rk1/p3p1bp/6p1/1p1n2B1/2pPB3/P1P4P/2Q2PP1/1R1R1NK1 b - - 0 21",
+   "solucionUci": [
+    "d5c3",
+    "e4g6",
+    "d8d5",
+    "g6h7",
+    "g8h8",
+    "f2f4",
+    "c3b1",
+    "d1b1",
+    "d5d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0363",
+   "numero": 363,
+   "nombre": "Alexander Alekhine vs Boris Koyalovich, St Petersburg 1912",
+   "fen": "5k1r/p2p4/bpqP2p1/5p2/2P1rP2/2QR1B2/P4b2/5KR1 b - - 0 34",
+   "solucionUci": [
+    "f2d4",
+    "d3d4",
+    "a6c4",
+    "f1f2",
+    "h8h2",
+    "f2g3",
+    "h2h3",
+    "g3h3",
+    "c4f1",
+    "g1f1",
+    "c6c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0364",
+   "numero": 364,
+   "nombre": "Dawid Janowski vs Alexander Alekhine, Scheveningen 1913",
+   "fen": "2r1k2r/p2nbppp/q3pn2/1Np5/PpNP1P2/4P3/1P1BQ1PP/R4RK1 w k - 0 16",
+   "solucionUci": [
+    "c4d6",
+    "e7d6",
+    "b5c7",
+    "c8c7",
+    "e2a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0365",
+   "numero": 365,
+   "nombre": "Alexander Alekhine vs Efim Bogoljubov, St Petersburg 1913",
+   "fen": "4r1k1/1pp2ppp/p1b5/6Q1/5q1P/1BN5/PP1r1PP1/5RKR b - - 0 21",
+   "solucionUci": [
+    "d2f2",
+    "b3f7",
+    "g8h8",
+    "f1d1",
+    "f4f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0366",
+   "numero": 366,
+   "nombre": "Sergey Lebedev vs Alexander Alekhine, St Petersburg 1914",
+   "fen": "1kr4r/pb1q2pp/1p6/4bp2/1Q3N1P/3pPP2/PP1N1P2/1KR4R b - - 0 23",
+   "solucionUci": [
+    "c8c2",
+    "c1c2",
+    "d3c2",
+    "b1c2",
+    "h8c8",
+    "c2b1",
+    "a7a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0367",
+   "numero": 367,
+   "nombre": "Dawid Janowski vs Alexander Alekhine, Mannheim 1914",
+   "fen": "2r2r1k/6R1/p2b3p/3P3q/1pPppB2/1P1Q1P1P/P6K/6R1 w - - 0 40",
+   "solucionUci": [
+    "g7g8",
+    "f8g8",
+    "d3d4",
+    "h8h7",
+    "d4e4",
+    "g8g6",
+    "f4d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0368",
+   "numero": 368,
+   "nombre": "Nikolay Tselikov vs Alexander Alekhine, Moscow 1915",
+   "fen": "6rr/1b1k1p2/p3p2b/1pQpP3/5P1q/3B4/PP4N1/2R1R1K1 b - - 0 28",
+   "solucionUci": [
+    "g8g2",
+    "g1g2",
+    "d5d4",
+    "d3e4",
+    "h8g8",
+    "g2f1",
+    "h4f4",
+    "f1e2",
+    "f4e4",
+    "e2d1",
+    "e4d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0369",
+   "numero": 369,
+   "nombre": "Alexander Alekhine vs Feldt, Tarnopol 1916 (Blindfold simul)",
+   "fen": "r2qr1k1/pb1nb1pp/1p2pn2/2p1Np2/2PP1B2/3B1N2/PP2QPPP/R4RK1 w - - 0 15",
+   "solucionUci": [
+    "e5f7",
+    "g8f7",
+    "e2e6",
+    "f7g6",
+    "g2g4",
+    "b7e4",
+    "f3h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0370",
+   "numero": 370,
+   "nombre": "Alexander Alekhine vs Vasiutinsky, Odessa 1918 (Simul)",
+   "fen": "3rk2r/pbqnbppp/1pp1pn2/4N3/3P4/3B2N1/PPPBQPPP/4RRK1 w k - 0 14",
+   "solucionUci": [
+    "e5f7",
+    "e8f7",
+    "e2e6",
+    "f7f8",
+    "e6e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0371",
+   "numero": 371,
+   "nombre": "Nikolay Pavlov-Pianov vs Alexander Alekhine, Moscow 1919",
+   "fen": "4r1k1/p1p2rp1/2p2n2/5PBq/4p1P1/4Q3/PPP4R/4R1K1 b - - 0 27",
+   "solucionUci": [
+    "h5h2",
+    "g1h2",
+    "f6g4",
+    "h2g3",
+    "g4e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0372",
+   "numero": 372,
+   "nombre": "Alexander Alekhine vs Nikolay Grigoriev, Moscow 1919",
+   "fen": "5k1r/pp2nppp/2p1b3/4N3/3r1P2/1B2R3/PP4PP/4R1K1 w - - 0 23",
+   "solucionUci": [
+    "e5f7",
+    "f8f7",
+    "e3e6",
+    "e7d5",
+    "e6e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0373",
+   "numero": 373,
+   "nombre": "Ilya Rabinovich vs Alexander Alekhine, Moscow 1920",
+   "fen": "r4rk1/p1pp2pp/1p2p3/n6q/Q1PPR3/2P2P2/P2B2PP/5RK1 b - - 0 17",
+   "solucionUci": [
+    "a5c4",
+    "a4c4",
+    "d7d5",
+    "c4b5",
+    "a7a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0374",
+   "numero": 374,
+   "nombre": "Alexander Alekhine vs G. Resser, The Hague 1921 (Simul)",
+   "fen": "3r4/4kp2/1RQ4p/p2rP1p1/P7/3q3P/5BP1/6K1 w - - 0 35",
+   "solucionUci": [
+    "c6f6",
+    "e7e8",
+    "e5e6",
+    "d3f5",
+    "e6f7",
+    "e8f8",
+    "f2c5",
+    "d5c5",
+    "f6d8",
+    "f8f7",
+    "b6b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0375",
+   "numero": 375,
+   "nombre": "Joaquin Torres Caravaca vs Alexander Alekhine, Spain 1922 (Simul)",
+   "fen": "3r1r1k/1b4p1/pb5p/4Pp1q/2pBnP2/5N1N/PPQ3PP/3R1R1K b - - 0 26",
+   "solucionUci": [
+    "b6d4",
+    "d1d4",
+    "d8d4",
+    "f3d4",
+    "h5h3",
+    "g2h3",
+    "e4f2",
+    "h1g1",
+    "f2h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0376",
+   "numero": 376,
+   "nombre": "Alexander Alekhine vs Frederick Yates, Hastings 1922",
+   "fen": "2r1k3/p4R1Q/1p4Bp/3pP3/6P1/P4K2/1P4P1/2r1q3 b - - 0 38",
+   "solucionUci": [
+    "c8c3",
+    "b2c3",
+    "c1c3",
+    "g6d3",
+    "e1f1",
+    "f3e3",
+    "c3d3",
+    "h7d3",
+    "f1d3",
+    "e3d3",
+    "e8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0377",
+   "numero": 377,
+   "nombre": "Alexander Alekhine vs N.N., Berlin 1922",
+   "fen": "2rq1bk1/3b1ppp/p1p5/3p4/3Nr3/1P2PQ1P/PB3PP1/2RR2K1 w - - 0 18",
+   "solucionUci": [
+    "d4c6",
+    "d7c6",
+    "c1c6",
+    "c8c6",
+    "f3e4",
+    "d5e4",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0378",
+   "numero": 378,
+   "nombre": "Alexander Alekhine vs Manuel Golmayo de la Torriente, Spain 1922",
+   "fen": "6k1/3nrppp/2B5/p1b2P2/5Q2/1P5P/Pr6/5R1K w - - 0 32",
+   "solucionUci": [
+    "f5f6",
+    "g7f6",
+    "c6d7",
+    "e7d7",
+    "f4g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0379",
+   "numero": 379,
+   "nombre": "Siegbert Tarrasch vs Alexander Alekhine, Bad Pistyan 1922",
+   "fen": "3r1r1k/pb4pp/3b4/1Pp2nq1/2Q1p3/1P1pP2P/PB3PPN/R2NR2K b - - 0 24",
+   "solucionUci": [
+    "f5g3",
+    "h1g1",
+    "b7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0380",
+   "numero": 380,
+   "nombre": "Alexander Alekhine vs Heinrich Wolf, Bad Pistyan 1922",
+   "fen": "3q1kr1/3npp1p/1p1Pn1p1/1p6/rP1Q4/P4N2/3N1PPP/R3R1K1 w - - 0 22",
+   "solucionUci": [
+    "e1e6",
+    "f7e6",
+    "f3g5",
+    "d7c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0381",
+   "numero": 381,
+   "nombre": "Alexander Alekhine vs Frederick Yates, Portsmouth 1923",
+   "fen": "3qr1k1/p4rpp/1pRbp3/1Q1p4/1P1Bn3/4P1PB/P4P1P/5RK1 w - - 0 23",
+   "solucionUci": [
+    "f2f3",
+    "e4d2",
+    "c6d6",
+    "d8d6",
+    "b5e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0382",
+   "numero": 382,
+   "nombre": "Alexander Alekhine vs Lester Samuels, New York 1923 (Simul)",
+   "fen": "1k1r3r/pp1q2p1/4pp2/1P6/2RP1P2/1Q2P2p/6PP/R5K1 w - - 0 26",
+   "solucionUci": [
+    "a1a7",
+    "d7d5",
+    "b3a2",
+    "d5g2",
+    "a2g2",
+    "h3g2",
+    "b5b6",
+    "d8c8",
+    "c4a4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0383",
+   "numero": 383,
+   "nombre": "Alexander Alekhine vs Reib, Prague 1923 (Simul)",
+   "fen": "r2qnrk1/2p2ppp/p1QN4/4p3/8/8/PPP2PPP/R1BR2K1 w - - 0 17",
+   "solucionUci": [
+    "c1g5",
+    "d8g5",
+    "d6e4",
+    "g5f4",
+    "c6a8",
+    "e8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0384",
+   "numero": 384,
+   "nombre": "Alexander Alekhine vs Menzel, Boston 1923 (Simul)",
+   "fen": "6k1/1Qn3pp/1B2pr2/1q1nNp2/3P4/1P6/5PPP/R5K1 w - - 0 29",
+   "solucionUci": [
+    "a1a8",
+    "c7a8",
+    "b7c8",
+    "f6f8",
+    "c8e6",
+    "g8h8",
+    "e5f7",
+    "h8g8",
+    "f7h6",
+    "g8h8",
+    "e6g8",
+    "f8g8",
+    "h6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0385",
+   "numero": 385,
+   "nombre": "Alexander Alekhine vs John Drewitt, Portsmouth 1923",
+   "fen": "3r2k1/pp2qppp/2b1p3/3p4/5P2/b2BPR2/1B1N2PP/3Q2K1 w - - 0 20",
+   "solucionUci": [
+    "d3h7",
+    "g8h7",
+    "f3h3",
+    "h7g8",
+    "d1h5",
+    "f7f6",
+    "b2a3",
+    "e7a3",
+    "h5h8",
+    "g8f7",
+    "h8d8",
+    "a3c1",
+    "d2f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0386",
+   "numero": 386,
+   "nombre": "Siegbert Tarrasch vs Alexander Alekhine, Karlsbad 1923",
+   "fen": "4Q3/3N1pkp/3q2pb/p7/Pp1p2P1/1P6/2r2P1P/3R2K1 b - - 0 34",
+   "solucionUci": [
+    "h6e3",
+    "f2e3",
+    "d6h2",
+    "g1f1",
+    "h2h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0387",
+   "numero": 387,
+   "nombre": "Alexander Alekhine vs Herman Steiner, New York 1924 (Simul)",
+   "fen": "5rk1/1p5p/4p1p1/1P1pn2r/1P1R1P2/6P1/6KP/4RB2 b - - 0 33",
+   "solucionUci": [
+    "h5h2",
+    "g2h2",
+    "e5f3",
+    "h2g2",
+    "f3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0388",
+   "numero": 388,
+   "nombre": "Alexander Alekhine vs Leon Kussman, New York 1924 (Simul)",
+   "fen": "3rkb1r/pp3p1p/1q4p1/4nN2/4N3/8/PP2QPPP/R4RK1 w k - 0 16",
+   "solucionUci": [
+    "e2b5",
+    "e5d7",
+    "f1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0389",
+   "numero": 389,
+   "nombre": "Alexander Alekhine vs J.Y. Downman, USA 1924 (Simul)",
+   "fen": "r3nr1k/pppq1ppp/3p1R2/3Nn1BQ/2B1P3/3P3P/PPP3P1/7K w - - 0 19",
+   "solucionUci": [
+    "f6h6",
+    "g7h6",
+    "g5f6",
+    "e8f6",
+    "d5f6",
+    "d7e7",
+    "h5h6",
+    "e7f6",
+    "h6f6",
+    "h8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0390",
+   "numero": 390,
+   "nombre": "Alexander Alekhine vs F. Casciato, USA 1924 (Simul)",
+   "fen": "2k1r2r/pp1n1q2/2pb3p/3pnB1Q/5B2/2N5/PPP3PP/4RRK1 w - - 0 20",
+   "solucionUci": [
+    "e1e5",
+    "f7h5",
+    "f5d7",
+    "c8d7",
+    "e5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0391",
+   "numero": 391,
+   "nombre": "Walter Michel vs Alexander Alekhine, Basel 1925 (Simul)",
+   "fen": "5r2/pb2qp1k/1pnr2pp/7Q/4B3/4P1N1/P4PPP/2R2RK1 w - - 0 21",
+   "solucionUci": [
+    "g3f5",
+    "g6h5",
+    "f5e7",
+    "f7f5",
+    "e4c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0392",
+   "numero": 392,
+   "nombre": "Alexander Alekhine vs H.A. Woher, Amsterdam 1925 (Simul)",
+   "fen": "6k1/p3Qpp1/Pp5p/4P3/4q3/5N1P/5nPK/8 b - - 0 30",
+   "solucionUci": [
+    "e4f4",
+    "h2g1",
+    "f2h3",
+    "g2h3",
+    "f4g3",
+    "g1h1",
+    "g3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0393",
+   "numero": 393,
+   "nombre": "Alexander Alekhine vs A.H.M. Wap, Rotterdam 1925 (Simul)",
+   "fen": "r1b3k1/pp3p1p/1qp3p1/8/3rPP2/PP6/1BQ2PBP/5RK1 w - - 0 19",
+   "solucionUci": [
+    "c2c3",
+    "c6c5",
+    "b3b4",
+    "f7f6",
+    "b4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0394",
+   "numero": 394,
+   "nombre": "Alexander Alekhine vs Anna Stephan, Czechoslovakia 1925 (Simul)",
+   "fen": "r1b2rk1/pp4pp/8/3Pqp2/2B1nN2/5R2/PP1Q2PP/R5K1 w - - 0 19",
+   "solucionUci": [
+    "d5d6",
+    "g8h8",
+    "f4g6",
+    "h7g6",
+    "f3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0395",
+   "numero": 395,
+   "nombre": "Alexander Alekhine vs Harold Lommer, Geneva 1925 (Simul)",
+   "fen": "4n1k1/pbrq2p1/4rB1Q/4P3/4p3/6RP/PP4P1/5RK1 w - - 0 33",
+   "solucionUci": [
+    "f6g7",
+    "e8g7",
+    "f1f8",
+    "g8f8",
+    "h6h8",
+    "f8e7",
+    "g3g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0396",
+   "numero": 396,
+   "nombre": "Alexander Alekhine vs Walter Henneberger, Basel 1925 (Simul)",
+   "fen": "r5k1/2Bn1ppp/2p1pb2/2Pp4/3P1P2/r1NqP3/3Q2PP/2R1K2R b K - 0 22",
+   "solucionUci": [
+    "d7c5",
+    "d4c5",
+    "f6c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0397",
+   "numero": 397,
+   "nombre": "Alexander Alekhine vs Moriz Henneberger, Basel 1925 (Simul)",
+   "fen": "r3r1k1/pppqnppp/2n3b1/3p3N/3P4/P1PB2Q1/2PB1PPP/R3R1K1 w - - 0 16",
+   "solucionUci": [
+    "d2h6",
+    "e7f5",
+    "d3f5",
+    "e8e1",
+    "a1e1",
+    "d7f5",
+    "h5g7",
+    "f5c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0398",
+   "numero": 398,
+   "nombre": "Alexander Alekhine vs Karl Gilg, Czechoslovakia 1925 (Simul)",
+   "fen": "4r1k1/Q5pp/p1p2r2/1p1p1PN1/6P1/4n2P/PPP2K2/8 b - - 0 32",
+   "solucionUci": [
+    "e3f5",
+    "g5h7",
+    "f6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0399",
+   "numero": 399,
+   "nombre": "Alexander Alekhine vs Edgard Colle, Paris 1925",
+   "fen": "3r2k1/p2r1pp1/1pQ3p1/3P2q1/P7/6P1/5P1P/2R1R1K1 w - - 0 30",
+   "solucionUci": [
+    "c6d7",
+    "d8d7",
+    "e1e8",
+    "g8h7",
+    "c1c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0400",
+   "numero": 400,
+   "nombre": "Alexander Alekhine vs Saint Germain, Paris 1925 (Simul)",
+   "fen": "3r3r/p1p2kpp/1pn1pp2/1Q1q1n2/2NP4/4PN2/PP3PPP/2RR2K1 w - - 0 16",
+   "solucionUci": [
+    "b5c6",
+    "d5c6",
+    "c4e5",
+    "f6e5",
+    "f3e5",
+    "f7f6",
+    "c1c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0401",
+   "numero": 401,
+   "nombre": "Alexander Alekhine vs Peter Potemkin, Paris 1925 (Simul)",
+   "fen": "r3k2r/p2q1ppp/R3b3/1ppN4/8/1P6/1PP2PPP/3QR1K1 w kq - 0 21",
+   "solucionUci": [
+    "e1e6",
+    "f7e6",
+    "a6e6",
+    "e8f7",
+    "e6e7",
+    "d7e7",
+    "d5e7",
+    "f7e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0402",
+   "numero": 402,
+   "nombre": "Alexander Alekhine vs N. Schwartz, London 1926 (Simul)",
+   "fen": "r1b2r2/pp2nq1k/6pp/2pp4/4BPPN/2P5/P1Q3KP/4RR2 w - - 0 25",
+   "solucionUci": [
+    "e4g6",
+    "e7g6",
+    "h4g6",
+    "h7g8",
+    "g6f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0403",
+   "numero": 403,
+   "nombre": "Alexander Alekhine vs Raul Molina, Buenos Aires 1926",
+   "fen": "1r4k1/p4pp1/3p4/6P1/q1p5/2Qn1N2/PP1R1PP1/1K6 b - - 0 28",
+   "solucionUci": [
+    "b8b2",
+    "c3b2",
+    "d3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0404",
+   "numero": 404,
+   "nombre": "Alexander Alekhine vs Julio Menendez, Buenos Aires 1926",
+   "fen": "2q1r1k1/5p1p/1p1P2p1/2p5/PpNbr2P/1P1Q2P1/3R4/5R1K b - - 0 30",
+   "solucionUci": [
+    "e4e2",
+    "d2e2",
+    "e8e2",
+    "d3e2",
+    "c8h3",
+    "e2h2",
+    "h3f1",
+    "h2g1",
+    "f1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0405",
+   "numero": 405,
+   "nombre": "Alexander Alekhine vs Colman Lerner, Buenos Aires 1926",
+   "fen": "r2qkb1r/1b3ppp/pn2p3/4N3/2pP4/2N1B3/PP3PPP/R2Q1RK1 w kq - 0 14",
+   "solucionUci": [
+    "d4d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0406",
+   "numero": 406,
+   "nombre": "Alexander Alekhine vs Carmichael, Newcastle upon Tyne 1926 (Simul)",
+   "fen": "r1b2r2/p1q1bpk1/1np1pn1p/1p6/3P3P/3B1N2/PPPBQPP1/2KRR3 w - - 0 16",
+   "solucionUci": [
+    "d2h6",
+    "g7g8",
+    "f3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0407",
+   "numero": 407,
+   "nombre": "Alexander Alekhine vs Rudolf Spielmann, Semmering 1926",
+   "fen": "2r2rk1/1p4p1/pq2pnQp/3p4/4P3/2N4P/PP1R1PP1/3R2K1 b - - 0 23",
+   "solucionUci": [
+    "c8c3",
+    "b2c3",
+    "f6e4",
+    "d2d4",
+    "f8f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0408",
+   "numero": 408,
+   "nombre": "Frederick Yates vs Alexander Alekhine, Kecskemet 1927",
+   "fen": "r4k2/pb3rpp/1p3p2/1Bn1pq2/3R2NP/6Q1/P1P2PP1/3R2K1 w - - 0 24",
+   "solucionUci": [
+    "d4d8",
+    "a8d8",
+    "d1d8",
+    "f8e7",
+    "g4h6",
+    "g7h6",
+    "g3g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0409",
+   "numero": 409,
+   "nombre": "Alexander Alekhine vs Aron Nimzowitsch, New York 1927",
+   "fen": "2k1r3/p2nrp2/1pb1q1pp/2p1p2n/2P5/2QNPPB1/PPBR2PP/2KR4 w - - 0 22",
+   "solucionUci": [
+    "d3c5",
+    "d7c5",
+    "d2d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0410",
+   "numero": 410,
+   "nombre": "Alexander Alekhine vs Carbonell, Barcelona 1928 (Simul)",
+   "fen": "r3r1k1/pp3ppp/1q2pn2/1Nb1n3/2P5/1P1BB3/P4PPP/R2QR1K1 w - - 0 19",
+   "solucionUci": [
+    "e3c5",
+    "b6c5",
+    "b3b4",
+    "c5b4",
+    "e1e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0411",
+   "numero": 411,
+   "nombre": "Alexander Alekhine vs Efim Bogoljubov, Berlin 1929",
+   "fen": "2r2bk1/1p3pp1/7p/1P1Pp3/B7/P2q4/Q4PPP/4R1K1 b - - 0 31",
+   "solucionUci": [
+    "d3e4",
+    "e1e4",
+    "c8c1",
+    "e4e1",
+    "c1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0412",
+   "numero": 412,
+   "nombre": "Efim Bogoljubov vs Alexander Alekhine, The Hague 1929",
+   "fen": "3r4/1kbQ4/1q2p3/3p4/3P2p1/pP1N4/P6P/1KR5 w - - 0 37",
+   "solucionUci": [
+    "c1c7",
+    "b6c7",
+    "d3c5",
+    "b7b6",
+    "d7c7",
+    "b6c7",
+    "c5e6",
+    "c7d7",
+    "e6d8",
+    "d7d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0413",
+   "numero": 413,
+   "nombre": "Alexander Alekhine vs Mayerhofer, Regensburg 1930",
+   "fen": "2rq1rk1/p5b1/4p2p/1pN1Pn2/2pP2pp/2P5/PPB4Q/4RRK1 b - - 0 28",
+   "solucionUci": [
+    "f5d4",
+    "c3d4",
+    "d8d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0414",
+   "numero": 414,
+   "nombre": "Alexander Alekhine vs Salo Flohr, Bled 1931",
+   "fen": "3r2k1/7p/bq2ppp1/p1R5/Pp2P2P/4QB2/1P3PP1/6K1 w - - 0 28",
+   "solucionUci": [
+    "e4e5",
+    "f6f5",
+    "c5c8",
+    "b6e3",
+    "c8d8",
+    "g8f7",
+    "f2e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0415",
+   "numero": 415,
+   "nombre": "Alexander Alekhine vs Edgard Colle, Bled 1931",
+   "fen": "r3r1k1/pb1q2p1/1p1np1Qp/5p2/1BP2P2/3BR3/P5PP/4R1K1 w - - 0 31",
+   "solucionUci": [
+    "b4d6",
+    "d7d6",
+    "d3f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0416",
+   "numero": 416,
+   "nombre": "Alexander Alekhine vs Nate Grossman, New York 1932 (Simul)",
+   "fen": "2r1k1r1/1b2bp1p/4pn2/p2q4/Pp6/1P1NQPB1/N1P3PP/2R2R1K b - - 0 25",
+   "solucionUci": [
+    "g8g3",
+    "h2g3",
+    "f6g4",
+    "d3f4",
+    "g4e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0417",
+   "numero": 417,
+   "nombre": "Alexander Alekhine vs L. Castaneda, Guadalajara 1932 (Simul)",
+   "fen": "r4rk1/p1p2ppp/2Q1pq2/3P4/3Pn1b1/2P1PP2/P5PP/R1B1KB1R b KQ - 0 12",
+   "solucionUci": [
+    "g4f3",
+    "g2f3",
+    "f6f3",
+    "h1g1",
+    "f3f2",
+    "e1d1",
+    "f2g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0418",
+   "numero": 418,
+   "nombre": "Schut Bueters vs Alexander Alekhine, Surabaya 1933 (Simul)",
+   "fen": "1k1r4/1pp1q1n1/p2p4/3BnP1p/4PB1b/2PPQ3/PP1K2bP/R5R1 b - - 0 28",
+   "solucionUci": [
+    "g7f5",
+    "e4f5",
+    "g2d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0419",
+   "numero": 419,
+   "nombre": "Alexander Alekhine vs Lista, Bratislava 1933 (Simul)",
+   "fen": "r2br2k/pbqn2p1/1p2Qn1p/2p5/3P1P1N/P1PB4/1P1B2PP/3R1RK1 w - - 0 21",
+   "solucionUci": [
+    "h4g6",
+    "h8h7",
+    "g6e5",
+    "h7h8",
+    "e5f7",
+    "h8g8",
+    "f7h6",
+    "g8h8",
+    "e6g8",
+    "f6g8",
+    "h6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0420",
+   "numero": 420,
+   "nombre": "Alexander Alekhine vs W.J. Haeften, Jakarta 1933 (Simul)",
+   "fen": "2kr3r/ppqnbppp/2p1pnb1/4N3/2BP1PP1/2N4P/PPPBQ3/2KR3R w - - 0 14",
+   "solucionUci": [
+    "f4f5",
+    "e6f5",
+    "e5g6",
+    "f7g6",
+    "e2e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0421",
+   "numero": 421,
+   "nombre": "Alexander Alekhine vs Fricis Apsenieks, Folkestone 1933 (Olympiad)",
+   "fen": "2rqkb1r/1b1n1pp1/p1p1pn1p/1p2N3/P2P4/3BPN2/1PQB1PPP/R3K2R w KQk - 0 12",
+   "solucionUci": [
+    "d3g6",
+    "f7g6",
+    "c2g6",
+    "e8e7",
+    "d2b4",
+    "c6c5",
+    "d4c5",
+    "d7c5",
+    "g6f7",
+    "e7d6",
+    "f7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0422",
+   "numero": 422,
+   "nombre": "Alexander Alekhine vs Hoelsder, Amsterdam 1933 (Simul)",
+   "fen": "r4rk1/ppp3p1/2bpq3/5pPR/3Qn3/5N2/PPP2PP1/2K4R w - - 0 16",
+   "solucionUci": [
+    "f3e5",
+    "d6e5",
+    "g5g6",
+    "e6g6",
+    "d4c4",
+    "f8f7",
+    "h5h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0423",
+   "numero": 423,
+   "nombre": "Hermann Joss vs Alexander Alekhine, Zurich 1934",
+   "fen": "6k1/1p3pp1/p3p3/1b4Pp/3P4/5P2/q1r1N2P/2NQK2R b K - 0 37",
+   "solucionUci": [
+    "c2c1",
+    "e2c1",
+    "a2g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0424",
+   "numero": 424,
+   "nombre": "Alexander Alekhine vs Efim Bogoljubov, Germany 1934",
+   "fen": "6k1/rb4pp/pN6/P3rp2/1pRp4/3B2qP/1P2Q1P1/4R1K1 w - - 0 29",
+   "solucionUci": [
+    "c4c8",
+    "g8f7",
+    "e2h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0425",
+   "numero": 425,
+   "nombre": "Alexander Alekhine vs Efim Bogoljubov, Germany 1934",
+   "fen": "2k3r1/3r2N1/ppp4p/3bPN2/P1p1n3/6P1/1PP4K/3R1R2 w - - 0 30",
+   "solucionUci": [
+    "e5e6",
+    "d7g7",
+    "f5g7",
+    "g8g7",
+    "d1d5",
+    "c6d5",
+    "f1f8",
+    "c8c7",
+    "f8f7",
+    "g7f7",
+    "e6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0426",
+   "numero": 426,
+   "nombre": "Alexander Alekhine vs Rafael Llorens, Barcelona 1935 (Simul)",
+   "fen": "2kr3r/pp3bpp/1qp5/3n1p2/P1PPpP2/B3P1P1/2Q1BKP1/R6R b - - 0 19",
+   "solucionUci": [
+    "d5e3",
+    "c2c3",
+    "e3g4",
+    "e2g4",
+    "f5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0427",
+   "numero": 427,
+   "nombre": "Alexander Alekhine vs Jan Foltys, Podebrady 1936",
+   "fen": "r1r3k1/pp3p2/4pp1p/2q5/b1nN4/3BP3/P3QPPP/1R3RK1 w - - 0 22",
+   "solucionUci": [
+    "d4e6",
+    "f7e6",
+    "e2g4",
+    "g8h8",
+    "b1b7",
+    "c8c7",
+    "b7c7",
+    "c5c7",
+    "d3c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0428",
+   "numero": 428,
+   "nombre": "William Winter vs Alexander Alekhine, Nottingham 1936",
+   "fen": "2k1q3/ppp1r3/3brpp1/n2p1n2/3P1PNp/1PP2Q1P/P2BN1P1/3KRR2 b - - 0 26",
+   "solucionUci": [
+    "a5c4",
+    "b3c4",
+    "e8a4",
+    "d1c1",
+    "d6a3",
+    "c1b1",
+    "e6b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0429",
+   "numero": 429,
+   "nombre": "Alexander Alekhine vs C.H.O’D. Alexander, Nottingham 1936",
+   "fen": "1r3rk1/pbpn2qp/1p1p1np1/3P1p2/1P5N/5PPB/PB5P/2QR1RK1 w - - 0 22",
+   "solucionUci": [
+    "h3f5",
+    "g6f5",
+    "h4f5",
+    "g7h8",
+    "f5h6",
+    "g8g7",
+    "c1g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0430",
+   "numero": 430,
+   "nombre": "Savielly Tartakower vs Alexander Alekhine, Nottingham 1936",
+   "fen": "6k1/p6p/2p5/6pq/2P2rn1/2B5/PP4Q1/4R1K1 b - - 0 29",
+   "solucionUci": [
+    "g4h2",
+    "g2h2",
+    "f4g4",
+    "g1h1",
+    "g4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0431",
+   "numero": 431,
+   "nombre": "Alexander Alekhine vs Endre Steiner, Kemeri 1937",
+   "fen": "rnb2rk1/2qpbpp1/p6p/2pPp3/Q3P3/2P1NN2/1P3PPP/3RKB1R w K - 0 14",
+   "solucionUci": [
+    "d5d6",
+    "e7d6",
+    "e3f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0432",
+   "numero": 432,
+   "nombre": "Alexander Alekhine vs Samuel Reshevsky, Kemeri 1937",
+   "fen": "Rnk5/1p4pp/1Pp2pq1/2B1r3/1P6/7P/3r2PQ/5RK1 w - - 0 35",
+   "solucionUci": [
+    "a8b8",
+    "c8b8",
+    "h2e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0433",
+   "numero": 433,
+   "nombre": "Alexander Alekhine vs Max Euwe, Netherlands 1937",
+   "fen": "3Rnrk1/6pp/2r5/pR3p2/2q1pP2/Q1P3P1/P3P1BP/7K w - - 0 34",
+   "solucionUci": [
+    "b5f5",
+    "f8f5",
+    "d8e8",
+    "g8f7",
+    "a3e7",
+    "f7g6",
+    "g2e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0434",
+   "numero": 434,
+   "nombre": "Eliashoff/Kahn/Ros vs Alexander Alekhine, Nice 1938",
+   "fen": "5rk1/p2q2pp/3p2r1/1ppPp3/2n1P3/P1P2P2/6PP/1QBRR2K b - - 0 25",
+   "solucionUci": [
+    "f8f3",
+    "g2f3",
+    "d7h3",
+    "e1g1",
+    "h3f3",
+    "g1g2",
+    "f3g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0435",
+   "numero": 435,
+   "nombre": "Vladimirs Petrovs vs Alexander Alekhine, Margate 1938",
+   "fen": "1n5r/R5pp/2rNpp2/2k5/8/4P3/1P2P1KP/3R4 w - - 0 31",
+   "solucionUci": [
+    "b2b4",
+    "c5b4",
+    "a7b7",
+    "b4c3",
+    "d6e4",
+    "c3c2",
+    "b7b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0436",
+   "numero": 436,
+   "nombre": "Alexander Alekhine vs Olivera, Montevideo 1939",
+   "fen": "1r2r1k1/ppp2ppp/8/q1PP3b/5P2/4R1P1/P1Q3BP/1R4K1 w - - 0 22",
+   "solucionUci": [
+    "b1b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0437",
+   "numero": 437,
+   "nombre": "Alexander Alekhine vs Arrais, Lisbon 1940 (Simul)",
+   "fen": "r2qkb1r/1pp1npp1/p1np3p/4p2b/4P3/1BNP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 9",
+   "solucionUci": [
+    "f3e5",
+    "c6e5",
+    "d1h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0438",
+   "numero": 438,
+   "nombre": "Alexander Alekhine vs A. Amores, Lisbon 1940 (Simul)",
+   "fen": "5rk1/pp1q2pp/1np5/5pQ1/3P4/1P1N2RP/1P3PP1/6K1 w - - 0 28",
+   "solucionUci": [
+    "d3c5",
+    "d7f7",
+    "c5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0439",
+   "numero": 439,
+   "nombre": "Max Bluemich vs Alexander Alekhine, Krakow/Warsaw 1941",
+   "fen": "4r1k1/pp3pp1/2p3p1/5p1q/3P4/2PRNnPP/PP3PQ1/5K2 b - - 0 30",
+   "solucionUci": [
+    "f5f4",
+    "g3f4",
+    "h5b5",
+    "c3c4",
+    "b5c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0440",
+   "numero": 440,
+   "nombre": "Herbert Weil vs Alexander Alekhine, Lublin/Warsaw/Krakow 1942",
+   "fen": "2r5/p3p1kp/q1n2pp1/8/1p6/1P2PP2/PN4PP/Q3K2R b K - 0 22",
+   "solucionUci": [
+    "c6d4",
+    "e3d4",
+    "c8c2",
+    "b2c4",
+    "c2a2",
+    "a1d1",
+    "a2a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0441",
+   "numero": 441,
+   "nombre": "Alexander Alekhine vs Kurt Paul Richter, Munich 1942",
+   "fen": "5r1k/pb4pp/1pnrp3/1Q3pq1/8/P1N2B2/1P3PPP/R3R1K1 w - - 0 20",
+   "solucionUci": [
+    "c3e4",
+    "g5g6",
+    "e4d6",
+    "c6d4",
+    "f3b7",
+    "d4b5",
+    "d6b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0442",
+   "numero": 442,
+   "nombre": "Alexander Alekhine vs Klaus Junge, Lublin/Warsaw/Krakow 1942",
+   "fen": "3r1rk1/2q2p1p/1n5Q/1pp1pp2/8/1BP4P/1P3PP1/R2R2K1 w - - 0 26",
+   "solucionUci": [
+    "b3f7",
+    "c7f7",
+    "d1d8",
+    "f8d8",
+    "h6g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0443",
+   "numero": 443,
+   "nombre": "Alexander Alekhine vs Efim Bogoljubov, Salzburg 1943",
+   "fen": "r1b3k1/pp2q1pp/1b3p2/3rp3/3N4/4P1P1/PP3P1P/R1BQ1RK1 w - - 0 17",
+   "solucionUci": [
+    "d4f5",
+    "c8f5",
+    "d1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0444",
+   "numero": 444,
+   "nombre": "Alexander Alekhine vs Ruzena Sucha, Prague 1943",
+   "fen": "2brq1k1/1pRn1r1p/p3p1p1/3nP1P1/4NP2/BP2Q1P1/P2R2B1/6K1 w - - 0 28",
+   "solucionUci": [
+    "d2d5",
+    "e6d5",
+    "e4d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0445",
+   "numero": 445,
+   "nombre": "Jaromir Florian vs Alexander Alekhine, Prague 1943",
+   "fen": "1r3rk1/p1p3b1/2Pp2Qp/2pP2pP/5q2/2N5/PP1RR1P1/2K5 b - - 0 30",
+   "solucionUci": [
+    "b8b2",
+    "c1b2",
+    "f4b4",
+    "b2c1",
+    "b4c3",
+    "g6c2",
+    "c3a1",
+    "c2b1",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0446",
+   "numero": 446,
+   "nombre": "Francesco Lupi vs Alexander Alekhine, Sabadell 1945",
+   "fen": "8/6k1/1N2p3/p2b1p2/3P3p/2BK1P2/6P1/6b1 b - - 0 37",
+   "solucionUci": [
+    "d5f3",
+    "c3e1",
+    "f3g2",
+    "e1h4",
+    "e6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0447",
+   "numero": 447,
+   "nombre": "Max Euwe vs Richard Reti, Amsterdam 1920",
+   "fen": "Q7/ppp2kpp/8/2b5/4RP1q/7b/PPP3PP/3R3K b - - 0 19",
+   "solucionUci": [
+    "h3g2",
+    "h1g2",
+    "h4g4",
+    "g2f1",
+    "g4f3",
+    "f1e1",
+    "f3f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0448",
+   "numero": 448,
+   "nombre": "Max Euwe vs Henri Weenink, Amsterdam 1920",
+   "fen": "4r1k1/ppp2qpp/2r5/3N1P2/4p2n/1Q6/PPP3PP/3RR1K1 w - - 0 22",
+   "solucionUci": [
+    "d5e7",
+    "e8e7",
+    "d1d8",
+    "e7e8",
+    "d8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0449",
+   "numero": 449,
+   "nombre": "Max Euwe vs Ernst Grünfeld, Gothenburg 1920",
+   "fen": "r5k1/p2b3p/2pb2p1/7R/2P5/1P4P1/PB6/6KB w - - 0 28",
+   "solucionUci": [
+    "h1d5",
+    "c6d5",
+    "h5d5",
+    "d7f5",
+    "d5d6",
+    "f5b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0450",
+   "numero": 450,
+   "nombre": "Max Euwe vs Adolf Olland, Amsterdam 1921 (Match)",
+   "fen": "r4rk1/ppp1qpb1/2n1b2p/3p1p2/3P3N/2N1Q1PB/PPP2P1P/2KR3R b - - 0 15",
+   "solucionUci": [
+    "f5f4",
+    "g3f4",
+    "e7h4",
+    "f4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0451",
+   "numero": 451,
+   "nombre": "Max Euwe vs Adolf Olland, Amsterdam 1921 (Match)",
+   "fen": "r3r3/pp3k2/q3bppB/2pQ4/1b1p2PP/8/1PP1N3/1NKR1R2 w - - 0 23",
+   "solucionUci": [
+    "f1f6",
+    "f7f6",
+    "d1f1",
+    "e6f5",
+    "d5d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0452",
+   "numero": 452,
+   "nombre": "Max Euwe vs H.V. von Hartingsvelt, Amsterdam 1922",
+   "fen": "7r/pp1br2B/8/2k1Pp2/2p5/7R/PPP3P1/2K4R w - - 0 25",
+   "solucionUci": [
+    "h7f5",
+    "h8h3",
+    "f5h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0453",
+   "numero": 453,
+   "nombre": "Max Euwe vs Rudolf Spielmann, Bad Pistyan 1922",
+   "fen": "4kb1Q/1p3p2/2n1q3/5p2/3prBp1/3R2K1/PP4PP/5R2 b - - 0 24",
+   "solucionUci": [
+    "e4f4",
+    "g3f4",
+    "c6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0454",
+   "numero": 454,
+   "nombre": "Sturm vs Max Euwe, Amsterdam 1923",
+   "fen": "2b3k1/2p2rbp/1p1p2p1/p2Pq3/P1PNpr2/1P4PP/2BQRP2/1K1R4 b - - 0 24",
+   "solucionUci": [
+    "f4f2",
+    "e2f2",
+    "e4e3",
+    "f2e2",
+    "e3d2",
+    "e2e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0455",
+   "numero": 455,
+   "nombre": "Max Euwe vs Jacques Davidson, Amsterdam 1924",
+   "fen": "r3rbk1/pbq2ppp/1p3n2/2pPN3/5P2/1P4P1/PB4BP/R2Q1RK1 w - - 0 18",
+   "solucionUci": [
+    "d5d6",
+    "c7b8",
+    "d6d7",
+    "e8d8",
+    "e5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0456",
+   "numero": 456,
+   "nombre": "Willem Schelfhout vs Max Euwe, Amsterdam 1927",
+   "fen": "2kr3r/pppqp1bp/6p1/n4p2/1P1PpP2/4P2P/P1PN2P1/R1BQ1RK1 b - - 0 13",
+   "solucionUci": [
+    "g7d4",
+    "e3d4",
+    "d7d4",
+    "g1h2",
+    "d4a1",
+    "b4a5",
+    "e4e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "pc_0457",
+   "numero": 457,
+   "nombre": "Max Euwe vs Sonnenburg, Amsterdam 1927",
+   "fen": "r3kb1r/ppp2ppp/2nqb3/3n2N1/2Bp4/8/PPP2PPP/RNBQR1K1 w kq - 0 9",
+   "solucionUci": [
+    "g5f7",
+    "e8f7",
+    "d1f3",
+    "f7e7",
+    "c4d5",
+    "c6e5",
+    "f3h5",
+    "d6d5",
+    "e1e5",
+    "d5c6"
+   ]
+  }
+ ]
+}

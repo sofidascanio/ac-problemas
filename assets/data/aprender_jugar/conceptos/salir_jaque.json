@@ -1,0 +1,52 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "sj1",
+    "texto": "Si tu rey está en jaque, tenés que salir de inmediato. Hay tres formas:\n1) Mover el rey a una casilla segura.\n2) Capturar la pieza que da jaque.\n3) Interponer una pieza entre el rey y la atacante (no sirve contra caballos).\nSi no podés salir del jaque, es jaque mate."
+   },
+   {
+    "tipo": "actividad",
+    "id": "sal1",
+    "texto": "Tu rey está en jaque. Movelo a una casilla segura.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "sal1",
+     "fen": "4k3/8/8/8/8/8/8/r3K3 w - - 0 1",
+     "propiedad": "cualquierLegal"
+    },
+    "comentario": "La torre negra controla toda la primera fila: el rey no puede quedarse ni correrse por ahí.",
+    "exito": "¡Bien! Saliste del jaque moviendo el rey."
+   },
+   {
+    "tipo": "actividad",
+    "id": "sal2",
+    "texto": "Salí del jaque capturando la pieza que lo da.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "sal2",
+     "fen": "4k3/8/8/8/8/8/4r3/4K3 w - - 0 1",
+     "propiedad": "esCaptura"
+    },
+    "comentario": "La torre negra está pegada a tu rey y nadie la protege: el rey puede capturarla.",
+    "exito": "¡Capturaste a la atacante! Otra forma de salir del jaque."
+   },
+   {
+    "tipo": "actividad",
+    "id": "sal3",
+    "texto": "Salí del jaque interponiendo una pieza.",
+    "actividad": {
+     "tipo": "secuencia_exacta",
+     "id": "sal3",
+     "fen": "4k3/8/8/8/8/8/3PNP2/r3K3 w - - 0 1",
+     "solucionUci": [
+      "e2c1"
+     ]
+    },
+    "comentario": "Poné algo entre la torre negra y tu rey. El rey no tiene casillas libres.",
+    "exito": "¡Muy bien! El caballo bloquea el jaque en c1."
+   }
+  ]
+ }
+}

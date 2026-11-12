@@ -1,0 +1,80 @@
+# ============================================================
+# AC Problemas - .gitignore
+# ============================================================
+
+# --- SECRETOS: NUNCA subir (firma de la app) ---
+key.properties
+**/key.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+upload-keystore.*
+
+# --- Paquetes y binarios generados ---
+*.aab
+*.apk
+*.ipa
+/build/
+**/build/outputs/
+
+# --- Flutter / Dart ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+**/doc/api/
+app.*.symbols
+app.*.map.json
+migrate_working_dir/
+
+# --- Android (generado o local de cada PC) ---
+/android/local.properties
+/android/.gradle/
+/android/captures/
+/android/gradlew.bat.bak
+/android/app/debug
+/android/app/profile
+/android/app/release
+**/GeneratedPluginRegistrant.*
+
+# --- iOS / macOS (generado) ---
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/**/xcuserdata/
+**/ios/**/DerivedData/
+
+# --- IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# --- Python (herramientas/) ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# --- Sistema y temporales ---
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.class
+.history
+.svn/
+.atom/
+.buildlog/
+
+# --- Datos de trabajo (PGN de origen, salidas intermedias) ---
+# Descomentá si tenés archivos así dentro del proyecto:
+# *.pgn
+# herramientas/salida/

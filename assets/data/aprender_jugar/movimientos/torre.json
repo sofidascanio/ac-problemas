@@ -1,0 +1,38 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "to1",
+    "fen": "8/8/8/8/3R4/8/8/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "La torre se mueve en línea recta: por las filas (horizontal) y por las columnas (vertical), tantas casillas como quiera."
+   },
+   {
+    "tipo": "explorar",
+    "id": "to2",
+    "fen": "8/8/3P4/8/3R2n1/8/3p4/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "Tampoco salta piezas. Se frena ante una pieza propia (d6) y puede capturar las rivales (g4 y d2)."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "to3",
+    "fen": "8/8/8/8/8/8/8/R7 w - - 0 1",
+    "pieza": "a1",
+    "objetivos": [
+     "a8",
+     "h8",
+     "h1"
+    ],
+    "texto": "Recorré el borde del tablero pasando por las tres estrellas."
+   },
+   {
+    "tipo": "texto",
+    "id": "to4",
+    "texto": "Las torres son muy fuertes en columnas y filas abiertas. Además participan del enroque, un movimiento especial que vemos en Conceptos del Juego.",
+    "fen": "r6r/8/8/8/8/8/8/R6R w - - 0 1"
+   }
+  ]
+ }
+}

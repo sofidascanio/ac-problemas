@@ -1,0 +1,68 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "co1",
+    "coordenadas": false,
+    "texto": "En el intercambio se combinan capturar y proteger. Antes de capturar, preguntate: ¿la pieza rival está protegida? Si lo está, te pueden recapturar. Estos son los valores aproximados de las piezas:",
+    "tabla": [
+     {
+      "pieza": "P",
+      "nombre": "Peón",
+      "valor": "1"
+     },
+     {
+      "pieza": "N",
+      "nombre": "Caballo",
+      "valor": "3"
+     },
+     {
+      "pieza": "B",
+      "nombre": "Alfil",
+      "valor": "3"
+     },
+     {
+      "pieza": "R",
+      "nombre": "Torre",
+      "valor": "5"
+     },
+     {
+      "pieza": "Q",
+      "nombre": "Dama",
+      "valor": "9"
+     }
+    ],
+    "textoDespues": "Conviene ganar más valor del que se pierde: cambiar un peón por un caballo es buen negocio; cambiar una torre por un peón, no."
+   },
+   {
+    "tipo": "actividad",
+    "id": "com1",
+    "texto": "Capturá la pieza rival que NO está protegida.",
+    "actividad": {
+     "tipo": "secuencia_exacta",
+     "id": "com1",
+     "fen": "4k3/3p4/8/8/3R2n1/8/8/4K3 w - - 0 1",
+     "solucionUci": [
+      "d4g4"
+     ]
+    },
+    "comentario": "El peón de d7 está protegido por el rey negro; el caballo de g4 está solo.",
+    "exito": "¡Muy bien! Torre por g4 gana un caballo gratis. Con la torre por d7 habrías perdido 5 puntos por 1."
+   },
+   {
+    "tipo": "actividad",
+    "id": "com2",
+    "texto": "Este caballo SÍ está protegido (por el peón de c6). Igual conviene capturarlo: ¿ves por qué?",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "com2",
+     "fen": "4k3/8/2p5/3n4/4P3/8/8/4K3 w - - 0 1",
+     "propiedad": "esCaptura"
+    },
+    "comentario": "Capturás con un peón (vale 1) y te recapturan, pero te llevaste un caballo (vale 3).",
+    "exito": "Intercambio ganador: diste 1 punto y ganaste 3."
+   }
+  ]
+ }
+}

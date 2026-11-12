@@ -1,0 +1,345 @@
+[
+  {
+    "id": "aprender_jugar",
+    "titulo": "Aprender a Jugar",
+    "icono": "school",
+    "hijos": [
+      {
+        "id": "movimientos",
+        "titulo": "Movimientos de las Piezas",
+        "icono": "extension",
+        "hijos": [
+          {
+            "id": "mov_peon",
+            "titulo": "Peón",
+            "icono": "♙",
+            "asset": "aprender_jugar/movimientos/peon",
+            "leccion": true
+          },
+          {
+            "id": "mov_caballo",
+            "titulo": "Caballo",
+            "icono": "♘",
+            "asset": "aprender_jugar/movimientos/caballo",
+            "leccion": true
+          },
+          {
+            "id": "mov_alfil",
+            "titulo": "Alfil",
+            "icono": "♗",
+            "asset": "aprender_jugar/movimientos/alfil",
+            "leccion": true
+          },
+          {
+            "id": "mov_torre",
+            "titulo": "Torre",
+            "icono": "♖",
+            "asset": "aprender_jugar/movimientos/torre",
+            "leccion": true
+          },
+          {
+            "id": "mov_dama",
+            "titulo": "Dama",
+            "icono": "♕",
+            "asset": "aprender_jugar/movimientos/dama",
+            "leccion": true
+          },
+          {
+            "id": "mov_rey",
+            "titulo": "Rey",
+            "icono": "♔",
+            "asset": "aprender_jugar/movimientos/rey",
+            "leccion": true
+          }
+        ]
+      },
+      {
+        "id": "conceptos",
+        "titulo": "Conceptos del Juego",
+        "icono": "menu_book",
+        "hijos": [
+          {
+            "id": "fund_disposicion",
+            "titulo": "Disposición del tablero",
+            "icono": "grid",
+            "asset": "aprender_jugar/conceptos/disposicion",
+            "leccion": true
+          },
+          {
+            "id": "fund_enroque",
+            "titulo": "Enroque",
+            "icono": "swap",
+            "asset": "aprender_jugar/conceptos/enroque",
+            "leccion": true
+          },
+          {
+            "id": "fund_al_paso",
+            "titulo": "Captura al paso",
+            "icono": "looks_one",
+            "asset": "aprender_jugar/conceptos/al_paso",
+            "leccion": true
+          },
+          {
+            "id": "fund_ahogado",
+            "titulo": "Ahogado",
+            "icono": "pause",
+            "asset": "aprender_jugar/conceptos/ahogado",
+            "leccion": true
+          },
+          {
+            "id": "fund_captura",
+            "titulo": "Captura de piezas",
+            "icono": "bolt",
+            "asset": "aprender_jugar/conceptos/captura",
+            "leccion": true
+          },
+          {
+            "id": "fund_proteccion",
+            "titulo": "Protección de piezas",
+            "icono": "shield",
+            "asset": "aprender_jugar/conceptos/proteccion",
+            "leccion": true
+          },
+          {
+            "id": "fund_combate",
+            "titulo": "Intercambio",
+            "icono": "fitness_center",
+            "asset": "aprender_jugar/conceptos/combate",
+            "leccion": true
+          },
+          {
+            "id": "fund_jaque_en_una",
+            "titulo": "Jaque en una",
+            "icono": "flag",
+            "asset": "aprender_jugar/conceptos/jaque",
+            "leccion": true
+          },
+          {
+            "id": "fund_salir_del_jaque",
+            "titulo": "Salir del jaque",
+            "icono": "crown",
+            "asset": "aprender_jugar/conceptos/salir_jaque",
+            "leccion": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ejercicios",
+    "titulo": "Ejercicios",
+    "icono": "extension",
+    "hijos": [
+      {
+        "id": "nivel_1",
+        "titulo": "Nivel 1",
+        "icono": "looks_one",
+        "hijos": [
+          {
+            "id": "n1_mate_en_1",
+            "titulo": "Mate en 1",
+            "icono": "looks_one",
+            "hijos": [
+              {
+                "id": "ej_mate_1_facil",
+                "titulo": "Fácil",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_1/mate_en_1/mate1_facil",
+                "lista": true
+              },
+              {
+                "id": "ej_mate_1_intermedio",
+                "titulo": "Intermedio",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_1/mate_en_1/mate1_intermedio",
+                "lista": true
+              },
+              {
+                "id": "ej_mate_1_dificil",
+                "titulo": "Avanzado",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_1/mate_en_1/mate1_dificil",
+                "lista": true
+              }
+            ]
+          },
+          {
+            "id": "n1_mate_en_2",
+            "titulo": "Mate en 2",
+            "icono": "looks_two",
+            "hijos": [
+              {
+                "id": "ej_mate_2_facil",
+                "titulo": "Fácil",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_1/mate_en_2/mate2_facil",
+                "lista": true
+              },
+              {
+                "id": "ej_mate_2_intermedio",
+                "titulo": "Intermedio",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_1/mate_en_2/mate2_intermedio",
+                "lista": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nivel_2",
+        "titulo": "Nivel 2",
+        "icono": "looks_two",
+        "hijos": [
+          {
+            "id": "n2_mate_en_2",
+            "titulo": "Mate en 2",
+            "icono": "looks_two",
+            "hijos": [
+              {
+                "id": "ej_mate_2_dificil",
+                "titulo": "Avanzado",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/mate_en_2/mate2_dificil",
+                "lista": true
+              }
+            ]
+          },
+          {
+            "id": "n2_mate_en_3",
+            "titulo": "Mate en 3",
+            "icono": "looks_3",
+            "hijos": [
+              {
+                "id": "ej_mate_3_facil",
+                "titulo": "Fácil",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/mate_en_3/mate3_facil",
+                "lista": true
+              },
+              {
+                "id": "ej_mate_3_intermedio",
+                "titulo": "Intermedio",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/mate_en_3/mate3_intermedio",
+                "lista": true
+              },
+              {
+                "id": "ej_mate_3_dificil",
+                "titulo": "Avanzado",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/mate_en_3/mate3_dificil",
+                "lista": true
+              }
+            ]
+          },
+          {
+            "id": "ej_doble",
+            "titulo": "Doble",
+            "icono": "call_split",
+            "asset": "ejercicios/nivel_2/doble/doble",
+            "lista": true
+          },
+          {
+            "id": "ej_clavada",
+            "titulo": "Clavada",
+            "icono": "push_pin",
+            "asset": "ejercicios/nivel_2/clavada/clavada",
+            "lista": true
+          },
+          {
+            "id": "ej_descubierto",
+            "titulo": "Descubierto",
+            "icono": "visibility",
+            "asset": "ejercicios/nivel_2/descubierto/descubierto",
+            "lista": true
+          },
+          {
+            "id": "n2_juegue_y_gane",
+            "titulo": "Juegue y gane",
+            "icono": "emoji_events",
+            "hijos": [
+              {
+                "id": "ej_jyg_facil",
+                "titulo": "Fáciles",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/juegue_y_gane/juegueygane_facil",
+                "lista": true
+              },
+              {
+                "id": "ej_jyg_intermedio",
+                "titulo": "Intermedios",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_2/juegue_y_gane/juegueygane_intermedio",
+                "lista": true
+              }
+            ]
+          },
+          {
+            "id": "ej_1001_problemas",
+            "titulo": "Mate en Varios Movimientos",
+            "icono": "auto_awesome",
+            "asset": "ejercicios/nivel_2/problemas_brillantes/problemas_brillantes",
+            "lista": true
+          }
+        ]
+      },
+      {
+        "id": "nivel_3",
+        "titulo": "Nivel 3",
+        "icono": "looks_3",
+        "hijos": [
+          {
+            "id": "n3_juegue_y_gane",
+            "titulo": "Juegue y Gane",
+            "icono": "emoji_events",
+            "hijos": [
+              {
+                "id": "pc_seccion_1",
+                "titulo": "Sección 1 (1–222)",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_3/juegue_y_gane/seccion_1",
+                "lista": true
+              },
+              {
+                "id": "pc_seccion_2",
+                "titulo": "Sección 2 (223–457)",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_3/juegue_y_gane/seccion_2",
+                "lista": true
+              },
+              {
+                "id": "pc_seccion_3",
+                "titulo": "Sección 3 (458–692)",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_3/juegue_y_gane/seccion_3",
+                "lista": true
+              },
+              {
+                "id": "pc_seccion_4",
+                "titulo": "Sección 4 (693–928)",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_3/juegue_y_gane/seccion_4",
+                "lista": true
+              },
+              {
+                "id": "pc_seccion_5",
+                "titulo": "Sección 5 (929–1128)",
+                "icono": "menu_book",
+                "asset": "ejercicios/nivel_3/juegue_y_gane/seccion_5",
+                "lista": true
+              }
+            ]
+          },
+          {
+            "id": "ej_finales_nivel3",
+            "titulo": "Finales",
+            "icono": "flag",
+            "asset": "ejercicios/nivel_3/finales/finales_nivel3",
+            "lista": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "aprender_jugar",
+    "titulo": "Aprender a Jugar",
+    "icono": "school",
+    "hijos": [
+      {
+        "id": "movimientos",
+        "titulo": "Movimientos de las Piezas",
+        "icono": "extension",
+        "hijos": [
+          {
+            "id": "mov_peon",
+            "titulo": "Peón",
+            "icono": "♙",
+            "asset": "aprender_jugar/movimientos/peon",
+            "leccion": true
+          },
+          {
+            "id": "mov_caballo",
+            "titulo": "Caballo",
+            "icono": "♘",
+            "asset": "aprender_jugar/movimientos/caballo",
+            "leccion": true
+          },
+          {
+            "id": "mov_alfil",
+            "titulo": "Alfil",
+            "icono": "♗",
+            "asset": "aprender_jugar/movimientos/alfil",
+            "leccion": true
+          },
+          {
+            "id": "mov_torre",
+            "titulo": "Torre",
+            "icono": "♖",
+            "asset": "aprender_jugar/movimientos/torre",
+            "leccion": true
+          },
+          {
+            "id": "mov_dama",
+            "titulo": "Dama",
+            "icono": "♕",
+            "asset": "aprender_jugar/movimientos/dama",
+            "leccion": true
+          },
+          {
+            "id": "mov_rey",
+            "titulo": "Rey",
+            "icono": "♔",
+            "asset": "aprender_jugar/movimientos/rey",
+            "leccion": true
+          }
+        ]
+      },
+      {
+        "id": "conceptos",
+        "titulo": "Conceptos del Juego",
+        "icono": "menu_book",
+        "hijos": [
+          {
+            "id": "fund_disposicion",
+            "titulo": "Disposición del tablero",
+            "icono": "grid",
+            "asset": "aprender_jugar/conceptos/disposicion",
+            "leccion": true
+          },
+          {
+            "id": "fund_enroque",
+            "titulo": "Enroque",
+            "icono": "swap",
+            "asset": "aprender_jugar/conceptos/enroque",
+            "leccion": true
+          },
+          {
+            "id": "fund_al_paso",
+            "titulo": "Captura al paso",
+            "icono": "looks_one",
+            "asset": "aprender_jugar/conceptos/al_paso",
+            "leccion": true
+          },
+          {
+            "id": "fund_ahogado",
+            "titulo": "Ahogado",
+            "icono": "pause",
+            "asset": "aprender_jugar/conceptos/ahogado",
+            "leccion": true
+          },
+          {
+            "id": "fund_captura",
+            "titulo": "Captura de piezas",
+            "icono": "bolt",
+            "asset": "aprender_jugar/conceptos/captura",
+            "leccion": true
+          },
+          {
+            "id": "fund_proteccion",
+            "titulo": "Protección de piezas",
+            "icono": "shield",
+            "asset": "aprender_jugar/conceptos/proteccion",
+            "leccion": true
+          },
+          {
+            "id": "fund_combate",
+            "titulo": "Combate",
+            "icono": "fitness_center",
+            "asset": "aprender_jugar/conceptos/combate",
+            "leccion": true
+          },
+          {
+            "id": "fund_jaque_en_una",
+            "titulo": "Jaque en una",
+            "icono": "flag",
+            "asset": "aprender_jugar/conceptos/jaque",
+            "leccion": true
+          },
+          {
+            "id": "fund_salir_del_jaque",
+            "titulo": "Salir del jaque",
+            "icono": "crown",
+            "asset": "aprender_jugar/conceptos/salir_jaque",
+            "leccion": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "practica",
+    "titulo": "Práctica",
+    "icono": "fitness_center",
+    "hijos": [
+      {
+        "id": "prac_jaque_mate",
+        "titulo": "Jaque mate",
+        "icono": "crown",
+        "asset": "practica/jaque_mate/ejemplos"
+      },
+      {
+        "id": "tactica",
+        "titulo": "Táctica",
+        "icono": "bolt",
+        "hijos": [
+          {
+            "id": "prac_tactica_iniciales",
+            "titulo": "Iniciales",
+            "icono": "looks_one",
+            "asset": "practica/tactica/iniciales"
+          },
+          {
+            "id": "prac_tactica_avanzadas",
+            "titulo": "Avanzadas",
+            "icono": "looks_two",
+            "asset": "practica/tactica/avanzadas"
+          }
+        ]
+      },
+      {
+        "id": "prac_finales",
+        "titulo": "Finales",
+        "icono": "flag",
+        "asset": "practica/finales/ejemplos"
+      }
+    ]
+  },
+  {
+    "id": "ejercicios",
+    "titulo": "Ejercicios",
+    "icono": "extension",
+    "hijos": [
+      {
+        "id": "mate_en_1",
+        "titulo": "Mate en 1",
+        "icono": "looks_one",
+        "hijos": [
+          {
+            "id": "ej_mate_1_libro1",
+            "titulo": "Libro 1",
+            "icono": "menu_book",
+            "asset": "ejercicios/mate_en_1/libro_1",
+            "lista": true
+          }
+        ]
+      },
+      {
+        "id": "mate_en_2",
+        "titulo": "Mate en 2",
+        "icono": "looks_two",
+        "hijos": [
+          {
+            "id": "ej_mate_2_libro1",
+            "titulo": "Dificiles",
+            "icono": "menu_book",
+            "asset": "ejercicios/mate_en_2/mate_en_2",
+            "lista": true
+          },
+          {
+            "id": "ej_mate_2_libro2",
+            "titulo": "Faciles",
+            "icono": "menu_book",
+            "asset": "ejercicios/mate_en_2/libro_2",
+            "lista": true
+          }
+        ]
+      },
+      {
+        "id": "mate_en_3",
+        "titulo": "Mate en 3",
+        "icono": "looks_3",
+        "hijos": [
+          {
+            "id": "ej_mate_3_libro1",
+            "titulo": "Mate en 3",
+            "icono": "menu_book",
+            "asset": "ejercicios/mate_en_3/libro_1",
+            "lista": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pajaro_carpintero",
+    "titulo": "El Pájaro Carpintero",
+    "icono": "repeat",
+    "pantalla": "pajaro_carpintero"
+  }
+]

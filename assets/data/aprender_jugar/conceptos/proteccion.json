@@ -1,0 +1,44 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "texto",
+    "id": "pr1",
+    "texto": "Una pieza está protegida cuando otra pieza tuya podría recapturar si el rival la captura. Acá el caballo de e5 está protegido por el peón de d4 (los peones protegen en diagonal, hacia adelante). Proteger tus piezas evita perderlas gratis.",
+    "fen": "4k3/8/8/4N3/3P4/8/8/4K3 w - - 0 1",
+    "resaltar": [
+     "e5",
+     "d4"
+    ]
+   },
+   {
+    "tipo": "actividad",
+    "id": "pro_t1",
+    "texto": "¿Está protegido el caballo de e5?",
+    "actividad": {
+     "tipo": "trivia",
+     "id": "pro_t1",
+     "fen": "4k3/8/8/4N3/8/8/P7/4K3 w - - 0 1",
+     "opciones": [
+      "Sí, lo protege otra pieza",
+      "No, está solo"
+     ],
+     "respuestaCorrecta": 1
+    },
+    "exito": "No: ninguna pieza blanca podría recapturar en e5. ¡Estaría en peligro si lo atacaran!"
+   },
+   {
+    "tipo": "actividad",
+    "id": "pro1",
+    "texto": "La torre blanca de h1 está atacada por el alfil negro de c6. Movela a una casilla donde quede protegida.",
+    "actividad": {
+     "tipo": "jugada_con_propiedad",
+     "id": "pro1",
+     "fen": "4k3/8/2b5/8/8/8/3B4/4K2R w - - 0 1",
+     "propiedad": "dejaPiezaDefendida"
+    },
+    "exito": "¡Bien! Esa pieza ahora tiene respaldo: si la capturan, podés recapturar. La torre en f1 queda protegida por el rey, y en h6 por el alfil."
+   }
+  ]
+ }
+}

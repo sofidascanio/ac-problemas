@@ -1,0 +1,42 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "al1",
+    "fen": "8/8/8/8/3B4/8/8/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "El alfil se mueve en diagonal, todas las casillas que quiera mientras el camino esté libre."
+   },
+   {
+    "tipo": "explorar",
+    "id": "al2",
+    "fen": "8/8/5P2/8/3B4/8/1p6/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "El alfil no puede saltar piezas. Se frena antes de una pieza propia (f6) y puede capturar una rival (b2), pero no seguir más allá."
+   },
+   {
+    "tipo": "texto",
+    "id": "al3",
+    "texto": "Cada bando empieza con dos alfiles: uno que se mueve por casillas claras y otro por casillas oscuras. Un alfil nunca cambia de color de casilla.",
+    "fen": "8/8/8/8/8/8/8/2B2B2 w - - 0 1",
+    "resaltar": [
+     "c1",
+     "f1"
+    ]
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "al4",
+    "fen": "8/8/8/8/8/8/8/2B5 w - - 0 1",
+    "pieza": "c1",
+    "objetivos": [
+     "h6",
+     "f8",
+     "a3"
+    ],
+    "texto": "Pasá por las tres estrellas. ¡Todas son casillas oscuras!"
+   }
+  ]
+ }
+}

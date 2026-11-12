@@ -1,0 +1,6990 @@
+{
+ "actividades": [
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a538816ed9",
+   "nombre": "Juegan Negras",
+   "fen": "4rr2/pbp1Npbk/1p1p4/6B1/8/1PPP3P/1P4P1/R4RK1 b - - 0 23",
+   "solucionUci": [
+    "f7f6",
+    "g5f4",
+    "e8e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a61ca31f79",
+   "nombre": "Juegan Negras",
+   "fen": "1r1r2k1/5pp1/1q3p1p/pBpPb2P/P3PP2/1P1Q4/2R3P1/5RK1 b - f3 0 30",
+   "solucionUci": [
+    "c5c4",
+    "c2f2",
+    "c4d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4727daee30",
+   "nombre": "Juegan Negras",
+   "fen": "1Q6/4k3/K3p3/5pp1/7p/1R3P1P/2q3P1/8 b - - 0 52",
+   "solucionUci": [
+    "c2a2",
+    "a6b7",
+    "a2b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cd90688130",
+   "nombre": "Juegan Blancas",
+   "fen": "r5r1/1b3kPQ/p3p2R/1pp5/3b1qP1/3P1N2/P3B3/1R3K2 w - - 3 30",
+   "solucionUci": [
+    "h7g6",
+    "f7e7",
+    "g6e6",
+    "e7d8",
+    "e6g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_85c2bf5d94",
+   "nombre": "Juegan Blancas",
+   "fen": "r3R3/1k6/1ppp4/8/2P5/qpP2Q2/P6P/1K6 w - - 0 41",
+   "solucionUci": [
+    "f3f7",
+    "b7a6",
+    "e8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_76ec341177",
+   "nombre": "Juegan Blancas",
+   "fen": "1b4r1/1P6/8/2k5/8/7P/6P1/1R3K2 w - - 6 50",
+   "solucionUci": [
+    "b1c1",
+    "c5b6",
+    "c1c8",
+    "g8g7",
+    "c8b8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_189283e923",
+   "nombre": "Juegan Blancas",
+   "fen": "2krr3/p1p2ppp/P3p1q1/1N6/2Pn1n2/7P/1Q3PP1/R4RK1 w - - 3 21",
+   "solucionUci": [
+    "b5a7",
+    "c8d7",
+    "b2d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_86b871d719",
+   "nombre": "Juegan Negras",
+   "fen": "r3k2r/ppp2pp1/4q3/3pP2p/8/4PP2/P5QK/R1B2R2 b kq - 3 18",
+   "solucionUci": [
+    "e6e5",
+    "f3f4",
+    "e5a1",
+    "c1b2",
+    "a1a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_66a2310a37",
+   "nombre": "Juegan Negras",
+   "fen": "8/3k2pp/2R2b2/p2r4/8/8/P5PP/1KR5 b - - 3 34",
+   "solucionUci": [
+    "d5b5",
+    "b1c2",
+    "d7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_16115a8279",
+   "nombre": "Juegan Negras",
+   "fen": "r3k1r1/p4p1p/q1pbp1b1/2p4P/5nP1/1PNP1N2/P1PB1P2/R2Q1K1R b q - 0 19",
+   "solucionUci": [
+    "g6d3",
+    "c2d3",
+    "a6d3",
+    "c3e2",
+    "d3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_020864c8df",
+   "nombre": "Juegan Negras",
+   "fen": "1Q1r4/5p1k/2P3p1/2K1R2p/8/8/5r2/1R6 b - - 0 47",
+   "solucionUci": [
+    "f2c2",
+    "c5b4",
+    "d8b8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_198a713094",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/2q2p1p/1p1prB2/p3p3/Pn6/4Q1PP/6BK/5b2 w - - 0 39",
+   "solucionUci": [
+    "e3g5",
+    "g8f8",
+    "g5g7",
+    "f8e8",
+    "g7g8",
+    "e8d7",
+    "g8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c07122830b",
+   "nombre": "Juegan Negras",
+   "fen": "3Q1rk1/p1p2pp1/2p2n1p/8/4P1P1/1P6/qNP4P/2KR1B1R b - - 0 20",
+   "solucionUci": [
+    "a2a1",
+    "c1d2",
+    "f8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65dfb3874d",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1k2/pp5p/2p1Pp2/5P2/8/1P2b1R1/P2r3P/4K1R1 w - - 0 32",
+   "solucionUci": [
+    "g3g8",
+    "f8e7",
+    "g1g7",
+    "e7d6",
+    "g8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e69ac285d6",
+   "nombre": "Juegan Negras",
+   "fen": "r1b1k1nN/ppp3pp/8/2bp4/2B1P3/2N5/PPQP1qPP/R1BK1R2 b q - 1 10",
+   "solucionUci": [
+    "c8g4",
+    "c3e2",
+    "f2f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4a5daac881",
+   "nombre": "Juegan Blancas",
+   "fen": "8/1r4p1/3k4/1p4R1/p2K1P1P/8/P7/8 w - - 0 43",
+   "solucionUci": [
+    "g5g6",
+    "d6c7",
+    "g6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c518490bc2",
+   "nombre": "Juegan Negras",
+   "fen": "1k4rr/1pp2q2/p2p1N2/4p1B1/3nP1Qp/3P4/PPP4K/R5R1 b - - 6 24",
+   "solucionUci": [
+    "g8g5",
+    "g4g5",
+    "d4f3",
+    "h2g2",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ce1d98ff01",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1k2/1bq3p1/p3p1P1/1p2Pp1Q/4pP2/2PrB1P1/PP4K1/R7 w - - 1 26",
+   "solucionUci": [
+    "h5h8",
+    "f8e7",
+    "h8g7",
+    "e7e8",
+    "g7c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_56c8e15c11",
+   "nombre": "Juegan Negras",
+   "fen": "3r4/pp6/1k2bp2/2p1p3/7b/N1P1B3/PP2K1PP/3R3R b - - 1 31",
+   "solucionUci": [
+    "e6g4",
+    "e2f1",
+    "d8d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fdb310aa5c",
+   "nombre": "Juegan Blancas",
+   "fen": "8/R4p2/6pp/3p4/4k1PP/5r2/6K1/8 w - - 2 64",
+   "solucionUci": [
+    "a7e7",
+    "e4f4",
+    "e7f7",
+    "f4g4",
+    "f7f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0a091b7b60",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/1ppk1bpp/2nn1p2/3p3P/Q2P1q2/2PB1N2/PP1NRP2/2K1R3 w - - 1 22",
+   "solucionUci": [
+    "e2e7",
+    "d7c8",
+    "a4a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2e9a0e58cb",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/ppp1qp2/2n4p/3p1Qp1/3P4/2P1PNPP/P4KP1/1BR4R b - - 0 18",
+   "solucionUci": [
+    "e7e3",
+    "f2f1",
+    "e3c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7cf09cd125",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5pp1/p6p/1q6/2pQP3/P4P2/1P2K1PP/8 b - - 5 40",
+   "solucionUci": [
+    "c4c3",
+    "e2e3",
+    "c3b2",
+    "d4d8",
+    "g8h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9dcc52b43b",
+   "nombre": "Juegan Negras",
+   "fen": "2kb1Q1r/pp1b3r/2pP4/4p3/4N3/2PP4/PP4PP/R1B2R1K b - - 0 25",
+   "solucionUci": [
+    "h7h2",
+    "h1g1",
+    "h2h1",
+    "g1f2",
+    "h8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8bea328af8",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/p1p2pk1/1p1qp1p1/3p4/3P2R1/2PQP3/PP6/2K2R2 w - - 1 27",
+   "solucionUci": [
+    "f1f7",
+    "g7f7",
+    "d3g6",
+    "f7e7",
+    "g6g7",
+    "e7e8",
+    "g7h8",
+    "d6f8",
+    "g4g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1ce5aeeb0f",
+   "nombre": "Juegan Blancas",
+   "fen": "4qbk1/2r4p/p2r2p1/1p1P1p2/4pP1P/1PQ1P3/1B4P1/5NK1 w - - 0 34",
+   "solucionUci": [
+    "c3h8",
+    "g8f7",
+    "h8h7",
+    "f8g7",
+    "h7g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d0a8c42efa",
+   "nombre": "Juegan Negras",
+   "fen": "2r1r1k1/1p4qp/p2Bbbp1/2P5/1PB1Q3/P7/6PP/1R3RK1 b - - 2 29",
+   "solucionUci": [
+    "f6d4",
+    "g1h1",
+    "e6c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0be60b9cd0",
+   "nombre": "Juegan Blancas",
+   "fen": "8/5pkp/2r1p1p1/3q4/1RpP3P/2Q1P1P1/5P2/6K1 w - - 9 34",
+   "solucionUci": [
+    "e3e4",
+    "d5e4",
+    "d4d5",
+    "e6e5",
+    "d5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_76d3327993",
+   "nombre": "Juegan Negras",
+   "fen": "rn1q1rk1/1bp2ppp/1p2pb2/p3N3/8/3B4/PPP1Q1PP/RNB2RK1 b - - 1 13",
+   "solucionUci": [
+    "d8d4",
+    "c1e3",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_423e9bed7c",
+   "nombre": "Juegan Blancas",
+   "fen": "4r2k/pp4b1/2p5/5pqp/4p3/PBP4Q/1P1r1BP1/4R1K1 w - - 4 31",
+   "solucionUci": [
+    "f2e3",
+    "f5f4",
+    "e3d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6151e24318",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r2/2pk4/3p2Q1/p2P4/2P5/P3p2P/Pq4P1/3K1R2 w - - 1 33",
+   "solucionUci": [
+    "g6e6",
+    "d7d8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5fe044f4e0",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/1b1p2pp/3Pp3/2p3r1/2P2B2/1PQ4P/4RK2/7r b - - 0 35",
+   "solucionUci": [
+    "g5g2",
+    "f2e3",
+    "h1h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_218adeb2cc",
+   "nombre": "Juegan Negras",
+   "fen": "r2qkbnr/ppp3p1/4p1np/4N3/3P4/2N5/PPP1Q1PP/R1B2RK1 b kq - 0 12",
+   "solucionUci": [
+    "d8d4",
+    "c1e3",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3621123d3c",
+   "nombre": "Juegan Blancas",
+   "fen": "5r2/7p/3p4/3Pk1p1/2P1p3/5r1P/P1B1R1K1/8 w - - 0 35",
+   "solucionUci": [
+    "e2e4",
+    "e5f6",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_83f6a80c77",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/p2p2kp/1p1qp1p1/6Q1/8/1Pn5/PB3PPP/1R3bK1 w - - 0 21",
+   "solucionUci": [
+    "b2c3",
+    "g7f7",
+    "g5f6",
+    "f7e8",
+    "f6h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3c39d5789c",
+   "nombre": "Juegan Blancas",
+   "fen": "6r1/1pp3qk/2b1p2p/p1PpP3/1P1P1PrQ/P4KPR/8/7R w - - 1 33",
+   "solucionUci": [
+    "h4h6",
+    "g7h6",
+    "h3h6",
+    "h7g7",
+    "f3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_29020d1d99",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1rk1/1b1pbppp/p3p1n1/np6/3NP3/1B3NB1/PP3PPP/2RQ1RK1 w - - 6 14",
+   "solucionUci": [
+    "g3c7",
+    "d8e8",
+    "c7a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9dc372eb21",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qkb1r/1p1n2p1/p3p3/3pP1p1/8/3Q4/PPPB1P1P/R3K2R w KQkq - 0 16",
+   "solucionUci": [
+    "d3g6",
+    "e8e7",
+    "d2g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a6ee59e10f",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/p1p2ppp/5q2/2pPb3/Q1B1R3/2P3Pb/PP3P1P/4RNK1 b - - 2 18",
+   "solucionUci": [
+    "f6f3",
+    "f1e3",
+    "f3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_affbd27d8c",
+   "nombre": "Juegan Blancas",
+   "fen": "1r2r3/pp3pk1/1b3q2/3R2n1/4p1Q1/6PP/P4P2/2R3K1 w - - 0 36",
+   "solucionUci": [
+    "d5g5",
+    "g7f8",
+    "g5g8",
+    "f8e7",
+    "g4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_10dfbee15f",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/4Qp2/3p2p1/1P1P4/8/2b3PP/1q2B2K/8 b - - 0 35",
+   "solucionUci": [
+    "c3e5",
+    "e7h4",
+    "b2e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f5481483fe",
+   "nombre": "Juegan Blancas",
+   "fen": "3r4/p3k2p/6p1/4q3/2Q1p1P1/2P5/PP5P/3r1RK1 w - - 3 32",
+   "solucionUci": [
+    "c4f7",
+    "e7d6",
+    "f1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f4f8bf6613",
+   "nombre": "Juegan Blancas",
+   "fen": "1r3r2/2Q5/p3p2R/3p2p1/8/2P2k2/PP2qP2/2K5 w - - 0 33",
+   "solucionUci": [
+    "c7g3",
+    "f3e4",
+    "h6e6",
+    "e4f5",
+    "e6e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3318317ea0",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/2k3p1/2p2p1p/p1P2P1P/P1R1PKP1/1r6/8 b - - 11 56",
+   "solucionUci": [
+    "b2b3",
+    "c3c1",
+    "b3a3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f05a9b7885",
+   "nombre": "Juegan Blancas",
+   "fen": "5r2/3b2pk/p1p2q1p/3p4/1P3p2/1NbP2P1/2Q2PBP/4R1K1 w - - 0 25",
+   "solucionUci": [
+    "d3d4",
+    "h7g8",
+    "c2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_25ab64c509",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/pp1n3p/2p4P/3p4/3PP3/3Q4/PP3r2/2K5 w - - 1 25",
+   "solucionUci": [
+    "d3g3",
+    "g8f7",
+    "g3f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_be5d891bca",
+   "nombre": "Juegan Blancas",
+   "fen": "r5r1/pppk1p1p/2np1P2/7N/8/P2B4/1P1K4/6R1 w - - 1 35",
+   "solucionUci": [
+    "d3f5",
+    "d7e8",
+    "g1g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_92ef5e6794",
+   "nombre": "Juegan Blancas",
+   "fen": "rq4r1/pb1pkpQ1/1p2p2p/7P/3N1n2/2P5/P1B2PP1/4RRK1 w - - 1 23",
+   "solucionUci": [
+    "d4f5",
+    "e7d8",
+    "g7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65451a4e59",
+   "nombre": "Juegan Negras",
+   "fen": "1k2r2r/ppq5/2p1R3/6Q1/3P4/2P5/P4PPP/4R1K1 b - - 0 29",
+   "solucionUci": [
+    "c7h2",
+    "g1f1",
+    "h2h1",
+    "f1e2",
+    "e8e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_554b081735",
+   "nombre": "Juegan Negras",
+   "fen": "r2r2k1/p4ppp/3B1P2/1p6/8/5QP1/qPP2P1P/2KR3R b - - 0 20",
+   "solucionUci": [
+    "a2a1",
+    "c1d2",
+    "d8d6",
+    "d2e2",
+    "a8e8",
+    "f3e3",
+    "e8e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_48bac2202e",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qkb1r/pp3ppp/5n2/2p1p3/2B1P3/3PQ2P/PPn3P1/RNB2RK1 w kq - 0 11",
+   "solucionUci": [
+    "c4b5",
+    "e8e7",
+    "e3c5",
+    "d8d6",
+    "c5c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3c57bcdaf9",
+   "nombre": "Juegan Negras",
+   "fen": "3rr1k1/pppq1ppp/2n3n1/2B3Q1/2B5/P2P3P/1PP2PP1/3R1RK1 b - - 10 19",
+   "solucionUci": [
+    "e8e5",
+    "g5c1",
+    "e5c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_63971f2761",
+   "nombre": "Juegan Negras",
+   "fen": "8/5r2/R7/4kP2/P2pr3/1P6/8/5RK1 b - - 0 38",
+   "solucionUci": [
+    "e4g4",
+    "g1f2",
+    "f7f5",
+    "f2e1",
+    "g4e4",
+    "e1d2",
+    "f5f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dadab32a77",
+   "nombre": "Juegan Blancas",
+   "fen": "rnbqkb1r/pp2pppp/3p4/6B1/3N2n1/2P2Q2/PP3PPP/RN2KB1R w KQkq - 4 8",
+   "solucionUci": [
+    "f1b5",
+    "b8d7",
+    "f3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5bf5c8f443",
+   "nombre": "Juegan Blancas",
+   "fen": "8/8/8/r5p1/1k6/6R1/1K3P2/8 w - - 0 52",
+   "solucionUci": [
+    "g3g4",
+    "b4b5",
+    "g4g5",
+    "b5b6",
+    "g5a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d445e4faad",
+   "nombre": "Juegan Negras",
+   "fen": "rnbqk2r/ppp2ppp/3b4/8/3P4/6P1/PPP1P2N/RNBQKB1R b KQkq - 0 8",
+   "solucionUci": [
+    "d6g3",
+    "e1d2",
+    "d8d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d10a9fae23",
+   "nombre": "Juegan Negras",
+   "fen": "3k3r/np5q/p2N4/3P4/3P1R2/PN6/1P4P1/5RK1 b - - 0 29",
+   "solucionUci": [
+    "h7h2",
+    "g1f2",
+    "h2f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c1f1fc711c",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/p5Bp/2p3p1/q2p4/3Pp3/2P5/1KPQ1P2/R6R b - - 0 28",
+   "solucionUci": [
+    "f8b8",
+    "b2c1",
+    "a5a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c76796d928",
+   "nombre": "Juegan Blancas",
+   "fen": "1r4r1/p1pk4/2qbpQ2/8/5p2/1P5P/2P3P1/4R2K w - - 0 42",
+   "solucionUci": [
+    "f6e6",
+    "d7d8",
+    "e6g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2d1b1c774b",
+   "nombre": "Juegan Blancas",
+   "fen": "n5k1/pp3pbp/3p2p1/3P4/2Pp2q1/P5P1/1P2rP1P/R2Q1RK1 w - - 0 21",
+   "solucionUci": [
+    "f2f3",
+    "g4c8",
+    "d1e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ad407dfa90",
+   "nombre": "Juegan Negras",
+   "fen": "5k2/pp1q1p1p/3p2p1/P1rBpb2/1P6/6P1/Q3NP1P/5RK1 b - - 0 21",
+   "solucionUci": [
+    "c5c2",
+    "a2b3",
+    "c2e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_633e2a7a78",
+   "nombre": "Juegan Negras",
+   "fen": "4rrk1/1p1n2p1/p2p2p1/3P1qN1/1PP1p3/7P/P2Q1PP1/R3R1K1 b - - 1 21",
+   "solucionUci": [
+    "e4e3",
+    "e1e3",
+    "f5g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_edb2f3573e",
+   "nombre": "Juegan Blancas",
+   "fen": "2r4r/p2qk1pp/1pn1pp2/3pP1Q1/P7/8/1P3PPP/1R3RK1 w - - 0 25",
+   "solucionUci": [
+    "g5g7",
+    "e7d8",
+    "g7h8",
+    "d8c7",
+    "h8f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_67ad5c9ef7",
+   "nombre": "Juegan Negras",
+   "fen": "r1bq1rk1/1pp2pp1/p1n2n1p/4N3/2B2B2/3P4/PPP3PP/R2QR1K1 b - - 0 14",
+   "solucionUci": [
+    "d8d4",
+    "f4e3",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9f1d011202",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/P4ppp/8/8/3R1P2/5K2/2p1P2P/8 w - - 0 35",
+   "solucionUci": [
+    "d4c4",
+    "c8a8",
+    "c4c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dc9bf953d4",
+   "nombre": "Juegan Negras",
+   "fen": "1r3k1r/pp4bp/3P2pn/3Q1qN1/8/4BP2/PP3P1P/2KR3R b - - 0 22",
+   "solucionUci": [
+    "b8c8",
+    "c1d2",
+    "f5d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d49ee3f619",
+   "nombre": "Juegan Negras",
+   "fen": "3r1rk1/1bq3pp/p1p5/4p3/PP2N2Q/7P/2P2PP1/R4RK1 b - - 0 20",
+   "solucionUci": [
+    "f8f4",
+    "h4h5",
+    "f4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_50636ee3ba",
+   "nombre": "Juegan Negras",
+   "fen": "8/4K3/4p3/4Pk2/5Pp1/4R1P1/8/5r2 b - - 15 55",
+   "solucionUci": [
+    "f1f3",
+    "e3e1",
+    "f3g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7ad199a61c",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1rk1/pppq2pp/5p2/4p3/1PP5/P2b2P1/3Q1PBP/3RK2R w K - 0 19",
+   "solucionUci": [
+    "g2d5",
+    "g8h8",
+    "d2d3",
+    "c7c6",
+    "d5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a99a38a4eb",
+   "nombre": "Juegan Blancas",
+   "fen": "3k4/1p1rR3/p5p1/P6p/1P2R2P/3rP3/2K5/8 w - - 1 52",
+   "solucionUci": [
+    "e7e8",
+    "d8c7",
+    "e4c4",
+    "c7d6",
+    "c2d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_73189d068a",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/1p5p/p1pq1b2/3p1pB1/PP5P/2P2Pn1/3Q2P1/RN2R1K1 w - - 2 19",
+   "solucionUci": [
+    "g5f4",
+    "d6d7",
+    "f4g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_384ebfea5c",
+   "nombre": "Juegan Negras",
+   "fen": "2kr1b1r/1b5p/1q1p2p1/1BpP1p2/1P3P2/P2Q4/6PP/R1B1R1K1 b - b3 0 20",
+   "solucionUci": [
+    "c5c4",
+    "c1e3",
+    "b6b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2d42bd28a4",
+   "nombre": "Juegan Negras",
+   "fen": "b5k1/p3n2p/1p4pP/nBpP3r/P6q/N1P2P2/1P1QK1P1/3R1R2 b - - 4 26",
+   "solucionUci": [
+    "h5e5",
+    "e2d3",
+    "e5d5",
+    "d3c2",
+    "d5d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8e8d2b25ad",
+   "nombre": "Juegan Blancas",
+   "fen": "8/2p2r1p/p2b1kpP/3n1q2/8/2p2P2/PPPQ2P1/K3R2R w - - 1 29",
+   "solucionUci": [
+    "d2d4",
+    "d6e5",
+    "d4d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a01fc433ae",
+   "nombre": "Juegan Blancas",
+   "fen": "r5r1/p1qbkpQ1/4p3/2Ppn1N1/8/4P3/P5PP/5RK1 w - - 1 26",
+   "solucionUci": [
+    "f1f7",
+    "e5f7",
+    "g7f7",
+    "e7d8",
+    "f7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ee18d75ff0",
+   "nombre": "Juegan Blancas",
+   "fen": "4r3/5pk1/p2q1p1p/1p1P1Q2/8/4r2P/PPB3P1/R6K w - - 3 29",
+   "solucionUci": [
+    "f5h7",
+    "g7f8",
+    "h7h6",
+    "f8e7",
+    "h6e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5c3da1b145",
+   "nombre": "Juegan Negras",
+   "fen": "rnr4k/p4ppb/7p/1Q1q4/3N4/4B1P1/PP1KPP1P/3R3R b - - 1 23",
+   "solucionUci": [
+    "c8c2",
+    "d2e1",
+    "d5h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ae5dc729a2",
+   "nombre": "Juegan Negras",
+   "fen": "7r/rppk1pp1/2qp3p/1Q1N4/4P3/5P2/P1P2P1P/KR5R b - - 10 20",
+   "solucionUci": [
+    "a7a2",
+    "a1a2",
+    "h8a8",
+    "a2b2",
+    "c6b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_88cbe521ae",
+   "nombre": "Juegan Blancas",
+   "fen": "2r2k1r/ppN1p1b1/6p1/7p/6N1/1P6/1P3PPP/2R2K2 w - h6 0 22",
+   "solucionUci": [
+    "c7e6",
+    "f8f7",
+    "e6g5",
+    "f7e8",
+    "c1c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8c6eb9fa7b",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2kr/1p1Q1pp1/p4b2/3R3p/8/5PPK/PPq4P/4R3 w - - 5 29",
+   "solucionUci": [
+    "e1e8",
+    "d8e8",
+    "d7e8",
+    "g8h7",
+    "d5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_51244358c1",
+   "nombre": "Juegan Negras",
+   "fen": "r1b1k1nr/ppp2ppp/3p4/8/4P2q/2N2P2/PPPP2KP/R1B1Q2R b kq - 1 10",
+   "solucionUci": [
+    "c8h3",
+    "g2g1",
+    "h4e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_56e954d8bc",
+   "nombre": "Juegan Negras",
+   "fen": "2r1qr1k/1b2b1pp/pB2Q3/1p1pP3/1P3P2/P1N5/1P4PP/2R2R1K b - - 2 21",
+   "solucionUci": [
+    "c8c6",
+    "e6h3",
+    "c6b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6999faea57",
+   "nombre": "Juegan Negras",
+   "fen": "rnbq1rk1/ppp4p/3b1p2/5p2/3P3B/5N2/PP2PPPP/R2QKB1R b KQ - 1 9",
+   "solucionUci": [
+    "d6b4",
+    "f3d2",
+    "d8d4",
+    "a2a3",
+    "b4d2",
+    "d1d2",
+    "d4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_203f0a6294",
+   "nombre": "Juegan Negras",
+   "fen": "rnbBk2r/pp3ppp/4p3/2b5/8/2n2N2/PP2PPPP/R2QKB1R b KQkq - 0 8",
+   "solucionUci": [
+    "c3d1",
+    "a1d1",
+    "c5b4",
+    "f3d2",
+    "e8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c733493125",
+   "nombre": "Juegan Blancas",
+   "fen": "1k1r4/Rpp3pp/1n2p3/8/7q/1P2B3/QPP2PP1/3rR1K1 w - - 4 23",
+   "solucionUci": [
+    "a7a8",
+    "b6a8",
+    "a2a7",
+    "b8c8",
+    "a7a8",
+    "c8d7",
+    "e1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65bc40bef0",
+   "nombre": "Juegan Blancas",
+   "fen": "4rk2/p5p1/3b1n1p/8/2Q5/6P1/PP1Bq2P/5RK1 w - - 6 30",
+   "solucionUci": [
+    "f1f6",
+    "g7f6",
+    "d2h6",
+    "f8e7",
+    "c4e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5193f9dc6d",
+   "nombre": "Juegan Negras",
+   "fen": "r3k1nr/p4ppp/bq2p3/2bpP3/N2N1P2/8/PP4PP/R1BQK2R b KQkq - 2 12",
+   "solucionUci": [
+    "b6b4",
+    "c1d2",
+    "b4d4",
+    "a4c5",
+    "d4c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3aa93b4e1f",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqkr2/pp2bpQp/2nPp1p1/8/2P5/2P2N2/P4PPP/R1B1KB1R b KQq - 0 15",
+   "solucionUci": [
+    "e7f6",
+    "g7h6",
+    "f6c3",
+    "c1d2",
+    "c3a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_05a69c30ea",
+   "nombre": "Juegan Negras",
+   "fen": "4r3/2p3pk/p4p1p/1p3P2/1P4P1/2P1pQqP/1P4P1/3R2K1 b - - 3 33",
+   "solucionUci": [
+    "e3e2",
+    "f3g3",
+    "e2d1q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d1d5dd848f",
+   "nombre": "Juegan Negras",
+   "fen": "2kr3r/1pqb1pp1/p4n2/2bppNB1/7P/P1NQP3/1PP2P2/2KR3R b - - 1 18",
+   "solucionUci": [
+    "e5e4",
+    "d3e2",
+    "d7f5",
+    "g5f6",
+    "g7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2ab0642c53",
+   "nombre": "Juegan Blancas",
+   "fen": "2r5/8/7R/1P3p1P/3kpPp1/4r1P1/1Kp5/2R5 w - - 0 54",
+   "solucionUci": [
+    "h6d6",
+    "d4c5",
+    "c1c2",
+    "c5d6",
+    "c2c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_549f472cc8",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q3r/pbp1bkpQ/1p2p3/4P3/8/2PBP3/P4PPP/R4RK1 w - - 1 16",
+   "solucionUci": [
+    "d3g6",
+    "f7f8",
+    "h7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_530ea39578",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/b5p1/2p5/7R/2pp4/3P4/q1PB1PK1/2R5 w - - 0 36",
+   "solucionUci": [
+    "h5a5",
+    "a2b2",
+    "a5a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1cdba0c565",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b2rk1/pp4bp/1q1p2p1/3Pp3/2P1N3/3QnN2/PP2B1PP/R4R1K w - - 5 17",
+   "solucionUci": [
+    "c4c5",
+    "d6c5",
+    "d3e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_81a7a3ad7a",
+   "nombre": "Juegan Negras",
+   "fen": "2kr3r/pp4pp/2p1bq2/8/1Q2B3/P5P1/1P2PP1P/R4RK1 b - - 1 17",
+   "solucionUci": [
+    "d8d4",
+    "b4c5",
+    "d4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d46f3a994b",
+   "nombre": "Juegan Negras",
+   "fen": "r2qkb1r/ppp2ppp/2n1bp2/8/Q1BP4/4P3/PP3PPP/RN2K1NR b KQkq - 0 7",
+   "solucionUci": [
+    "f8b4",
+    "b1c3",
+    "e6c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5bec7db8f3",
+   "nombre": "Juegan Negras",
+   "fen": "2r1kb1r/5ppp/Q3p3/p7/3P1B2/1q6/1Pn2PPP/2R2KNR b k - 3 22",
+   "solucionUci": [
+    "c2e3",
+    "f2e3",
+    "c8c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9cf809de52",
+   "nombre": "Juegan Blancas",
+   "fen": "r1br2k1/pp4PR/4p3/4ppq1/3Pn3/2P5/PP2B1PQ/1K6 w - - 3 24",
+   "solucionUci": [
+    "h7h8",
+    "g8g7",
+    "h2h7",
+    "g7f6",
+    "h8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_29fd986d6b",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b1k2r/pp1p1ppp/2n1p3/q7/3P4/P1nB1N2/2Q2PPP/R1B1K2R w KQkq - 2 11",
+   "solucionUci": [
+    "c1d2",
+    "c6b4",
+    "c2c3",
+    "b4d3",
+    "c3d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_27325e3fa6",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/pp1qb1pp/3p4/2p1p1n1/P1P1P1Q1/1P1B1r2/1B3P1K/5RR1 b - - 8 21",
+   "solucionUci": [
+    "f3h3",
+    "h2g2",
+    "d7g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5c0edc4e26",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bq1rk1/p1b2ppp/2p1p3/2P5/4N2n/3B1P2/PP1BQ2P/R4K1R w - - 1 17",
+   "solucionUci": [
+    "d2g5",
+    "d8d4",
+    "g5h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_95a52ff282",
+   "nombre": "Juegan Negras",
+   "fen": "7k/rpr5/8/1N1Bp2p/5pp1/5P2/4KnPP/R6R b - - 3 39",
+   "solucionUci": [
+    "c7c2",
+    "e2f1",
+    "a7a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2c9a460d3c",
+   "nombre": "Juegan Negras",
+   "fen": "r2q1k1r/2pbbp2/p2p1n1p/1p5N/4P3/2N5/PPPBQPPP/R3K2R b KQ - 2 14",
+   "solucionUci": [
+    "d7g4",
+    "f2f3",
+    "g4h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0cf2f39c8e",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/ppp2ppp/8/2p1n3/4P1b1/1BNP2q1/PPP3P1/R1B2QK1 w - - 5 17",
+   "solucionUci": [
+    "c1f4",
+    "g3h4",
+    "f4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d8d959d3d6",
+   "nombre": "Juegan Negras",
+   "fen": "2r1r1k1/1p3pp1/p2p3p/P2P4/1P2P2q/8/5QBP/3RK2R b K - 6 31",
+   "solucionUci": [
+    "e8e4",
+    "g2e4",
+    "h4e4",
+    "f2e2",
+    "e4h1",
+    "e1d2",
+    "h1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fe7e7f860e",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5pp1/p5rp/2p5/2PpK3/P2R3P/4RB2/7r b - - 11 41",
+   "solucionUci": [
+    "g6e6",
+    "e4f3",
+    "h1h3",
+    "f2g3",
+    "h3g3",
+    "f3g3",
+    "e6e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a950e02b88",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/1b2q1pp/p2p2r1/4p3/1Np1np2/P1P2B1P/1P3PP1/R2Q1RK1 w - - 4 21",
+   "solucionUci": [
+    "b4d5",
+    "e7e6",
+    "f3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a6faa55c34",
+   "nombre": "Juegan Blancas",
+   "fen": "5Qr1/1ppk4/4q3/3p4/4p1p1/P1P5/1P4PP/5RK1 w - - 8 33",
+   "solucionUci": [
+    "f1f7",
+    "d7c6",
+    "f8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0ef8183298",
+   "nombre": "Juegan Negras",
+   "fen": "3rk3/1pq2pp1/p1p1p2p/2B2b2/1PR5/P4P1P/4Q3/5R1K b - - 0 30",
+   "solucionUci": [
+    "f5d3",
+    "e2f2",
+    "d3c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b7b5133061",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/6q1/p3R1b1/1p4B1/4p1Q1/P7/1P3P2/R5K1 b - - 1 29",
+   "solucionUci": [
+    "g6f5",
+    "g4g2",
+    "f5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4fa67b7621",
+   "nombre": "Juegan Negras",
+   "fen": "8/1p1n2pp/p2Pk3/4bN2/4K3/1P2P2P/2P5/5R2 b - - 8 40",
+   "solucionUci": [
+    "d7c5",
+    "e4f3",
+    "e6f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1ff46252c7",
+   "nombre": "Juegan Negras",
+   "fen": "4r3/2Qb1p2/2pB1kp1/7p/n1q4P/8/1PP2PP1/3B2KR b - - 8 28",
+   "solucionUci": [
+    "e8e1",
+    "g1h2",
+    "c4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0852b052af",
+   "nombre": "Juegan Negras",
+   "fen": "3r2k1/8/p4b2/1pB2p2/8/1P2P3/Q4Pq1/1RKR4 b - - 0 34",
+   "solucionUci": [
+    "d8d1",
+    "c1d1",
+    "g2f1",
+    "d1d2",
+    "f1f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a9232786b2",
+   "nombre": "Juegan Negras",
+   "fen": "8/1p3rbp/2rpk1p1/P2Rp3/4K3/2P1B2P/1P3P2/3R4 b - - 6 33",
+   "solucionUci": [
+    "c6c4",
+    "e4d3",
+    "e6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_88de2e4e7c",
+   "nombre": "Juegan Negras",
+   "fen": "2kr2r1/pb1p1p1p/2p4p/1p2P2Q/4P2q/2N5/PPP1B1PP/5RKR b - - 7 15",
+   "solucionUci": [
+    "g8g2",
+    "g1g2",
+    "d8g8",
+    "g2f3",
+    "h4h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7b15f58192",
+   "nombre": "Juegan Blancas",
+   "fen": "2r4r/p3k2q/1pB2p2/1Pn1pQ2/n7/4P1P1/P2R1P1P/2R3K1 w - - 5 36",
+   "solucionUci": [
+    "d2d7",
+    "c5d7",
+    "f5d7",
+    "e7f8",
+    "d7c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_49fbac5ceb",
+   "nombre": "Juegan Negras",
+   "fen": "8/5q1k/3bBr1p/5p2/3p4/8/PPQ2PP1/2R1R2K b - - 0 31",
+   "solucionUci": [
+    "f7h5",
+    "h1g1",
+    "h5h2",
+    "g1f1",
+    "h2h1",
+    "f1e2",
+    "f6e6",
+    "e2d3",
+    "e6e1",
+    "c1e1",
+    "h1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3d06ba7639",
+   "nombre": "Juegan Blancas",
+   "fen": "6rk/p2n1pq1/1p1p1p2/2pPpP2/2P1P1r1/2P1RR2/P5Q1/6K1 w - - 0 29",
+   "solucionUci": [
+    "f3h3",
+    "g7h7",
+    "h3h7",
+    "h8h7",
+    "e3h3",
+    "h7g7",
+    "g2g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8b355c3431",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r2/2k4p/p4R2/8/8/2BR3P/qP4P1/6K1 w - - 5 35",
+   "solucionUci": [
+    "c3e5",
+    "c7c8",
+    "f6f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d0d5fca98f",
+   "nombre": "Juegan Negras",
+   "fen": "2rr2k1/pb2bppp/8/q1p5/4p3/PP2P3/1BQ1BPPP/2R2RK1 b - - 4 19",
+   "solucionUci": [
+    "d8d2",
+    "c2b1",
+    "d2e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3bca0ab73d",
+   "nombre": "Juegan Blancas",
+   "fen": "6kr/p2q2p1/7p/b2pPr2/1p1P4/3Q4/P1P3PP/2B1R1K1 w - - 4 26",
+   "solucionUci": [
+    "e5e6",
+    "d7e8",
+    "d3f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7ec5cb25fa",
+   "nombre": "Juegan Blancas",
+   "fen": "4r3/1p1q1rpk/p1p4p/5N2/PP2Q3/2P4P/5RP1/6K1 w - - 6 30",
+   "solucionUci": [
+    "f5e7",
+    "h7h8",
+    "f2f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d368df5b17",
+   "nombre": "Juegan Negras",
+   "fen": "r1b3rk/1p1qbp1p/p3p2Q/3p1p2/3P1N2/3B4/PPP2PPP/4RRK1 b - - 9 19",
+   "solucionUci": [
+    "e7g5",
+    "h6h5",
+    "g5f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_315ad7ff3d",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/p1p1kppp/2Q5/3p4/8/7P/q4PP1/3R2K1 w - - 0 19",
+   "solucionUci": [
+    "d1e1",
+    "e7d8",
+    "c6a8",
+    "d8d7",
+    "a8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_540e8cccf8",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/pp2bkp1/2p1p2p/3pB2q/3PPp2/2P3Q1/P1P5/R4RK1 w - - 0 24",
+   "solucionUci": [
+    "g3g7",
+    "f7e8",
+    "g7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3532bc57cb",
+   "nombre": "Juegan Blancas",
+   "fen": "5k2/1pq3r1/p2bp2Q/4N1P1/2P4P/4P3/PP6/6K1 w - - 3 32",
+   "solucionUci": [
+    "h6h8",
+    "f8e7",
+    "h8g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cd5a59f91b",
+   "nombre": "Juegan Blancas",
+   "fen": "5k2/3q3p/p2Pr1p1/1p6/2pQ4/6KP/P5P1/8 w - - 0 39",
+   "solucionUci": [
+    "d4h8",
+    "f8f7",
+    "h8h7",
+    "f7f6",
+    "h7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5d0bd97991",
+   "nombre": "Juegan Negras",
+   "fen": "r1bq1rk1/pp3pbp/3N2p1/2p5/4PP2/2NQ4/PPP3PP/R4RK1 b - - 0 14",
+   "solucionUci": [
+    "g7d4",
+    "g1h1",
+    "d8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6ae5a434e4",
+   "nombre": "Juegan Negras",
+   "fen": "2r4r/1b2kpNp/p2p2p1/1q4PP/2p1P3/2PnBP2/PPKQN3/1R3R2 b - - 0 22",
+   "solucionUci": [
+    "b5a4",
+    "b2b3",
+    "a4a2",
+    "c2d1",
+    "a2b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f41291df36",
+   "nombre": "Juegan Blancas",
+   "fen": "r3k2r/1pn1b1p1/p1p1pn1p/8/P2P4/2PB2qP/1P2Q1P1/R1B2RK1 w kq - 2 19",
+   "solucionUci": [
+    "c1f4",
+    "g3h4",
+    "f4c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_eb302c74eb",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/1b4bp/p3p1p1/1pq1p3/4P2Q/2NB1rP1/PPP3KR/3R4 w - - 0 32",
+   "solucionUci": [
+    "h4h7",
+    "g8f7",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_112f25690d",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/1p1kp3/3p1p2/3K4/2Q3P1/PP4r1/8 b - - 5 46",
+   "solucionUci": [
+    "e6e5",
+    "d4d3",
+    "g2g3",
+    "d3d2",
+    "g3c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1a79a9a517",
+   "nombre": "Juegan Negras",
+   "fen": "r1b1k2r/ppp2pp1/2Nb1n1p/3BP3/8/5P1q/PPPQ3P/RNB2RK1 b kq - 0 12",
+   "solucionUci": [
+    "d6c5",
+    "c6d4",
+    "f6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a87b622b0e",
+   "nombre": "Juegan Blancas",
+   "fen": "1r6/7R/2pq3p/Q1p1k1p1/2Pn2P1/5P1P/K7/3B4 w - - 5 39",
+   "solucionUci": [
+    "a5e1",
+    "e5f6",
+    "h7h6",
+    "f6f7",
+    "h6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2ff13ba0a8",
+   "nombre": "Juegan Negras",
+   "fen": "1q2rbk1/p1p2p1p/1r2p1p1/Q2p4/2PP1P2/1P6/P2N1PPP/R4RK1 b - - 0 18",
+   "solucionUci": [
+    "f8b4",
+    "a5a4",
+    "b4d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2a2b3fad5f",
+   "nombre": "Juegan Negras",
+   "fen": "2kr4/pp3pR1/4N3/4P3/2p5/2P5/PQ3P1q/1K6 b - - 0 26",
+   "solucionUci": [
+    "d8d1",
+    "b1c2",
+    "h2f2",
+    "c2d1",
+    "f2b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_24736558bc",
+   "nombre": "Juegan Negras",
+   "fen": "6r1/p7/3pp2k/2p4p/PPPPPp2/2K2P1R/8/8 b - - 0 47",
+   "solucionUci": [
+    "g8g3",
+    "h3h2",
+    "g3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2f13ab7de7",
+   "nombre": "Juegan Negras",
+   "fen": "3rr1k1/pBq3bp/5np1/2p1p3/7P/2PpPQP1/PP1B4/R4RKN b - - 1 25",
+   "solucionUci": [
+    "e5e4",
+    "f3g2",
+    "c7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_636658d3d2",
+   "nombre": "Juegan Blancas",
+   "fen": "1r1q3r/p1pbkp2/1bBp4/4P3/1P6/2p2Q2/P4PPP/R4RK1 w - - 0 19",
+   "solucionUci": [
+    "f3f6",
+    "e7e8",
+    "f6h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f7f7c7a94c",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q3r/pp3p1k/2bp4/3npP1p/4B1pb/P1P3Q1/1P2N1PN/3R1RK1 w - - 0 28",
+   "solucionUci": [
+    "f5f6",
+    "h7g8",
+    "g3h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cabe38325f",
+   "nombre": "Juegan Blancas",
+   "fen": "2kr3r/1pp2pb1/p2p1p1p/P4q2/2B2P2/2P1B3/1Pn1Q1PP/R4RK1 w - - 1 20",
+   "solucionUci": [
+    "c4d3",
+    "f5e6",
+    "d3c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f6e7eb840e",
+   "nombre": "Juegan Blancas",
+   "fen": "2kr4/1p6/1P3p2/6pp/8/3p1PnP/4rP2/R2R2K1 w - - 0 29",
+   "solucionUci": [
+    "a1a8",
+    "c8d7",
+    "d1d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a99604ca48",
+   "nombre": "Juegan Blancas",
+   "fen": "3qr1k1/1r3p2/6pQ/2ppn1N1/8/4P3/P3NPPP/R5K1 w - - 1 29",
+   "solucionUci": [
+    "h6h7",
+    "g8f8",
+    "h7h8",
+    "f8e7",
+    "h8e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_89287e3e5a",
+   "nombre": "Juegan Negras",
+   "fen": "8/p7/8/P6R/5K2/r7/5k2/8 b - - 2 65",
+   "solucionUci": [
+    "a3a4",
+    "f4f5",
+    "a4a5",
+    "f5g6",
+    "a5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cd8ad5a4c4",
+   "nombre": "Juegan Negras",
+   "fen": "5k2/5p2/8/p7/1pP5/1P5q/P2KQ3/8 b - - 2 50",
+   "solucionUci": [
+    "h3c3",
+    "d2d1",
+    "c3a1",
+    "d1c2",
+    "a1a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_418ec2a952",
+   "nombre": "Juegan Blancas",
+   "fen": "7Q/p2k1p1p/3p2p1/2pP4/3n2P1/7P/qrb3BK/4R3 w - - 4 35",
+   "solucionUci": [
+    "h8e8",
+    "d7c7",
+    "e1e7",
+    "c7b6",
+    "e8b8",
+    "b6a5",
+    "e7a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6ddc4e27f1",
+   "nombre": "Juegan Blancas",
+   "fen": "8/3p1R2/2bPk3/5p2/8/5r2/4K3/B7 w - - 8 72",
+   "solucionUci": [
+    "f7f6",
+    "e6d5",
+    "e2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fc70676ff9",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/p5pp/3r4/2p1q3/2P5/1P2N3/P3Q3/2KR4 b - - 0 33",
+   "solucionUci": [
+    "e5a1",
+    "c1c2",
+    "a1a2",
+    "c2c3",
+    "a2e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cae2e996ae",
+   "nombre": "Juegan Blancas",
+   "fen": "2Q5/6p1/6rk/1P6/8/6r1/5K2/8 w - - 3 66",
+   "solucionUci": [
+    "c8h8",
+    "h6g5",
+    "f2g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_24f5eb1ca8",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2nR/pp1rkpp1/3p4/3Bb3/4PN2/2P2R2/PP4P1/1K6 w - - 1 27",
+   "solucionUci": [
+    "f4g6",
+    "f7g6",
+    "f3f7",
+    "e7e8",
+    "h8g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_48b3787bd7",
+   "nombre": "Juegan Negras",
+   "fen": "4k2r/2r1Np2/p2p3p/1p6/q3Q1PP/n7/1PPB2P1/2K1R2R b k - 0 26",
+   "solucionUci": [
+    "c7c2",
+    "c1d1",
+    "c2c4",
+    "d1e2",
+    "c4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6c386bc09c",
+   "nombre": "Juegan Negras",
+   "fen": "1r1qnrk1/1p1bbp1p/p3p1pQ/3pP3/8/PP1B4/1BPN1PPP/R3R1K1 b - - 1 15",
+   "solucionUci": [
+    "e7g5",
+    "h6h3",
+    "g5d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ca7b82733e",
+   "nombre": "Juegan Blancas",
+   "fen": "rn1q3r/5pkp/2p1p1p1/p2nP1QP/1p6/3B1P2/PPP1NP2/R3K2R w KQ - 0 17",
+   "solucionUci": [
+    "h5h6",
+    "g7g8",
+    "g5d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a7b37072c1",
+   "nombre": "Juegan Negras",
+   "fen": "r2qkbnr/pppn1ppp/4p3/3pNP2/5P2/3P4/PPP1P2P/RNBQKB1R b KQkq - 0 6",
+   "solucionUci": [
+    "d8h4",
+    "e1d2",
+    "h4f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4d8b64d738",
+   "nombre": "Juegan Negras",
+   "fen": "rn1qk1nr/ppp3pp/3bP3/7P/3Pp1P1/8/PPP1P3/RNBQKB1R b KQkq - 0 11",
+   "solucionUci": [
+    "d6g3",
+    "e1d2",
+    "d8d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6fa94da302",
+   "nombre": "Juegan Blancas",
+   "fen": "4rrk1/1p1q2p1/p1n1RnQ1/3p2N1/3P4/2P5/PP3PPP/R5K1 w - - 1 20",
+   "solucionUci": [
+    "e6f6",
+    "f8f6",
+    "g6h7",
+    "g8f8",
+    "h7h8",
+    "f8e7",
+    "h8g7",
+    "e7d8",
+    "g7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_39765eb9d2",
+   "nombre": "Juegan Blancas",
+   "fen": "rn4k1/pppq2pp/3p1r2/3Pp1N1/2P2pb1/2NQ4/PPK1P2P/R4Bb1 w - - 0 14",
+   "solucionUci": [
+    "d3h7",
+    "g8f8",
+    "h7h8",
+    "f8e7",
+    "h8g7",
+    "e7e8",
+    "g7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c524095233",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/pp2Qpqp/6p1/4nb2/4N3/1B2P3/P4PP1/R4RK1 w - - 7 22",
+   "solucionUci": [
+    "e4f6",
+    "g8h8",
+    "e7e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_437342bdb4",
+   "nombre": "Juegan Negras",
+   "fen": "8/6p1/8/P7/5Pk1/6P1/1bpB2K1/8 b - - 0 41",
+   "solucionUci": [
+    "b2c3",
+    "d2c1",
+    "c3a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6fd2e37340",
+   "nombre": "Juegan Blancas",
+   "fen": "3k4/Q1r2r2/3p2p1/1B2pp2/7q/2P5/1P6/1K2R3 w - - 1 34",
+   "solucionUci": [
+    "a7b8",
+    "d8e7",
+    "b8c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e55aba9691",
+   "nombre": "Juegan Blancas",
+   "fen": "r3rk2/pp1n1p2/5Q2/8/2pPp3/q1P3P1/5PBP/4R1K1 w - - 2 28",
+   "solucionUci": [
+    "f6h8",
+    "f8e7",
+    "e1e4",
+    "e7d6",
+    "e4e8",
+    "a3a1",
+    "g2f1",
+    "a8e8",
+    "h8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dd2d422585",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5pB1/p3pP2/3pP1p1/r1nP2P1/5K2/P6R/8 b - - 5 46",
+   "solucionUci": [
+    "a4a3",
+    "f3g2",
+    "a3a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d725424c85",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bqk2r/p5p1/2p2pn1/1p1np2p/7P/P1Q1BNP1/1PP2P2/R3KB1R w KQkq - 0 15",
+   "solucionUci": [
+    "c3c6",
+    "c8d7",
+    "c6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_26c4a11f14",
+   "nombre": "Juegan Negras",
+   "fen": "5Q1r/1pk5/2p5/RnP3r1/6P1/1P6/6K1/5R2 b - - 0 47",
+   "solucionUci": [
+    "g5g4",
+    "g2f3",
+    "h8f8",
+    "f3g4",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2a856d849d",
+   "nombre": "Juegan Negras",
+   "fen": "8/pkp2P2/1p4q1/5R2/6B1/1P2n1K1/PBP5/5R2 b - - 0 30",
+   "solucionUci": [
+    "g6g4",
+    "g3f2",
+    "g4f5",
+    "f2e3",
+    "f5f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a846a819f4",
+   "nombre": "Juegan Blancas",
+   "fen": "8/r5p1/3k4/p5R1/1p1K3P/1P6/8/8 w - - 3 41",
+   "solucionUci": [
+    "g5g6",
+    "d6c7",
+    "g6g7",
+    "c7b6",
+    "g7a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d9eb12241a",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/4pk2/bq1p1ppQ/2pPn3/4PR2/4P1PB/PP6/1R4K1 w - - 4 25",
+   "solucionUci": [
+    "h3e6",
+    "f7e8",
+    "h6h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3aab2f9fca",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/1Q4b1/4rqR1/2p5/8/pPP1B3/P4P2/6RK b - - 0 40",
+   "solucionUci": [
+    "f6h4",
+    "h1g2",
+    "e6g6",
+    "g2f1",
+    "h4h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b9482e8b67",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/pp3ppp/2r5/8/1P5q/5P2/P3BPK1/1R1Q3R b - - 7 23",
+   "solucionUci": [
+    "c6g6",
+    "g2f1",
+    "h4h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5af43174ab",
+   "nombre": "Juegan Negras",
+   "fen": "1k3rqr/p1p1bp1p/P1b1p2Q/1p1pP3/3P4/6N1/1PPN1PPP/R4RK1 b - - 4 18",
+   "solucionUci": [
+    "e7g5",
+    "h6h5",
+    "g5d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_40bf864dce",
+   "nombre": "Juegan Negras",
+   "fen": "4k3/4p3/8/P7/8/3q4/R5R1/4K3 b - - 9 45",
+   "solucionUci": [
+    "d3b1",
+    "e1e2",
+    "b1a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_572ab43b4b",
+   "nombre": "Juegan Negras",
+   "fen": "q4rk1/3Rppb1/6p1/p3p1Bp/Q1p1b2P/6P1/P2N1P2/5BK1 b - - 2 24",
+   "solucionUci": [
+    "e4c6",
+    "a4c4",
+    "c6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6bce23d117",
+   "nombre": "Juegan Blancas",
+   "fen": "8/pp3k2/2p2bp1/2P5/1P4P1/5N1P/1r3RK1/8 w - - 3 55",
+   "solucionUci": [
+    "f3e5",
+    "f7e6",
+    "f2b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3c065c733d",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqk2r/ppp1b1Qp/8/3p4/8/8/PPP1PPPP/RN2KB1R b KQkq - 0 11",
+   "solucionUci": [
+    "e7f6",
+    "g7h6",
+    "f6b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e55666c544",
+   "nombre": "Juegan Blancas",
+   "fen": "r1br2k1/5pbp/p3p1p1/q2p4/4P3/4BP2/P3N1PP/1R1Q1RK1 w - - 0 17",
+   "solucionUci": [
+    "e3b6",
+    "a5a2",
+    "b6d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_61aa005e52",
+   "nombre": "Juegan Negras",
+   "fen": "8/6pk/3N3p/2p5/1p6/1R1P2K1/2r4P/8 b - - 5 38",
+   "solucionUci": [
+    "c2c3",
+    "b3b1",
+    "c3d3",
+    "g3f4",
+    "d3d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a22d519a92",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r2/p1qk3p/2p1bPp1/3p4/PQ6/7P/6P1/2R3K1 w - - 8 40",
+   "solucionUci": [
+    "b4e7",
+    "d7c8",
+    "e7f8",
+    "c7d8",
+    "c1c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8f4540e12e",
+   "nombre": "Juegan Negras",
+   "fen": "2r3k1/5p2/1Qb1pPpq/p3P2p/P1P2R2/1P6/7P/5RK1 b - - 6 27",
+   "solucionUci": [
+    "h6g5",
+    "g1f2",
+    "g5f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fe8ea803af",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bqk2r/p4p2/p2bp3/7p/2QP1N2/4P3/P4PPP/R4RK1 w kq - 1 17",
+   "solucionUci": [
+    "c4c6",
+    "c8d7",
+    "c6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2844a0d015",
+   "nombre": "Juegan Blancas",
+   "fen": "2Q2nkr/6p1/8/6Pp/3p4/2b1PPK1/Pq6/7R w - - 0 34",
+   "solucionUci": [
+    "c8c4",
+    "g8h7",
+    "h1h5",
+    "h7g6",
+    "h5h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1c777a7eba",
+   "nombre": "Juegan Blancas",
+   "fen": "4Q3/8/p2p4/2pP1kpp/2P5/1P4q1/P7/5K2 w - - 2 47",
+   "solucionUci": [
+    "e8e6",
+    "f5f4",
+    "e6d6",
+    "f4g4",
+    "d6g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3ba36328c7",
+   "nombre": "Juegan Negras",
+   "fen": "1r4k1/1p3pp1/p1p1r1q1/8/PP1PpN1p/7P/2RQ2PK/2R5 b - - 7 31",
+   "solucionUci": [
+    "g6g3",
+    "h2g1",
+    "e4e3",
+    "d2c3",
+    "g3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3f03287215",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/ppq3p1/4p1B1/4P3/1n3P2/2N4Q/PP2b2P/2K5 w - - 0 25",
+   "solucionUci": [
+    "h3h7",
+    "g8f8",
+    "h7h8",
+    "f8e7",
+    "h8g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fab9dfbc9c",
+   "nombre": "Juegan Negras",
+   "fen": "rnb1kb1r/pp1q1ppp/8/3Q2B1/8/5N2/PP2PPPP/3RKB1R b Kkq - 0 10",
+   "solucionUci": [
+    "f8b4",
+    "g5d2",
+    "d7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b839de11f7",
+   "nombre": "Juegan Blancas",
+   "fen": "rnbqkbnr/ppp1p3/5p2/3p3p/3P4/3BPQ2/PPPB1PPP/RN2K2R w KQkq h6 0 7",
+   "solucionUci": [
+    "d3g6",
+    "e8d7",
+    "f3d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_18b0be8762",
+   "nombre": "Juegan Blancas",
+   "fen": "r3r3/1pk3pp/p3Rp2/2Bp1n2/N2P4/8/PPP2K2/8 w - - 1 37",
+   "solucionUci": [
+    "c5b6",
+    "c7c8",
+    "e6e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7bf2b238ad",
+   "nombre": "Juegan Blancas",
+   "fen": "1r5r/p3kpb1/qp2p1pp/3pP3/1P6/3P1N2/2Q2PPP/5RK1 w - - 0 23",
+   "solucionUci": [
+    "c2c7",
+    "e7e8",
+    "c7b8",
+    "e8d7",
+    "b8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_21ed32b71a",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/pp3p1p/1q1p2pb/3P1p2/1PP2P2/P3rB1P/3Q2P1/R6K w - - 2 28",
+   "solucionUci": [
+    "c4c5",
+    "d6c5",
+    "d2e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_af9f4a4219",
+   "nombre": "Juegan Negras",
+   "fen": "4Rrk1/1p3pp1/p2q3p/3p4/6n1/1PP4P/P2Q1PP1/4R1K1 b - - 0 24",
+   "solucionUci": [
+    "d6h2",
+    "g1f1",
+    "h2h1",
+    "f1e2",
+    "f8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_aa0834bc08",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/pp1n1p1p/4p1p1/3p4/q7/2PB4/PP2QPPP/1R3RK1 w - - 1 17",
+   "solucionUci": [
+    "d3b5",
+    "a4a5",
+    "b5d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0b609567cc",
+   "nombre": "Juegan Blancas",
+   "fen": "1n2r3/8/p1p4R/2Pp2k1/6N1/8/1P2r1RP/1K6 w - - 7 51",
+   "solucionUci": [
+    "h2h4",
+    "g5f5",
+    "h6f6",
+    "f5e4",
+    "g2e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0a3e775a20",
+   "nombre": "Juegan Negras",
+   "fen": "7R/3n1pk1/p1p5/2pp1PP1/5R2/4qBK1/Pr6/7Q b - - 7 39",
+   "solucionUci": [
+    "e3f2",
+    "g3h3",
+    "g7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f079a7c883",
+   "nombre": "Juegan Blancas",
+   "fen": "2k5/q6r/1np1pBQ1/3pP3/1p1P4/1P3PN1/2PK1P1p/7r w - - 0 36",
+   "solucionUci": [
+    "g6g8",
+    "c8b7",
+    "g8h7",
+    "b7b8",
+    "h7a7",
+    "b8a7",
+    "g3h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5895712819",
+   "nombre": "Juegan Negras",
+   "fen": "5q2/5p1k/3Rp2p/1P1n1p2/8/4PPQP/6P1/6K1 b - - 1 41",
+   "solucionUci": [
+    "f5f4",
+    "g3f2",
+    "f8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1ac5b8ac07",
+   "nombre": "Juegan Negras",
+   "fen": "Q4b1k/6pp/p2p2r1/2p5/3q4/4BP2/PP3K2/R4R2 b - - 4 24",
+   "solucionUci": [
+    "d4b2",
+    "f2e1",
+    "b2a1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_baa1341e05",
+   "nombre": "Juegan Blancas",
+   "fen": "2r4r/2q1k2p/p2ppp1Q/1p1P4/8/3n1P2/PPP3PP/1K1R4 w - - 0 21",
+   "solucionUci": [
+    "h6g7",
+    "e7d8",
+    "g7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5b3e8e11a4",
+   "nombre": "Juegan Blancas",
+   "fen": "4r3/p2n1kpp/1pQ5/2b5/3q4/5BP1/PP4KP/R1B5 w - - 1 24",
+   "solucionUci": [
+    "f3d5",
+    "f7f8",
+    "c6d7",
+    "d4f2",
+    "g2h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_682bf4ba6b",
+   "nombre": "Juegan Blancas",
+   "fen": "1r6/p1k3pp/8/4qp2/Q1P5/8/P4PP1/1r1R3K w - - 4 31",
+   "solucionUci": [
+    "a4d7",
+    "c7b6",
+    "d1b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6790fae86e",
+   "nombre": "Juegan Blancas",
+   "fen": "rnbqr1k1/ppp4p/3b1ppQ/3pN1B1/3P4/2PB4/P1P2PPP/R3K2R w KQ - 0 11",
+   "solucionUci": [
+    "d3g6",
+    "e8e7",
+    "g5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5d5e648872",
+   "nombre": "Juegan Negras",
+   "fen": "2r5/pp1b1kb1/3p2q1/3Pp1pp/1P3p2/5P1P/PQ1NB1PN/5RK1 b - - 0 24",
+   "solucionUci": [
+    "c8c2",
+    "b2b3",
+    "c2d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dec2f1ec9c",
+   "nombre": "Juegan Blancas",
+   "fen": "1r5k/r2p1p2/2p2p2/4p2p/4P3/2PP2Pq/P2Q1P2/1R4K1 w - - 0 25",
+   "solucionUci": [
+    "d2h6",
+    "h8g8",
+    "b1b8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65610abe21",
+   "nombre": "Juegan Negras",
+   "fen": "4kb1r/p2n1pp1/np1Bp3/3p2Pp/2rQ3P/P3PP2/1PP5/2KR2NR b k - 0 17",
+   "solucionUci": [
+    "c4d4",
+    "d1d4",
+    "f8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ba5f591711",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/1pq1bpp1/p1p2n1p/4p2b/4P2B/2N3Q1/PPP1BPP1/2KR4 w - - 0 18",
+   "solucionUci": [
+    "h4f6",
+    "e7f6",
+    "e2h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_74338b593f",
+   "nombre": "Juegan Blancas",
+   "fen": "r3r1k1/3R4/2p3pB/3bNp2/pb1P4/8/1P3PPP/6K1 w - - 0 31",
+   "solucionUci": [
+    "d7g7",
+    "g8h8",
+    "e5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_645f4513a9",
+   "nombre": "Juegan Blancas",
+   "fen": "8/pp4p1/3kn2p/4R3/3r4/8/3R1KPP/8 w - - 0 34",
+   "solucionUci": [
+    "e5e6",
+    "d6e6",
+    "d2d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_19f95c5feb",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b3k1/ppp3pp/1b4p1/3q2B1/3PN3/2P5/PP4PP/4RQK1 w - - 2 18",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "e1e8",
+    "g8f7",
+    "f1f6",
+    "f7e8",
+    "f6e7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_59355454d6",
+   "nombre": "Juegan Blancas",
+   "fen": "2rq1rk1/4bppp/p1np1n2/3Np3/1p2b3/1B3N1P/PPP2PP1/R1BQR1K1 w - - 0 17",
+   "solucionUci": [
+    "d5f6",
+    "e7f6",
+    "e1e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3d0f50b58f",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/pp2bppp/4pn2/3N4/3n1B2/5B1P/PPP2PP1/1R2R1K1 b - - 0 14",
+   "solucionUci": [
+    "d4f3",
+    "g2f3",
+    "f6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_29a0dffc49",
+   "nombre": "Juegan Negras",
+   "fen": "k3r3/1p5p/2b3nP/p1Q5/2P1N1P1/qP2P3/P4P2/1K1R3B b - - 0 31",
+   "solucionUci": [
+    "c6e4",
+    "h1e4",
+    "a3c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0b29351bed",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b2rk1/bpq2p1p/p1n1pp2/P7/R7/1NN2Q2/1PP3PP/4KB1R w K - 0 17",
+   "solucionUci": [
+    "a4g4",
+    "g8h8",
+    "f3f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1e2966e747",
+   "nombre": "Juegan Negras",
+   "fen": "2r3k1/5p1p/ppQ3p1/2b3RP/2P5/P3R3/1P4P1/6K1 b - - 0 28",
+   "solucionUci": [
+    "c5e3",
+    "g1f1",
+    "c8c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_814f43a952",
+   "nombre": "Juegan Negras",
+   "fen": "2r5/2n4k/p3Np1p/1p6/8/PP3P2/1PR2P1P/6K1 b - - 0 29",
+   "solucionUci": [
+    "c8g8",
+    "g1f1",
+    "c7e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1354db379e",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/ppp3p1/4bn1p/8/2Bq3B/8/P1P2PPP/3R1RK1 w - - 0 18",
+   "solucionUci": [
+    "c4e6",
+    "g8h8",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7d328b0e6e",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/ppp2pp1/5q1p/3PQ3/3n4/5N2/PPP2PPP/5RK1 b - - 0 19",
+   "solucionUci": [
+    "d4f3",
+    "g2f3",
+    "f6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4f8367dc6c",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqk2r/pp3ppp/2N1p3/3pP3/1b3P2/2n1BN2/PP4PP/R2QKB1R b KQkq - 0 12",
+   "solucionUci": [
+    "c3d1",
+    "e1d1",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c715abc20e",
+   "nombre": "Juegan Blancas",
+   "fen": "1rr3kb/1q1R1p1p/4p1pP/pn2P3/2B2P2/1P1Q4/PK3P2/8 w - - 0 33",
+   "solucionUci": [
+    "d7b7",
+    "b8b7",
+    "c4b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dbb1f9158b",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b1k2r/p3q1pp/2pp1p2/4n3/4PB2/2Q5/PPP2PPP/2KRR3 w kq - 0 15",
+   "solucionUci": [
+    "f4e5",
+    "f6e5",
+    "c3c6",
+    "e8f7",
+    "c6a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f3b1423a2e",
+   "nombre": "Juegan Blancas",
+   "fen": "rn1qk2r/ppp2pp1/4p2p/2b1P3/4b1n1/5NP1/PPP2PBP/R1BQR1K1 w kq - 0 12",
+   "solucionUci": [
+    "d1d8",
+    "e8d8",
+    "e1e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b030c62e50",
+   "nombre": "Juegan Negras",
+   "fen": "3Q1r1k/3p1Pp1/p6p/1p2R3/8/1B6/PP2KP1q/3R4 b - - 0 25",
+   "solucionUci": [
+    "h2e5",
+    "e2f1",
+    "f8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_26d59e590f",
+   "nombre": "Juegan Blancas",
+   "fen": "2kr4/1p1q1pp1/p1p5/8/3rp1Qp/3R3P/PPP2PP1/R5K1 w - - 2 29",
+   "solucionUci": [
+    "d3d4",
+    "d7g4",
+    "d4d8",
+    "c8d8",
+    "h3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3acabf915b",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/1pp2pp1/p4n1p/3N4/2Q1q3/8/PP3PPP/2R2RK1 w - - 0 17",
+   "solucionUci": [
+    "d5f6",
+    "g7f6",
+    "c4e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a983cc6294",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/ppqR2pp/2pp4/3n4/2P5/2PP1rPP/PB4B1/R5K1 w - - 0 19",
+   "solucionUci": [
+    "d7c7",
+    "d5c7",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5da9451943",
+   "nombre": "Juegan Blancas",
+   "fen": "8/p1p1k1p1/1p6/3P1Br1/1PP1p1b1/2K1R3/P7/8 w - - 0 33",
+   "solucionUci": [
+    "e3e4",
+    "e7d8",
+    "f5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_93f988c996",
+   "nombre": "Juegan Blancas",
+   "fen": "2r1k1r1/3n2Pp/p2pp3/1p1N2b1/1PqN4/5B2/P1P2PPP/1K1R4 w - - 0 19",
+   "solucionUci": [
+    "f3h5",
+    "e8d8",
+    "d4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3aaaaaa2e1",
+   "nombre": "Juegan Negras",
+   "fen": "8/6p1/1p3Pkp/1B6/P2b1PK1/6PP/3R4/5r2 b - - 0 37",
+   "solucionUci": [
+    "h6h5",
+    "g4h4",
+    "d4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_71b746cb22",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b2rk1/ppp2pp1/7p/3Pb3/2B3q1/1P6/P4PPP/R1BQR1K1 w - - 0 19",
+   "solucionUci": [
+    "d1g4",
+    "c8g4",
+    "e1e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_556264506b",
+   "nombre": "Juegan Blancas",
+   "fen": "r3b2r/kp5p/p6p/3p4/3bp3/1P1BQ3/P5PP/2q1R1K1 w - - 0 28",
+   "solucionUci": [
+    "e3d4",
+    "a7b8",
+    "e1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dd3a734db3",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/6p1/p1p4p/1p2R3/7q/2PP1B1P/PP6/RNBQ2K1 b - - 0 19",
+   "solucionUci": [
+    "h4g3",
+    "g1f1",
+    "f8f3",
+    "d1f3",
+    "g3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f3c9448738",
+   "nombre": "Juegan Blancas",
+   "fen": "r6r/2p2pk1/p2p3p/np2p1nR/4P1P1/2PP1q2/PPB5/1K3Q1R w - - 0 26",
+   "solucionUci": [
+    "h5g5",
+    "h6g5",
+    "f1f3",
+    "h8h1",
+    "f3h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f3542a5188",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/1p3Rp1/p3q3/3pR3/2bP3P/2P5/5PP1/6K1 w - - 0 39",
+   "solucionUci": [
+    "f7f8",
+    "g8f8",
+    "e5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9c4998a101",
+   "nombre": "Juegan Negras",
+   "fen": "4r3/1p3p1k/p4qp1/P6p/4R3/2P1Q1R1/1P4K1/8 b - - 0 42",
+   "solucionUci": [
+    "f6c6",
+    "g3f3",
+    "e8e4",
+    "f3f7",
+    "h7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c740772de0",
+   "nombre": "Juegan Blancas",
+   "fen": "2r1kbnr/5ppp/p1n5/1p1B1b2/3q4/8/PPP2PPP/R1BQ1RK1 w k - 0 13",
+   "solucionUci": [
+    "d5c6",
+    "c8c6",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e6e59c6b5f",
+   "nombre": "Juegan Negras",
+   "fen": "8/1p3pkp/1p3bp1/4N3/2Q5/4R2P/5PPK/2q5 b - - 0 28",
+   "solucionUci": [
+    "f6e5",
+    "e3e5",
+    "c1c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ceff768102",
+   "nombre": "Juegan Blancas",
+   "fen": "8/pp3p2/1b4k1/1R4p1/3r1p2/P6P/4rPP1/3R1NK1 w - - 0 30",
+   "solucionUci": [
+    "b5b6",
+    "a7b6",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_00046a5100",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1r2/1b3p1k/p4bpp/8/4p1N1/2q1P2Q/P5PP/1B3RK1 w - - 0 33",
+   "solucionUci": [
+    "h3h6",
+    "h7g8",
+    "g4f6",
+    "c3f6",
+    "f1f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_40197fc728",
+   "nombre": "Juegan Blancas",
+   "fen": "4r1k1/1pp2pp1/3b1n1p/R3pQ1N/1P2q3/2P1B2P/5PP1/6K1 w - - 0 26",
+   "solucionUci": [
+    "h5f6",
+    "g7f6",
+    "f5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_79e48b1a05",
+   "nombre": "Juegan Negras",
+   "fen": "r2R4/1p3pkp/p1p1b1p1/8/2P5/1PN3PB/P3Pn1P/5RK1 b - - 0 18",
+   "solucionUci": [
+    "f2h3",
+    "g1g2",
+    "a8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e3a0c80961",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqk2r/1p1n1Npp/p1pbpn2/8/3PpB2/2N5/PPP1QPPP/2KR1B1R b kq - 0 9",
+   "solucionUci": [
+    "d6f4",
+    "c1b1",
+    "e8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7e3b43dd07",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b4k/pp6/4p2n/4q1p1/2pP2P1/2P4R/PPB3KP/8 w - - 0 28",
+   "solucionUci": [
+    "h3h6",
+    "h8g8",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a088f59d74",
+   "nombre": "Juegan Negras",
+   "fen": "2r2rk1/4bppp/2b5/3BpP2/3p1n1P/1P5Q/PBPP2P1/R4RK1 b - - 0 20",
+   "solucionUci": [
+    "f4h3",
+    "g2h3",
+    "c6d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b2f4fb19c3",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/1p4N1/2pp4/8/p2bP3/6P1/P3K3/1n2R3 b - - 0 42",
+   "solucionUci": [
+    "b1c3",
+    "e2d3",
+    "d4g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3a4930d5a2",
+   "nombre": "Juegan Negras",
+   "fen": "r1b2rk1/ppqpbppp/8/3PQ3/2Bn4/5N2/PP3PPP/R1BR2K1 b - - 0 12",
+   "solucionUci": [
+    "d4f3",
+    "g2f3",
+    "c7e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_073989d5d6",
+   "nombre": "Juegan Negras",
+   "fen": "3r2k1/ppq2ppb/1np1p2p/2P5/8/1P2QBPP/PB5N/3R2K1 b - - 0 24",
+   "solucionUci": [
+    "c7g3",
+    "g1h1",
+    "d8d1",
+    "f3d1",
+    "g3e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3c7d089da0",
+   "nombre": "Juegan Negras",
+   "fen": "2r3k1/1p4pp/8/p7/2pP3q/P2R1P1P/1PQ1RP2/7K b - - 0 26",
+   "solucionUci": [
+    "h4h3",
+    "h1g1",
+    "c4d3",
+    "c2c8",
+    "h3c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_61c6c2b2e0",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqr1k1/pp3pp1/3N1n1p/3p4/3n4/1P2P3/PB2BPPP/R2Q1RK1 b - - 0 13",
+   "solucionUci": [
+    "d4e2",
+    "d1e2",
+    "d8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8b7041aebb",
+   "nombre": "Juegan Blancas",
+   "fen": "rn3qk1/ppp2rbp/3pP1p1/3Q2B1/4b3/8/PPP2PPP/R4RK1 w - - 0 13",
+   "solucionUci": [
+    "e6f7",
+    "f8f7",
+    "d5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_79a0729871",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/6p1/1Q2p2p/5p2/4pPqP/P1P1r1P1/1P2R1K1/8 w - - 0 41",
+   "solucionUci": [
+    "b6d8",
+    "g8h7",
+    "e2e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_668ccd7333",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/1b4pq/p1p1p3/3p3B/P1pP4/2P3Pn/1P4KN/R1Q4R b - - 0 32",
+   "solucionUci": [
+    "f8f2",
+    "g2h3",
+    "h7h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2830a19544",
+   "nombre": "Juegan Negras",
+   "fen": "r5k1/pB1q1rp1/1p1ppbQp/8/2PB1P2/1P1P2P1/P6P/R4RK1 b - - 0 20",
+   "solucionUci": [
+    "f6d4",
+    "g1g2",
+    "d7b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_404b7b6e50",
+   "nombre": "Juegan Blancas",
+   "fen": "r3kb1r/pp3ppp/4p3/2np4/5q2/2PB2QP/PP1N1PP1/R3K2R w KQkq - 0 16",
+   "solucionUci": [
+    "d3b5",
+    "e8d8",
+    "g3f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_043c3d1241",
+   "nombre": "Juegan Blancas",
+   "fen": "r1r3k1/5p1p/6p1/p2p1p2/8/1Pq4P/P1Q1R1P1/4R2K w - - 0 25",
+   "solucionUci": [
+    "e2e8",
+    "g8g7",
+    "c2c3",
+    "c8c3",
+    "e8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c5b7869406",
+   "nombre": "Juegan Blancas",
+   "fen": "rn3rk1/2R5/p4Ppp/1p6/3p3N/8/bP4PP/5RK1 w - - 0 23",
+   "solucionUci": [
+    "c7g7",
+    "g8h8",
+    "h4g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_74ddd85a09",
+   "nombre": "Juegan Blancas",
+   "fen": "4r1k1/1pqb2p1/2p2pNp/2Pp1P2/pR1PrR1P/P3n1P1/5Q1K/2B5 w - - 0 40",
+   "solucionUci": [
+    "f4e4",
+    "e8e4",
+    "c1e3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2218cafd25",
+   "nombre": "Juegan Negras",
+   "fen": "8/pkp5/1p6/n1r1R2p/P7/2P1R3/6KP/8 b - - 3 35",
+   "solucionUci": [
+    "a5c4",
+    "e5c5",
+    "c4e3",
+    "g2f3",
+    "b6c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c7366b1f3f",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/pp3pp1/2p4p/3p4/3P1q2/P3rN2/1P1Q1RP1/4R1K1 b - - 1 30",
+   "solucionUci": [
+    "e3e1",
+    "f3e1",
+    "f4d2",
+    "f2d2",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_21055dbec6",
+   "nombre": "Juegan Negras",
+   "fen": "3B2k1/p4p1p/3Qb1p1/1p1B4/8/P3P1P1/1Pq2P1P/6K1 b - - 0 25",
+   "solucionUci": [
+    "c2d1",
+    "g1g2",
+    "e6d5",
+    "d6d5",
+    "d1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_58ae61e31a",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/1p3N2/1n2k3/2K3P1/8/8/8 b - - 0 42",
+   "solucionUci": [
+    "b5d6",
+    "c4b3",
+    "e5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f9ba687160",
+   "nombre": "Juegan Negras",
+   "fen": "4Q3/pp3Npk/2p3p1/3n4/3P1r2/7P/Pq3PP1/3R2K1 b - - 0 32",
+   "solucionUci": [
+    "b2f2",
+    "g1h1",
+    "f4f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e85c43f5e9",
+   "nombre": "Juegan Negras",
+   "fen": "1R6/R6p/6pk/p1P2p2/P2P1P1q/2b2Q2/2B3PP/6K1 b - - 0 32",
+   "solucionUci": [
+    "h4e1",
+    "f3f1",
+    "c3d4",
+    "g1h1",
+    "e1f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5a2f875031",
+   "nombre": "Juegan Blancas",
+   "fen": "r4b1k/p1q3pp/5nr1/1p1b2n1/2pP1P1N/2P4Q/PP5P/R1B2RK1 w - - 0 26",
+   "solucionUci": [
+    "h4g6",
+    "h8g8",
+    "f4g5",
+    "h7g6",
+    "g5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_83eadf72b6",
+   "nombre": "Juegan Negras",
+   "fen": "7k/ppp2Qp1/7p/2P2pq1/4n2N/5BPP/PP3R1K/8 b - - 0 30",
+   "solucionUci": [
+    "g5g3",
+    "h2h1",
+    "e4f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d3e9182908",
+   "nombre": "Juegan Negras",
+   "fen": "2krr3/pp3ppp/2pQ1n2/2np2B1/8/1B1P1P2/PPP2P1P/RN2R1K1 b - - 0 15",
+   "solucionUci": [
+    "e8e1",
+    "g1g2",
+    "d8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_858cdd78a4",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/n2b3p/pp2p1p1/3pP1q1/P2P1N2/1P3r2/5RPP/R2Q2K1 b - - 0 26",
+   "solucionUci": [
+    "f3f2",
+    "g1f2",
+    "g5f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a17002a350",
+   "nombre": "Juegan Blancas",
+   "fen": "7r/ppk3r1/2pb1P2/6P1/4B2P/2P4K/P7/3bR3 w - - 0 42",
+   "solucionUci": [
+    "f6g7",
+    "h8g8",
+    "e1d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_567b433438",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1rk1/pp2pp1p/1np5/2q1b2p/7Q/1PB2P2/1KPN1P2/3R1B2 w - - 0 20",
+   "solucionUci": [
+    "h4g5",
+    "g8h8",
+    "c3e5",
+    "f7f6",
+    "e5f6",
+    "f8f6",
+    "g5c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d8e83fc307",
+   "nombre": "Juegan Blancas",
+   "fen": "8/3r2kp/6p1/5p2/3q4/2Q2R2/1P3PKP/8 w - - 6 36",
+   "solucionUci": [
+    "f3d3",
+    "d4c3",
+    "d3d7",
+    "g7f6",
+    "b2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_052b52b378",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/5p2/2q3p1/p3p2p/5Q1P/1Pr2PP1/P2R2K1/8 w - - 0 36",
+   "solucionUci": [
+    "d2d8",
+    "g8g7",
+    "f4e5",
+    "c6f6",
+    "d8g8",
+    "g7g8",
+    "e5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_82c0858154",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/5Rp1/4p1k1/6r1/4PK2/5P2/8 b - - 0 42",
+   "solucionUci": [
+    "e5e4",
+    "f3e2",
+    "g5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8a4fa14a29",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qk1nr/1pp2p1p/p1np2p1/8/2Pb4/2N2BB1/PP3PPP/R2QK2R w KQkq - 0 12",
+   "solucionUci": [
+    "f3c6",
+    "b7c6",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9ba8ab1199",
+   "nombre": "Juegan Blancas",
+   "fen": "2rq1rk1/p4pp1/1p3p1p/8/8/PQ2PN2/3R1PPP/5bK1 w - - 0 21",
+   "solucionUci": [
+    "d2d8",
+    "f8d8",
+    "g1f1",
+    "c8c1",
+    "f1e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_59ea1fd872",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/6pp/3bq3/Q4p2/4p3/4P1P1/5P1P/1r1R2K1 w - - 0 33",
+   "solucionUci": [
+    "a5d8",
+    "d6f8",
+    "d1b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f6f01b33e4",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/4bppp/8/p1Nn4/8/P3B3/1PP2PPP/R3R1K1 b - - 0 19",
+   "solucionUci": [
+    "d5e3",
+    "e1e3",
+    "e7c5",
+    "e3e8",
+    "a8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dc5e18b3cb",
+   "nombre": "Juegan Negras",
+   "fen": "1rr3k1/5p2/1RNqp1p1/p2p1n1p/P2P1P2/2PQ3P/3N2P1/1R4K1 b - - 0 22",
+   "solucionUci": [
+    "b8b6",
+    "b1b6",
+    "c8c6",
+    "b6c6",
+    "d6c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f181141d9a",
+   "nombre": "Juegan Negras",
+   "fen": "rn3rk1/p6p/1pp1pppB/2bnP3/3p2P1/3P3P/PPPQ1P2/R3K2R b KQ - 1 16",
+   "solucionUci": [
+    "c5b4",
+    "h6f8",
+    "b4d2",
+    "e1d2",
+    "g8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65ee26ea6b",
+   "nombre": "Juegan Negras",
+   "fen": "r2kbq2/pp3p2/4p1Rp/3PQ3/8/8/P1P3PP/5RK1 b - - 0 25",
+   "solucionUci": [
+    "f8c5",
+    "g1h1",
+    "f7g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6a8541a18b",
+   "nombre": "Juegan Negras",
+   "fen": "rn2k2r/ppq2ppp/2pbpnN1/8/8/P1NP4/1PPBBPPP/R2Q1RK1 b kq - 0 11",
+   "solucionUci": [
+    "d6h2",
+    "g1h1",
+    "h7g6",
+    "g2g3",
+    "h2g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_45a210b74e",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/R4p2/6p1/4P3/8/5BP1/r4r2/5RK1 b - - 0 31",
+   "solucionUci": [
+    "f2f1",
+    "g1f1",
+    "a2a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_da4cd9fbcd",
+   "nombre": "Juegan Negras",
+   "fen": "r2r4/4ppkp/p1n3p1/2p1q1P1/2P3B1/7P/PP1Q1P2/2KRR3 b - - 2 21",
+   "solucionUci": [
+    "d8d2",
+    "e1e5",
+    "d2d1",
+    "c1d1",
+    "c6e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_64649df2b4",
+   "nombre": "Juegan Negras",
+   "fen": "3q1Bk1/3r1ppp/p3p3/1pn5/8/8/PPP2PPP/R2Q1RK1 b - - 0 18",
+   "solucionUci": [
+    "d7d1",
+    "a1d1",
+    "d8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_79084ea3cb",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/2R3b1/1Q4p1/p4q1p/P3p3/4P3/1r3PPP/5RK1 w - - 0 29",
+   "solucionUci": [
+    "c7g7",
+    "g8g7",
+    "b6b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_94d4cffcd2",
+   "nombre": "Juegan Blancas",
+   "fen": "7r/2k4P/4p1r1/4N3/5R2/8/7K/8 w - - 0 59",
+   "solucionUci": [
+    "f4f7",
+    "c7b6",
+    "e5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ee5a8325a9",
+   "nombre": "Juegan Blancas",
+   "fen": "5k2/4Rpp1/p2rn1P1/8/2ppN3/P7/8/3K4 w - - 0 40",
+   "solucionUci": [
+    "e7f7",
+    "f8g8",
+    "e4d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c7f0a27b3a",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqk2r/pp3ppp/5b2/2nQ4/8/2N2N2/PP2PPPP/2R1KB1R b Kkq - 0 10",
+   "solucionUci": [
+    "f6c3",
+    "c1c3",
+    "d8d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2bb66a68b9",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qk1nr/ppp2p1p/2n1b1p1/3pb3/3N1B2/3BP3/PPP2PPP/RN1QK2R w KQkq - 0 8",
+   "solucionUci": [
+    "d4c6",
+    "b7c6",
+    "f4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0e3ae789ec",
+   "nombre": "Juegan Negras",
+   "fen": "2b5/1k1Bq3/1p1r4/2p2pp1/N3p3/P1Q1P3/1P3PP1/2KR4 b - - 0 33",
+   "solucionUci": [
+    "d6d1",
+    "c1d1",
+    "e7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ceacd2e989",
+   "nombre": "Juegan Negras",
+   "fen": "B2r4/8/p5kB/7R/1p6/2p5/P1P4P/7K b - - 0 32",
+   "solucionUci": [
+    "g6h5",
+    "h6e3",
+    "d8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ea6653a3e5",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/pp3ppp/1qp2n2/3pN3/3N4/1P1P2P1/P1PQ2BP/R4K1R b - - 0 17",
+   "solucionUci": [
+    "b6d4",
+    "a1e1",
+    "e8e5",
+    "e1e5",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_610e34b27d",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/5pp1/p5qp/1p2P3/4RPPQ/1P5P/P3r3/7K w - - 0 39",
+   "solucionUci": [
+    "h4d8",
+    "g8h7",
+    "e4e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fa2ca4011c",
+   "nombre": "Juegan Blancas",
+   "fen": "r4k2/p4pp1/2pb1n1P/3p2R1/1p1P4/3Q1P2/qPP1r3/1NK4R w - - 0 23",
+   "solucionUci": [
+    "h6g7",
+    "f8e7",
+    "d3e2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_66b7d9008c",
+   "nombre": "Juegan Negras",
+   "fen": "4r3/8/2kB4/p1b2ppp/PpR1r3/4P2P/1P3PP1/2R2K2 b - - 0 31",
+   "solucionUci": [
+    "e4c4",
+    "c1c4",
+    "c6d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e61005cb03",
+   "nombre": "Juegan Negras",
+   "fen": "r1bq2kr/6bp/p5p1/1p2B3/4P3/2N5/PPPQ2PP/2KR1R2 b - - 0 18",
+   "solucionUci": [
+    "d8d2",
+    "d1d2",
+    "g7e5",
+    "d2d8",
+    "g8g7",
+    "d8h8",
+    "g7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c2dd39e269",
+   "nombre": "Juegan Negras",
+   "fen": "4K3/2qR4/p6k/1Q4p1/6P1/5P2/8/8 b - - 0 58",
+   "solucionUci": [
+    "c7c8",
+    "e8f7",
+    "a6b5",
+    "d7d6",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_af2362f1b2",
+   "nombre": "Juegan Negras",
+   "fen": "r1bqk2r/pp5p/3p1p2/2P5/1Q2PBnP/2N2p2/PPP1N3/R3KB1R b KQkq - 0 16",
+   "solucionUci": [
+    "f3f2",
+    "e1d2",
+    "d6c5",
+    "c3d5",
+    "c5b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_656c692bc3",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qr3/pp3pkp/2p3p1/1P6/P7/2nBPb2/2Q2PPP/R4RK1 w - - 0 18",
+   "solucionUci": [
+    "c2c3",
+    "g7g8",
+    "g2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_808f46ceb8",
+   "nombre": "Juegan Negras",
+   "fen": "2R2rk1/1p1n1ppb/p6p/q2pP3/3N4/1P4P1/PQ3PBP/4R1K1 b - - 0 20",
+   "solucionUci": [
+    "a5e1",
+    "g2f1",
+    "f8c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4bca005dd2",
+   "nombre": "Juegan Negras",
+   "fen": "1r3rk1/p1pbq1pp/2N2p2/2b1P3/4pP2/1P2B3/P1P1Q1PP/R4RK1 b - - 0 17",
+   "solucionUci": [
+    "c5e3",
+    "e2e3",
+    "d7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0f8f961576",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/2p2pp1/p2p4/1p1N4/3nP3/1B1P3q/PPP5/1K5R w - - 0 22",
+   "solucionUci": [
+    "d5e7",
+    "g8h7",
+    "h1h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cb4896d183",
+   "nombre": "Juegan Blancas",
+   "fen": "2kr1q1r/1pp5/p4n1p/3P2p1/Pn1p4/3Q4/2PB1PPP/RN3RK1 w - - 0 16",
+   "solucionUci": [
+    "d3f5",
+    "c8b8",
+    "d2b4",
+    "f8b4",
+    "f5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fd93b08389",
+   "nombre": "Juegan Negras",
+   "fen": "1krR4/1p3pp1/1P3n1p/p1P1b3/bq2p3/1N2B1P1/P1Q2PBP/4R1K1 b - - 0 32",
+   "solucionUci": [
+    "b4e1",
+    "g2f1",
+    "c8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c44236c6dd",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/1p3ppp/2p1pqn1/p7/PnBrP2P/2N2QP1/1P1R1P2/3R2K1 w - - 0 23",
+   "solucionUci": [
+    "f3f6",
+    "g7f6",
+    "d2d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_de471dae67",
+   "nombre": "Juegan Negras",
+   "fen": "3r1bk1/6p1/4r1np/2pB1q2/1p3P2/1P3Q1P/6P1/B2RR1K1 b - - 0 32",
+   "solucionUci": [
+    "d8d5",
+    "e1e6",
+    "d5d1",
+    "f3d1",
+    "f5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a7d2c397d1",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/pp3pb1/7P/2p3rR/3pP2Q/3Pq2P/1P6/7K w - - 0 35",
+   "solucionUci": [
+    "h6g7",
+    "h8g7",
+    "h5g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_60b03649e6",
+   "nombre": "Juegan Blancas",
+   "fen": "1r1q1k1r/pp3pp1/4p3/4nn2/3Pp3/1Q4Pp/PP1NBP1P/R1R3K1 w - - 0 19",
+   "solucionUci": [
+    "b3b4",
+    "f8g8",
+    "d4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_24f1ede650",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1rk1/pp1n1p2/2p4p/2bb1N2/B7/8/PPP2PPP/R2Q1RK1 w - - 0 16",
+   "solucionUci": [
+    "d1g4",
+    "d8g5",
+    "f5h6",
+    "g8h7",
+    "g4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dffc5ec508",
+   "nombre": "Juegan Blancas",
+   "fen": "k7/pp4p1/3b3p/3P1p2/P7/1P1n4/K2B2PP/2R1r3 w - - 0 26",
+   "solucionUci": [
+    "c1c8",
+    "d6b8",
+    "d2e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3104f01ad1",
+   "nombre": "Juegan Blancas",
+   "fen": "5k1r/1pp5/8/pPPp4/P2PpPp1/R3P1r1/4Q2q/5KR1 w - - 0 38",
+   "solucionUci": [
+    "e2h2",
+    "h8h2",
+    "g1g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1ef402a21c",
+   "nombre": "Juegan Negras",
+   "fen": "5r1k/1b2b1pp/2Q5/1pp1P3/5n2/1P1P4/1BN1N1PP/R5K1 b - - 0 26",
+   "solucionUci": [
+    "f4e2",
+    "g1h1",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6dd1baf769",
+   "nombre": "Juegan Negras",
+   "fen": "r1bq1rk1/1p2bppp/p3p3/6B1/1Q2p3/5N2/PPP1BPPP/R2R2K1 b - - 0 14",
+   "solucionUci": [
+    "d8d1",
+    "a1d1",
+    "e7b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d65d7d5707",
+   "nombre": "Juegan Blancas",
+   "fen": "5k2/2p3pp/4p3/2P5/p2P2qP/P3p1P1/1r2R2K/3Q4 w - - 0 38",
+   "solucionUci": [
+    "d1f1",
+    "f8e7",
+    "e2b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9e8c983981",
+   "nombre": "Juegan Blancas",
+   "fen": "8/1p2r1pk/p4p1p/4pP1Q/3pP1RK/1P1P1R1P/P5r1/6q1 w - - 0 37",
+   "solucionUci": [
+    "h5g6",
+    "h7h8",
+    "g4g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fce67ee643",
+   "nombre": "Juegan Negras",
+   "fen": "rn4k1/p1q2ppp/2p5/2P2p2/6n1/1B2P1P1/PPQN2P1/R3K2R b KQ - 0 17",
+   "solucionUci": [
+    "c7g3",
+    "e1d1",
+    "g4e3",
+    "d1c1",
+    "e3c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_892cfdcee6",
+   "nombre": "Juegan Blancas",
+   "fen": "r6n/1b2b2k/p1pqP2p/1pp1N3/2P5/1P1P2Q1/PN5P/5RK1 w - - 3 29",
+   "solucionUci": [
+    "f1f7",
+    "h8f7",
+    "g3g6",
+    "h7h8",
+    "e5f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a00af00729",
+   "nombre": "Juegan Blancas",
+   "fen": "2r2r1k/4Qpp1/p3p2p/3pq3/1P6/P7/5PPP/2R1R1K1 w - - 0 28",
+   "solucionUci": [
+    "e7f8",
+    "c8f8",
+    "e1e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0636eb07d7",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/p1p2pp1/7p/8/2P5/P2q4/1P3PQP/4rRK1 w - - 0 24",
+   "solucionUci": [
+    "g2a8",
+    "g8h7",
+    "f1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c264468f82",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1rk1/pp1q1pp1/2p4p/4P3/2B5/2n3Q1/P4PPP/3R2K1 w - - 0 21",
+   "solucionUci": [
+    "d1d7",
+    "d8d7",
+    "g3c3",
+    "d7d1",
+    "c4f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1bb77cc13a",
+   "nombre": "Juegan Negras",
+   "fen": "8/5pb1/6kp/R4p2/1p1R2BP/2p5/5K2/8 b - - 0 35",
+   "solucionUci": [
+    "g7d4",
+    "f2e2",
+    "f5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6c794b45f2",
+   "nombre": "Juegan Negras",
+   "fen": "B1b1r1k1/p1p2ppp/1p6/2N5/3P1B2/5KPq/PPP4R/R2Q4 b - - 0 18",
+   "solucionUci": [
+    "c8g4",
+    "f3f2",
+    "h3h2",
+    "a8g2",
+    "g4d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c19ef24e87",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/3q1p1p/p1p3p1/5b2/PP3Q2/2Pp1BP1/3R1PKP/4R3 b - - 0 33",
+   "solucionUci": [
+    "f5h3",
+    "g2g1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_82ea0f62e0",
+   "nombre": "Juegan Blancas",
+   "fen": "7k/1p4p1/4rp2/q2p1B2/p1r5/7P/P4P1P/3Q2K1 w - - 0 30",
+   "solucionUci": [
+    "d1h5",
+    "h8g8",
+    "f5e6",
+    "g8f8",
+    "h5f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_70175b1d28",
+   "nombre": "Juegan Blancas",
+   "fen": "r4k2/pQ3pp1/3q4/7p/3pP3/8/P4PPP/2rR2K1 w - - 0 26",
+   "solucionUci": [
+    "b7a8",
+    "f8e7",
+    "d1c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0d46b2abfd",
+   "nombre": "Juegan Negras",
+   "fen": "rn3rk1/p4pbp/1p1q2p1/3Pn1N1/P1p1BBQ1/N1P5/1P4PP/R4RK1 b - - 0 17",
+   "solucionUci": [
+    "d6c5",
+    "g1h1",
+    "e5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_aa23d0160c",
+   "nombre": "Juegan Blancas",
+   "fen": "4rrk1/1p1n1p1p/p1pb4/3p3p/P7/1P1BP1qP/1BPPQ1P1/4RK2 w - - 0 22",
+   "solucionUci": [
+    "d3h7",
+    "g8h7",
+    "e2h5",
+    "h7g8",
+    "h5h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_006a2d3786",
+   "nombre": "Juegan Blancas",
+   "fen": "r1kq1bnr/p5pp/2pPp3/4N3/5p2/8/PPPP2PP/R1B1KB1R w KQ - 0 14",
+   "solucionUci": [
+    "f1a6",
+    "c8b8",
+    "e5c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_51c85255cb",
+   "nombre": "Juegan Blancas",
+   "fen": "4r3/p2b1p1k/1p2q1p1/n1p1r2p/2P1N2P/1PQP1PP1/P5K1/4R2R w - - 3 27",
+   "solucionUci": [
+    "e4g5",
+    "e5g5",
+    "e1e6",
+    "e8e6",
+    "h4g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6a80a73fbd",
+   "nombre": "Juegan Negras",
+   "fen": "8/6pp/3BK3/5r2/6k1/7R/8/8 b - - 0 50",
+   "solucionUci": [
+    "f5f6",
+    "e6e7",
+    "g4h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f0b9972162",
+   "nombre": "Juegan Blancas",
+   "fen": "q2r1k2/1p3pp1/6p1/2bPr3/PpQp4/6P1/5PBP/4R1K1 w - - 0 30",
+   "solucionUci": [
+    "c4c5",
+    "f8g8",
+    "e1e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a1f4c9e98d",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/7p/6p1/3q1p2/2Q1p3/1P4P1/P6P/4R2K w - - 2 35",
+   "solucionUci": [
+    "e1d1",
+    "d5c4",
+    "d1d8",
+    "g8f7",
+    "b3c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4a2fa00b4a",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/pp1q1p2/5R2/3pP1p1/4r3/2P3Q1/PP4K1/8 w - - 0 33",
+   "solucionUci": [
+    "f6h6",
+    "h8g7",
+    "g3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ac61abd55b",
+   "nombre": "Juegan Blancas",
+   "fen": "r1r3k1/1p1b1pb1/3p2pp/3Pp3/p2qn2B/P1N5/1P1QBPPP/1R1R2K1 w - - 0 21",
+   "solucionUci": [
+    "d2d4",
+    "e5d4",
+    "c3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_368364b22c",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q3k/6np/p2p2pB/1p2pr2/6Q1/P1P2P2/B1P2P1K/6R1 w - - 0 23",
+   "solucionUci": [
+    "h6g7",
+    "h8g7",
+    "g4f5",
+    "d8h4",
+    "f5h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_546864f175",
+   "nombre": "Juegan Negras",
+   "fen": "1r4k1/2p2ppp/8/1Q6/8/2P3P1/P1q4P/K2R3R b - - 0 27",
+   "solucionUci": [
+    "c2c3",
+    "a1b1",
+    "b8b5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1ec471e103",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qr1k1/ppp2ppp/3p1b2/7b/3nN3/5NPP/PP3PB1/R2Q1RK1 w - - 0 15",
+   "solucionUci": [
+    "e4f6",
+    "d8f6",
+    "d1d4",
+    "f6d4",
+    "f3d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e1eda7b92c",
+   "nombre": "Juegan Blancas",
+   "fen": "r3qrk1/p1p1Bp1p/2bp1p2/2b5/4P3/2P5/PP3PPP/R2QK2R w KQ - 0 14",
+   "solucionUci": [
+    "d1g4",
+    "g8h8",
+    "e7f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_821aead260",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/ppp2p1n/3p3R/2b1p1q1/2PnP3/P1N3B1/1PPQNPP1/R3K3 b Q - 0 14",
+   "solucionUci": [
+    "d4c2",
+    "d2c2",
+    "g5h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f0f9a8378f",
+   "nombre": "Juegan Blancas",
+   "fen": "1r4k1/p1q3pp/8/2pn2Q1/3p4/1P1P4/1NP3Pb/2B1rR1K w - - 0 26",
+   "solucionUci": [
+    "g5d5",
+    "g8h8",
+    "f1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_bf75c2d7ca",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bq1rk1/pp2ppbp/2n3p1/8/3Np3/2N1P3/PPPQB1PP/1K1R3R w - - 0 12",
+   "solucionUci": [
+    "d4c6",
+    "d8d2",
+    "c6e7",
+    "g8h8",
+    "d1d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2d87a6cff4",
+   "nombre": "Juegan Negras",
+   "fen": "8/5k2/4p3/pp1Bp1P1/5P2/P3K3/8/8 b - - 0 37",
+   "solucionUci": [
+    "e5f4",
+    "e3f4",
+    "e6d5",
+    "f4e5",
+    "b5b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_967900f8c8",
+   "nombre": "Juegan Negras",
+   "fen": "R1r3k1/5pp1/1p4qp/3p4/3P4/4P1P1/3Q1PP1/1R4K1 b - - 0 24",
+   "solucionUci": [
+    "g6b1",
+    "g1h2",
+    "c8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8a59bb8db9",
+   "nombre": "Juegan Blancas",
+   "fen": "8/7k/4p1p1/3pbq2/1p4N1/1P3QP1/P5K1/8 w - - 0 41",
+   "solucionUci": [
+    "f3f5",
+    "g6f5",
+    "g4e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2cdcbfa601",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/pQ3p1p/1q2p1p1/8/8/P3bB1P/1P4P1/1r1R3K w - - 0 26",
+   "solucionUci": [
+    "b7c8",
+    "g8g7",
+    "d1b1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a67527e920",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/1p4pp/4p3/1r1p2P1/p1pPr2P/P1q5/1P4R1/1Q3BK1 w - - 0 35",
+   "solucionUci": [
+    "b1e4",
+    "d5e4",
+    "b2c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9bfa1a6ce4",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/5ppp/p2pqn2/1p2p1B1/8/1P3Q2/1P3PPP/1K1Rr3 w - - 0 25",
+   "solucionUci": [
+    "f3a8",
+    "f6e8",
+    "d1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ffaaf450a8",
+   "nombre": "Juegan Blancas",
+   "fen": "4r3/pkp2ppp/2Nr4/3b4/3R4/1P5P/P2R2P1/2K5 w - - 0 29",
+   "solucionUci": [
+    "c6a5",
+    "b7b6",
+    "d4d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ac6ea2759b",
+   "nombre": "Juegan Negras",
+   "fen": "r1b2rk1/pp3p2/2N2p1p/qB1p4/8/4P3/P4PPP/2RQ1K1R b - - 0 16",
+   "solucionUci": [
+    "a5b5",
+    "f1g1",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_69ba8269cd",
+   "nombre": "Juegan Negras",
+   "fen": "r7/ppN1k1p1/2R4p/8/5P2/8/3K1PPP/8 b - - 0 27",
+   "solucionUci": [
+    "a8d8",
+    "d2c3",
+    "b7c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fe34eea032",
+   "nombre": "Juegan Blancas",
+   "fen": "r3r1k1/6p1/p4p1p/1p1p1P2/2p1B3/P1P1qP2/1P4PP/R3R2K w - - 0 29",
+   "solucionUci": [
+    "e4d5",
+    "g8f8",
+    "e1e3",
+    "e8e3",
+    "d5a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fb7d3d8b5f",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bq1rk1/pp3ppp/4p3/3pP3/1b6/2NBP1n1/PPQ2PPP/R3K2R w KQ - 0 13",
+   "solucionUci": [
+    "d3h7",
+    "g8h8",
+    "h2g3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c7ec716bcd",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/5Rbp/3q2p1/p2pP3/3Q4/P7/1P4PP/7K w - - 0 31",
+   "solucionUci": [
+    "f7g7",
+    "g8g7",
+    "e5d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_960e964152",
+   "nombre": "Juegan Negras",
+   "fen": "3R1r1k/3P2pp/2B2q2/3Q4/2p2p2/1b5P/6P1/R6K b - - 0 38",
+   "solucionUci": [
+    "f6a1",
+    "h1h2",
+    "f8d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8764da0b75",
+   "nombre": "Juegan Negras",
+   "fen": "1k1r3r/ppp5/3b1p2/1P6/P1PNP2P/8/5P2/R4RK1 b - - 0 26",
+   "solucionUci": [
+    "d8g8",
+    "g1h1",
+    "h8h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e63be9709c",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/1pp2pqp/p1nB4/8/8/1P3Q1P/P1P2PP1/R5K1 b - - 0 24",
+   "solucionUci": [
+    "g7a1",
+    "g1h2",
+    "c7d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_79ee72b9bf",
+   "nombre": "Juegan Negras",
+   "fen": "8/1p1r2pp/p3k3/4p3/3bp1P1/PP2Bb1P/3R1P1K/1R6 b - - 2 29",
+   "solucionUci": [
+    "d4e3",
+    "d2d7",
+    "e3f4",
+    "h2g1",
+    "e6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b3f18a2f4f",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bk1b1r/pp3Q2/2n2p2/3Np2p/2B3q1/3P2P1/PPP4P/R3K3 w Q - 0 23",
+   "solucionUci": [
+    "f7c7",
+    "d8e8",
+    "d5f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_810634f0be",
+   "nombre": "Juegan Negras",
+   "fen": "2r3k1/7p/p1p1p1p1/1p1pP3/1Pr5/P1R1RP1P/2P2KP1/8 b - - 4 31",
+   "solucionUci": [
+    "d5d4",
+    "c3c4",
+    "d4e3",
+    "f2e3",
+    "b5c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_daa3c590cd",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/1p2p1bp/p3N3/4P1p1/4b3/6PP/PP1r1B2/2R3K1 w - - 0 27",
+   "solucionUci": [
+    "c1c8",
+    "g8f7",
+    "e6g5",
+    "f7g6",
+    "g5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9f1f50dc9d",
+   "nombre": "Juegan Negras",
+   "fen": "3r2k1/7p/p5p1/1PpPP3/8/P3R2P/8/3K4 b - - 0 33",
+   "solucionUci": [
+    "d8d5",
+    "d1c1",
+    "a6b5",
+    "e5e6",
+    "g8f8",
+    "e6e7",
+    "f8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5051a371ad",
+   "nombre": "Juegan Blancas",
+   "fen": "5r2/6kp/1rp3p1/2p1p3/3BP3/1P1b3P/4R1P1/1B4K1 w - - 0 36",
+   "solucionUci": [
+    "d4e5",
+    "g7h6",
+    "b1d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_431f26a722",
+   "nombre": "Juegan Negras",
+   "fen": "8/3R1p2/P1kp1Pp1/7p/3BP3/2bP4/r5PP/5RK1 b - - 0 39",
+   "solucionUci": [
+    "c3d4",
+    "g1h1",
+    "c6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_74300949ea",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/pp1n2p1/4b2p/3p2rQ/4p1B1/1Pq1P3/P1PN2P1/1R2K2R w K - 0 23",
+   "solucionUci": [
+    "g4e6",
+    "g8h8",
+    "h5g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_832153d332",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/2q2p1p/Q6n/8/2P1p3/pP6/P7/2KR4 w - - 0 29",
+   "solucionUci": [
+    "d1g1",
+    "g8f8",
+    "a6h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dfba56f7ef",
+   "nombre": "Juegan Blancas",
+   "fen": "4r2k/2q4r/1b1p1p2/1p1P3Q/pP6/P5P1/1B3P1P/6K1 w - - 0 36",
+   "solucionUci": [
+    "b2f6",
+    "h8g8",
+    "h5e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_67962e81c7",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/1Bq2pb1/1B4bp/4P3/3Q4/1Pr5/P1P3PP/R4RK1 b - - 4 23",
+   "solucionUci": [
+    "g7e5",
+    "b6c7",
+    "e5d4",
+    "g1h1",
+    "c3c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a0022027ba",
+   "nombre": "Juegan Negras",
+   "fen": "2r1R1k1/ppq2pp1/2n4p/8/2Qr2B1/7P/PP3PP1/2R3K1 b - - 3 23",
+   "solucionUci": [
+    "c8e8",
+    "c4d4",
+    "e8e1",
+    "c1e1",
+    "c6d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0f554960c5",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/pp3pp1/4p1N1/7q/6QP/1P1p2P1/P1r1p2K/4R3 w - - 0 31",
+   "solucionUci": [
+    "g6e7",
+    "g8h7",
+    "g4h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9b4cf109c7",
+   "nombre": "Juegan Negras",
+   "fen": "r1b2rk1/ppp1qpb1/7p/6p1/1nP1Q3/P1N1PNP1/1P2BPP1/3RK2R b K - 0 16",
+   "solucionUci": [
+    "g7c3",
+    "b2c3",
+    "e7e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9b0ef38a5e",
+   "nombre": "Juegan Blancas",
+   "fen": "6r1/pp5k/2n5/5Rr1/2P5/8/P1P2K2/4R3 w - - 0 37",
+   "solucionUci": [
+    "e1h1",
+    "h7g6",
+    "f5g5",
+    "g6g5",
+    "h1g1",
+    "g5f6",
+    "g1g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_63b937d8d0",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/6p1/4rq2/1pp2r1R/5P2/1P1P1QP1/P5K1/7R b - - 0 39",
+   "solucionUci": [
+    "f6b2",
+    "g2h3",
+    "f5h5",
+    "f3h5",
+    "e6h6",
+    "h5h6",
+    "g7h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_70922ce71d",
+   "nombre": "Juegan Negras",
+   "fen": "r5k1/p4Rpp/1p1Bp3/3pPb2/8/P5QP/1q3PP1/2R3K1 b - - 0 28",
+   "solucionUci": [
+    "b2c1",
+    "g1h2",
+    "g8f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_db1cf3d9a6",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2k1/5pp1/pbpp1n1p/1p6/4rP1B/3Q4/PP2BP1P/3R1RK1 w - - 0 20",
+   "solucionUci": [
+    "h4f6",
+    "d8f6",
+    "d3e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_be7016f9b9",
+   "nombre": "Juegan Blancas",
+   "fen": "7r/3nrpp1/p6p/1k1n4/3R4/2P2P2/P1PK1P1P/4R3 w - - 0 27",
+   "solucionUci": [
+    "d4d5",
+    "b5c6",
+    "e1e7",
+    "c6d5",
+    "e7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d029dddc48",
+   "nombre": "Juegan Blancas",
+   "fen": "r2r2k1/5p1p/5Rp1/4p3/2b1P3/1P3P1P/1qP1Q1P1/3R3K w - - 0 24",
+   "solucionUci": [
+    "d1d8",
+    "a8d8",
+    "e2c4",
+    "b2c1",
+    "h1h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_552ee223c0",
+   "nombre": "Juegan Negras",
+   "fen": "k6r/p7/2p2p2/Qpq1pn1p/2P3P1/3P4/6PP/R4R1K b - - 0 30",
+   "solucionUci": [
+    "f5g3",
+    "h2g3",
+    "h5g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b9fe486369",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qk1nr/ppp2ppp/2np4/8/2Pb4/2N2B1P/PP3PP1/R1BQK2R w KQkq - 0 10",
+   "solucionUci": [
+    "f3c6",
+    "b7c6",
+    "d1d4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2dadf18933",
+   "nombre": "Juegan Negras",
+   "fen": "rqr3k1/p4ppp/3Npn2/2n5/8/P3Pb1P/1P1BBPP1/R2Q1RK1 b - - 0 17",
+   "solucionUci": [
+    "f3e2",
+    "d1e2",
+    "b8d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7d3a8dee70",
+   "nombre": "Juegan Blancas",
+   "fen": "r2qr1k1/p4ppp/2p2n2/1p2Q3/2b5/1B1P3P/PB3PP1/3R1RK1 w - - 0 17",
+   "solucionUci": [
+    "d3c4",
+    "e8e5",
+    "d1d8",
+    "a8d8",
+    "b2e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_eb8f0d7959",
+   "nombre": "Juegan Blancas",
+   "fen": "r1bqk1nr/pp1np1b1/3pp1p1/6Np/3p3P/3B4/PPP2PP1/RNBQK2R w KQkq - 0 9",
+   "solucionUci": [
+    "d3g6",
+    "e8f8",
+    "g5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5192f088c7",
+   "nombre": "Juegan Blancas",
+   "fen": "1rbqk2r/1p2np1p/p5pb/2p1p3/P3N3/3P1BP1/1PPQ3P/R3K2R w KQk - 0 16",
+   "solucionUci": [
+    "e4f6",
+    "e8f8",
+    "d2h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f67b891f6e",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/p3bppp/2p3q1/2B1Pb2/2PpNP2/1P1P4/P3Q1PP/R4RK1 b - - 0 20",
+   "solucionUci": [
+    "f5e4",
+    "d3e4",
+    "e7c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a4cedff6d6",
+   "nombre": "Juegan Blancas",
+   "fen": "4k2r/2pNbppp/5n2/4Q3/1BPpq3/8/5PPP/5BK1 w k - 0 28",
+   "solucionUci": [
+    "d7f6",
+    "g7f6",
+    "e5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5039763917",
+   "nombre": "Juegan Negras",
+   "fen": "r3k1nr/pppb1pp1/3b2q1/3PN2p/1P6/PB2P2P/1B1Q2P1/R3K2R b KQkq - 0 16",
+   "solucionUci": [
+    "g6g3",
+    "d2f2",
+    "d6e5",
+    "b2e5",
+    "g3e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2e9f9bfd2c",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/p2b3p/n1pN2p1/2Q2P2/8/P3n1NP/6BK/5R2 b - - 0 32",
+   "solucionUci": [
+    "e3f1",
+    "g3f1",
+    "a6c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cf71dcc563",
+   "nombre": "Juegan Blancas",
+   "fen": "r3k1r1/1p1n1ppp/p3p1b1/P2pP1q1/2pPn1Q1/2P1PB2/1P1N2PP/R1B2RK1 w q - 4 19",
+   "solucionUci": [
+    "d2e4",
+    "g5g4",
+    "e4d6",
+    "e8e7",
+    "f3g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_612a0766ab",
+   "nombre": "Juegan Blancas",
+   "fen": "7r/ppp1kbpp/2n2n2/8/5N2/1BP1BP2/P5PP/3rR1K1 w - - 0 19",
+   "solucionUci": [
+    "e3c5",
+    "e7d7",
+    "e1d1",
+    "d7c8",
+    "b3f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_13fb19bf0b",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/ppp2pp1/5q2/3Pr2p/P7/B1PB1P2/2Q2P1P/R4RK1 b - - 0 20",
+   "solucionUci": [
+    "e5g5",
+    "g1h1",
+    "f6f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ec7b673376",
+   "nombre": "Juegan Negras",
+   "fen": "8/6p1/4Rp1p/p2k4/2rP1P2/PKP4P/6P1/8 b - - 0 36",
+   "solucionUci": [
+    "a5a4",
+    "b3c2",
+    "d5e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_deb45c8445",
+   "nombre": "Juegan Blancas",
+   "fen": "rnbq1rk1/pppn2pp/8/3pb3/8/2NQPN2/PPP1BPPP/R3K2R w KQ - 0 11",
+   "solucionUci": [
+    "d3d5",
+    "g8h8",
+    "f3e5",
+    "d7e5",
+    "d5e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a4f9c5e721",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/1p4p1/4p1pp/1Q5P/3q1N2/r3r3/6RK/5R2 w - - 0 40",
+   "solucionUci": [
+    "b5e8",
+    "g8h7",
+    "h5g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5e18d13496",
+   "nombre": "Juegan Blancas",
+   "fen": "r2r2k1/1p3ppp/2p1p3/p3P3/4P1n1/qP6/P2NQP1P/RR4K1 w - - 0 18",
+   "solucionUci": [
+    "d2c4",
+    "a3c5",
+    "e2g4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d3fd534da7",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2k1/1rq1bppp/8/p2bp3/8/P1N1B3/2Q2PPP/2R2RK1 w - - 2 24",
+   "solucionUci": [
+    "c3d5",
+    "c7c2",
+    "d5e7",
+    "b7e7",
+    "c1c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9b129f9405",
+   "nombre": "Juegan Blancas",
+   "fen": "4k2r/1r6/3p4/p1pPpq2/PpP2p2/1P3P2/1K4p1/5Q1R w k - 0 47",
+   "solucionUci": [
+    "h1h8",
+    "e8f7",
+    "f1g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2b5a75536c",
+   "nombre": "Juegan Negras",
+   "fen": "rnb1r1k1/ppp2ppp/3q4/3n4/8/3Q1N2/PPPPBPPP/R1B2RK1 b - - 1 10",
+   "solucionUci": [
+    "d5f4",
+    "d3d6",
+    "f4e2",
+    "g1h1",
+    "c7d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_62e4fbe939",
+   "nombre": "Juegan Blancas",
+   "fen": "3r2Q1/6p1/p3Rq1p/1pk5/3r4/1B3P1P/PP4P1/6K1 w - - 6 38",
+   "solucionUci": [
+    "e6f6",
+    "d8g8",
+    "f6f5",
+    "c5c6",
+    "b3g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9a1c21d095",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b4k/1pp3pp/1p1p2n1/5q1Q/7B/8/PP4PP/4R1K1 w - - 0 25",
+   "solucionUci": [
+    "e1e8",
+    "g6f8",
+    "h5f5",
+    "c8f5",
+    "e8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_277576e4e8",
+   "nombre": "Juegan Negras",
+   "fen": "r1bq1rk1/1p4bp/3p2p1/p1pPnP2/2P5/1P1B1N2/P4PPP/1RBQR1K1 b - - 0 16",
+   "solucionUci": [
+    "e5d3",
+    "d1d3",
+    "c8f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_58c73bdb02",
+   "nombre": "Juegan Negras",
+   "fen": "8/1pp2pk1/p7/P2Q1Pq1/1P2r3/2P1r2P/5R1K/6R1 b - - 1 33",
+   "solucionUci": [
+    "e3h3",
+    "h2h3",
+    "e4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0cc1ffacf6",
+   "nombre": "Juegan Negras",
+   "fen": "2r2rk1/p4q1p/b1nNR1p1/P2Q4/1P6/2P5/5PPP/R5K1 b - - 2 25",
+   "solucionUci": [
+    "f7f2",
+    "g1h1",
+    "f2f1",
+    "a1f1",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_89af0a9464",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1rk1/p1p2pb1/1p2p1p1/5nNN/3P4/4P2Q/PPP4P/R3K2R w KQ - 1 18",
+   "solucionUci": [
+    "h5f6",
+    "g7f6",
+    "h3h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a17906187d",
+   "nombre": "Juegan Negras",
+   "fen": "8/7p/1N2k3/2Kb1pp1/p7/4P1P1/5P1P/8 b - - 3 43",
+   "solucionUci": [
+    "a4a3",
+    "b6d5",
+    "a3a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_185295b552",
+   "nombre": "Juegan Blancas",
+   "fen": "8/p5p1/Pkb2p1p/4pB2/1K3P1P/2R1P1P1/6r1/8 w - - 1 42",
+   "solucionUci": [
+    "c3c6",
+    "b6c6",
+    "f5e4",
+    "c6b6",
+    "e4g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2428e7a07c",
+   "nombre": "Juegan Negras",
+   "fen": "8/4bpk1/4p3/1p2P1N1/p2P2Pn/P1B1Q1K1/1Pq5/8 b - - 0 52",
+   "solucionUci": [
+    "c2g2",
+    "g3h4",
+    "g2h2",
+    "e3h3",
+    "e7g5",
+    "h4g5",
+    "h2h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_bc6e33f3bc",
+   "nombre": "Juegan Blancas",
+   "fen": "4rr1k/2p2pp1/2p2Nnp/p3P2Q/8/3P3R/Pq4PP/4R1K1 w - - 2 21",
+   "solucionUci": [
+    "h5h6",
+    "g7h6",
+    "h3h6",
+    "h8g7",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7741b6b882",
+   "nombre": "Juegan Blancas",
+   "fen": "3Q4/5rkp/3p2p1/2p5/1p1qPp2/1P1P1P1R/r1P1K1P1/2R5 w - - 5 32",
+   "solucionUci": [
+    "h3h7",
+    "g7h7",
+    "c1h1",
+    "h7g7",
+    "d8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f5c6a4d347",
+   "nombre": "Juegan Blancas",
+   "fen": "R2r2k1/5ppp/2Q5/6q1/3P4/P6P/r4P2/5n1K w - - 0 27",
+   "solucionUci": [
+    "c6e8",
+    "d8e8",
+    "a8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3a55412dfd",
+   "nombre": "Juegan Negras",
+   "fen": "8/1p4pk/p5np/2P5/5r2/P2Q1pNq/5P1P/4R1RK b - - 7 33",
+   "solucionUci": [
+    "h3h2",
+    "h1h2",
+    "f4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3d6e88dabf",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/pQ2np1p/3b2pB/8/5P1P/6P1/PPr2q2/4R2K w - - 2 30",
+   "solucionUci": [
+    "b7a8",
+    "c2c8",
+    "a8c8",
+    "e7c8",
+    "e1e8",
+    "d6f8",
+    "e8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f499ed28c2",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/5ppp/1p1r3q/4p3/p7/P3b1P1/1PQ3PN/N3RR1K b - - 5 26",
+   "solucionUci": [
+    "h6h2",
+    "h1h2",
+    "d6h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_520a6306a8",
+   "nombre": "Juegan Negras",
+   "fen": "3r3r/pk3p2/1p2p3/6Q1/8/P1P5/4nPPP/R4R1K b - - 0 22",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "d8h8",
+    "g5h4",
+    "h8h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_eabf3c3feb",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/3pQp1p/p4Pp1/1p1q4/8/1Pr4P/P3R1P1/4R2K w - - 5 35",
+   "solucionUci": [
+    "e7f8",
+    "g8f8",
+    "e2e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_88b55e00fa",
+   "nombre": "Juegan Blancas",
+   "fen": "8/1b1p2k1/3qn3/6r1/1p5N/4Q2P/1P3PP1/4R2K w - - 13 34",
+   "solucionUci": [
+    "e3g5",
+    "e6g5",
+    "h4f5",
+    "g7f6",
+    "f5d6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_158cad84e8",
+   "nombre": "Juegan Blancas",
+   "fen": "2k1r3/ppn2ppp/2p5/q7/3Q4/1P6/P2R1PPP/5bK1 w - - 0 24",
+   "solucionUci": [
+    "d4d7",
+    "c8b8",
+    "d7d8",
+    "e8d8",
+    "d2d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_73a18b541b",
+   "nombre": "Juegan Blancas",
+   "fen": "r5rk/p1R3pp/4p3/8/3P1N2/6QP/Pn3PPK/4q3 w - - 0 29",
+   "solucionUci": [
+    "f4g6",
+    "h7g6",
+    "g3h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_75015f3171",
+   "nombre": "Juegan Negras",
+   "fen": "r2qkb1r/p4ppp/1pP1p3/1P6/3nP3/2Q5/P4PPP/R1B1KB1R b KQkq - 0 12",
+   "solucionUci": [
+    "f8b4",
+    "c3b4",
+    "d4c2",
+    "e1e2",
+    "c2b4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_edc982763b",
+   "nombre": "Juegan Blancas",
+   "fen": "r3R3/1pp2rpk/p2p3p/3P1q2/3B1P1b/2P3QP/PP5K/6R1 w - - 6 28",
+   "solucionUci": [
+    "g3g7",
+    "f7g7",
+    "g1g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_71e6c5372d",
+   "nombre": "Juegan Blancas",
+   "fen": "6rk/pp3r1p/3qN1n1/3P2B1/5p2/2P2P1Q/PP2p1P1/2K4R w - - 0 30",
+   "solucionUci": [
+    "g5f6",
+    "f7f6",
+    "h3h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4891909446",
+   "nombre": "Juegan Blancas",
+   "fen": "1b2r1k1/p4ppp/1pp5/4q3/4n3/1Q1n3P/PP4P1/2R1BRK1 w - - 0 30",
+   "solucionUci": [
+    "b3f7",
+    "g8h8",
+    "f7f8",
+    "e8f8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_827976fa48",
+   "nombre": "Juegan Blancas",
+   "fen": "2r1k2r/p4ppp/1p1bp3/3p4/3P4/1PP4Q/PB1q1PPP/4RRK1 w k - 2 22",
+   "solucionUci": [
+    "e1e6",
+    "f7e6",
+    "h3e6",
+    "d6e7",
+    "e6c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d95992e133",
+   "nombre": "Juegan Negras",
+   "fen": "6rk/3RR1p1/1p5p/p7/P4p2/3Q1NrP/1q3bPK/5N2 b - - 1 38",
+   "solucionUci": [
+    "f2g1",
+    "f3g1",
+    "b2g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d0a64de3db",
+   "nombre": "Juegan Blancas",
+   "fen": "8/pp1R4/2p2k1p/8/2P5/3N1qP1/P6K/8 w - - 8 37",
+   "solucionUci": [
+    "d7f7",
+    "f6f7",
+    "d3e5",
+    "f7f6",
+    "e5f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c0f07a85a4",
+   "nombre": "Juegan Negras",
+   "fen": "r7/p1p2k1p/q1p5/3p2Q1/3Pp2n/4P2P/PPP3P1/R1B3K1 b - - 0 22",
+   "solucionUci": [
+    "h4f3",
+    "g2f3",
+    "a8g8",
+    "g5g8",
+    "f7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_66999bf050",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b3rk/p4p1p/1p2pPpQ/2p5/3PqP2/P2p1R2/3B2PP/R5K1 w - - 0 22",
+   "solucionUci": [
+    "h6h7",
+    "h8h7",
+    "f3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c21dd55dfd",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/5pR1/1p2qn1p/8/P2P4/2r2PQ1/5P1P/6RK w - - 5 32",
+   "solucionUci": [
+    "g7h7",
+    "f6h7",
+    "g3g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3b16dbf0ed",
+   "nombre": "Juegan Blancas",
+   "fen": "3r4/4kp1r/p7/1PqBp3/4P2p/2p4Q/6PP/n4R1K w - - 0 26",
+   "solucionUci": [
+    "f1f7",
+    "h7f7",
+    "h3e6",
+    "e7f8",
+    "e6f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5a492fc9de",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/pp3p2/5Pp1/7p/5Q2/4R2P/q4r2/7K w - - 2 33",
+   "solucionUci": [
+    "e3e8",
+    "g8h7",
+    "e8h8",
+    "h7h8",
+    "f4h6",
+    "h8g8",
+    "h6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_53a57de175",
+   "nombre": "Juegan Negras",
+   "fen": "r4knr/p4ppp/3p4/1Qp1nP2/4P3/2P4P/PP4PK/RNB1q2R b - - 4 16",
+   "solucionUci": [
+    "e5f3",
+    "g2f3",
+    "e1f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fed7ba4df5",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b2rk1/1pp2pp1/pb1p3p/3q4/4N3/3B4/PP3PPP/1R1Q1RK1 w - - 0 20",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "d3h7",
+    "g8h7",
+    "d1d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e456ea5b9b",
+   "nombre": "Juegan Negras",
+   "fen": "3k2r1/pQ1n1R2/2p1p2p/2PpP3/P2P4/5Nq1/6rN/R6K b - - 7 30",
+   "solucionUci": [
+    "g2h2",
+    "f3h2",
+    "g3g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ff6412d7ef",
+   "nombre": "Juegan Blancas",
+   "fen": "5r2/5p1k/4p1pP/p2p4/3P3q/2PQ2R1/Pr5P/5RK1 w - - 4 30",
+   "solucionUci": [
+    "f1f7",
+    "f8f7",
+    "d3g6",
+    "h7h8",
+    "g6g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_29771b1176",
+   "nombre": "Juegan Negras",
+   "fen": "3R1r1k/1p3Bpp/p1p5/2P5/1P2p1b1/PQ2P1b1/1B4P1/3R1KNq b - - 0 28",
+   "solucionUci": [
+    "g4e2",
+    "f1e2",
+    "h1g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_645554c5e2",
+   "nombre": "Juegan Blancas",
+   "fen": "4rkr1/ppp2p2/3b3R/8/3P3Q/2q5/P1P3PP/5RK1 w - - 0 25",
+   "solucionUci": [
+    "f1f7",
+    "f8f7",
+    "h4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4d3bd0e915",
+   "nombre": "Juegan Negras",
+   "fen": "1r4k1/p1p2ppp/1rb1p3/3pP2P/q1pPPB2/2P5/P1PQN1P1/KR5R b - - 0 22",
+   "solucionUci": [
+    "a4a2",
+    "a1a2",
+    "b6a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_756f264d45",
+   "nombre": "Juegan Negras",
+   "fen": "3rkr2/pp3p1p/4bQ2/2pq4/8/PP3BP1/3PPP1P/1R2K2R b K - 0 18",
+   "solucionUci": [
+    "d5d2",
+    "e1f1",
+    "e6h3",
+    "f3g2",
+    "d2d1",
+    "b1d1",
+    "d8d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7241490d20",
+   "nombre": "Juegan Blancas",
+   "fen": "2r1rk2/1b1nqpbQ/pp1pB1p1/6P1/P2PPN2/4Bp2/1P6/R3K2R w KQ - 0 22",
+   "solucionUci": [
+    "f4g6",
+    "f7g6",
+    "h7g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b6809e4270",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/p4pp1/1p2p3/8/P3NR2/1r1n3P/1P3R1K/8 w - - 7 33",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "f2g2",
+    "g8h8",
+    "f4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f1466cd842",
+   "nombre": "Juegan Negras",
+   "fen": "4r2k/p6p/2p1q1p1/1p4Q1/2nP1N2/2P2P2/P5PP/R5K1 b - - 4 32",
+   "solucionUci": [
+    "e6e3",
+    "g1h1",
+    "e3e1",
+    "a1e1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_768239ac2b",
+   "nombre": "Juegan Blancas",
+   "fen": "kr4r1/1p1n2p1/pQRPb2p/3p2q1/3P4/1R6/PP3PP1/5K2 w - - 1 31",
+   "solucionUci": [
+    "b6a6",
+    "b7a6",
+    "c6a6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_50ab56666b",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r1k/4bpRp/b2pp3/2q4N/1p2PP2/1P4Q1/PP5P/1K1R4 w - - 3 23",
+   "solucionUci": [
+    "g7h7",
+    "h8h7",
+    "g3g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_76c49f1469",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r1k/3R2b1/2p3Pp/p3p3/Np2P3/1Q2P3/PP4q1/2K4R w - - 0 24",
+   "solucionUci": [
+    "h1h6",
+    "g7h6",
+    "d7h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_326ffa8c15",
+   "nombre": "Juegan Blancas",
+   "fen": "1r5k/prq3p1/4Q1pp/6N1/2pP4/P1P4P/1P3PP1/4R1K1 w - - 0 26",
+   "solucionUci": [
+    "e6e8",
+    "b8e8",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_493cf93bc3",
+   "nombre": "Juegan Blancas",
+   "fen": "3rk2r/p4ppp/2p1pn2/2p1q1N1/1pP1P3/1P6/P1PQ2PP/1R3RK1 w k - 2 19",
+   "solucionUci": [
+    "d2d8",
+    "e8d8",
+    "g5f7",
+    "d8c7",
+    "f7e5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e21fb79fd3",
+   "nombre": "Juegan Negras",
+   "fen": "1r6/2kb1ppp/3Np1n1/p1p1P1P1/PrPp1P2/1PqR4/K1P2Q2/2N4R b - - 5 29",
+   "solucionUci": [
+    "b4a4",
+    "b3a4",
+    "c3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9f6d7f7861",
+   "nombre": "Juegan Negras",
+   "fen": "1k6/1b3p2/6n1/p2p2P1/1p1N1P2/1P1Br3/PPK5/5R2 b - - 6 32",
+   "solucionUci": [
+    "e3d3",
+    "c2d3",
+    "b7a6",
+    "d3e3",
+    "a6f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_541d1f4e16",
+   "nombre": "Juegan Blancas",
+   "fen": "7r/1p1Q1rk1/p7/2p1q2p/2p3p1/2P1P1R1/PP2K1P1/7R w - - 2 36",
+   "solucionUci": [
+    "g3g4",
+    "h5g4",
+    "d7g4",
+    "g7f6",
+    "h1h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_12c3cecd67",
+   "nombre": "Juegan Negras",
+   "fen": "r3r1k1/pQ1nbppp/4q3/2pp4/6n1/1B1P4/PPPB1PPP/RN1KR3 b - - 4 15",
+   "solucionUci": [
+    "g4f2",
+    "d1c1",
+    "e6e1",
+    "d2e1",
+    "e7g5",
+    "b1d2",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4d0e8cf728",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/pp2bp2/2p1pnp1/8/3P1q2/2NQ1P2/PPP2K2/6RR w - - 0 19",
+   "solucionUci": [
+    "g1g6",
+    "f7g6",
+    "d3g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4ef0d157ed",
+   "nombre": "Juegan Negras",
+   "fen": "4bbk1/2R4p/8/1p1PQ3/4PpPn/r5qP/P3B1P1/6RK b - - 0 33",
+   "solucionUci": [
+    "g3h3",
+    "g2h3",
+    "a3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c12b404e02",
+   "nombre": "Juegan Negras",
+   "fen": "1r3bk1/p7/1rp1p1p1/q3NbPn/2pPN2P/8/PPPB1Q2/KR3R2 b - - 0 26",
+   "solucionUci": [
+    "a5a2",
+    "a1a2",
+    "b6a6",
+    "d2a5",
+    "a6a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d184a244ab",
+   "nombre": "Juegan Blancas",
+   "fen": "rn3r1k/ppp2p1p/5p2/4N3/5q2/P5R1/1PP1Q1PP/1K6 w - - 1 19",
+   "solucionUci": [
+    "e5f7",
+    "f8f7",
+    "e2e8",
+    "f7f8",
+    "e8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_36f30b6eaf",
+   "nombre": "Juegan Blancas",
+   "fen": "rnbq1rk1/ppp2p1p/4p1N1/3n2b1/3P3Q/3B4/PPP3PP/RN3RK1 w - - 0 12",
+   "solucionUci": [
+    "g6e7",
+    "d5e7",
+    "h4h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_48caa6decd",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/p1pn2bR/1p1p1qQ1/6N1/3P1p2/2P1P3/PP1N1Pb1/R3K3 w Q - 1 16",
+   "solucionUci": [
+    "h7h8",
+    "g8h8",
+    "g6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f1afbc6b70",
+   "nombre": "Juegan Blancas",
+   "fen": "rn3rk1/p1p2pp1/bp2p3/6N1/4P3/2Pq4/P3QP2/R3K2R w KQ - 0 18",
+   "solucionUci": [
+    "h1h8",
+    "g8h8",
+    "e2h5",
+    "h8g8",
+    "h5h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d79151d3bb",
+   "nombre": "Juegan Blancas",
+   "fen": "2k5/p1p5/PpN1p1q1/1QnpP3/r7/8/KPP5/R7 w - - 12 36",
+   "solucionUci": [
+    "b5a4",
+    "c5a4",
+    "c6e7",
+    "c8d7",
+    "e7g6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2aa76206fd",
+   "nombre": "Juegan Negras",
+   "fen": "2r5/pp3pkp/4b1p1/3N4/1Q2P3/6P1/PP1qP1BP/1K5R b - - 0 24",
+   "solucionUci": [
+    "d2c2",
+    "b1a1",
+    "c2c1",
+    "h1c1",
+    "c8c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a3a1875729",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/pp3ppp/1b6/q5N1/2p1RB2/2P4P/P1Q2nP1/6K1 w - - 0 25",
+   "solucionUci": [
+    "e4e8",
+    "a8e8",
+    "c2h7",
+    "g8f8",
+    "f4d6",
+    "e8e7",
+    "h7h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_743dbf01b1",
+   "nombre": "Juegan Blancas",
+   "fen": "r7/1p2q1pk/p5p1/8/P1Q1n2P/4PN2/6P1/5RK1 w - - 1 31",
+   "solucionUci": [
+    "c4e4",
+    "e7e4",
+    "f3g5",
+    "h7h6",
+    "g5e4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ea7ee5c750",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/2p5/p3R3/k1N1P3/1p1PK3/2r5/8 b - - 1 37",
+   "solucionUci": [
+    "c2c4",
+    "d3c4",
+    "b3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_42be17536f",
+   "nombre": "Juegan Blancas",
+   "fen": "6kr/2qb1p2/5Pp1/3p3p/1Qr5/P3RP2/2P1R1PP/2K5 w - - 0 27",
+   "solucionUci": [
+    "e3e8",
+    "d7e8",
+    "e2e8",
+    "g8h7",
+    "e8h8",
+    "h7h8",
+    "b4f8",
+    "h8h7",
+    "f8g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9313905a90",
+   "nombre": "Juegan Negras",
+   "fen": "4rk2/pp1Q3p/1b3Bp1/2q5/8/2P5/PP3PPP/5RK1 b - - 2 26",
+   "solucionUci": [
+    "c5f2",
+    "f1f2",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_43166c1c78",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/1p4p1/1p1pp1qp/1P6/3Pn3/4QN1P/1B3P2/R4K2 b - - 2 24",
+   "solucionUci": [
+    "f8f3",
+    "e3f3",
+    "e4d2",
+    "f1e2",
+    "d2f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7d4471c736",
+   "nombre": "Juegan Negras",
+   "fen": "8/5p2/p4n2/1p2k3/6P1/1P2PKNr/P2R4/8 b - - 4 39",
+   "solucionUci": [
+    "h3g3",
+    "f3g3",
+    "f6e4",
+    "g3h4",
+    "e4d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0bbe66e19f",
+   "nombre": "Juegan Blancas",
+   "fen": "rnb5/ppp1n1p1/4p1Pk/5p1P/2P2P2/4Q3/q2r3N/1R2K2R w K - 0 28",
+   "solucionUci": [
+    "h2g4",
+    "f5g4",
+    "f4f5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7695a67ce8",
+   "nombre": "Juegan Negras",
+   "fen": "2kr1r2/p7/1p2q2p/2p3p1/Q7/2P1R3/P1P3PP/4R1K1 b - - 0 27",
+   "solucionUci": [
+    "e6e3",
+    "e1e3",
+    "d8d1",
+    "e3e1",
+    "d1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e430e079b7",
+   "nombre": "Juegan Blancas",
+   "fen": "8/pppr1p1k/3prQpp/7R/4q3/6RP/P4PPK/8 w - - 4 27",
+   "solucionUci": [
+    "h5h6",
+    "h7h6",
+    "f6h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_488c2d9aff",
+   "nombre": "Juegan Blancas",
+   "fen": "2rnk2r/pb1p4/1p1BpPp1/7p/8/2Q3PP/P6K/5R2 w k - 1 29",
+   "solucionUci": [
+    "f6f7",
+    "d8f7",
+    "c3h8",
+    "f7h8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7830a4fba7",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/6p1/6RP/p3p1Q1/1p1pPq2/1P1P4/1KP2r2/8 w - - 1 37",
+   "solucionUci": [
+    "g6g7",
+    "g8h8",
+    "g7h7",
+    "h8h7",
+    "g5g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5083ba9947",
+   "nombre": "Juegan Negras",
+   "fen": "6r1/kpp5/p1p5/4pR2/P3P3/1P1PP1rP/2P1QRPK/q7 b - - 4 28",
+   "solucionUci": [
+    "g3h3",
+    "g2h3",
+    "a1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_858e205736",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r2/6R1/1kp4R/3p4/1p1P1P2/qPb1P3/P1Q2P2/1K6 w - - 4 32",
+   "solucionUci": [
+    "h6c6",
+    "b6c6",
+    "c2g6",
+    "f8f6",
+    "g6f6",
+    "c6b5",
+    "g7b7",
+    "b5a5",
+    "f6b6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_77425420ea",
+   "nombre": "Juegan Blancas",
+   "fen": "1r5k/p3q1pp/n7/2pB4/2Pp4/Pr2n3/RP2Q3/1K5R w - - 3 30",
+   "solucionUci": [
+    "h1h7",
+    "h8h7",
+    "e2h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d04fc9fac9",
+   "nombre": "Juegan Blancas",
+   "fen": "r1r3k1/P1pQ1pp1/3p3p/3q4/4p3/6PP/5P2/RR4K1 w - - 0 36",
+   "solucionUci": [
+    "d7c8",
+    "a8c8",
+    "b1b8",
+    "c8b8",
+    "a7b8q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9573f7f86f",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/pp3ppp/8/8/3n4/P3r3/1P4PP/K2Q4 b - - 0 35",
+   "solucionUci": [
+    "e3e1",
+    "d1e1",
+    "d4c2",
+    "a1a2",
+    "c2e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_44a0f95f97",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1rk1/1p3ppp/4p3/p1p1B3/1b1nN3/3Q1P2/1n3PPP/1BR2RK1 w - - 0 19",
+   "solucionUci": [
+    "e4f6",
+    "g7f6",
+    "d3h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2c8809ae3c",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2rk/pppn1p1p/2bp1PpQ/8/4PR2/2P5/P1P1B1PP/R5K1 w - - 6 18",
+   "solucionUci": [
+    "h6h7",
+    "h8h7",
+    "f4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e54390cf50",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/p4pp1/5n1p/7b/BP1PP3/N2P1Pq1/P1Q4b/R1B2R1K b - - 0 25",
+   "solucionUci": [
+    "h5f3",
+    "f1f3",
+    "g3g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ca6a8a014d",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2rk/pp2bppp/2p1p3/4B1Q1/3Pn3/7R/PPP3PP/5R1K w - - 0 20",
+   "solucionUci": [
+    "h3h7",
+    "h8h7",
+    "g5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b2b5319408",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/p3Qppp/3p4/2pN1q2/2Pb1P2/8/P5PP/1R5K w - - 5 23",
+   "solucionUci": [
+    "e7f8",
+    "g8f8",
+    "b1b8",
+    "f5c8",
+    "b8c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d17d66a897",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5p1p/3p1Qp1/2nP4/5P2/6P1/2q2RKP/8 b - - 8 37",
+   "solucionUci": [
+    "c2f2",
+    "g2f2",
+    "c5e4",
+    "f2e3",
+    "e4f6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b75f2f3a36",
+   "nombre": "Juegan Blancas",
+   "fen": "r2r2k1/pp3ppp/5p2/8/4Q3/2P5/qPb2PPP/2KRR3 w - - 0 19",
+   "solucionUci": [
+    "d1d8",
+    "a8d8",
+    "e4e8",
+    "d8e8",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6ed4b25c6b",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/p4ppp/1p6/2pP1Rqn/2P1P3/1P2b3/PBB3PP/R4Q1K b - - 4 24",
+   "solucionUci": [
+    "h5g3",
+    "h2g3",
+    "g5h6",
+    "f5h5",
+    "h6h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3fad1c7ca4",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/4ppk1/3n4/2RPpPP1/6K1/4r1N1/8 b - - 0 44",
+   "solucionUci": [
+    "e2g2",
+    "g3g2",
+    "d5e3",
+    "g2h3",
+    "e3c4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e5451c9634",
+   "nombre": "Juegan Negras",
+   "fen": "6r1/pp6/6k1/5p2/4r3/8/P1QRn1PP/6RK b - - 0 45",
+   "solucionUci": [
+    "e2g3",
+    "h2g3",
+    "g8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0aa222a1ee",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/5ppp/2B5/ppQ5/2pP4/P1Pb4/1q3PPP/4R1K1 w - - 2 25",
+   "solucionUci": [
+    "c5f8",
+    "g8f8",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e9a6399c0f",
+   "nombre": "Juegan Negras",
+   "fen": "2r2k2/pb4pQ/5q2/6N1/2pN4/3nr3/PPR3PP/5RK1 b - - 1 30",
+   "solucionUci": [
+    "f6f1",
+    "g1f1",
+    "e3e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_85ed680821",
+   "nombre": "Juegan Blancas",
+   "fen": "4B1k1/2p2p1p/1p1p1P1K/p2P2P1/2P5/1n6/8/8 w - - 0 40",
+   "solucionUci": [
+    "e8f7",
+    "g8f7",
+    "h6h7",
+    "b3d2",
+    "g5g6",
+    "f7f6",
+    "g6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_80de7da20f",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/p1pp3p/1pn1p1p1/8/2PP4/2Pq4/P2B1Q2/2KR4 w - - 4 20",
+   "solucionUci": [
+    "f2f8",
+    "g8f8",
+    "d2h6",
+    "f8g8",
+    "d1d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_927aef7a2a",
+   "nombre": "Juegan Blancas",
+   "fen": "1r3r1k/6pp/p4pP1/1p5R/2p1q3/4B2P/PbP1Q3/6K1 w - - 0 30",
+   "solucionUci": [
+    "h5h7",
+    "h8g8",
+    "h7h8",
+    "g8h8",
+    "e2h5",
+    "h8g8",
+    "h5h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2398f5c562",
+   "nombre": "Juegan Blancas",
+   "fen": "r6k/6q1/1p1Q1R2/2pP4/2b1p1P1/1pB4P/2r5/2K4R w - - 2 34",
+   "solucionUci": [
+    "c1b1",
+    "c2c3",
+    "f6h6",
+    "g7h6",
+    "d6h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_87a836145c",
+   "nombre": "Juegan Blancas",
+   "fen": "4r2r/pp1q1k1p/5ppQ/8/3p1N2/1P3PP1/P4PK1/7R w - - 4 29",
+   "solucionUci": [
+    "h6h7",
+    "h8h7",
+    "h1h7",
+    "f7g8",
+    "h7d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_45cddb48c4",
+   "nombre": "Juegan Negras",
+   "fen": "r4rk1/2q2ppp/p3b3/1p1pn3/1P4n1/1BP1P2P/1BQ1NPP1/R2R2K1 b - - 0 18",
+   "solucionUci": [
+    "e5f3",
+    "g2f3",
+    "c7h2",
+    "g1f1",
+    "h2f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a2c2a50e05",
+   "nombre": "Juegan Negras",
+   "fen": "4k3/4r2p/3Q4/8/8/5PpP/PP3qP1/6RK b - - 0 46",
+   "solucionUci": [
+    "f2g1",
+    "h1g1",
+    "e7e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_6ee5fca5c1",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/1pp3p1/p2qr1Rp/5p1Q/4p2R/P2P3P/1PP2PP1/6K1 w - - 2 29",
+   "solucionUci": [
+    "h5h6",
+    "g7h6",
+    "h4h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_68d499ebcf",
+   "nombre": "Juegan Negras",
+   "fen": "2kr3r/pp3pp1/4p1p1/2q5/8/2P3P1/PPQ3PP/2R2R1K b - - 3 19",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "d8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a98f2ec343",
+   "nombre": "Juegan Negras",
+   "fen": "8/8/8/8/1p1kp3/1P3r2/2PK1PR1/8 b - - 1 42",
+   "solucionUci": [
+    "f3f2",
+    "g2f2",
+    "e4e3",
+    "d2e1",
+    "e3f2",
+    "e1f2",
+    "d4c3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a9060e70ae",
+   "nombre": "Juegan Blancas",
+   "fen": "r5k1/1R4p1/1p3pNp/p1rnp3/8/7P/PP3PP1/3R2K1 w - - 2 30",
+   "solucionUci": [
+    "d1d5",
+    "c5d5",
+    "g6e7",
+    "g8h8",
+    "e7d5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9b4fdeed3f",
+   "nombre": "Juegan Negras",
+   "fen": "r1r3k1/5pp1/7p/5Q2/4P2P/1P6/PP4q1/1K1R1R2 b - - 4 27",
+   "solucionUci": [
+    "g2c2",
+    "b1a1",
+    "a8a2",
+    "a1a2",
+    "c8a8",
+    "f5a5",
+    "a8a5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_43d5490e2f",
+   "nombre": "Juegan Blancas",
+   "fen": "rn3rk1/pp1q2pp/2p5/3p4/1Q3B2/3P2P1/PPP3bP/4RRK1 w - - 0 17",
+   "solucionUci": [
+    "b4f8",
+    "g8f8",
+    "f4d6",
+    "f8g8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2fbc2a2758",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/Q3R1b1/2p4p/8/3p2Pq/8/PP4PP/4R1K1 b - - 2 31",
+   "solucionUci": [
+    "h4f2",
+    "g1h1",
+    "f2f1",
+    "e1f1",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_70de46238f",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/p1pp1p1p/2p1nBpQ/4P3/8/4R3/P1q2PPP/1R4K1 w - - 0 21",
+   "solucionUci": [
+    "h6h7",
+    "g8h7",
+    "e3h3",
+    "h7g8",
+    "h3h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_18a568f129",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/4n1pp/Q3N3/3pP3/1p1P2Pq/7P/7K/5R2 w - - 2 29",
+   "solucionUci": [
+    "a6c8",
+    "e7c8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1dc7cc2bec",
+   "nombre": "Juegan Negras",
+   "fen": "8/6kp/6p1/3p1p2/p2P2nP/q2NP2K/P3Q1P1/8 b - - 3 39",
+   "solucionUci": [
+    "a3d3",
+    "e2d3",
+    "g4f2",
+    "h3g3",
+    "f2d3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9392b94a22",
+   "nombre": "Juegan Blancas",
+   "fen": "4r2k/5Qpp/1R1p2r1/p7/8/4q1PP/5R1K/8 w - - 3 48",
+   "solucionUci": [
+    "f7f8",
+    "e8f8",
+    "f2f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_53bbc58671",
+   "nombre": "Juegan Blancas",
+   "fen": "3r1r1k/p5p1/1p2p1Rp/2q1Pp2/2B5/1P2Q2P/1KPP4/8 w - - 3 31",
+   "solucionUci": [
+    "g6h6",
+    "g7h6",
+    "e3h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a7e6bb9dd7",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/1R4p1/1p2p2p/1P1pP2r/2pP1p2/2P2Pq1/2Q1K1P1/5R2 b - - 0 37",
+   "solucionUci": [
+    "g3g2",
+    "f1f2",
+    "g2f2",
+    "e2f2",
+    "h5h2",
+    "f2e1",
+    "h2c2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_73f03fc2cb",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3k1/1p2p1bp/3p2p1/3P2P1/3qPQ1N/pPr5/P7/1KN2R2 w - - 2 30",
+   "solucionUci": [
+    "f4f7",
+    "g8h8",
+    "h4g6",
+    "h7g6",
+    "f1h1",
+    "c3h3",
+    "h1h3",
+    "g7h6",
+    "h3h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_aef9bee85c",
+   "nombre": "Juegan Negras",
+   "fen": "3QQ3/2N3pk/2p2p2/8/8/3r3P/r1q3P1/6RK b - - 0 40",
+   "solucionUci": [
+    "d3h3",
+    "g2h3",
+    "c2h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c8f3bc22a8",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1r1k/4npp1/p4b1B/1p2p2Q/3P2b1/N1PB4/5PPP/R5K1 w - - 0 22",
+   "solucionUci": [
+    "h6g7",
+    "h8g7",
+    "h5h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cdbf031006",
+   "nombre": "Juegan Blancas",
+   "fen": "8/nB3k2/7p/P4pp1/1p2p3/1b1r2PN/5P1P/1R4K1 w - - 5 32",
+   "solucionUci": [
+    "b1b3",
+    "d3b3",
+    "b7d5",
+    "f7e7",
+    "d5b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c9cfd703f3",
+   "nombre": "Juegan Blancas",
+   "fen": "2r3rk/1b1n1p1p/p3pPp1/1p2P1Q1/3qp2R/P7/1PP1B1PP/R6K w - - 2 25",
+   "solucionUci": [
+    "h4h7",
+    "h8h7",
+    "g5h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_74da23f723",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/1r3ppp/p7/3N4/3QP3/5P2/q1r4P/4R1K1 w - - 0 39",
+   "solucionUci": [
+    "d5e7",
+    "b7e7",
+    "d4d8",
+    "e7e8",
+    "d8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_da8fc6e3ac",
+   "nombre": "Juegan Blancas",
+   "fen": "8/7k/3P1p1p/p3pb2/Pp5P/1B6/6P1/7K w - - 1 36",
+   "solucionUci": [
+    "b3c2",
+    "f5c2",
+    "d6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_9d40c93c05",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/pp1q3p/5QpP/5p2/6P1/1P2R3/P4P2/2rqNK2 w - - 0 36",
+   "solucionUci": [
+    "e3e8",
+    "d7e8",
+    "f6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5a4d5c1d46",
+   "nombre": "Juegan Negras",
+   "fen": "r2q1rk1/Bp3ppn/2pp3p/6b1/4P3/1PNP2QP/1PP3P1/R4RK1 b - - 0 16",
+   "solucionUci": [
+    "a8a7",
+    "a1a7",
+    "d8b6",
+    "g1h1",
+    "b6a7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0bcc16bb1e",
+   "nombre": "Juegan Blancas",
+   "fen": "4q3/4pRbk/p2p2pp/2pP4/2P1P3/4Q1N1/Pr4PP/6K1 w - - 5 27",
+   "solucionUci": [
+    "f7g7",
+    "h7g7",
+    "e3c3",
+    "g7g8",
+    "c3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8ee025fb9c",
+   "nombre": "Juegan Blancas",
+   "fen": "6rk/3q3p/p2p1p1b/3NpP2/4P1QP/3P4/1Pr5/3R1R1K w - - 5 30",
+   "solucionUci": [
+    "g4g8",
+    "h8g8",
+    "d5f6",
+    "g8f7",
+    "f6d7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_78284924b5",
+   "nombre": "Juegan Negras",
+   "fen": "5bk1/pp2q1p1/4p1Q1/2p3N1/3n4/PP4P1/1BP2P1P/6K1 b - - 4 27",
+   "solucionUci": [
+    "e7g5",
+    "g6g5",
+    "d4f3",
+    "g1g2",
+    "f3g5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_2c43971ebf",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5pr1/p6Q/1p2n3/3R4/1B2P2P/PP3PPK/2q5 b - - 3 29",
+   "solucionUci": [
+    "e5f3",
+    "g2f3",
+    "c1g1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_73e2469da7",
+   "nombre": "Juegan Negras",
+   "fen": "1r6/1BR1nkp1/p3pr2/1b3p2/1P1P4/P3Q1P1/5PK1/8 b - - 0 34",
+   "solucionUci": [
+    "b8b7",
+    "c7b7",
+    "b5c6",
+    "g2f1",
+    "c6b7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_525a20a8a0",
+   "nombre": "Juegan Negras",
+   "fen": "3r3r/5kp1/p1p5/2pn2q1/2B1QP2/P7/1P5P/2R2R1K b - - 0 28",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "d8h8",
+    "e4h7",
+    "h8h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_64f8d66d49",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/5p1p/p3p1pB/Q1P1b3/3rq3/P6P/5PP1/3R2K1 w - - 0 25",
+   "solucionUci": [
+    "a5d8",
+    "d4d8",
+    "d1d8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b90efd376c",
+   "nombre": "Juegan Negras",
+   "fen": "2r3k1/1pq3pp/5B2/pn6/1b6/5Q2/PP2N1PP/1K1N3R b - - 0 24",
+   "solucionUci": [
+    "c7c2",
+    "b1a1",
+    "c2c1",
+    "e2c1",
+    "c8c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ab9d3292ee",
+   "nombre": "Juegan Negras",
+   "fen": "4r2k/p1p1qp2/2p2p1p/2N2Q2/3P4/2P5/P4PPP/R4K2 b - - 1 25",
+   "solucionUci": [
+    "e7e2",
+    "f1g1",
+    "e2e1",
+    "a1e1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_04cf9104ae",
+   "nombre": "Juegan Negras",
+   "fen": "3r3r/1P2Q1p1/3p1pk1/6q1/P7/1P3P2/1B5P/4R2K b - - 2 27",
+   "solucionUci": [
+    "h8h2",
+    "h1h2",
+    "d8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_69faf3886d",
+   "nombre": "Juegan Negras",
+   "fen": "1r3k1r/5p1p/3pp1p1/q1n5/4P3/2P2N2/PBQ2PPP/R3K2R b KQ - 4 18",
+   "solucionUci": [
+    "b8b2",
+    "c2b2",
+    "c5d3",
+    "e1f1",
+    "d3b2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1f4e786161",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/6pp/2q1pp2/1p6/pQ1P4/4P1P1/4RP1P/2r2BK1 b - - 0 32",
+   "solucionUci": [
+    "c1f1",
+    "g1f1",
+    "c6h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f7f3b72817",
+   "nombre": "Juegan Negras",
+   "fen": "3rk2r/p4ppp/p1p2q2/2b1p2P/4P3/2P3Q1/PP2NP2/R1B1K2R b KQk - 1 19",
+   "solucionUci": [
+    "c5f2",
+    "g3f2",
+    "d8d1",
+    "e1d1",
+    "f6f2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_05a755656b",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b1rqk1/ppbn1p2/2p1pn1Q/8/NP2R3/P2B1N2/2P2PPP/R5K1 w - - 3 18",
+   "solucionUci": [
+    "e4g4",
+    "f6g4",
+    "h6h7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_abf4914a89",
+   "nombre": "Juegan Blancas",
+   "fen": "4R3/5ppk/1p1R3p/2n5/2r5/6QP/1q4P1/6K1 w - - 4 37",
+   "solucionUci": [
+    "d6h6",
+    "g7h6",
+    "g3g8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_13e758f6da",
+   "nombre": "Juegan Negras",
+   "fen": "r1r4k/1p4p1/1p5p/2q1N3/5PQ1/1P5P/PP4P1/1K1RR3 b - - 4 28",
+   "solucionUci": [
+    "c5c2",
+    "b1a1",
+    "a8a2",
+    "a1a2",
+    "c8a8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_bbac5a6a57",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/pp3ppp/q4n2/8/2Q5/1B5P/1P3PP1/3R2K1 w - - 4 24",
+   "solucionUci": [
+    "c4f7",
+    "f8f7",
+    "d1d8",
+    "f6e8",
+    "d8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_0cb9a5f693",
+   "nombre": "Juegan Blancas",
+   "fen": "8/1pp2pk1/pb4p1/3p2N1/1PnPp2Q/2q1P1P1/K4PP1/3B4 w - - 2 33",
+   "solucionUci": [
+    "h4h7",
+    "g7f6",
+    "h7f7",
+    "f6g5",
+    "f7f4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5c4ad355bd",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2rk/pp1n1p1p/2ppbPpQ/8/2P1PR2/2NP3P/PP4B1/1R4K1 w - - 7 22",
+   "solucionUci": [
+    "h6h7",
+    "h8h7",
+    "f4h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_00e8c5a6d1",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2kr/pp1b1p1p/2pb1pnB/8/2BP4/8/PPP1QPPP/R3R1K1 w - - 4 16",
+   "solucionUci": [
+    "c4f7",
+    "g8f7",
+    "e2c4",
+    "d7e6",
+    "c4e6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ff0bc7dd0e",
+   "nombre": "Juegan Negras",
+   "fen": "4k1r1/1p6/p3N3/2p1Q3/b1P1P3/KP5P/P2r4/R2q1B1R b - - 6 34",
+   "solucionUci": [
+    "d2a2",
+    "a1a2",
+    "d1b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e2a2617927",
+   "nombre": "Juegan Negras",
+   "fen": "1kr4r/pp1qppb1/4n1p1/P2pP3/1R1P2P1/4BN2/4BPK1/1Q3R2 b - - 2 22",
+   "solucionUci": [
+    "e6f4",
+    "e3f4",
+    "d7g4",
+    "f4g3",
+    "g4h3",
+    "g2g1",
+    "h3h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_524693e4d9",
+   "nombre": "Juegan Blancas",
+   "fen": "r1b1r2k/pp3p1p/2p5/2Q5/7R/5P1P/Pq2BP2/4K1R1 w - - 2 26",
+   "solucionUci": [
+    "h4h7",
+    "h8h7",
+    "c5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ce6fbb1440",
+   "nombre": "Juegan Negras",
+   "fen": "8/5k1p/P7/1P3p2/8/3pB2P/6P1/b5K1 b - - 1 43",
+   "solucionUci": [
+    "a1d4",
+    "e3d4",
+    "d3d2",
+    "a6a7",
+    "d2d1q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e03721b98d",
+   "nombre": "Juegan Negras",
+   "fen": "8/p1R5/1p1nkpp1/7p/r2NP3/3K1PPP/P7/8 b - - 1 38",
+   "solucionUci": [
+    "a4d4",
+    "d3d4",
+    "d6b5",
+    "d4e3",
+    "b5c7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fc74ff8e44",
+   "nombre": "Juegan Blancas",
+   "fen": "r3nrk1/2qn1ppp/2N1p3/p2p4/1ppP1PP1/2P1R2Q/PP1N1P1P/5RK1 w - - 3 18",
+   "solucionUci": [
+    "c6e7",
+    "g8h8",
+    "h3h7",
+    "h8h7",
+    "e3h3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3ba4478b5a",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/pp3pp1/2p4p/4q3/1PP1nN2/P4QPP/2P2P2/3R1K2 b - - 0 24",
+   "solucionUci": [
+    "e4d2",
+    "d1d2",
+    "e5e1",
+    "f1g2",
+    "e1d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_da3a99c228",
+   "nombre": "Juegan Negras",
+   "fen": "1RR5/6pk/5p1p/5N2/4p1PK/5b1P/5P2/6r1 b - - 7 41",
+   "solucionUci": [
+    "g7g5",
+    "h4h5",
+    "f3g4",
+    "h3g4",
+    "g1h1",
+    "f5h4",
+    "h1h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_236c06156c",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q1nk1/3P2pp/2p5/p2bN3/Pp1Q4/8/1PP2PPP/2KR4 w - - 3 25",
+   "solucionUci": [
+    "e5c6",
+    "d5c6",
+    "d4c4",
+    "g8h8",
+    "c4c6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7c96a1dd54",
+   "nombre": "Juegan Blancas",
+   "fen": "1b1r1rk1/1p4pp/p3p3/5p2/1PP1P3/PB3b1q/1B2QPR1/R4K2 w - - 0 26",
+   "solucionUci": [
+    "e2f3",
+    "h3f3",
+    "g2g7",
+    "g8h8",
+    "g7g3",
+    "e6e5",
+    "g3f3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cef2dce5dd",
+   "nombre": "Juegan Negras",
+   "fen": "7k/pp6/6p1/6q1/3RBp1p/1P2rP2/P3NK2/7R b - - 0 31",
+   "solucionUci": [
+    "e3e2",
+    "f2e2",
+    "g5g2",
+    "e2d3",
+    "g2h1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e919ea6915",
+   "nombre": "Juegan Blancas",
+   "fen": "r1r3k1/pp4pp/1n1Bp1q1/3pP3/8/8/PP3QPP/2R2R1K w - - 4 27",
+   "solucionUci": [
+    "c1c8",
+    "a8c8",
+    "f2f8",
+    "c8f8",
+    "f1f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_1bfd5fa658",
+   "nombre": "Juegan Blancas",
+   "fen": "3k3r/pb1n1Q2/2q3p1/5pPp/P2P1B1P/2P3P1/8/4R1K1 w - - 6 32",
+   "solucionUci": [
+    "f7e7",
+    "d8c8",
+    "e7e8",
+    "h8e8",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a843741b25",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/pp3r1p/2q2ppP/3Qp3/2P5/3R4/6PK/8 w - - 4 37",
+   "solucionUci": [
+    "d5f7",
+    "f8f7",
+    "d3d8",
+    "c6e8",
+    "d8e8",
+    "f7f8",
+    "e8f8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f77fb9e8bf",
+   "nombre": "Juegan Blancas",
+   "fen": "2r1r3/3q1p1k/1p1p2p1/p1pP2Rp/3QP2P/P4P2/1P6/2K3R1 w - c6 0 26",
+   "solucionUci": [
+    "g5h5",
+    "g6h5",
+    "d4g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_3ac6f8b474",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/p1pN1ppp/2QBq3/8/1P3P2/P1NP2Pb/2P4P/R5K1 b - f3 0 22",
+   "solucionUci": [
+    "e6e3",
+    "g1h1",
+    "e3e1",
+    "a1e1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_a3c235c96a",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/1p2qppp/1Qp5/4nb2/NPP5/P5P1/3RBPP1/6K1 b - b3 0 24",
+   "solucionUci": [
+    "e5c4",
+    "e2c4",
+    "e7e1",
+    "c4f1",
+    "e1d2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_65130266bf",
+   "nombre": "Juegan Negras",
+   "fen": "2r2k2/pp5p/6p1/5q2/1P1Bn3/PQ5P/4N1P1/5RK1 b - - 6 29",
+   "solucionUci": [
+    "f5f1",
+    "g1f1",
+    "e4d2",
+    "f1f2",
+    "d2b3"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b3f3fb64f3",
+   "nombre": "Juegan Negras",
+   "fen": "5rk1/6pp/8/1pRPp1q1/8/1Q2n1N1/PP4PP/7K b - - 1 21",
+   "solucionUci": [
+    "f8f1",
+    "g3f1",
+    "g5g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5bebc6a105",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/1p2Rp2/p2p1np1/2pP2N1/2P4Q/7P/5PK1/rq6 w - - 4 30",
+   "solucionUci": [
+    "e7e8",
+    "f6e8",
+    "h4h7",
+    "g8f8",
+    "h7f7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_21943c1e81",
+   "nombre": "Juegan Blancas",
+   "fen": "r4r1k/1p2q1pp/p1n5/3B3R/3P4/8/PPP1Qn2/2KR4 w - - 1 22",
+   "solucionUci": [
+    "h5h7",
+    "h8h7",
+    "e2h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b8fea4b38f",
+   "nombre": "Juegan Negras",
+   "fen": "3r3k/5Qpp/8/1RB5/8/2qP4/2P2PPP/rR4K1 b - - 0 28",
+   "solucionUci": [
+    "c3e1",
+    "b1e1",
+    "a1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c755d16128",
+   "nombre": "Juegan Negras",
+   "fen": "2kr1b1r/ppp1pppp/8/8/3qn1b1/4Q3/PPB3PP/RNB1K1NR b KQ - 1 12",
+   "solucionUci": [
+    "d4d1",
+    "c2d1",
+    "d8d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c454ca1466",
+   "nombre": "Juegan Blancas",
+   "fen": "1r2kn1R/5pp1/p3p3/3pP1PQ/2pP4/2B5/P1PK1P2/5q2 w - - 7 26",
+   "solucionUci": [
+    "h8f8",
+    "e8f8",
+    "h5h8",
+    "f8e7",
+    "h8b8",
+    "f1f2",
+    "d2c1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8d837738f2",
+   "nombre": "Juegan Negras",
+   "fen": "2k2r2/ppp5/3p4/PQ4p1/4P1p1/6q1/5bPP/1R3R1K b - - 0 27",
+   "solucionUci": [
+    "g3h2",
+    "h1h2",
+    "f8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c8e55a241d",
+   "nombre": "Juegan Negras",
+   "fen": "2k3B1/pp5p/3p1p1p/2q4r/3Q1Pn1/2P5/PP4P1/R4RK1 b - - 2 24",
+   "solucionUci": [
+    "h5h1",
+    "g1h1",
+    "c5h5",
+    "h1g1",
+    "h5h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5daea7b19b",
+   "nombre": "Juegan Blancas",
+   "fen": "rr4k1/1Q2Rppp/2p2q2/p2p4/3b2B1/6PP/PP3P2/4R1K1 w - - 3 27",
+   "solucionUci": [
+    "b7b8",
+    "a8b8",
+    "e7e8",
+    "b8e8",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c57e7921b2",
+   "nombre": "Juegan Negras",
+   "fen": "3r1r1k/1R2N1pp/p3p3/8/4Q3/8/P2q1PPP/B3R1K1 b - - 4 24",
+   "solucionUci": [
+    "d2f2",
+    "g1h1",
+    "f2f1",
+    "e1f1",
+    "f8f1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_bed111d4a2",
+   "nombre": "Juegan Negras",
+   "fen": "6k1/5pp1/7P/8/pP1Q2P1/P4q2/1Pr1r3/KR4R1 b - - 0 40",
+   "solucionUci": [
+    "f3a3",
+    "b2a3",
+    "c2a2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_52a62d9175",
+   "nombre": "Juegan Blancas",
+   "fen": "1r3qrk/3b1p1p/p2ppPpQ/2p1n1P1/2PnPR2/1PN3NP/P5B1/2R3K1 w - - 3 25",
+   "solucionUci": [
+    "h6h7",
+    "h8h7",
+    "f4h4",
+    "f8h6",
+    "h4h6"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4c15596cd3",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/5ppp/8/2Q5/8/6P1/qr3PP1/2R1R1K1 w - - 0 24",
+   "solucionUci": [
+    "c5f8",
+    "g8f8",
+    "c1c8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_cfa72c3d1d",
+   "nombre": "Juegan Blancas",
+   "fen": "8/7K/5kP1/5n2/8/8/3b4/6R1 w - - 11 52",
+   "solucionUci": [
+    "g1f1",
+    "f6e6",
+    "f1f5",
+    "e6f5",
+    "g6g7"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ea759bed4c",
+   "nombre": "Juegan Negras",
+   "fen": "r5q1/4k3/pp1pBb1B/2pPp2Q/P6n/7P/1PP3r1/R4R1K b - - 3 29",
+   "solucionUci": [
+    "g2h2",
+    "h1h2",
+    "g8g2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_234ce785df",
+   "nombre": "Juegan Negras",
+   "fen": "5r1r/QR2Rbk1/5p2/6p1/2q5/2N3P1/PP3PP1/6K1 b - - 4 27",
+   "solucionUci": [
+    "h8h1",
+    "g1h1",
+    "c4f1",
+    "h1h2",
+    "f8h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ed9ae33734",
+   "nombre": "Juegan Negras",
+   "fen": "2Rr4/pp2kp1p/3qp3/5p2/8/1Q4P1/PPP2P1P/2K4R b - - 0 22",
+   "solucionUci": [
+    "d6d2",
+    "c1b1",
+    "d2d1",
+    "h1d1",
+    "d8d1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_4c6eabd912",
+   "nombre": "Juegan Negras",
+   "fen": "RQ4nk/6p1/1p2Np1p/2q5/4p3/2PnP3/3r2PP/4R1K1 b - - 0 37",
+   "solucionUci": [
+    "c5e3",
+    "e1e3",
+    "d2d1",
+    "e3e1",
+    "d1e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_fe1b07ba60",
+   "nombre": "Juegan Negras",
+   "fen": "7k/p1p3pp/1p6/8/2PQ4/1P3BqP/P3rrP1/3R2RK b - - 22 36",
+   "solucionUci": [
+    "g3h3",
+    "g2h3",
+    "f2h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_b4ae2d8eb5",
+   "nombre": "Juegan Blancas",
+   "fen": "5q1k/3pr1pp/p1b5/1p4Q1/7R/P3P1K1/BP4PP/2r5 w - - 10 28",
+   "solucionUci": [
+    "h4h7",
+    "h8h7",
+    "g5h5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_5ed943f642",
+   "nombre": "Juegan Negras",
+   "fen": "4r1k1/ppq2pp1/3p3p/1P1P4/4r3/6Q1/P4PPP/R1R3K1 b - - 0 30",
+   "solucionUci": [
+    "c7c1",
+    "a1c1",
+    "e4e1",
+    "c1e1",
+    "e8e1"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_eabc4e751c",
+   "nombre": "Juegan Blancas",
+   "fen": "7k/1p2q3/8/3PN3/1b2PpQn/5Pp1/6P1/3K4 w - - 5 50",
+   "solucionUci": [
+    "g4h4",
+    "e7h4",
+    "e5g6",
+    "h8g8",
+    "g6h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_69e272341c",
+   "nombre": "Juegan Blancas",
+   "fen": "r2q2rk/2p2p2/1p1pbn1P/p2Pp1Q1/4P3/P1B5/1PP2P2/2K3RR w - - 5 26",
+   "solucionUci": [
+    "g5g7",
+    "g8g7",
+    "h6g7",
+    "h8g8",
+    "h1h8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_c4683e7c1b",
+   "nombre": "Juegan Blancas",
+   "fen": "4r1k1/p5pp/4r3/8/2Q1p3/1P1pq3/5RPP/2R3K1 w - - 6 40",
+   "solucionUci": [
+    "c4e6",
+    "e8e6",
+    "c1c8",
+    "e6e8",
+    "c8e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_ca4f92fedb",
+   "nombre": "Juegan Negras",
+   "fen": "1k5r/ppp2p2/2n1q3/8/4N3/4PBp1/PPP2PP1/3R1QK1 b - - 0 21",
+   "solucionUci": [
+    "h8h1",
+    "g1h1",
+    "e6h6",
+    "f3h5",
+    "h6h5",
+    "h1g1",
+    "h5h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_d86d335458",
+   "nombre": "Juegan Blancas",
+   "fen": "5r1k/3Q2pp/5b2/8/2B1PN2/8/1q4PP/q4RK1 w - - 0 24",
+   "solucionUci": [
+    "f4g6",
+    "h7g6",
+    "d7h3",
+    "f6h4",
+    "h3h4"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_8f2eae0805",
+   "nombre": "Juegan Blancas",
+   "fen": "5rk1/p4ppp/8/3B2b1/3q4/P4Q2/1r3PPP/R3R1K1 w - - 0 19",
+   "solucionUci": [
+    "f3f7",
+    "f8f7",
+    "e1e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_dc35f19313",
+   "nombre": "Juegan Blancas",
+   "fen": "r4rk1/p2P1p1p/1p2p1p1/4q3/3p4/5Q2/P4PPP/2RR2K1 w - - 0 21",
+   "solucionUci": [
+    "f3a8",
+    "f8a8",
+    "c1c8",
+    "a8c8",
+    "d7c8q"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_e5b3d67764",
+   "nombre": "Juegan Negras",
+   "fen": "7r/1kqpb3/p3p3/1PP3p1/1P2N1pr/6N1/4QPP1/2R2RK1 b - - 0 26",
+   "solucionUci": [
+    "h4h1",
+    "g3h1",
+    "c7h2"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_f6433665d8",
+   "nombre": "Juegan Blancas",
+   "fen": "6k1/pp1rr1pp/2p2p2/4p2Q/1P4R1/6RP/6PK/1q6 w - - 10 30",
+   "solucionUci": [
+    "g4g7",
+    "e7g7",
+    "h5e8"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_7e0bb25511",
+   "nombre": "Juegan Negras",
+   "fen": "3q2k1/2p2pp1/1p1b1n1p/p3rP2/8/P1PQB2P/1P4P1/R4RK1 b - - 1 22",
+   "solucionUci": [
+    "e5e3",
+    "d3e3",
+    "d6c5",
+    "e3c5",
+    "b6c5"
+   ]
+  },
+  {
+   "tipo": "secuencia_exacta",
+   "id": "jgi_aad6c970e9",
+   "nombre": "Juegan Negras",
+   "fen": "bR4r1/P1k2p1p/4p3/5p2/8/3BbP2/PP5P/5R1K b - - 2 31",
+   "solucionUci": [
+    "a8f3",
+    "f1f3",
+    "g8g1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "pe1",
+    "fen": "8/8/8/8/8/8/4P3/8 w - - 0 1",
+    "pieza": "e2",
+    "texto": "Los peones avanzan en línea recta, de a una casilla. Desde su casilla inicial pueden avanzar una o dos. Nunca retroceden. Tocá el peón y probá moverlo: los puntos marcan adónde puede ir."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "pe2",
+    "fen": "8/8/8/8/8/8/4P3/8 w - - 0 1",
+    "pieza": "e2",
+    "objetivos": [
+     "e5"
+    ],
+    "texto": "Llevá el peón hasta la estrella."
+   },
+   {
+    "tipo": "explorar",
+    "id": "pe3",
+    "fen": "8/8/8/3p1p2/4P3/8/8/8 w - - 0 1",
+    "pieza": "e4",
+    "texto": "Los peones capturan distinto de como avanzan: capturan en diagonal, una casilla hacia adelante. Acá el peón blanco puede capturar el de d5 o el de f5 (los círculos marcan las capturas).",
+    "alCapturar": "¡Así captura el peón: en diagonal, y la pieza rival sale del tablero! Tocá Reiniciar para probar la otra captura, o seguí con el siguiente paso."
+   },
+   {
+    "tipo": "explorar",
+    "id": "pe4",
+    "fen": "8/8/8/8/4p3/4P3/8/8 w - - 0 1",
+    "pieza": "e3",
+    "texto": "Un peón no puede avanzar si hay una pieza delante, ni capturarla de frente. Este peón está bloqueado: no tiene ninguna jugada."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "pe5",
+    "fen": "8/8/8/3p4/4P3/8/8/8 w - - 0 1",
+    "pieza": "e4",
+    "objetivos": [
+     "d5"
+    ],
+    "texto": "Capturá el peón negro: recordá que el peón captura en diagonal."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "pe6",
+    "fen": "8/4P3/8/8/8/8/8/8 w - - 0 1",
+    "pieza": "e7",
+    "objetivos": [
+     "e8"
+    ],
+    "texto": "Cuando un peón llega a la última fila se corona: se convierte en dama, torre, alfil o caballo (casi siempre, en dama). Llevá el peón a la casilla e8 y elegí en qué pieza lo querés convertir. Además existe una captura especial, \"al paso\", que vemos en Conceptos del Juego."
+   }
+  ]
+ }
+}

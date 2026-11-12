@@ -1,0 +1,42 @@
+{
+ "leccion": {
+  "pasos": [
+   {
+    "tipo": "explorar",
+    "id": "da1",
+    "fen": "8/8/8/8/3Q4/8/8/8 w - - 0 1",
+    "pieza": "d4",
+    "texto": "La dama es la pieza más poderosa: combina la torre y el alfil. Se mueve en línea recta o en diagonal, tantas casillas como quiera."
+   },
+   {
+    "tipo": "explorar",
+    "id": "da2",
+    "fen": "8/8/5p2/8/3Q4/2P5/8/6p1 w - - 0 1",
+    "pieza": "d4",
+    "texto": "Respeta las mismas reglas: no salta piezas, se frena ante las propias (c3) y captura las rivales (f6 y g1)."
+   },
+   {
+    "tipo": "alcanzar",
+    "id": "da3",
+    "fen": "8/8/8/8/8/8/8/3Q4 w - - 0 1",
+    "pieza": "d1",
+    "objetivos": [
+     "d7",
+     "g4",
+     "c8"
+    ],
+    "texto": "Con la dama llegás a cualquier lugar en pocas jugadas. Pasá por las tres estrellas."
+   },
+   {
+    "tipo": "texto",
+    "id": "da4",
+    "fen": "8/8/8/4p3/3Q4/8/8/8 w - - 0 1",
+    "resaltar": [
+     "d4",
+     "e5"
+    ],
+    "texto": "La dama vale 9 puntos (casi dos torres) y es fácil perderla por descuido. Antes de moverla, fijate si queda atacada: acá la dama de d4 está atacada por el peón de e5 (los peones negros capturan hacia abajo, en diagonal). ¡Perderla por un peón sería un desastre!"
+   }
+  ]
+ }
+}
